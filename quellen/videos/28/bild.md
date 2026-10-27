@@ -1,0 +1,44 @@
+# 28 – visual capture
+## On-screen text (in order)
+- [1, 0 s] if you really understand
+- [2, 3 s] Here are
+- [3, 6 s] costs $7
+- [4, 9 s] at Walmart
+- [5, 12 s] costs $150
+- [6, 15 s] in selected stores
+- [7, 18 s] on the shelf
+- [8, 21 s] and comes
+- [11, 30 s] they are equal
+- [12, 33 s] from the same company
+- [13, 36 s] this difference
+- [14, 39 s] It's the experience
+- [15, 42 s] that lets the $150 wine
+- [16, 45 s] of better quality
+- [17, 48 s] the wine itself
+- [19, 54 s] is worth
+## Visuals
+- [1] Outline pointer cursor over a small outline rectangle.
+- [2] Bright white rounded rectangle, no legible content.
+- [3] Outline rounded rectangle containing an outline bottle.
+- [4] Outline rounded rectangle containing an outline bottle, with the word "Walmart" in bold white across it, partly covered by the bottle.
+- [5] Outline rounded rectangle containing a tilted outline bottle.
+- [6] Outline storefront with awning and a bottle.
+- [7] Two outline rounded rectangles, the left with a dashed inner outline and a bottle, the right with a bottle.
+- [8] Two outline rounded rectangles, the left with a bottle, the right with a dashed inner outline and a bottle.
+- [9] Outline rounded rectangle crossed by diagonal lines.
+- [10] Two outline bottles with a small tilted line above.
+- [11] Two outline bottles with sparkle marks.
+- [12] Outline storefront with white awning and a dashed line below.
+- [13] Dark bottle-shaped silhouette above an outline storefront.
+- [14] Small outline circle with a dot.
+- [15] Dotted outline circle around an outline bottle.
+- [16] Sparkling particle burst around an outline bottle.
+- [17] Outline bottle under a glowing spotlight cone.
+- [18] Outline bottle under a glowing spotlight cone.
+- [19] Three outline stars above an outline bottle.
+- [20] TikTok logo with empty search bar on dark panel.
+- [21] TikTok logo with search bar reading "@ conversion.doc" on dark panel.
+## Other
+- Watermark "TikTok" logo with "@ conversion.doc" appears in cells 1-19.
+- Cells 20-21 are an end card: TikTok logo, "TikTok" wordmark (cell 20 search field empty, cell 21 "@ conversion.doc").
+- Cells 22-24 are empty (black).

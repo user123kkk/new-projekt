@@ -1,0 +1,42 @@
+# 05 – visual capture
+## On-screen text (in order)
+- [1, 0 s] don't guess
+- [2, 3 s] They study what works.
+- [3, 6 s] Gymshark and Lululemon
+- [3, 6 s] That's why companies like
+- [4, 9 s] testing campaigns
+- [5, 12 s] exactly what works.
+- [6, 15 s] if you could see all of that.
+- [7, 18 s] every email, every post,
+- [8, 21 s] they make all in one place.
+- [9, 24 s] With particl, you can.
+- [10, 27 s] called Marketing Assets,
+- [11, 30 s] brands do their marketing
+- [12, 33 s] directly to your business.
+- [13, 36 s] you should not miss this.
+- [14, 39 s] DM PARTICL for a 14 day
+- [14, 39 s] DM me "PARTICL"
+- [15, 42 s] because your business
+- [15, 42 s] THE BEST
+## Visuals
+- [1] Outline rounded squares scattered, with boxed logos reading "SKIMS", "lululemon" and "GYMSHARK".
+- [2] Outline document page with horizontal text lines.
+- [3] Tree diagram of outline boxes labelled "SKIMS" and "GYMSHARK" joined by connector lines.
+- [4] Faded boxed logos "SKIMS", "GYMSHARK" and "lululemon" at top, connected by lines to a rounded box holding stacked coins.
+- [5] Outline box with a check-seal icon, with a vertical line above.
+- [6] Concentric outline circles with an outline eye at centre.
+- [7] White light cone above concentric ellipses, with an envelope icon.
+- [8] Monitor, "AD" lettering on a curved panel, and side cards.
+- [9] "Particl" wordmark with a white square logo mark.
+- [10] Glowing laptop showing a product grid on screen.
+- [11] Browser-style window with a grid of photo thumbnails and a sidebar.
+- [12] Outline circuit-like line network around a browser-style window with blue buttons.
+- [13] Three outline gear icons and a white zigzag stroke at lower left.
+- [14] Text only on dark background.
+- [15] Pendant lamp with a light cone above the word "THE BEST".
+- [16] TikTok logo with an empty search bar, red and cyan bars behind it.
+- [17] TikTok logo with search bar reading "@ conversion.doc".
+## Other
+- Watermark "TikTok" logo with "@ conversion.doc" appears in cells 1-15.
+- Cells 16-17 are an end card: TikTok logo, "TikTok" wordmark, search field "@ conversion.doc" (cell 16 search field empty).
+- Cell 18 is empty (black).

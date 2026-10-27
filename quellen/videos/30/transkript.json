@@ -1,0 +1,31 @@
+{
+ "sprache": "en",
+ "p": 0.9997854828834534,
+ "segmente": [
+  {
+   "start": 0.0,
+   "end": 3.24,
+   "text": "Most content fails in the first seconds, not at the end."
+  },
+  {
+   "start": 3.7600000000000002,
+   "end": 9.0,
+   "text": "If the brain doesn't immediately know what your content is about, it won't stay long enough to find out."
+  },
+  {
+   "start": 9.76,
+   "end": 12.06,
+   "text": "That's why the beginning matters even more than the end."
+  },
+  {
+   "start": 13.18,
+   "end": 16.56,
+   "text": "You gain attention first in order to build understanding later on."
+  },
+  {
+   "start": 16.96,
+   "end": 21.1,
+   "text": "Comment the word attention if you want to learn why content fails and why it works."
+  }
+ ]
+}

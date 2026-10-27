@@ -1,0 +1,41 @@
+{
+ "sprache": "en",
+ "p": 0.9997642636299133,
+ "segmente": [
+  {
+   "start": 0.0,
+   "end": 3.04,
+   "text": "This is how you will make people feel dumb saying no to your product."
+  },
+  {
+   "start": 3.7600000000000002,
+   "end": 6.78,
+   "text": "People don't buy solutions. They buy relief."
+  },
+  {
+   "start": 7.86,
+   "end": 11.58,
+   "text": "First, show them the problem. Make them really feel the pain."
+  },
+  {
+   "start": 12.48,
+   "end": 16.4,
+   "text": "Then, show how your product solves it without them having to move a finger."
+  },
+  {
+   "start": 17.2,
+   "end": 20.5,
+   "text": "Because if they don't see the problem, they won't see the value."
+  },
+  {
+   "start": 21.16,
+   "end": 24.66,
+   "text": "So sell the problem first, and the product sells itself."
+  },
+  {
+   "start": 30.0,
+   "end": 59.980000000000004,
+   "text": "Thank you."
+  }
+ ]
+}

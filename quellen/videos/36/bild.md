@@ -1,0 +1,52 @@
+# 36 – visual capture
+## On-screen text (in order)
+- [1, 0 s] in your marketing to easily manipulate your customers.
+- [3, 6 s] "Say what people already think."
+- [4, 9 s] But let me explain further.
+- [5, 12 s] in which people seek information
+- [6, 15 s] that confirms their already existing beliefs or preferences.
+- [7, 18 s] In marketing, this means:
+- [8, 21 s] Tailoring your messages to perfectly match
+- [9, 24 s] what your customers already believe.
+- [10, 27 s] The first step in incorporating this into your marketing
+- [11, 30 s] You have to get to know your customers
+- [12, 33 s] After all,
+- [13, 36 s] business is about real relationships with real people.
+- [14, 39 s] their views, their thoughts, and their interests.
+- [15, 42 s] Simply understand what they already believe
+- [16, 45 s] and how they see the world.
+- [17, 48 s] how your product aligns with their existing preferences.
+- [18, 51 s] Use familiar language.
+- [20, 57 s] Then use testimonials, case studies, and reviews
+- [21, 60 s] positive experiences others have had with your brand.
+- [23, 66 s] about your product.
+- [24, 69 s] Finally, present some data, statistics, or studies
+## Visuals
+- [1] Outline eye with a white brain-like pattern in the iris.
+- [2] Outline eye with a spiral iris.
+- [3] Outline speech bubble with horizontal lines, and an outline rectangle with a small cursor.
+- [4] Same speech bubble and rectangle with a small cursor.
+- [5] Two overlapping outline circles; left circle contains a crystal-like shape.
+- [6] Venn diagram of two outline circles: left with an open book, overlap with a check mark, right with a head and lightbulb.
+- [7] Outline dashboard with a bar chart, donut chart and line chart, with an outline hand holding a magnifier.
+- [8] Outline gavel striking an anvil, with motion lines.
+- [9] Two outline speech bubbles with horizontal text lines.
+- [10] Outline square containing an outline head profile.
+- [11] Grid of fifteen outline heads.
+- [12] Grid of fifteen outline heads.
+- [13] Outline handshakes and heads in three rows, some filled and some faded.
+- [14] Outline head profile with a brain and an eye.
+- [15] Outline head profile with a brain.
+- [16] Outline head profile with a light cone from the eye.
+- [17] Outline head profile with a brain, two white dots connected by a line on either side.
+- [18] Two outline head profiles with concentric arcs between them, one with a brain.
+- [19] Two outline head profiles with concentric arcs; the right head has a brain with dots.
+- [20] Two outline head profiles with a light cone and a small icon.
+- [21] Two outline head profiles with concentric arcs and a brain.
+- [22] Two outline head profiles with concentric arcs and a brain.
+- [23] Two outline head profiles with a brain.
+- [24] Two outline head profiles with a brain; a database icon linked to a bar chart above them.
+## Other
+- Watermark "TikTok" logo with "@ conversion.doc" appears in cells 1-24 (cell 1-18 at bottom right of frame, cells 19-24 bottom right).
+- Subtitle-style small text lines appear at the bottom of cells 1-18 and 20-24 as listed above.
+- Cell 19 and cell 22 show no text.

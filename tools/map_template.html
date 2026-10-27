@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Source Map</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<style>
+  :root { --bg:#16161a; --panel:#1e1e24; --fg:#d6d6dc; --muted:#8a8a96; --station:#8b7cf6; --concept:#5fb3a1; --edge:#3a3a46; --hi:#f2c46d; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:14px/1.5 system-ui,sans-serif; display:flex; height:100vh; overflow:hidden; }
+  #graph { flex:1; min-width:0; }
+  aside { width:min(460px,45vw); background:var(--panel); border-left:1px solid var(--edge); display:flex; flex-direction:column; }
+  header { padding:12px 16px; border-bottom:1px solid var(--edge); display:flex; gap:8px; align-items:center; }
+  input { flex:1; background:var(--bg); color:var(--fg); border:1px solid var(--edge); border-radius:6px; padding:6px 10px; }
+  label { color:var(--muted); font-size:12px; white-space:nowrap; }
+  #note { padding:16px; overflow:auto; flex:1; }
+  #note a { color:var(--hi); cursor:pointer; }
+  #note h1 { font-size:18px; } #note h2 { font-size:15px; color:var(--muted); margin-top:20px; }
+  #note code, #note pre { white-space:pre-wrap; }
+  .empty { color:var(--muted); }
+  text { fill:var(--fg); font-size:10px; pointer-events:none; }
+  @media (max-width:700px) { body { flex-direction:column; } aside { width:100%; height:50vh; border-left:0; border-top:1px solid var(--edge); } }
+</style>
+</head>
+<body>
+<svg id="graph"></svg>
+<aside>
+  <header>
+    <input id="q" placeholder="Search notes...">
+    <label><input type="checkbox" id="showConcepts" checked> concepts</label>
+  </header>
+  <div id="note"><p class="empty">Click a node. Purple = station, green = concept.</p></div>
+</aside>
+<script>
+const DATA = /*DATA*/;
+const byId = Object.fromEntries(DATA.nodes.map(n => [n.id, n]));
+const svg = d3.select("#graph"), g = svg.append("g");
+svg.call(d3.zoom().scaleExtent([0.2, 5]).on("zoom", e => g.attr("transform", e.transform)));
+const deg = {}; DATA.links.forEach(l => { deg[l.source] = (deg[l.source]||0)+1; deg[l.target] = (deg[l.target]||0)+1; });
+const color = n => n.kind === "station" ? "var(--station)" : "var(--concept)";
+const r = n => 4 + Math.sqrt(deg[n.id] || 0) * 2;
+
+const sim = d3.forceSimulation(DATA.nodes)
+  .force("link", d3.forceLink(DATA.links).id(d => d.id).distance(60))
+  .force("charge", d3.forceManyBody().strength(-120))
+  .force("center", d3.forceCenter())
+  .force("collide", d3.forceCollide(d => r(d) + 2));
+
+const link = g.append("g").selectAll("line").data(DATA.links).join("line").attr("stroke", "var(--edge)");
+const node = g.append("g").selectAll("circle").data(DATA.nodes).join("circle")
+  .attr("r", r).attr("fill", color).style("cursor", "pointer")
+  .on("click", (e, d) => show(d.id))
+  .call(d3.drag().on("start", (e, d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+    .on("drag", (e, d) => { d.fx = e.x; d.fy = e.y; })
+    .on("end", (e, d) => { if (!e.active) sim.alphaTarget(0); d.fx = d.fy = null; }));
+const label = g.append("g").selectAll("text").data(DATA.nodes).join("text").text(d => d.kind === "station" ? d.id.slice(0, 2) : d.id).attr("dx", 8).attr("dy", 3);
+
+function resize() { const b = svg.node().getBoundingClientRect(); svg.attr("viewBox", [-b.width/2, -b.height/2, b.width, b.height]); }
+resize(); addEventListener("resize", resize);
+sim.on("tick", () => {
+  link.attr("x1", d => d.source.x).attr("y1", d => d.source.y).attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+  node.attr("cx", d => d.x).attr("cy", d => d.y); label.attr("x", d => d.x).attr("y", d => d.y);
+});
+
+function neighbors(id) { const s = new Set([id]); DATA.links.forEach(l => { if (l.source.id === id) s.add(l.target.id); if (l.target.id === id) s.add(l.source.id); }); return s; }
+function highlight(set) {
+  node.attr("opacity", d => !set || set.has(d.id) ? 1 : 0.15);
+  label.attr("opacity", d => !set || set.has(d.id) ? 1 : 0.1);
+  link.attr("stroke", l => set && set.has(l.source.id) && set.has(l.target.id) ? "var(--hi)" : "var(--edge)");
+}
+function show(id) {
+  const n = byId[id]; if (!n) return;
+  const md = n.text.replace(/^---[\s\S]*?---\n/, "").replace(/\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]/g, (m, t, a) => `<a data-id="${t.trim()}">${a || t}</a>`);
+  const note = document.getElementById("note");
+  note.innerHTML = `<p class="empty">${n.path}</p>` + marked.parse(md);
+  note.querySelectorAll("a[data-id]").forEach(a => a.onclick = () => show(a.dataset.id));
+  note.scrollTop = 0; highlight(neighbors(id));
+}
+document.getElementById("q").oninput = e => {
+  const q = e.target.value.toLowerCase().trim();
+  highlight(q ? new Set(DATA.nodes.filter(n => n.text.toLowerCase().includes(q)).map(n => n.id)) : null);
+};
+document.getElementById("showConcepts").onchange = e => {
+  const on = e.target.checked;
+  node.attr("display", d => on || d.kind === "station" ? null : "none");
+  label.attr("display", d => on || d.kind === "station" ? null : "none");
+  link.attr("display", l => on || (l.source.kind === "station" && l.target.kind === "station") ? null : "none");
+};
+</script>
+</body>
+</html>

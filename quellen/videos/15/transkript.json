@@ -1,0 +1,41 @@
+{
+ "sprache": "en",
+ "p": 0.9998421669006348,
+ "segmente": [
+  {
+   "start": 0.0,
+   "end": 4.6000000000000005,
+   "text": "These are the three questions every customer asks himself before they buy something from you."
+  },
+  {
+   "start": 5.5200000000000005,
+   "end": 10.040000000000001,
+   "text": "They always ask, what is this, will it help me, and can I trust it?"
+  },
+  {
+   "start": 10.86,
+   "end": 16.2,
+   "text": "If you answer these questions fast and understandable, you are already ahead of 90% of marketers."
+  },
+  {
+   "start": 17.22,
+   "end": 19.66,
+   "text": "Because people don't decide when they are unsure."
+  },
+  {
+   "start": 20.36,
+   "end": 23.92,
+   "text": "They decide when they feel understood and safe about their choice."
+  },
+  {
+   "start": 24.62,
+   "end": 28.04,
+   "text": "So make them understand exactly what they will be getting."
+  },
+  {
+   "start": 28.04,
+   "end": 30.22,
+   "text": "Because..."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "sprache": "en",
+ "p": 0.9998552799224854,
+ "segmente": [
+  {
+   "start": 0.0,
+   "end": 2.98,
+   "text": "This is why you lose your customers in the last second."
+  },
+  {
+   "start": 4.0600000000000005,
+   "end": 7.62,
+   "text": "Every time someone commits to buy, the brain feels a little pain."
+  },
+  {
+   "start": 8.56,
+   "end": 13.36,
+   "text": "The pain of paying actually lights up the same brain regions as physical pain."
+  },
+  {
+   "start": 14.22,
+   "end": 17.22,
+   "text": "So if you want to sell more, don't just focus on value."
+  },
+  {
+   "start": 18.240000000000002,
+   "end": 20.62,
+   "text": "Instead, reduce the pain."
+  },
+  {
+   "start": 21.5,
+   "end": 25.52,
+   "text": "Use a simple checkout, use guarantees, or free trials."
+  },
+  {
+   "start": 26.28,
+   "end": 30.04,
+   "text": "Because the easier it feels to buy, the less it feels like a loss."
+  },
+  {
+   "start": 30.82,
+   "end": 31.22,
+   "text": "And."
+  }
+ ]
+}
