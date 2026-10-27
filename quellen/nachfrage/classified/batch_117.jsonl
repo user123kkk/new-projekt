@@ -1,0 +1,100 @@
+{"id": "r_1p9tksf", "demand": true, "problem": "identify movie from audio clip", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Shazam", "Letterboxd"], "quote": "You see an interesting movie on Instagram but comments do not tell you the movie name.", "flag": "none"}
+{"id": "r_1psn14k", "demand": false}
+{"id": "r_1qgkolc", "demand": false}
+{"id": "r_1qhry48", "demand": false}
+{"id": "r_1r9drbb", "demand": false}
+{"id": "r_1rufft7", "demand": false}
+{"id": "r_1se2xa1", "demand": false}
+{"id": "r_1stva9h", "demand": true, "problem": "free clone of paywalled app", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I ain't paying 15£ just to use an app and it's monthly", "flag": "none"}
+{"id": "r_1t5d7y1", "demand": true, "problem": "preview outfits before buying clothes", "who": "online fashion shopper", "product": "app", "pain": 2, "pay": "none", "tools": ["ecommerce platforms"], "quote": "I wanted to know how I look in different outfits that actually suit me before I place the order.", "flag": "AI images of a real person as core product"}
+{"id": "r_1teqr2s", "demand": true, "problem": "burst photos on motion detection", "who": "sports photographer", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I can't find any app that just triggers a burst camera of still images once motion is detected.", "flag": "none"}
+{"id": "r_1tkfode", "demand": true, "problem": "career choice before college", "who": "teenagers choosing a major", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "we let teenagers drop a small fortune on a career path they've never tried.", "flag": "none"}
+{"id": "r_1tlifi9", "demand": true, "problem": "finding local places beyond attractions", "who": "travellers", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Maps", "TripAdvisor", "Instagram"], "quote": "it becomes incredibly difficult to find things to do or places to visit there locally other than the attraction that pulled you to that place.", "flag": "none"}
+{"id": "r_1ts568n", "demand": false}
+{"id": "r_1tun7tg", "demand": false}
+{"id": "r_1tyjcxw", "demand": true, "problem": "speech feedback on delivery", "who": "language learners and interview candidates", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "When I record myself speaking, I can tell something sounds off, but I can't always tell why.", "flag": "none"}
+{"id": "r_1u10blh", "demand": true, "problem": "finding people for spontaneous activities", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "if you want to go hiking this weekend but don't want to go alone, you post it.", "flag": "none"}
+{"id": "r_1ucgels", "demand": false}
+{"id": "r_1uto2yl", "demand": false}
+{"id": "r_1uto57i", "demand": false}
+{"id": "r_1v94x9h", "demand": true, "problem": "calorie app billing and gamification complaints", "who": "calorie tracking app users", "product": "app", "pain": 2, "pay": "implied", "tools": ["MyFitnessPal", "Yazio", "Lifesum", "Cal AI", "Foodvisor"], "quote": "one reviewer said she pays for the app and still gets buried in reminders.", "flag": "none"}
+{"id": "r_1veb9p0", "demand": true, "problem": "scattered saved items across apps", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Every day I come across dozens of things I want to remember or come back to, but they end up scattered across multiple apps.", "flag": "none"}
+{"id": "r_1vxb9he", "demand": false}
+{"id": "r_1wjjoil", "demand": false}
+{"id": "r_1x3809p", "demand": false}
+{"id": "r_1xgnhhl", "demand": false}
+{"id": "r_1c548zf", "demand": false}
+{"id": "r_1dmixh7", "demand": false}
+{"id": "r_1eu1djn", "demand": true, "problem": "generating social posts from videos", "who": "content creator", "product": "automation", "pain": 2, "pay": "none", "tools": [], "quote": "but honestly, I have a hard time creating content for Instagram", "flag": "none"}
+{"id": "r_1k6p3di", "demand": true, "problem": "searching stored candidate resumes", "who": "recruiters and talent acquisition", "product": "web tool", "pain": 3, "pay": "none", "tools": ["cloud storage", "email archives"], "quote": "sifting through these scattered files can be incredibly inefficient", "flag": "none"}
+{"id": "r_1nuucfv", "demand": false}
+{"id": "r_1r0oz23", "demand": false}
+{"id": "r_1sbxukd", "demand": true, "problem": "cluttered weather app for hobbies", "who": "surfers, anglers, solar owners", "product": "app", "pain": 2, "pay": "none", "tools": ["weather apps"], "quote": "I’m tired of weather apps that try to be everything for everyone, resulting in a cluttered mess of ads and useless data.", "flag": "none"}
+{"id": "r_1vpl5ue", "demand": false}
+{"id": "r_1x7i9o8", "demand": false}
+{"id": "r_195395o", "demand": true, "problem": "fitness app builder for trainers", "who": "personal trainer", "product": "app", "pain": 2, "pay": "none", "tools": ["Trainerize", "AppRabbit"], "quote": "Is it good for customization, or am I stuck with cookie-cutter stuff?", "flag": "none"}
+{"id": "r_198ywcs", "demand": false}
+{"id": "r_19daaac", "demand": true, "problem": "finding people for pickup activities", "who": "individuals wanting group activities", "product": "app", "pain": 2, "pay": "none", "tools": ["Meetup"], "quote": "if I want to play pickup basketball this week, but I don't know or have 5 more people for a 3v3 game, I can post on the app.", "flag": "none"}
+{"id": "r_19dgkeq", "demand": false}
+{"id": "r_19ee3yt", "demand": false}
+{"id": "r_1adh7db", "demand": true, "problem": "over-documented photo memories", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I think the tendency of us to take photos constantly are affecting our collective memories so much", "flag": "none"}
+{"id": "r_1ajd966", "demand": false}
+{"id": "r_1ak11jq", "demand": false}
+{"id": "r_1al5wqp", "demand": false}
+{"id": "r_1amjprb", "demand": false}
+{"id": "r_1bc1ilc", "demand": false}
+{"id": "r_1betp42", "demand": false}
+{"id": "r_1bf5p1f", "demand": false}
+{"id": "r_1bkdoha", "demand": true, "problem": "localizing imported bluetooth app", "who": "seller of imported products", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Would be looking to get someone to do it for me but also not looking to spend thousands in app development", "flag": "none"}
+{"id": "r_1bs863m", "demand": true, "problem": "console startup sound on game launch", "who": "mobile gamers", "product": "automation", "pain": 1, "pay": "none", "tools": ["Apple Shortcuts"], "quote": "I like the idea of opening a game on my phone and it plays the sound of even the whole startup animation", "flag": "none"}
+{"id": "r_1btm005", "demand": true, "problem": "out of stock store shelves", "who": "shoppers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "It is especially annoying when you go to a shop and something that was just put on sale and heavily advertised is now sold out already.", "flag": "none"}
+{"id": "r_1buxf2q", "demand": false}
+{"id": "r_1by87kz", "demand": true, "problem": "personal safety while followed", "who": "women", "product": "app", "pain": 2, "pay": "none", "tools": ["smart watch"], "quote": "For example, am I being followed?", "flag": "camera capture of bystanders as core feature"}
+{"id": "r_1bz3n2j", "demand": false}
+{"id": "r_1c5bwgf", "demand": false}
+{"id": "r_1c6so23", "demand": false}
+{"id": "r_1cdo041", "demand": false}
+{"id": "r_1ci5iav", "demand": false}
+{"id": "r_1cm9c9d", "demand": false}
+{"id": "r_1cpwbjb", "demand": true, "problem": "meeting new people for casual meetups", "who": "university students", "product": "app", "pain": 2, "pay": "none", "tools": ["Meetup"], "quote": "Social media and apps like Meetup haven’t really worked out", "flag": "none"}
+{"id": "r_1d5ozle", "demand": false}
+{"id": "r_1d62fn4", "demand": false}
+{"id": "r_1dolgqd", "demand": false}
+{"id": "r_1drloho", "demand": false}
+{"id": "r_1dul2vv", "demand": false}
+{"id": "r_1dydebi", "demand": false}
+{"id": "r_1e1sfut", "demand": false}
+{"id": "r_1e753ft", "demand": false}
+{"id": "r_1e9m4pf", "demand": false}
+{"id": "r_1edlza7", "demand": true, "problem": "finding startup ideas from complaints", "who": "entrepreneurs", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "I think a tool like this might help me in looking for startup ideas.", "flag": "none"}
+{"id": "r_1ee1zv5", "demand": false}
+{"id": "r_1egd0c2", "demand": true, "problem": "organizing life with adhd", "who": "people with ADHD", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "help a lot of people who have adhd make organizing their lives a lot easier and also fun.", "flag": "none"}
+{"id": "r_1ei1osy", "demand": false}
+{"id": "r_1eieatb", "demand": true, "problem": "combined sportsbook balance tracking", "who": "daily fantasy and sportsbook users", "product": "app", "pain": 2, "pay": "none", "tools": ["sportsbook apps"], "quote": "I have a bunch of different daily fantasy sports/sports book apps.", "flag": "gambling: sportsbook balances"}
+{"id": "r_1em2ppr", "demand": true, "problem": "habit and self-improvement tracking", "who": "university students", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I typically find that I want to try maximize self improvement in any way and build good habits", "flag": "none"}
+{"id": "r_1erckvd", "demand": false}
+{"id": "r_1ess66g", "demand": true, "problem": "finding highway stops with amenities", "who": "road trip drivers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "frustrating it can be to find good places to stop while driving on highways", "flag": "none"}
+{"id": "r_1etdapj", "demand": false}
+{"id": "r_1ex6uwm", "demand": false}
+{"id": "r_1exjyfd", "demand": false}
+{"id": "r_1eyh3au", "demand": false}
+{"id": "r_1f4wg4z", "demand": false}
+{"id": "r_1f50czo", "demand": false}
+{"id": "r_1fbulhr", "demand": false}
+{"id": "r_1fc5s7h", "demand": false}
+{"id": "r_1feyh8q", "demand": false}
+{"id": "r_1ffm93j", "demand": true, "problem": "finding restaurants by dish reviews", "who": "diners", "product": "app", "pain": 2, "pay": "none", "tools": ["Google reviews"], "quote": "Currently you have to read reviews to determine this.", "flag": "none"}
+{"id": "r_1fimpkm", "demand": false}
+{"id": "r_1finn2k", "demand": false}
+{"id": "r_1fll288", "demand": false}
+{"id": "r_1fltruc", "demand": false}
+{"id": "r_1g15adq", "demand": false}
+{"id": "r_1g58nuf", "demand": false}
+{"id": "r_1gc37pi", "demand": false}
+{"id": "r_1ggvksj", "demand": true, "problem": "alarm playing radio stream", "who": "radio listeners", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I'm looking for an iPhone app that allows setting alarms with direct stream links", "flag": "none"}
+{"id": "r_1ghkhjo", "demand": false}
+{"id": "r_1gn4qqs", "demand": true, "problem": "one app for habit and workout tracking", "who": "fitness and habit trackers", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for one app that I can use to track my workouts, calories, habits, etc., and see analytics", "flag": "none"}
+{"id": "r_1gnoytd", "demand": false}
+{"id": "r_1gnwjnw", "demand": false}
+{"id": "r_1gud06y", "demand": false}
+{"id": "r_1guex5v", "demand": false}

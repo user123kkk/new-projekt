@@ -1,0 +1,100 @@
+{"id": "h_43207959", "demand": false}
+{"id": "h_43205654", "demand": false}
+{"id": "h_43202710", "demand": true, "problem": "email client with robust storage and calendar invites", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Thunderbird", "BlueMail"], "quote": "Thunderbird gives me the irrites because of it&#x27;s mbox storage format isn&#x27;t robust.", "flag": "none"}
+{"id": "h_43189679", "demand": true, "problem": "dancing figure music app", "who": "unknown", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "I’m not joking, I’d pay for an app that’s literally just that guy dancing to some music.", "flag": "music"}
+{"id": "h_43143961", "demand": true, "problem": "legal streaming of purchased media library", "who": "unknown", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Plex"], "quote": "Oh what I’d pay for a 100% legal version of Plex (e.g. allows me to easily buy and stream my media)", "flag": "none"}
+{"id": "h_43120825", "demand": false}
+{"id": "h_43106995", "demand": true, "problem": "bulk export of icloud photos", "who": "family photo library owner", "product": "other", "pain": 3, "pay": "implied", "tools": ["iCloud"], "quote": "I have like 60k photos on a family members icloud account that we can&#x27;t get at all.", "flag": "none"}
+{"id": "h_43100478", "demand": false}
+{"id": "h_43098730", "demand": false}
+{"id": "h_42897713", "demand": true, "problem": "faster typescript ast access tooling", "who": "developer", "product": "other", "pain": 1, "pay": "explicit", "tools": ["ts-morph", "tsc"], "quote": "I&#x27;d pay for a 100x faster TypeScript parser &#x2F; compiler with full AST access like", "flag": "none"}
+{"id": "h_42863284", "demand": true, "problem": "rust debugging in lightweight editor", "who": "rust developer", "product": "plugin/extension", "pain": 2, "pay": "explicit", "tools": ["Sublime Text", "VS Code"], "quote": "I&#x27;d pay for a special plugin that will work faster than VS Code.", "flag": "none"}
+{"id": "h_42825013", "demand": false}
+{"id": "h_42697337", "demand": true, "problem": "bookmark favicon sync across browsers", "who": "unknown", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Firefox"], "quote": "I really want to switch to Firefox but cannot because it doesn&#x27;t sync bookmark favicons.", "flag": "none"}
+{"id": "h_42644050", "demand": true, "problem": "real-time planet positions sky view", "who": "unknown", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "Also potentially very cool: This as a real-time screensaver.", "flag": "none"}
+{"id": "h_42627080", "demand": false}
+{"id": "h_42622757", "demand": true, "problem": "streaming dutch broadcast archive", "who": "dutch viewer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["YouTube"], "quote": "I&#x27;d pay for a service which simply allowed me to stream anything broadcast in the Netherlands, but no such thing exists.", "flag": "none"}
+{"id": "h_42527082", "demand": true, "problem": "independent food chemical testing data", "who": "unknown", "product": "web tool", "pain": 2, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for a subscription to have access to high-quality independent testing of the common foods that are available in the shops.", "flag": "none"}
+{"id": "h_42443528", "demand": true, "problem": "ai ad blocker", "who": "unknown", "product": "plugin/extension", "pain": 2, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for such a service.", "flag": "none"}
+{"id": "h_42377451", "demand": false}
+{"id": "h_42339753", "demand": true, "problem": "search quality regression on google", "who": "unknown", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["Google", "Kagi"], "quote": "Google search quality regressed.", "flag": "none"}
+{"id": "h_42310864", "demand": true, "problem": "splitting git commits into separate commits", "who": "developer", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["IntelliJ"], "quote": "I want to be able to split a single commit into multiple commits.", "flag": "none"}
+{"id": "h_42302356", "demand": true, "problem": "adblock filter for political news", "who": "unknown", "product": "plugin/extension", "pain": 1, "pay": "explicit", "tools": ["Adblock"], "quote": "Please someone build a Adblock filter that blocks anything related to musk and trump.", "flag": "none"}
+{"id": "h_42160034", "demand": true, "problem": "ai spam call screening", "who": "unknown", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Daisy"], "quote": "As someone who gets roughly a dozen spam calls a day, I’d pay for this service.", "flag": "none"}
+{"id": "h_42007936", "demand": true, "problem": "ai coding copilot integrated in editor", "who": "developer", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Zed"], "quote": "Maybe a good copilot written in Rust and tightly integrated into Zed.", "flag": "none"}
+{"id": "h_41939321", "demand": false}
+{"id": "h_41928918", "demand": false}
+{"id": "h_41861114", "demand": false}
+{"id": "h_41739356", "demand": true, "problem": "trusted site audit crawler", "who": "small tech agency owner", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Screaming Frog SEO Spider"], "quote": "I think I&#x27;m exactly your audience, and I&#x27;d pay for this, given some further signals that it&#x27;s legit.", "flag": "none"}
+{"id": "h_41725509", "demand": false}
+{"id": "h_41651924", "demand": true, "problem": "native mac slack client with mac shortcuts", "who": "mac user", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Slack", "VS Code", "iTerm2"], "quote": "I&#x27;d pay for a native Slack client (the Electron abomination uses ⌘F to &quot;Find&quot; and ⌘G to &quot;Search&quot; while lacking ⌘E", "flag": "none"}
+{"id": "h_41648047", "demand": true, "problem": "non-google funded private browser", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Firefox", "Google"], "quote": "I&#x27;d pay for it if that were an option, but it isn&#x27;t.", "flag": "none"}
+{"id": "h_41601412", "demand": false}
+{"id": "h_41546752", "demand": true, "problem": "product page facts without marketing manipulation", "who": "consumer", "product": "plugin/extension", "pain": 1, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for a version of this that allowed me to look at product pages and just get the facts without the manipulative bullshit.", "flag": "none"}
+{"id": "h_41513587", "demand": false}
+{"id": "h_41476951", "demand": false}
+{"id": "h_41468400", "demand": false}
+{"id": "h_41466860", "demand": false}
+{"id": "h_41442636", "demand": true, "problem": "automated job application submission", "who": "job seeker", "product": "automation", "pain": 2, "pay": "explicit", "tools": [], "quote": "This guy should offer AI-job-applying as a service; I&#x27;d pay for it.", "flag": "none"}
+{"id": "h_41394805", "demand": false}
+{"id": "h_41373219", "demand": false}
+{"id": "h_41364094", "demand": false}
+{"id": "h_41351067", "demand": false}
+{"id": "h_41255220", "demand": false}
+{"id": "h_41251317", "demand": false}
+{"id": "h_41243251", "demand": true, "problem": "ios graffiti handwriting keyboard", "who": "unknown", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "I’d pay for an iOS graffiti keyboard.", "flag": "none"}
+{"id": "h_41170109", "demand": true, "problem": "firefox without google and pocket bundling", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Firefox", "Pocket"], "quote": "I&#x27;d pay for firefox if they stripped out the google and pocket crap.", "flag": "none"}
+{"id": "h_41103790", "demand": false}
+{"id": "h_41063204", "demand": false}
+{"id": "h_40852117", "demand": false}
+{"id": "h_40818891", "demand": false}
+{"id": "h_40790287", "demand": true, "problem": "cross-device sqlite sync", "who": "developer", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Dropbox", "SQLite"], "quote": "If somehow Dropbox ran SQLite and sync&#x27;d it across devices for me, I&#x27;d pay for that.", "flag": "none"}
+{"id": "h_40755113", "demand": false}
+{"id": "h_40743768", "demand": true, "problem": "ad-free rss news feed with full articles", "who": "news reader", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["Le Monde Diplomatique"], "quote": "Secondary I&#x27;d like to own news I paid, meaning I&#x27;d like to pay for an RSS access to full articles and no ads inside, not to go to a website, login, getting ads if I do allow them and so on.", "flag": "none"}
+{"id": "h_40743111", "demand": false}
+{"id": "h_40673486", "demand": false}
+{"id": "h_40610580", "demand": true, "problem": "live adaptive dj music for game nights", "who": "tabletop gamer", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Twitch"], "quote": "it would also be really cool to get a live DJ for D&amp;D and other board game nights", "flag": "music"}
+{"id": "h_40583819", "demand": true, "problem": "stolen phone recovery service", "who": "phone owner", "product": "app", "pain": 2, "pay": "explicit", "tools": [], "quote": "Still I&#x27;d pay for that on a phone if only to get the bastards who snatch the things.", "flag": "none"}
+{"id": "h_40581788", "demand": true, "problem": "doctor conflict-of-interest alerts and appointment scheduling", "who": "patient", "product": "app", "pain": 2, "pay": "explicit", "tools": ["insurance provider"], "quote": "Bundle it with a service that lets me schedule doctors’ appointments without phone calls, and I’d pay for it out of pocket", "flag": "none"}
+{"id": "h_40472594", "demand": true, "problem": "build packaging crash reporting autoupdater for desktop apps", "who": "developer", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Go"], "quote": "I&#x27;d pay for a good, straightforward build packing + crash reporting + autoupdater solution for my apps.", "flag": "none"}
+{"id": "h_40461387", "demand": false}
+{"id": "h_40442082", "demand": true, "problem": "better cad software on linux", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["CADmium"], "quote": "TBH at this point I&#x27;d pay for anything better on Linux.", "flag": "none"}
+{"id": "h_40383221", "demand": false}
+{"id": "h_40347834", "demand": true, "problem": "automated google workspace backup", "who": "it admin", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["G Suite"], "quote": "there needs to be some automated backup option to periodically dump your whole G.suite data to some non-Google service", "flag": "none"}
+{"id": "h_40283071", "demand": true, "problem": "infinite canvas code exploration with notebooks", "who": "developer", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["Jupyter"], "quote": "Now combine this with Jupyter notebooks and we are good to go.", "flag": "none"}
+{"id": "h_40238456", "demand": false}
+{"id": "h_40150662", "demand": true, "problem": "ai ui layout and theme prototyping for tailwind", "who": "frontend developer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["Tailwind"], "quote": "Most of my time wasted on frontend projects is fidgeting with initial layouts and themes.", "flag": "none"}
+{"id": "h_40097524", "demand": true, "problem": "gamified product planning tool", "who": "founder", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for this if it was simple and gamified enough.", "flag": "none"}
+{"id": "h_40048596", "demand": true, "problem": "navigation without turn-by-turn directions", "who": "driver", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Waze"], "quote": "I&#x27;d pay for a CRT Waze skin and the option to turn off turn-by-turn navigation.", "flag": "none"}
+{"id": "h_39922600", "demand": false}
+{"id": "h_39907592", "demand": true, "problem": "trustworthy investigative news app", "who": "news reader", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Artifact"], "quote": "If you want to build a news app, with AI or not, then focus on deep investigation and truth and avoid propaganda.", "flag": "none"}
+{"id": "h_39870340", "demand": true, "problem": "cheap hosted local news site", "who": "local journalist", "product": "web tool", "pain": 1, "pay": "explicit", "tools": [], "quote": "It’s a shame these former voices don’t band together more often and just try and run a cheap to host site covering the same local topics.", "flag": "none"}
+{"id": "h_39836739", "demand": false}
+{"id": "h_39808168", "demand": true, "problem": "licensed modern books in language reader", "who": "language learner", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["Prismatext", "Goodreads"], "quote": "If you can license a modern book that someone would actually choose to read on their own, I&#x27;d pay for it.", "flag": "none"}
+{"id": "h_39808145", "demand": true, "problem": "affordable co-working space access", "who": "remote worker", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "They&#x27;re expensive, and always hard to justify.", "flag": "none"}
+{"id": "h_39797566", "demand": false}
+{"id": "h_39774492", "demand": false}
+{"id": "h_39757459", "demand": false}
+{"id": "h_39741425", "demand": true, "problem": "converting tailwind classes into structured css", "who": "frontend developer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["Tailwind"], "quote": "anyone can recommend a tool that turns the tailwind class mess into a properly structured CSS file (Grouping common utility classes etc).", "flag": "none"}
+{"id": "h_39691798", "demand": false}
+{"id": "h_39671389", "demand": false}
+{"id": "h_39661507", "demand": true, "problem": "ascii diagram editor with diagonals and fill", "who": "developer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["textik.com", "Monodraw"], "quote": "I find all of them are missing features that I would want for diagrams I hand made recently.", "flag": "none"}
+{"id": "h_39655757", "demand": false}
+{"id": "h_39587618", "demand": false}
+{"id": "h_39559354", "demand": false}
+{"id": "h_39552636", "demand": false}
+{"id": "h_39402947", "demand": true, "problem": "news sorting by surprisingness", "who": "news reader", "product": "web tool", "pain": 1, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for an open source project that could filter &amp; sort news by surprisingness-for-that-news-source.", "flag": "none"}
+{"id": "h_39352617", "demand": false}
+{"id": "h_39336220", "demand": true, "problem": "affordable high-quality midi piano sounds", "who": "music hobbyist", "product": "plugin/extension", "pain": 1, "pay": "explicit", "tools": ["GarageBand"], "quote": "I&#x27;d pay for a good piano or electric sound, and I haven&#x27;t been happy with the GarageBand sounds I&#x27;m currently using.", "flag": "music"}
+{"id": "h_39295145", "demand": true, "problem": "search limited to quality sources", "who": "unknown", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["DuckDuckGo"], "quote": "For example, if DuckDuckGo offered a &#x27;quality sources&#x27; search, I&#x27;d pay for it.", "flag": "none"}
+{"id": "h_39280621", "demand": false}
+{"id": "h_39191243", "demand": false}
+{"id": "h_39182415", "demand": false}
+{"id": "h_39173901", "demand": true, "problem": "semantic search over open browser tabs", "who": "power browser user", "product": "plugin/extension", "pain": 1, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for a search tool over my 877 open tabs.", "flag": "none"}
+{"id": "h_39133603", "demand": false}
+{"id": "h_39078918", "demand": false}
+{"id": "h_39017558", "demand": false}
+{"id": "h_39000418", "demand": false}
+{"id": "h_38972542", "demand": true, "problem": "local stable diffusion on linux desktop", "who": "linux user", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Stable Diffusion"], "quote": "Hell, i&#x27;d pay for something like this on Desktop (tho i&#x27;m on Linux (NixOS)).", "flag": "none"}
+{"id": "h_38967026", "demand": true, "problem": "private video service without google", "who": "unknown", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["YouTube"], "quote": "I&#x27;d pay for a service like YT that had nothing to do with Google so long as my privacy was respected.", "flag": "none"}
+{"id": "h_38913843", "demand": false}

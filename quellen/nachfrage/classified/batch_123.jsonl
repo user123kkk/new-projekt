@@ -1,0 +1,100 @@
+{"id": "r_1ob4uxk", "demand": false}
+{"id": "r_1ocguyt", "demand": false}
+{"id": "r_1oe4ceu", "demand": true, "problem": "app store submission rejections", "who": "iOS app developer", "product": "web tool", "pain": 2, "pay": "none", "tools": ["App Store review"], "quote": "trying minimize the pain of iOS app store submissions", "flag": "none"}
+{"id": "r_1oiou12", "demand": true, "problem": "poor quickbooks api documentation", "who": "accounting software developer", "product": "app", "pain": 2, "pay": "none", "tools": ["QuickBooks"], "quote": "The documentation is incomplete, self-contradicting, and sometimes flat wrong.", "flag": "none"}
+{"id": "r_1olpjw5", "demand": false}
+{"id": "r_1onh9b0", "demand": false}
+{"id": "r_1ow3oay", "demand": false}
+{"id": "r_1ow3tgr", "demand": false}
+{"id": "r_1ozrckm", "demand": false}
+{"id": "r_1ozwn9n", "demand": false}
+{"id": "r_1p04t05", "demand": true, "problem": "phone timer screen going dark during workouts", "who": "home workout user", "product": "web tool", "pain": 1, "pay": "none", "tools": ["phone timer"], "quote": "I personally find it frustrating to download yet another app just to do something simple.", "flag": "none"}
+{"id": "r_1p2yh50", "demand": false}
+{"id": "r_1p390il", "demand": false}
+{"id": "r_1p4hbjr", "demand": false}
+{"id": "r_1p8bymn", "demand": false}
+{"id": "r_1p8erju", "demand": true, "problem": "wasting time on social media", "who": "social media user", "product": "app", "pain": 2, "pay": "none", "tools": ["Instagram"], "quote": "People overscroll every day", "flag": "none"}
+{"id": "r_1p9pk7n", "demand": false}
+{"id": "r_1pb3hpx", "demand": true, "problem": "finding people to go out with", "who": "solo night out person", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "My \"friends\" bailed on me.", "flag": "none"}
+{"id": "r_1pbjg4c", "demand": true, "problem": "recurring home maintenance todo planning", "who": "homeowner", "product": "app", "pain": 1, "pay": "none", "tools": ["Todoist"], "quote": "I'm using todoist right now, but I still feel like there is a hole in how this works for me.", "flag": "none"}
+{"id": "r_1pchvte", "demand": true, "problem": "messy ai tool outputs for solo founders", "who": "non-technical solo founder", "product": "automation", "pain": 2, "pay": "none", "tools": ["Notion", "Google Sheets", "CRM"], "quote": "Instead of saving time, they end up cleaning up AI slop across Notion/Sheets/CRM/email.", "flag": "none"}
+{"id": "r_1pd0ud8", "demand": false}
+{"id": "r_1pm34l1", "demand": false}
+{"id": "r_1pmel4s", "demand": true, "problem": "finding trusted local service providers", "who": "homeowner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "If someone needed a good plumber, a barber who actually listened", "flag": "none"}
+{"id": "r_1ppc36w", "demand": true, "problem": "strava game mechanics complaints", "who": "runner", "product": "app", "pain": 2, "pay": "none", "tools": ["Strava"], "quote": "Strava's sentiment has crashed (1.63 stars) because they broke the \"Game\" aspect.", "flag": "none"}
+{"id": "r_1psz30l", "demand": false}
+{"id": "r_1pvl916", "demand": false}
+{"id": "r_1pxhykt", "demand": false}
+{"id": "r_1q4qqmg", "demand": false}
+{"id": "r_1q5cugj", "demand": true, "problem": "understanding history of places while traveling", "who": "traveler in India", "product": "app", "pain": 1, "pay": "none", "tools": ["Google", "Wikipedia"], "quote": "Usually I end up Googling, opening multiple blogs or Wikipedia pages, and still don’t get a complete picture.", "flag": "none"}
+{"id": "r_1qasqrk", "demand": false}
+{"id": "r_1qbtnz2", "demand": false}
+{"id": "r_1qc5cx2", "demand": false}
+{"id": "r_1qdooyx", "demand": false}
+{"id": "r_1qfdgks", "demand": false}
+{"id": "r_1qge75h", "demand": false}
+{"id": "r_1qh6ej7", "demand": false}
+{"id": "r_1qhsn1q", "demand": false}
+{"id": "r_1qj6bp1", "demand": false}
+{"id": "r_1qjyl3n", "demand": false}
+{"id": "r_1qk37et", "demand": false}
+{"id": "r_1qkoks7", "demand": true, "problem": "affordable mvp building for non-technical founders", "who": "non-technical founder", "product": "other", "pain": 3, "pay": "none", "tools": ["Bubble", "Flutter"], "quote": "Quotes are coming in at $5k - $10k and 4-6 weeks lead time.", "flag": "none"}
+{"id": "r_1qmha8c", "demand": false}
+{"id": "r_1qq8uza", "demand": false}
+{"id": "r_1qqj84t", "demand": false}
+{"id": "r_1qtkarb", "demand": false}
+{"id": "r_1qvynvo", "demand": false}
+{"id": "r_1qx57k1", "demand": false}
+{"id": "r_1qxp1nb", "demand": false}
+{"id": "r_1r35qc3", "demand": false}
+{"id": "r_1r84to1", "demand": true, "problem": "repeating medical history to doctors", "who": "patient", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "You know that frustrating thing where you see a new specialist and have to repeat your entire medical history?", "flag": "none"}
+{"id": "r_1r85v6b", "demand": true, "problem": "replying by typing during phone calls", "who": "person unable to speak on calls", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "This would be useful in places where speaking isn’t possible (libraries, shared workspaces, hospitals, etc.).", "flag": "none"}
+{"id": "r_1r8oarc", "demand": false}
+{"id": "r_1r96878", "demand": false}
+{"id": "r_1rcn0ja", "demand": true, "problem": "simple daily spending limit tracking", "who": "budget-conscious person", "product": "app", "pain": 2, "pay": "none", "tools": ["YNAB", "Monarch", "Rocket Money", "Mint"], "quote": "YNAB is powerful but it felt like a part-time job.", "flag": "none"}
+{"id": "r_1renx1o", "demand": false}
+{"id": "r_1revbrk", "demand": false}
+{"id": "r_1rjqhu1", "demand": false}
+{"id": "r_1rk9l2e", "demand": false}
+{"id": "r_1rkbl0e", "demand": false}
+{"id": "r_1rl0ajq", "demand": true, "problem": "fragmented pet owner management", "who": "pet owner", "product": "app", "pain": 2, "pay": "none", "tools": ["WhatsApp", "spreadsheets"], "quote": "Right now a lot of things seem fragmented", "flag": "none"}
+{"id": "r_1rldfpi", "demand": false}
+{"id": "r_1rnbgav", "demand": false}
+{"id": "r_1rouiym", "demand": false}
+{"id": "r_1rrmozr", "demand": false}
+{"id": "r_1rrprhy", "demand": false}
+{"id": "r_1rrxo78", "demand": false}
+{"id": "r_1rw0i3g", "demand": true, "problem": "finding a suitable psychologist", "who": "person seeking therapy", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Google"], "quote": "Unfortunately, the ones I thought looked good either never replied or are fully booked.", "flag": "none"}
+{"id": "r_1rw4uzh", "demand": false}
+{"id": "r_1rw8dze", "demand": false}
+{"id": "r_1rxm9iq", "demand": false}
+{"id": "r_1rzs18z", "demand": true, "problem": "researching callers before important calls", "who": "founder or investor", "product": "web tool", "pain": 2, "pay": "none", "tools": ["LinkedIn", "Google"], "quote": "I waste 30 minutes before every important call just to understand who I'm talking to.", "flag": "none"}
+{"id": "r_1rzyeub", "demand": true, "problem": "tracking shared group expenses", "who": "travel group member", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I personally feel that when we move, travel or do some projects in a group of two or more people, we generally call every person a lot of times", "flag": "none"}
+{"id": "r_1s045no", "demand": false}
+{"id": "r_1s0cndq", "demand": true, "problem": "hard to gain visibility in hobby communities", "who": "hobbyist", "product": "app", "pain": 1, "pay": "none", "tools": ["Instagram", "YouTube"], "quote": "The algorithm makes it tough for new people to gain recognisation in early days", "flag": "none"}
+{"id": "r_1s18oi1", "demand": true, "problem": "scattered personal memories across apps", "who": "person keeping personal memories", "product": "app", "pain": 1, "pay": "none", "tools": ["Google Photos", "Telegram", "Notes"], "quote": "my memories are everywhere — photos in Google Photos, voice notes in Telegram, thoughts in Notes", "flag": "none"}
+{"id": "r_1s2fbt8", "demand": false}
+{"id": "r_1s2itxf", "demand": false}
+{"id": "r_1s38pk7", "demand": false}
+{"id": "r_1s4q4nj", "demand": true, "problem": "unresolved heated online debates", "who": "social media user", "product": "app", "pain": 1, "pay": "none", "tools": ["social media"], "quote": "This only creates unresolved discourse with no clear end goal.", "flag": "none"}
+{"id": "r_1s5ofm0", "demand": false}
+{"id": "r_1s6c3ho", "demand": false}
+{"id": "r_1se284y", "demand": false}
+{"id": "r_1se2uoc", "demand": false}
+{"id": "r_1set2xn", "demand": true, "problem": "inconvenient cafe workspaces", "who": "remote worker", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "However there are a few inconveniences - charging port, noise, finding a guaranteed seat.", "flag": "none"}
+{"id": "r_1sf4bta", "demand": false}
+{"id": "r_1sfdzpv", "demand": false}
+{"id": "r_1sgpspf", "demand": false}
+{"id": "r_1skfhtb", "demand": false}
+{"id": "r_1skqhyy", "demand": true, "problem": "breaking bad habits", "who": "person breaking a habit", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I have been trying to break a bad habit but I’ve struggled because the benefits are not immediately visible.", "flag": "none"}
+{"id": "r_1snbmf4", "demand": false}
+{"id": "r_1soal5n", "demand": false}
+{"id": "r_1sod6sz", "demand": false}
+{"id": "r_1sqmpfc", "demand": true, "problem": "app performance over international roaming", "who": "traveler", "product": "app", "pain": 1, "pay": "none", "tools": ["eSIM"], "quote": "I've been thinking about a problem that travelers have but don't always see coming.", "flag": "none"}
+{"id": "r_1ste5ko", "demand": true, "problem": "security checks for vibe coded apps", "who": "vibe coded app builder", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "checking if API keys are in the frontend", "flag": "none"}
+{"id": "r_1sy3n5q", "demand": false}
+{"id": "r_1szt09h", "demand": false}
+{"id": "r_1t2h97r", "demand": false}
+{"id": "r_1t6an0l", "demand": false}
+{"id": "r_1t6yjfm", "demand": false}
+{"id": "r_1talnvb", "demand": false}

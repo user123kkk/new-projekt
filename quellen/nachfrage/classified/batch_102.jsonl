@@ -1,0 +1,100 @@
+{"id": "r_1uvr8ej", "demand": false}
+{"id": "r_1uzm0yu", "demand": true, "problem": "scheduling WhatsApp messages in advance", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Tasker"], "quote": "I want to be able to write a WhatsApp message now and have my phone send it automatically at a later time", "flag": "none"}
+{"id": "r_1v09lif", "demand": false}
+{"id": "r_1v8eqtu", "demand": false}
+{"id": "r_1vblzte", "demand": false}
+{"id": "r_1vclhpc", "demand": false}
+{"id": "r_1vm60wj", "demand": true, "problem": "trusted peer product recommendations for women", "who": "women shoppers", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "instead of relying entirely on sponsored reviews or generic product rankings", "flag": "none"}
+{"id": "r_1vvo93g", "demand": false}
+{"id": "r_1vwrk05", "demand": false}
+{"id": "r_1vxisxc", "demand": false}
+{"id": "r_1vybqys", "demand": false}
+{"id": "r_1vynk4s", "demand": false}
+{"id": "r_1vytpqr", "demand": false}
+{"id": "r_1w2d9xy", "demand": false}
+{"id": "r_1w4ghbe", "demand": false}
+{"id": "r_1w7h2ad", "demand": false}
+{"id": "r_1w9dznm", "demand": false}
+{"id": "r_1wal3po", "demand": false}
+{"id": "r_1wbwk4t", "demand": true, "problem": "verifying accuracy of AI summaries", "who": "information consumers", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": [], "quote": "AI summaries will repeat whatever is put in to them, including presenting made up things as absolute fact.", "flag": "none"}
+{"id": "r_1wfwgw7", "demand": false}
+{"id": "r_1wutuo7", "demand": true, "problem": "missed medication doses between visits", "who": "patients taking prescription medication", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Patients forget doses — not out of negligence, but because life interrupts", "flag": "none"}
+{"id": "r_1wvlun1", "demand": false}
+{"id": "r_1wvvzss", "demand": false}
+{"id": "r_1wynydn", "demand": false}
+{"id": "r_1x1yzzi", "demand": false}
+{"id": "r_1x7da9b", "demand": true, "problem": "staying in touch with family while busy", "who": "person living abroad", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Because of my work, I might be busy or sometimes forget to send her a message.", "flag": "none"}
+{"id": "r_1x83ssh", "demand": false}
+{"id": "r_1xcyk9u", "demand": false}
+{"id": "r_1xdb3wl", "demand": false}
+{"id": "r_1xe7kb2", "demand": false}
+{"id": "r_1xgy7mo", "demand": true, "problem": "direct material support for homeless people", "who": "donors and people experiencing homelessness", "product": "app", "pain": 1, "pay": "none", "tools": ["Swish", "BankID"], "quote": "These are important, but people experiencing homelessness may need much more than food", "flag": "none"}
+{"id": "r_198q7v6", "demand": true, "problem": "filtering bot messages from Etsy shop", "who": "Etsy seller", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Etsy", "browserflowapp"], "quote": "kill the bots noise and leave only the messages from legitimate customers.", "flag": "none"}
+{"id": "r_1bxxfzg", "demand": false}
+{"id": "r_1cbfd18", "demand": false}
+{"id": "r_1d4qrz3", "demand": false}
+{"id": "r_1dkefh8", "demand": true, "problem": "Goodreads to library ebook links in Safari", "who": "avid reader using public libraries", "product": "plugin/extension", "pain": 2, "pay": "explicit", "tools": ["Available Reads", "Library Extension", "Goodreads", "Libby"], "quote": "If there was a webkit-compatible version of these extensions (or something similar) I would absolutely buy it!!", "flag": "none"}
+{"id": "r_1dottng", "demand": false}
+{"id": "r_1f44iff", "demand": false}
+{"id": "r_1fuy840", "demand": false}
+{"id": "r_1gk6aok", "demand": false}
+{"id": "r_1h41ga7", "demand": false}
+{"id": "r_1ir4wrv", "demand": true, "problem": "visual RSS feed display", "who": "RSS user", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Rollgator"], "quote": "Can someone build a cool tool that lets us see our RSS feeds beautifully?", "flag": "none"}
+{"id": "r_1itkpss", "demand": false}
+{"id": "r_1jeopp1", "demand": false}
+{"id": "r_1jyhm4w", "demand": true, "problem": "summarizing Google Maps business reviews", "who": "business owners and travelers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Google Maps API"], "quote": "Right now, the API only gives you five reviews, and scraping more is either tricky or expensive.", "flag": "none"}
+{"id": "r_1kaxgr7", "demand": false}
+{"id": "r_1kep0to", "demand": true, "problem": "restoring audio quality in concert videos", "who": "concert-goer filming video", "product": "desktop software", "pain": 1, "pay": "none", "tools": [], "quote": "It would be nice if there was a tool that is able to detect what music was playing", "flag": "music"}
+{"id": "r_1kycw8o", "demand": true, "problem": "using LLM coding help under company bans", "who": "software developer at restrictive company", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["ChatGPT", "VS Code"], "quote": "When I work for a company and the company does not allow use of chatGTP, meaning don't copy code into it, there could exist a tool that solves this issue.", "flag": "none"}
+{"id": "r_1ldb5g9", "demand": false}
+{"id": "r_1lq3y4u", "demand": true, "problem": "offline file transfer between devices", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["ggwave", "chirp", "fldigi"], "quote": "I'm looking for a tool that will allow sending and receiving files over sounds", "flag": "none"}
+{"id": "r_1ls1lp9", "demand": true, "problem": "affordable AI background and object removal", "who": "photo editor", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["remove.bg"], "quote": "their credit system is outrageously expensive.", "flag": "none"}
+{"id": "r_1m4z8tq", "demand": false}
+{"id": "r_1njcppw", "demand": true, "problem": "spotting logical fallacies in videos", "who": "online video viewer", "product": "plugin/extension", "pain": 1, "pay": "explicit", "tools": [], "quote": "I would gladly pay for a subscription to this.", "flag": "none"}
+{"id": "r_1odagsw", "demand": false}
+{"id": "r_1p0en5t", "demand": true, "problem": "visual search of scientific papers", "who": "researcher", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "I wish there were a tool that could visually and semantically represent the state of scientific research based on my query", "flag": "none"}
+{"id": "r_1pjt1z7", "demand": false}
+{"id": "r_1pp532z", "demand": false}
+{"id": "r_1q4kp74", "demand": true, "problem": "sign shop mockups for client proposals", "who": "sign shop owner", "product": "web tool", "pain": 3, "pay": "none", "tools": ["Photoshop"], "quote": "Sign shops spend 2-4 hours per proposal creating Photoshop mockups to show clients how signs will look on their buildings.", "flag": "none"}
+{"id": "r_1r14927", "demand": true, "problem": "bypassing age verification checks", "who": "privacy-conscious user", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Discord"], "quote": "It would be awesome if there was an automatic age verification spoofer software tool that you could just use to fool these AI systems.", "flag": "none"}
+{"id": "r_1rbrft1", "demand": false}
+{"id": "r_1t910d5", "demand": true, "problem": "natural language data visualization without dashboards", "who": "data analyst", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Power BI"], "quote": "Every time I need a new aggregated view or a deeper slice of data, I have to go back and manually update the dashboard.", "flag": "none"}
+{"id": "r_1tgs0qd", "demand": false}
+{"id": "r_1tsxv5o", "demand": false}
+{"id": "r_1vms4xw", "demand": true, "problem": "shareable gift wish list across retailers", "who": "gift shopper", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Amazon"], "quote": "it's walled-off (meaning it only lists Amazon products)", "flag": "none"}
+{"id": "r_1vrm8m5", "demand": false}
+{"id": "r_1vwlkv4", "demand": true, "problem": "auditing AI agent actions for risk", "who": "users giving AI agents file access", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Claude Cowork"], "quote": "This blind trust is extremely risky and it's very convenient to just rely on Claude to do everything.", "flag": "none"}
+{"id": "r_1w266zn", "demand": true, "problem": "custom brain game queue for dementia patient", "who": "caregiver of parent with dementia", "product": "app", "pain": 3, "pay": "none", "tools": ["Lumosity"], "quote": "I have to sit with her during the entire session just to manually load the next appropriate game.", "flag": "none"}
+{"id": "r_1wpt717", "demand": false}
+{"id": "r_1wykchl", "demand": false}
+{"id": "r_1x32fls", "demand": false}
+{"id": "r_1x3ihgh", "demand": false}
+{"id": "r_196lzv5", "demand": false}
+{"id": "r_1ai8ncn", "demand": true, "problem": "stopping repeated calls by dementia patient", "who": "caregiver of person with dementia", "product": "app", "pain": 2, "pay": "explicit", "tools": ["teleCalm"], "quote": "I would pay a lot of money for a cell phone app that I could install on his phone.", "flag": "none"}
+{"id": "r_1at1pcz", "demand": false}
+{"id": "r_1b50odp", "demand": false}
+{"id": "r_1b6zpu2", "demand": true, "problem": "finding info across many open tabs", "who": "heavy browser tab user", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": [], "quote": "to make it easier to find information if you have lots of tabs open.", "flag": "none"}
+{"id": "r_1bbiyin", "demand": false}
+{"id": "r_1bk8mql", "demand": true, "problem": "finding discontinued or hard-to-find items", "who": "secondhand shopper", "product": "web tool", "pain": 1, "pay": "none", "tools": ["eBay", "Poshmark", "Etsy"], "quote": "I wish somebody would make a 2-sided marketplace that allows people to list something they're looking for", "flag": "none"}
+{"id": "r_1cmfg4k", "demand": false}
+{"id": "r_1cmfjyc", "demand": false}
+{"id": "r_1cq68p1", "demand": false}
+{"id": "r_1czjjld", "demand": false}
+{"id": "r_1d6xe0y", "demand": false}
+{"id": "r_1d6zkyr", "demand": false}
+{"id": "r_1egdwis", "demand": false}
+{"id": "r_1elxdpe", "demand": false}
+{"id": "r_1em0bqa", "demand": false}
+{"id": "r_1eofjoz", "demand": false}
+{"id": "r_1epj6sg", "demand": false}
+{"id": "r_1epl34n", "demand": false}
+{"id": "r_1ev0bw3", "demand": false}
+{"id": "r_1g6e4o2", "demand": true, "problem": "affordable feedback on websites", "who": "web developer hobbyist", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Fiverr"], "quote": "But to pay several people for individual reviews would be crazy expensive.", "flag": "none"}
+{"id": "r_1gkj7qk", "demand": true, "problem": "automated personal TV channel scheduling", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Letterboxd"], "quote": "I would pay good money for even a crappy prototype of this.", "flag": "none"}
+{"id": "r_1gw0mec", "demand": false}
+{"id": "r_1h261yu", "demand": false}
+{"id": "r_1hluwse", "demand": false}
+{"id": "r_1i55qsc", "demand": false}
+{"id": "r_1i9f1h1", "demand": true, "problem": "filtering political news content", "who": "news avoider", "product": "plugin/extension", "pain": 2, "pay": "explicit", "tools": [], "quote": "I would pay good solid money and a subscription fee for some type of app plugin extension", "flag": "none"}
+{"id": "r_1ii0izy", "demand": false}
+{"id": "r_1ilkenn", "demand": false}

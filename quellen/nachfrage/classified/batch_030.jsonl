@@ -1,0 +1,100 @@
+{"id": "h_45469130", "demand": false}
+{"id": "h_45464905", "demand": false}
+{"id": "h_45463114", "demand": false}
+{"id": "h_45442406", "demand": false}
+{"id": "h_45427622", "demand": false}
+{"id": "h_45418740", "demand": false}
+{"id": "h_45376748", "demand": false}
+{"id": "h_45367515", "demand": true, "problem": "text selection blocked in apps", "who": "unknown", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Zoom"], "quote": "Just let me select text", "flag": "none"}
+{"id": "h_45334522", "demand": true, "problem": "debugging CI pipelines locally", "who": "developer", "product": "other", "pain": 2, "pay": "none", "tools": ["GitHub Actions", "Azure DevOps"], "quote": "Give me a proper platform that I can run locally on my development machine.", "flag": "none"}
+{"id": "h_45333240", "demand": false}
+{"id": "h_45326027", "demand": false}
+{"id": "h_45308892", "demand": false}
+{"id": "h_45286792", "demand": false}
+{"id": "h_45275284", "demand": false}
+{"id": "h_45267185", "demand": false}
+{"id": "h_45249839", "demand": false}
+{"id": "h_45245347", "demand": false}
+{"id": "h_45243073", "demand": false}
+{"id": "h_45228484", "demand": true, "problem": "QGIS highlighted points hidden", "who": "GIS analyst", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["QGIS", "GDAL", "Spatialite", "geopandas"], "quote": "You can go in and change the symbology to fix that in a number of ways but dammit it should work right out of the box.", "flag": "none"}
+{"id": "h_45226241", "demand": false}
+{"id": "h_45202516", "demand": false}
+{"id": "h_45184668", "demand": false}
+{"id": "h_45166505", "demand": false}
+{"id": "h_45150174", "demand": false}
+{"id": "h_45147116", "demand": false}
+{"id": "h_45121549", "demand": false}
+{"id": "h_45116580", "demand": false}
+{"id": "h_45069803", "demand": false}
+{"id": "h_45054587", "demand": false}
+{"id": "h_45044162", "demand": false}
+{"id": "h_45028170", "demand": true, "problem": "ruby jump to definition missing", "who": "ruby developer", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Ruby"], "quote": "So frustrating in ruby that this doesnt exist or at least isnt easy.", "flag": "none"}
+{"id": "h_45019093", "demand": false}
+{"id": "h_45017713", "demand": true, "problem": "blocking unknown robocall numbers on iPhone", "who": "iPhone user", "product": "app", "pain": 2, "pay": "none", "tools": ["iOS"], "quote": "If I could just block the numbers, or auto send to voicemail, that my phone already flags as Spam&#x2F;Telemarketing this wouldn’t be so frustrating for me.", "flag": "none"}
+{"id": "h_44943319", "demand": false}
+{"id": "h_44939340", "demand": false}
+{"id": "h_44927579", "demand": false}
+{"id": "h_44923293", "demand": false}
+{"id": "h_44896079", "demand": false}
+{"id": "h_44882830", "demand": false}
+{"id": "h_44861527", "demand": false}
+{"id": "h_44857909", "demand": false}
+{"id": "h_44857313", "demand": false}
+{"id": "h_44850127", "demand": false}
+{"id": "h_44848364", "demand": false}
+{"id": "h_44827335", "demand": false}
+{"id": "h_44821490", "demand": false}
+{"id": "h_44808802", "demand": false}
+{"id": "h_44802910", "demand": false}
+{"id": "h_44796275", "demand": false}
+{"id": "h_44788861", "demand": false}
+{"id": "h_44780333", "demand": false}
+{"id": "h_44773368", "demand": true, "problem": "lost context in long coding sessions", "who": "developer using Claude Code", "product": "other", "pain": 2, "pay": "none", "tools": ["Claude Code", "Claude Max"], "quote": "but it’s so frustrating to fail in a coding task because it’s so obvious the model lost a crucial part of the context.", "flag": "none"}
+{"id": "h_44769765", "demand": false}
+{"id": "h_44758318", "demand": false}
+{"id": "h_44742290", "demand": false}
+{"id": "h_44739217", "demand": false}
+{"id": "h_44729405", "demand": false}
+{"id": "h_44728137", "demand": false}
+{"id": "h_44699936", "demand": false}
+{"id": "h_44674595", "demand": true, "problem": "blocking browser fingerprinting", "who": "privacy-conscious web user", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Firefox"], "quote": "which is why it is so frustrating (and damning) that Firefox does not make it simple to block all of these measurements.", "flag": "none"}
+{"id": "h_44635891", "demand": true, "problem": "blocking popup modals on websites", "who": "web user", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": [], "quote": "Think of a modal window that pops-up after you&#x27;ve been on a site for 5 seconds and are just about to click a link, but instead click the modal.", "flag": "none"}
+{"id": "h_44618813", "demand": false}
+{"id": "h_44615069", "demand": true, "problem": "forced YouTube auto-translation not configurable", "who": "YouTube viewer", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["YouTube"], "quote": "The fact that this is needed and not configurable is so frustrating.", "flag": "none"}
+{"id": "h_44608939", "demand": false}
+{"id": "h_44601823", "demand": false}
+{"id": "h_44591331", "demand": false}
+{"id": "h_44589690", "demand": false}
+{"id": "h_44573768", "demand": false}
+{"id": "h_44537823", "demand": false}
+{"id": "h_44502108", "demand": false}
+{"id": "h_44495133", "demand": true, "problem": "slow AI code edits", "who": "developer", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["Amazon Q"], "quote": "so frustrating how slow edits are in Q dev", "flag": "none"}
+{"id": "h_44480949", "demand": false}
+{"id": "h_44452841", "demand": false}
+{"id": "h_44444934", "demand": false}
+{"id": "h_44443509", "demand": false}
+{"id": "h_44435969", "demand": false}
+{"id": "h_44426207", "demand": false}
+{"id": "h_44416338", "demand": true, "problem": "spam notifications from allowed apps", "who": "iPhone user", "product": "app", "pain": 2, "pay": "none", "tools": ["Uber", "iOS"], "quote": "Uber does this all the time to me. It’s so frustrating.", "flag": "none"}
+{"id": "h_44398149", "demand": false}
+{"id": "h_44395848", "demand": false}
+{"id": "h_44390124", "demand": false}
+{"id": "h_44380722", "demand": false}
+{"id": "h_44351109", "demand": false}
+{"id": "h_44289502", "demand": true, "problem": "hard developer sandboxing of programs", "who": "developer", "product": "other", "pain": 2, "pay": "none", "tools": ["sandbox-exec"], "quote": "If your sandboxing mechanism requires you to be &quot;an expert in macOS internals&quot; it&#x27;s not going to get used often, and the people who DO use it are liable to make mistakes.", "flag": "none"}
+{"id": "h_44283940", "demand": false}
+{"id": "h_44283733", "demand": false}
+{"id": "h_44266689", "demand": true, "problem": "frequent SSO reauthentication prompts", "who": "corporate software engineer", "product": "plugin/extension", "pain": 3, "pay": "none", "tools": ["Microsoft Authenticator", "Jenkins", "Perforce"], "quote": "IT say it’s normal and here I am spending 10 minutes a day waiting for my Authenticator app to log in.", "flag": "none"}
+{"id": "h_44261976", "demand": false}
+{"id": "h_44228736", "demand": true, "problem": "media server setup and file naming constraints", "who": "home media user", "product": "app", "pain": 2, "pay": "none", "tools": ["Plex", "Infuse"], "quote": "From needing a server that can do transcoding, to demanding that I name my files in the way it wants them to be named, it just feels so incredibly constraining.", "flag": "none"}
+{"id": "h_44223982", "demand": false}
+{"id": "h_44192204", "demand": false}
+{"id": "h_44181950", "demand": true, "problem": "learning guitar to play along", "who": "adult beginner guitarist", "product": "app", "pain": 1, "pay": "none", "tools": ["Guitar Tricks", "Justin Guitar"], "quote": "If I try to play along with a record, I&#x27;m almost always lost right away because I start strumming to match the drumming pattern or the vocal rhythms.", "flag": "music"}
+{"id": "h_44178698", "demand": true, "problem": "parking payment requires smartphone", "who": "dumbphone user", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Another ridiculous use case is paying for tickets in car parks, some require a smartphone (with no cash or alternative options).", "flag": "none"}
+{"id": "h_44144084", "demand": false}
+{"id": "h_44143896", "demand": false}
+{"id": "h_44130997", "demand": false}
+{"id": "h_44100956", "demand": false}
+{"id": "h_44097471", "demand": false}
+{"id": "h_44044884", "demand": false}
+{"id": "h_44032905", "demand": true, "problem": "duplicate schema definitions across full-stack", "who": "full-stack developer", "product": "other", "pain": 2, "pay": "none", "tools": ["Zod", "Swagger", "TypeScript", "ORM"], "quote": "It&#x27;s so frustrating how full-stack development requires so many ways of describing the same shapes: JS input validation, Swagger for API definition, server-side input validation, ORM for schema conformance, and TypeScript often requiring separate definitions on server and client side.", "flag": "none"}

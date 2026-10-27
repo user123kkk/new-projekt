@@ -1,0 +1,100 @@
+{"id": "r_1xd3y2v", "demand": true, "problem": "nicotine quit craving support", "who": "person quitting nicotine", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "they're all just day counters", "flag": "none"}
+{"id": "r_1xf1z94", "demand": false}
+{"id": "r_1xf5yp3", "demand": false}
+{"id": "r_1xf6bmw", "demand": true, "problem": "child and teen safety in unknown autos", "who": "parent of a teen riding autos in India", "product": "app", "pain": 2, "pay": "none", "tools": ["Uber", "Ola", "WhatsApp"], "quote": "nobody even knows", "flag": "none"}
+{"id": "r_1j8ugr7", "demand": true, "problem": "bloated task managers for small teams", "who": "small startup team", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Asana", "Trello", "ClickUp", "Monday", "Linear", "Jira", "Basecamp"], "quote": "These Apps instead keep adding bloated and unwanted complex features.", "flag": "none"}
+{"id": "r_1j8ujsy", "demand": true, "problem": "bloated task managers for small teams", "who": "small startup team", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Asana", "Trello", "ClickUp", "Monday", "Linear", "Jira", "Basecamp"], "quote": "These Apps instead keep adding bloated and unwanted complex features.", "flag": "none"}
+{"id": "r_1kq0eun", "demand": false}
+{"id": "r_1okyqz8", "demand": false}
+{"id": "r_1prljc7", "demand": true, "problem": "AI character image creation with monthly billing", "who": "AI image and video creator", "product": "app", "pain": 1, "pay": "implied", "tools": [], "quote": "the other app was credit oriented and I didn't like the way it reflects", "flag": "adult content and images of living beings as core product"}
+{"id": "r_1pxoew2", "demand": true, "problem": "hosting and billing for small utility tools", "who": "indie developer building small utilities", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Shopify", "Replicate"], "quote": "the hard part is never the tool.", "flag": "none"}
+{"id": "r_1r0qx29", "demand": false}
+{"id": "r_1r8ckrc", "demand": false}
+{"id": "r_1saxxel", "demand": false}
+{"id": "r_1sdgwb7", "demand": true, "problem": "classifying card expenses by category", "who": "household budgeter", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I never have the patience to stop at the end of the day and classify what I spent into categories", "flag": "none"}
+{"id": "r_1wn7gs1", "demand": false}
+{"id": "r_1fo1ifm", "demand": false}
+{"id": "r_1fof3km", "demand": false}
+{"id": "r_1fqipkr", "demand": true, "problem": "doomscrolling", "who": "person who doomscrolls", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I want to build an app to stop people from Doomscrolling without annoying screen time blockers", "flag": "none"}
+{"id": "r_1gv8kjj", "demand": true, "problem": "finding gyms while traveling", "who": "frequent traveler who works out", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "when I travel I can open the app and check fitness facilities in the area based on my plan", "flag": "none"}
+{"id": "r_1jy6jp0", "demand": false}
+{"id": "r_1k0gg8e", "demand": false}
+{"id": "r_1kjj53l", "demand": false}
+{"id": "r_1mwuj7k", "demand": false}
+{"id": "r_1pfs7du", "demand": false}
+{"id": "r_1pwydqm", "demand": false}
+{"id": "r_1py8j5c", "demand": false}
+{"id": "r_1pyn5o4", "demand": false}
+{"id": "r_1q4rt3s", "demand": false}
+{"id": "r_1r9y3xn", "demand": false}
+{"id": "r_1tfz0wx", "demand": true, "problem": "finding someone to spend time with in a new city", "who": "newcomer, tourist or transplant", "product": "app", "pain": 2, "pay": "none", "tools": ["Meetup", "Facebook", "Reddit"], "quote": "know how it can be hard to find the right person IRL", "flag": "none"}
+{"id": "r_1tmbm4i", "demand": false}
+{"id": "r_1uh8zak", "demand": false}
+{"id": "r_1vbyfm0", "demand": false}
+{"id": "r_1wdthk7", "demand": false}
+{"id": "r_1wvqxgi", "demand": false}
+{"id": "r_1x77nvh", "demand": false}
+{"id": "r_1ipztg9", "demand": true, "problem": "finding games by genre", "who": "gamer", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Can somebody please please make a website or an app where you give a genre", "flag": "none"}
+{"id": "r_1lgl5cy", "demand": false}
+{"id": "r_1qqcjgx", "demand": false}
+{"id": "r_1vfawa6", "demand": false}
+{"id": "r_1vxy6e6", "demand": false}
+{"id": "r_1vyfasw", "demand": false}
+{"id": "r_1hqw24d", "demand": false}
+{"id": "r_1k8dskn", "demand": false}
+{"id": "r_1kthq82", "demand": false}
+{"id": "r_1l42qhh", "demand": false}
+{"id": "r_1lp8lnx", "demand": true, "problem": "relocating abroad without guidance", "who": "person moving abroad", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I struggled more than I expected", "flag": "none"}
+{"id": "r_1lqpc64", "demand": false}
+{"id": "r_1mc7krw", "demand": false}
+{"id": "r_1q18vsb", "demand": false}
+{"id": "r_1roojgy", "demand": true, "problem": "losing touch with close friends", "who": "person with a busy social life", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I just want something that quietly helps me not lose touch with my people.", "flag": "none"}
+{"id": "r_1sa0w7p", "demand": false}
+{"id": "r_1sjb1es", "demand": true, "problem": "AI coding chatbots lacking codebase context", "who": "developer building with AI tools", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Cursor", "Claude Code", "Codex"], "quote": "This replaces the constant hassles of building with AI chatbots", "flag": "none"}
+{"id": "r_1tzt3cn", "demand": false}
+{"id": "r_1uibm38", "demand": false}
+{"id": "r_1ujuctb", "demand": false}
+{"id": "r_1umdfk3", "demand": false}
+{"id": "r_1wkgww8", "demand": true, "problem": "freezing when speaking a foreign language", "who": "language learner with a long Duolingo streak", "product": "app", "pain": 2, "pay": "none", "tools": ["Duolingo", "Speak", "Praktika", "Langua"], "quote": "who still freezes when a real person speaks to them", "flag": "none"}
+{"id": "r_1x3m3eu", "demand": false}
+{"id": "r_198y874", "demand": true, "problem": "visualizing large number scale differences", "who": "general person", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "the actual difference in scale between large numbers", "flag": "none"}
+{"id": "r_1ac778x", "demand": false}
+{"id": "r_1bu5p63", "demand": false}
+{"id": "r_1c3tnkb", "demand": false}
+{"id": "r_1c9n2bh", "demand": true, "problem": "nutrition totals for homemade recipes", "who": "home cook and meal prepper", "product": "app", "pain": 2, "pay": "none", "tools": ["Excel"], "quote": "I've been trying to find an app for compiling serving sizes and nutritional information", "flag": "none"}
+{"id": "r_1cb75ql", "demand": true, "problem": "rating abusive managers", "who": "employee with a difficult manager", "product": "web tool", "pain": 2, "pay": "none", "tools": ["PeekYou"], "quote": "companies might be able to protect themselves and staff from verbally abusive bosses or shady management", "flag": "none"}
+{"id": "r_1cqi8vu", "demand": true, "problem": "algorithm feeds promote spammy content", "who": "social media user", "product": "app", "pain": 1, "pay": "none", "tools": ["Instagram", "TikTok"], "quote": "which leads to click baity and spammy content.", "flag": "none"}
+{"id": "r_1d2b7b0", "demand": true, "problem": "software mouse jiggler", "who": "remote worker keeping status active", "product": "desktop software", "pain": 1, "pay": "none", "tools": [], "quote": "couldn't really find a proper solution.", "flag": "none"}
+{"id": "r_1d7psyd", "demand": true, "problem": "finding cheapest store for a grocery list", "who": "shopper in Brazil", "product": "app", "pain": 1, "pay": "none", "tools": ["Waze"], "quote": "I just want an app where I put in my grocery list and it tells me what supermarket my purchase would be cheapest.", "flag": "none"}
+{"id": "r_1df4wbx", "demand": false}
+{"id": "r_1dzblas", "demand": true, "problem": "creating custom worksheets quickly", "who": "teacher", "product": "app", "pain": 2, "pay": "none", "tools": ["Canva", "PowerPoint", "Word"], "quote": "Search through a ton of templates in order to find a completely unrelated template on canva", "flag": "none"}
+{"id": "r_1ffoy5s", "demand": true, "problem": "capturing and revisiting learning notes", "who": "learner who reads and watches a lot", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I never revisit them, because most of the time they are not handy.", "flag": "none"}
+{"id": "r_1fxh5gb", "demand": false}
+{"id": "r_1g06r6h", "demand": true, "problem": "housing evacuees with volunteer hosts", "who": "volunteer host in an evacuation area", "product": "app", "pain": 2, "pay": "none", "tools": ["Airbnb"], "quote": "why we don't have an easy system in place for people to volunteer to take in evacuees.", "flag": "none"}
+{"id": "r_1gahq9a", "demand": true, "problem": "RSI from repeated barcode scanning at a desk", "who": "charity welcome desk staff", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "complaining of RSI", "flag": "none"}
+{"id": "r_1gm6d4y", "demand": false}
+{"id": "r_1hpozww", "demand": true, "problem": "matching playlist tempo to running cadence", "who": "runner", "product": "app", "pain": 1, "pay": "none", "tools": ["Spotify", "ChatGPT"], "quote": "I need to do research and curate a playlist ahead of the run.", "flag": "none"}
+{"id": "r_1hvm1zs", "demand": true, "problem": "low visibility for animation and game art shorts", "who": "animator or game artist", "product": "app", "pain": 1, "pay": "none", "tools": ["TikTok", "Reels", "Blender", "Unity"], "quote": "This kind of content tends to get overshadowed by others in tiktok and in reels", "flag": "none"}
+{"id": "r_1i4c6fx", "demand": true, "problem": "loneliness and shallow relationships", "who": "lonely adult", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Trying to solve a problem of loneliness", "flag": "none"}
+{"id": "r_1ik1rej", "demand": true, "problem": "finding a venue's main landline quickly", "who": "visitor in a busy public place", "product": "app", "pain": 1, "pay": "none", "tools": ["Google"], "quote": "Normally you can Google this information", "flag": "none"}
+{"id": "r_1insbff", "demand": false}
+{"id": "r_1ite0wv", "demand": false}
+{"id": "r_1iv6v30", "demand": false}
+{"id": "r_1iv6vsz", "demand": false}
+{"id": "r_1iwyejo", "demand": true, "problem": "discovering new YouTube channels", "who": "YouTube viewer", "product": "app", "pain": 1, "pay": "none", "tools": ["YouTube"], "quote": "I've never found the YouTube search features to be useful.", "flag": "none"}
+{"id": "r_1jcn2t0", "demand": false}
+{"id": "r_1jo7kly", "demand": true, "problem": "paper-based scheduling and invoicing for tradespeople", "who": "self-employed tradesperson", "product": "app", "pain": 2, "pay": "none", "tools": ["paper notes", "phone calendar"], "quote": "Struggle with multiple invoices", "flag": "none"}
+{"id": "r_1jwwhnp", "demand": false}
+{"id": "r_1k98dcy", "demand": false}
+{"id": "r_1kcd8xw", "demand": false}
+{"id": "r_1khxssd", "demand": false}
+{"id": "r_1kpqz9y", "demand": true, "problem": "finding underrated local routes to explore", "who": "local explorer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Or sometimes we just want to go out and", "flag": "none"}
+{"id": "r_1kvk62u", "demand": true, "problem": "decoding packaged food ingredient labels", "who": "health-conscious shopper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "especially when those labels are written in a way that only chemists and science folks can understand.", "flag": "none"}
+{"id": "r_1kwakm9", "demand": false}
+{"id": "r_1m8usbf", "demand": false}
+{"id": "r_1mi1dhg", "demand": true, "problem": "language barrier when traveling", "who": "traveler who does not speak the local language", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "You miss out on a lot of authentic experiences because of communication issues", "flag": "none"}
+{"id": "r_1mppkth", "demand": false}
+{"id": "r_1n51dmz", "demand": false}
+{"id": "r_1nsw0di", "demand": false}
+{"id": "r_1nuzm8q", "demand": false}
+{"id": "r_1ohx0qa", "demand": false}

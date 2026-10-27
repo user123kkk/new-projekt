@@ -1,0 +1,100 @@
+{"id": "r_1tetz0f", "demand": true, "problem": "unfinished side project tracking", "who": "software builder", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Why do so many builders start projects and never ship them?", "flag": "none"}
+{"id": "r_1thsn5u", "demand": true, "problem": "hobby inventory tracking", "who": "hobbyist", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "App for tracking all of my hobbies?", "flag": "none"}
+{"id": "r_1thso3r", "demand": true, "problem": "spoiler-free TV show discussion", "who": "TV viewer", "product": "app", "pain": 1, "pay": "none", "tools": ["READO"], "quote": "App for spoilerfree chatting about tv shows?", "flag": "none"}
+{"id": "r_1tjxmui", "demand": false}
+{"id": "r_1tk70yl", "demand": true, "problem": "sharing images during phone calls", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "so that when they look at their phone while I call, the image is on their screen while the phone rings", "flag": "none"}
+{"id": "r_1tk8sxb", "demand": false}
+{"id": "r_1tke5co", "demand": false}
+{"id": "r_1tnfxcm", "demand": true, "problem": "food waste from forgotten groceries", "who": "household", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I keep thinking about how much food I throw away not because I'm lazy, but because I simply forget it's there.", "flag": "none"}
+{"id": "r_1tnua9j", "demand": true, "problem": "shared couple diary and to-do list", "who": "couple", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "there is plenty of diary & planner apps, but I want one that my partner can also download and sign into", "flag": "none"}
+{"id": "r_1tpill3", "demand": true, "problem": "sports fan social network", "who": "sports fan", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "There is no main social media for the sports community.", "flag": "none"}
+{"id": "r_1tpxg0y", "demand": true, "problem": "browser-based office suite setup friction", "who": "unknown", "product": "web tool", "pain": 2, "pay": "none", "tools": ["collabra", "Euro Office"], "quote": "hardly rocket science, but if im looking for a browser-based app, i would hope it simply works?", "flag": "none"}
+{"id": "r_1tq6pud", "demand": false}
+{"id": "r_1tqytqt", "demand": false}
+{"id": "r_1tqz5ms", "demand": true, "problem": "social gym progress ranking", "who": "gym goer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Meanwhile, free apps either track workouts in a super boring way", "flag": "none"}
+{"id": "r_1ts7uwn", "demand": false}
+{"id": "r_1tses11", "demand": false}
+{"id": "r_1tts6hs", "demand": false}
+{"id": "r_1tvl9en", "demand": false}
+{"id": "r_1twgvk8", "demand": true, "problem": "verifying candidate credentials for hiring", "who": "hiring manager", "product": "web tool", "pain": 2, "pay": "none", "tools": ["LinkedIn", "ChatGPT"], "quote": "I can't trust anything I read anymore.", "flag": "none"}
+{"id": "r_1twnnxd", "demand": false}
+{"id": "r_1twpzrx", "demand": false}
+{"id": "r_1txec6v", "demand": true, "problem": "gym waiting time and workout disruption", "who": "gym goer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "machines are occupied, your plan breaks halfway, and you end up wasting time waiting or improvising.", "flag": "none"}
+{"id": "r_1ty3bmr", "demand": true, "problem": "logging vinyl plays to Spotify", "who": "vinyl listener", "product": "automation", "pain": 1, "pay": "none", "tools": ["cross fade", "Spotify"], "quote": "I listen to a lot of music on vinyl, and I want that to be reflected in my Spotify statistics.", "flag": "none"}
+{"id": "r_1tyd7jx", "demand": true, "problem": "phone autopilot interruption", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Reddit", "Instagram", "YouTube"], "quote": "that could save me from so much time wasted on auto-piloting the day", "flag": "none"}
+{"id": "r_1tyuqsn", "demand": false}
+{"id": "r_1tz0ern", "demand": false}
+{"id": "r_1tzy2rn", "demand": true, "problem": "sharing personal photos on a public map", "who": "photographer", "product": "app", "pain": 1, "pay": "none", "tools": ["Google Street View"], "quote": "As a photographer I often take lots of photos with no place to upload them for others to see.", "flag": "none"}
+{"id": "r_1u02m1s", "demand": false}
+{"id": "r_1u2tcaf", "demand": false}
+{"id": "r_1u349h1", "demand": true, "problem": "scattered event photos after parties", "who": "event guest", "product": "app", "pain": 1, "pay": "none", "tools": ["WhatsApp", "iCloud", "Google Photos"], "quote": "scattered across WhatsApp, iCloud, Google Photos, random group chats.", "flag": "none"}
+{"id": "r_1u5gpst", "demand": false}
+{"id": "r_1u64c3r", "demand": false}
+{"id": "r_1u6iefw", "demand": false}
+{"id": "r_1u6so1d", "demand": true, "problem": "meditation streaks breaking after life gets busy", "who": "meditators", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I just couldn't commit to it!", "flag": "none"}
+{"id": "r_1u6ukju", "demand": false}
+{"id": "r_1u70toa", "demand": true, "problem": "breaking familiar routines to try new things", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I often say I want to try new things, like new cafés, restaurants, hobbies, events, whatever, but then I still end up going to the same places", "flag": "none"}
+{"id": "r_1u7g7n7", "demand": false}
+{"id": "r_1u7l3ca", "demand": false}
+{"id": "r_1u87ud6", "demand": false}
+{"id": "r_1u8ud6n", "demand": false}
+{"id": "r_1u91u0j", "demand": true, "problem": "too many single-business apps", "who": "local business customer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "instead of every local business having its own app (which nobody downloads)", "flag": "none"}
+{"id": "r_1u9o11p", "demand": false}
+{"id": "r_1u9qnno", "demand": false}
+{"id": "r_1u9vyf0", "demand": true, "problem": "beginner app building without coding", "who": "non-coder founder", "product": "web tool", "pain": 2, "pay": "none", "tools": ["no-code platforms"], "quote": "there seems to be a lot to learn about databases, workflows, integrations, user authentication, and other technical concepts.", "flag": "none"}
+{"id": "r_1uaykjw", "demand": false}
+{"id": "r_1ubs0o4", "demand": true, "problem": "track changes in markdown editing", "who": "writer", "product": "desktop software", "pain": 1, "pay": "none", "tools": [], "quote": "Currently, I know of no markdown native app that integrate something like", "flag": "none"}
+{"id": "r_1ubwqsj", "demand": false}
+{"id": "r_1ucgfor", "demand": true, "problem": "finding saved short videos later", "who": "content consumer", "product": "app", "pain": 2, "pay": "none", "tools": ["TikTok", "Instagram", "YouTube"], "quote": "Is there an app where I send a link to and it downloads the video", "flag": "none"}
+{"id": "r_1uckn7o", "demand": true, "problem": "idea notes never revisited", "who": "idea-generating user", "product": "app", "pain": 1, "pay": "none", "tools": ["Apple Notes"], "quote": "I never open that note again.", "flag": "none"}
+{"id": "r_1ucyyfu", "demand": false}
+{"id": "r_1uddrkl", "demand": false}
+{"id": "r_1udur9o", "demand": false}
+{"id": "r_1ue65kb", "demand": true, "problem": "indoor wayfinding in large buildings", "who": "visitor to shopping centres and hospitals", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Maps", "Apple Maps"], "quote": "trying to find a specific store, room, office, service desk, or gate.", "flag": "none"}
+{"id": "r_1uef4e8", "demand": false}
+{"id": "r_1ueh1l8", "demand": true, "problem": "app review wait time visibility", "who": "app developer", "product": "app", "pain": 1, "pay": "none", "tools": ["App Store Connect"], "quote": "Can someone please make an app that tracks the current Apple Review wait times for publishing an app and for publishing an update to an app?", "flag": "none"}
+{"id": "r_1uexs1o", "demand": false}
+{"id": "r_1uf2601", "demand": false}
+{"id": "r_1ufsc03", "demand": false}
+{"id": "r_1ug1xbt", "demand": true, "problem": "ebook reading focus", "who": "ebook reader", "product": "app", "pain": 1, "pay": "none", "tools": ["eReader app", "Telegram", "Reddit"], "quote": "i just cant get myself to focus when reading off the ereader app.", "flag": "none"}
+{"id": "r_1ug22jc", "demand": true, "problem": "ebook reading focus", "who": "ebook reader", "product": "app", "pain": 1, "pay": "none", "tools": ["eReader app", "Telegram", "Reddit"], "quote": "i just cant get myself to focus when reading off the ereader app.", "flag": "none"}
+{"id": "r_1ugxsyy", "demand": false}
+{"id": "r_1uho0fu", "demand": false}
+{"id": "r_1uhqe2z", "demand": true, "problem": "lost idea organization", "who": "idea generator", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "But they got lost when I don't write them and they never came back again.", "flag": "none"}
+{"id": "r_1uhtnpk", "demand": false}
+{"id": "r_1uhxaoy", "demand": false}
+{"id": "r_1uhz64f", "demand": false}
+{"id": "r_1uihk7b", "demand": false}
+{"id": "r_1uivxxw", "demand": true, "problem": "isolation for disabled people", "who": "disabled person in third-floor apartment", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Since I have recently become disabled myself and living in a 3rd story apartment has made miss out on life.", "flag": "none"}
+{"id": "r_1ujyf7k", "demand": true, "problem": "saved short videos never revisited", "who": "social media saver", "product": "app", "pain": 2, "pay": "none", "tools": ["Notion"], "quote": "The problem is that I never remember any of it.", "flag": "none"}
+{"id": "r_1uk5s71", "demand": false}
+{"id": "r_1uknwmc", "demand": false}
+{"id": "r_1ul8f13", "demand": false}
+{"id": "r_1uo3qgh", "demand": false}
+{"id": "r_1up4eid", "demand": false}
+{"id": "r_1upb5j7", "demand": true, "problem": "honest earnings in get-paid-to apps", "who": "get-paid-to app user", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there a demand for an Honest GPTP App on the Market?", "flag": "none"}
+{"id": "r_1usr5d8", "demand": false}
+{"id": "r_1ut324w", "demand": false}
+{"id": "r_1utjc2e", "demand": false}
+{"id": "r_1uu7xat", "demand": true, "problem": "forgetting important personal dates", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I keep forgetting important people's birthdays and realized there's no app for tracking the relationships that actually matter", "flag": "none"}
+{"id": "r_1uulu75", "demand": false}
+{"id": "r_1uv77b8", "demand": true, "problem": "journal and habit tracking combined", "who": "habit journaler", "product": "app", "pain": 1, "pay": "none", "tools": ["habit trackers", "journaling apps"], "quote": "I've been poking around for a while trying to find a phone app that does the same thing, and I keep striking out.", "flag": "none"}
+{"id": "r_1uwy3ng", "demand": false}
+{"id": "r_1ux04uk", "demand": true, "problem": "finding collaborators for ideas", "who": "people with ideas but no collaborators", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "they can't use the idea to do anything because they don't have anyone around them that get them", "flag": "none"}
+{"id": "r_1uxesb8", "demand": false}
+{"id": "r_1uxo4k7", "demand": true, "problem": "collaborative relaxing coloring", "who": "casual artist", "product": "app", "pain": 1, "pay": "none", "tools": ["Happy Color"], "quote": "Most coloring apps (like Happy Color) are completely solo.", "flag": "none"}
+{"id": "r_1uxufrf", "demand": false}
+{"id": "r_1uzm18d", "demand": true, "problem": "scheduling WhatsApp messages", "who": "WhatsApp user", "product": "automation", "pain": 1, "pay": "none", "tools": ["Tasker"], "quote": "I want to be able to write a WhatsApp message now and have my phone send it automatically at a later time", "flag": "none"}
+{"id": "r_1v0t9rb", "demand": false}
+{"id": "r_1v0yuj0", "demand": false}
+{"id": "r_1v2814d", "demand": false}
+{"id": "r_1v2ewfx", "demand": true, "problem": "staying focused on work", "who": "content creator", "product": "app", "pain": 2, "pay": "none", "tools": ["blockers", "focus timers", "Pomodoro"], "quote": "I am highly ambitious, but I also get distracted by things constantly", "flag": "none"}
+{"id": "r_1v3092g", "demand": false}
+{"id": "r_1v3d8bf", "demand": false}
+{"id": "r_1v4femw", "demand": false}
+{"id": "r_1v7spi5", "demand": false}
+{"id": "r_1v8rs0j", "demand": false}
+{"id": "r_1va7m9u", "demand": true, "problem": "sharing ideas with a community", "who": "idea person", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Instagram", "TikTok"], "quote": "I have always been someone full of ideas and nowhere to share them", "flag": "none"}
+{"id": "r_1vblenp", "demand": false}
+{"id": "r_1vbt5p8", "demand": false}
+{"id": "r_1vd1ndy", "demand": false}

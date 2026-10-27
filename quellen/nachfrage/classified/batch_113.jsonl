@@ -1,0 +1,100 @@
+{"id": "r_1kikdfw", "demand": false}
+{"id": "r_1kio5yp", "demand": false}
+{"id": "r_1l0pvw4", "demand": false}
+{"id": "r_1ljhf7r", "demand": false}
+{"id": "r_1lu8bmn", "demand": false}
+{"id": "r_1lx11zc", "demand": false}
+{"id": "r_1mczu27", "demand": true, "problem": "ugc creator performance tracking", "who": "brand marketer managing UGC creators", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "i've been looking for a very simple tool to track stats from different UGC creators on Tiktok, Instagram, Youtube... but it seems like it does not exist.", "flag": "none"}
+{"id": "r_1mh8e9i", "demand": false}
+{"id": "r_1mhil4f", "demand": true, "problem": "quick fake user data generation", "who": "UI designer or developer testing databases", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Sometimes you just need quick, realistic fake user data", "flag": "none"}
+{"id": "r_1motir1", "demand": false}
+{"id": "r_1mr35h9", "demand": false}
+{"id": "r_1mwp0tu", "demand": true, "problem": "grocery cost and nutrition comparison", "who": "budget and health-conscious shoppers", "product": "app", "pain": 2, "pay": "none", "tools": ["Basket", "Flipp", "MyFitnessPal"], "quote": "Right now, if you want to know how much your grocery list will cost, you either have to check every store manually or use clunky apps that only show sales.", "flag": "none"}
+{"id": "r_1mwp4nf", "demand": true, "problem": "grocery cost and nutrition comparison", "who": "budget and health-conscious shoppers", "product": "app", "pain": 2, "pay": "none", "tools": ["Basket", "Flipp", "MyFitnessPal"], "quote": "Right now, if you want to know how much your grocery list will cost, you either have to check every store manually or use clunky apps that only show sales.", "flag": "none"}
+{"id": "r_1nv5mui", "demand": false}
+{"id": "r_1nv5q2b", "demand": false}
+{"id": "r_1nvwbtx", "demand": false}
+{"id": "r_1nz6osw", "demand": false}
+{"id": "r_1pe89ok", "demand": false}
+{"id": "r_1ph2q5m", "demand": true, "problem": "single app for diet and kitchen tracking", "who": "individual tracking diet and fitness", "product": "app", "pain": 2, "pay": "none", "tools": ["calorie tracking apps"], "quote": "to solve my own frustration with tracking apps", "flag": "none"}
+{"id": "r_1phtxt7", "demand": false}
+{"id": "r_1pz4v41", "demand": true, "problem": "automated codebase migration between stacks", "who": "Ruby on Rails developer", "product": "automation", "pain": 2, "pay": "none", "tools": ["Cursor", "Antigravity"], "quote": "So I thought it'd be cool if there is a tool that takes the code base and rewrites it completely.", "flag": "none"}
+{"id": "r_1q6f42d", "demand": false}
+{"id": "r_1q8vzx2", "demand": false}
+{"id": "r_1qwy3z8", "demand": false}
+{"id": "r_1r1d8en", "demand": false}
+{"id": "r_1r2v550", "demand": false}
+{"id": "r_1re259m", "demand": false}
+{"id": "r_1rhclxt", "demand": false}
+{"id": "r_1rhy36t", "demand": true, "problem": "note system overload and abandonment", "who": "heavy note-taker", "product": "app", "pain": 2, "pay": "none", "tools": ["Obsidian", "Notion", "Logseq"], "quote": "The tool becomes more work to maintain than it's worth.", "flag": "none"}
+{"id": "r_1skdpk1", "demand": false}
+{"id": "r_1slyefp", "demand": false}
+{"id": "r_1t3cf4t", "demand": true, "problem": "calorie estimates for local restaurant meals", "who": "GLP-1 user tracking calories and protein", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "It creates this mental burden where eating out stops feeling enjoyable", "flag": "none"}
+{"id": "r_1t434q7", "demand": true, "problem": "credit for AI tools in videos", "who": "AI video creator", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Kling", "Runway", "Pika", "Sora", "YouTube", "TikTok"], "quote": "Creators get no credit for the tool choices and workflow decisions that shaped the output.", "flag": "none"}
+{"id": "r_1truvl8", "demand": false}
+{"id": "r_1u1q0sg", "demand": false}
+{"id": "r_1uj4c41", "demand": false}
+{"id": "r_1um0r0t", "demand": true, "problem": "liquidation risk across multiple exchanges", "who": "leveraged crypto trader", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Binance", "Bybit", "Hyperliquid", "OKX", "dYdX", "GMX"], "quote": "Does anyone else struggle to keep track of liquidation risk across multiple exchanges?", "flag": "financing-adjacent: leveraged crypto trading"}
+{"id": "r_1utuexw", "demand": false}
+{"id": "r_1uy61tb", "demand": false}
+{"id": "r_1vn7p63", "demand": true, "problem": "learning AI-generated codebases", "who": "developer learning an unfamiliar codebase", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "would love to have a tool handhold me through learning everything", "flag": "none"}
+{"id": "r_1w6pnkh", "demand": true, "problem": "polished UI components for AI apps", "who": "developer building AI apps", "product": "template", "pain": 2, "pay": "none", "tools": [], "quote": "but making the actual interface feel polished is a different story.", "flag": "none"}
+{"id": "r_1wbfb6w", "demand": false}
+{"id": "r_1wnm1d3", "demand": false}
+{"id": "r_18z2r97", "demand": true, "problem": "finding new local restaurants to try", "who": "frequent restaurant diner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I want to try new places to eat near me but often fallback to my favorites and avoid trying other places", "flag": "none"}
+{"id": "r_196metd", "demand": false}
+{"id": "r_1au0ppm", "demand": false}
+{"id": "r_1ayte7z", "demand": true, "problem": "affordable peer mental health support", "who": "person in financial hardship seeking mental health support", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "enough finances to afford a mental health professional.", "flag": "none"}
+{"id": "r_1b2st8m", "demand": false}
+{"id": "r_1bceejz", "demand": true, "problem": "sharing meal kits with strangers", "who": "meal kit customer with dietary restrictions", "product": "app", "pain": 1, "pay": "none", "tools": ["HelloFresh", "Blue Apron"], "quote": "I would love to try one of these services, but because of specific restrictions, I might be able to take only one or two of what they have offered.", "flag": "none"}
+{"id": "r_1biexzz", "demand": true, "problem": "skilled freelancers lost in job applications", "who": "high-skill freelancer and recruiter", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Indeed", "Monster", "Fiverr"], "quote": "Rather than high skill individuals applying for countless jobs only to have their resume missed or overlooked", "flag": "none"}
+{"id": "r_1bu62df", "demand": false}
+{"id": "r_1bwp1qs", "demand": false}
+{"id": "r_1bzkka6", "demand": false}
+{"id": "r_1c9nowf", "demand": false}
+{"id": "r_1cl61g1", "demand": true, "problem": "staying in touch with friends and family", "who": "busy adult", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Sometimes I make a list of people to call just so I stay connected with them and keep relationships alive?", "flag": "none"}
+{"id": "r_1d3erkh", "demand": true, "problem": "food delivery overspending", "who": "frequent food delivery user", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I initially created this app for my personal use to better manage and cut down on my food delivery spending.", "flag": "none"}
+{"id": "r_1d3wisf", "demand": true, "problem": "hands-free recipe steps and cooking timers", "who": "home cook", "product": "app", "pain": 2, "pay": "none", "tools": ["Siri"], "quote": "website is riddled with ads, which makes scrolling around annoying and laggy", "flag": "none"}
+{"id": "r_1d7ppgo", "demand": false}
+{"id": "r_1dea9sb", "demand": false}
+{"id": "r_1dfbixq", "demand": true, "problem": "sharing several links in one message", "who": "unknown", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": [], "quote": "It sucks to copy a URL, switch apps, paste it into the conversation, go back to a browser, and do the same thing multiple times.", "flag": "none"}
+{"id": "r_1dtxxni", "demand": true, "problem": "low streamer earnings from live streaming", "who": "live streamer", "product": "app", "pain": 2, "pay": "none", "tools": ["Twitch", "YouTube"], "quote": "Currently live streaming apps don't pay a lot for most streamers.", "flag": "none"}
+{"id": "r_1dtyfa9", "demand": true, "problem": "low streamer earnings from live streaming", "who": "live streamer", "product": "app", "pain": 2, "pay": "none", "tools": ["Twitch", "YouTube"], "quote": "Currently live streaming apps don't pay a lot for most streamers.", "flag": "none"}
+{"id": "r_1dyfp71", "demand": false}
+{"id": "r_1ef8vmh", "demand": true, "problem": "piano time alarm clock app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "would love to use it daily if it worked as an alarm clock.", "flag": "none"}
+{"id": "r_1ehzddh", "demand": false}
+{"id": "r_1epqvlg", "demand": false}
+{"id": "r_1eyxmca", "demand": false}
+{"id": "r_1ffmqs9", "demand": false}
+{"id": "r_1fk4u0b", "demand": true, "problem": "filling slow restaurant periods", "who": "restaurant owner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "We own a pizzeria and at times we can have some slow periods", "flag": "none"}
+{"id": "r_1fzqqcw", "demand": false}
+{"id": "r_1gdhs96", "demand": true, "problem": "trusted book swapping", "who": "book reader with limited shelf space", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I couldn't find a reliable platform to swap books with others, so I decided to create one.", "flag": "none"}
+{"id": "r_1gejkqw", "demand": true, "problem": "low turnout at community meetups", "who": "community organizer", "product": "app", "pain": 2, "pay": "none", "tools": ["Discord", "Meetup", "Foursquare"], "quote": "Much of that is because no one comes to their events even though hundreds join their Discord/Meetup org.", "flag": "none"}
+{"id": "r_1gfn7kd", "demand": false}
+{"id": "r_1ginadj", "demand": false}
+{"id": "r_1gjle3n", "demand": false}
+{"id": "r_1go46n7", "demand": false}
+{"id": "r_1gubpsu", "demand": false}
+{"id": "r_1gv387z", "demand": false}
+{"id": "r_1gyxkjq", "demand": false}
+{"id": "r_1h0nriw", "demand": true, "problem": "verifying sports betting tipster claims", "who": "sports bettor", "product": "web tool", "pain": 2, "pay": "none", "tools": ["X", "TikTok", "DubClub"], "quote": "how do we actually know if these claims are real?", "flag": "gambling: sports betting picks tracker"}
+{"id": "r_1h5nk8h", "demand": false}
+{"id": "r_1hbyccf", "demand": false}
+{"id": "r_1hptg12", "demand": true, "problem": "couples shared expense tracking", "who": "couple sharing finances", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Sheets"], "quote": "My partner and I have always struggled with managing shared finances.", "flag": "none"}
+{"id": "r_1htious", "demand": false}
+{"id": "r_1hus3qr", "demand": true, "problem": "hassle of returning online purchases", "who": "busy shopper in the Bay Area", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Returns are such a pain", "flag": "none"}
+{"id": "r_1husmbv", "demand": false}
+{"id": "r_1hvsyyd", "demand": false}
+{"id": "r_1i0lac3", "demand": false}
+{"id": "r_1i1jswl", "demand": false}
+{"id": "r_1i5k75q", "demand": false}
+{"id": "r_1i6m0ox", "demand": false}
+{"id": "r_1i8wvcz", "demand": false}
+{"id": "r_1i98rc9", "demand": false}
+{"id": "r_1icjtcf", "demand": false}
+{"id": "r_1iqrm1p", "demand": false}
+{"id": "r_1iuv54v", "demand": false}
+{"id": "r_1ixrc72", "demand": true, "problem": "affordable on-demand sports coaching", "who": "amateur tennis player", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I don't have a coach because lessons are in general quite expensive and i end up playing more on my own.", "flag": "none"}
+{"id": "r_1iyobwb", "demand": false}
+{"id": "r_1j89bbs", "demand": false}
+{"id": "r_1jebt54", "demand": true, "problem": "extra trash capacity on garbage day", "who": "homeowner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I didn't want to pay/drive to the dump (or rent one cuz they're expensive).", "flag": "none"}

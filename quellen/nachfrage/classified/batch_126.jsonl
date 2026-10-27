@@ -1,0 +1,100 @@
+{"id": "r_1apen39", "demand": true, "problem": "finding a personal life purpose", "who": "young adults searching for purpose", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I have struggled all my life to find the thing I want to do for the rest of my life.", "flag": "none"}
+{"id": "r_1aptj5r", "demand": false}
+{"id": "r_1atcc8f", "demand": true, "problem": "AI file organization for cluttered computers", "who": "people with cluttered files", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Google Drive", "Dropbox"], "quote": "when point in time comes that I have to find some files it can take enormous amount of time for me.", "flag": "none"}
+{"id": "r_1atlbwy", "demand": false}
+{"id": "r_1avhoe2", "demand": false}
+{"id": "r_1azv743", "demand": true, "problem": "newsletter overload summaries", "who": "newsletter subscribers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I am so tired of subscribing to newsletters", "flag": "none"}
+{"id": "r_1b34qsu", "demand": false}
+{"id": "r_1b9exdk", "demand": true, "problem": "aggregating mentions across work apps", "who": "office workers", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Slack", "Outlook", "Jira"], "quote": "I frequently encounter the issue of being tagged by managers, colleagues, and vendors across platforms like Slack, Outlook, and Jira.", "flag": "none"}
+{"id": "r_1bd02ih", "demand": false}
+{"id": "r_1bgl5ub", "demand": false}
+{"id": "r_1bngrtl", "demand": false}
+{"id": "r_1btmm2a", "demand": true, "problem": "real-time bar and club wait times", "who": "nightlife travelers", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "This is most useful when traveling to new cities where nightlife is spread out", "flag": "none"}
+{"id": "r_1by80vi", "demand": false}
+{"id": "r_1bzuxx7", "demand": false}
+{"id": "r_1c4wx77", "demand": true, "problem": "hotel nights for remote workers", "who": "remote workers in big cities", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "people want to live outside the city (close to the sea for instance) but keep their job in the big city", "flag": "none"}
+{"id": "r_1c90qjq", "demand": true, "problem": "pay-per-site subscription instead of ads", "who": "web readers", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["Scroll"], "quote": "I would love to use something like that", "flag": "none"}
+{"id": "r_1cdsbyf", "demand": true, "problem": "self-service trade show booth design", "who": "small exhibitors at trade shows", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I specifically feel like the design process is a waste of money and time", "flag": "none"}
+{"id": "r_1cefrhe", "demand": false}
+{"id": "r_1cgl1jl", "demand": false}
+{"id": "r_1cgx95m", "demand": false}
+{"id": "r_1cnf9vp", "demand": false}
+{"id": "r_1cq6mkx", "demand": false}
+{"id": "r_1cquzmm", "demand": true, "problem": "online resume and interview coaching for students", "who": "university students", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "there is a strong need to guide them through their early professional career", "flag": "none"}
+{"id": "r_1ct8htu", "demand": false}
+{"id": "r_1cwv45q", "demand": true, "problem": "AI UI design generation for developers", "who": "developers without design skills", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["Midjourney", "Dribbble", "Behance"], "quote": "I would pay really good money for an app like a Midjourney for pretty UIs.", "flag": "none"}
+{"id": "r_1cwz9kr", "demand": true, "problem": "booking local tradespeople online", "who": "homeowners in New Zealand", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "trying to find the best mechanic and then calling them up to see which time they can do it", "flag": "none"}
+{"id": "r_1d8nh6o", "demand": false}
+{"id": "r_1da9cex", "demand": false}
+{"id": "r_1dao4zv", "demand": false}
+{"id": "r_1dk22b2", "demand": false}
+{"id": "r_1dllmlx", "demand": true, "problem": "simplified SEC filing research for retail investors", "who": "retail investors", "product": "web tool", "pain": 2, "pay": "none", "tools": ["AlphaSense"], "quote": "the average retail investor has to access on average 5 services to get this info", "flag": "none"}
+{"id": "r_1dnkq25", "demand": false}
+{"id": "r_1dvx7um", "demand": false}
+{"id": "r_1dwqwi8", "demand": true, "problem": "newsletter overload summaries", "who": "newsletter subscribers", "product": "app", "pain": 2, "pay": "none", "tools": ["TechCrunch", "Hacker News"], "quote": "I have always been subscribing to newsletters that end up just being constant ads and a money pull with no value.", "flag": "none"}
+{"id": "r_1dyg3pf", "demand": false}
+{"id": "r_1dzv5h8", "demand": false}
+{"id": "r_1e06qgd", "demand": false}
+{"id": "r_1e82l85", "demand": false}
+{"id": "r_1eby2es", "demand": false}
+{"id": "r_1eccc16", "demand": true, "problem": "simple productivity app for ADHD", "who": "teens and young adults with ADHD", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I find current productivity tools too complicated", "flag": "none"}
+{"id": "r_1edp6wo", "demand": false}
+{"id": "r_1eexo0z", "demand": true, "problem": "secure sharing of portfolios for artists", "who": "artists", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Artists need to share their content and portofolio.", "flag": "none"}
+{"id": "r_1ehjnmc", "demand": false}
+{"id": "r_1ej8qbm", "demand": false}
+{"id": "r_1ela3kc", "demand": false}
+{"id": "r_1eo933d", "demand": false}
+{"id": "r_1es8p0i", "demand": true, "problem": "quick access to saved texts and links", "who": "smartphone users filling forms", "product": "app", "pain": 1, "pay": "none", "tools": ["clipboard manager"], "quote": "I needed few texts/links frequently.", "flag": "none"}
+{"id": "r_1evh8vi", "demand": false}
+{"id": "r_1eyx035", "demand": false}
+{"id": "r_1f09irf", "demand": false}
+{"id": "r_1f3ownp", "demand": false}
+{"id": "r_1f55sao", "demand": false}
+{"id": "r_1f800e4", "demand": false}
+{"id": "r_1f8te5n", "demand": false}
+{"id": "r_1fek937", "demand": true, "problem": "direct hospital travel nurse job listings", "who": "travel nurses", "product": "web tool", "pain": 2, "pay": "none", "tools": ["staffing agencies"], "quote": "find travel assignments being offered directly by the hospital", "flag": "none"}
+{"id": "r_1fn5m78", "demand": false}
+{"id": "r_1fpxx6h", "demand": true, "problem": "AI HR admin automation for startups", "who": "startup founders and HR staff", "product": "automation", "pain": 2, "pay": "none", "tools": ["Slack", "Microsoft Teams"], "quote": "my friends in HR expressed feeling burned out from repetitive administrative tasks", "flag": "none"}
+{"id": "r_1fqmqd4", "demand": true, "problem": "finding specialist partners for businesses", "who": "small business owners", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "In every business venture it is hard to find people who can do the job", "flag": "none"}
+{"id": "r_1frauvu", "demand": true, "problem": "local contacts for travelers", "who": "travelers", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "to assist you with the language barrier or local restaurant tipps", "flag": "none"}
+{"id": "r_1fwlxgx", "demand": true, "problem": "B2B wholesale ordering with approvals", "who": "wholesalers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Shopify Plus", "BigCommerce", "Wholesale Gorilla"], "quote": "haven't found a good solution for their needs", "flag": "none"}
+{"id": "r_1fzadth", "demand": false}
+{"id": "r_1g2lh1y", "demand": true, "problem": "validating startup ideas before building", "who": "indie hackers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Ahrefs"], "quote": "Save money on tools like Ahrefs that are priced for other use cases but are overpriced for indie hackers", "flag": "none"}
+{"id": "r_1g340ke", "demand": false}
+{"id": "r_1gew1ip", "demand": false}
+{"id": "r_1ggj966", "demand": true, "problem": "drafting HR handbooks for startups", "who": "founders and junior HR staff", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "spend significant time and money creating their initial HR policies", "flag": "none"}
+{"id": "r_1gikzne", "demand": true, "problem": "org charts from spreadsheets", "who": "team leads managing large teams", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Google Sheets", "PowerPoint", "Figma"], "quote": "manually keeping an org chart updated in powerpoint/Figma", "flag": "none"}
+{"id": "r_1go2b7h", "demand": false}
+{"id": "r_1goj08n", "demand": true, "problem": "automated print-on-demand t-shirt listings", "who": "t-shirt sellers", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["Printful", "Printify", "Google Sheets"], "quote": "I am willing to pay for the automation upfront", "flag": "none"}
+{"id": "r_1gv51nx", "demand": false}
+{"id": "r_1gwm8k7", "demand": false}
+{"id": "r_1h4xman", "demand": false}
+{"id": "r_1hbn87j", "demand": true, "problem": "automated video localization for creators", "who": "YouTube creators", "product": "web tool", "pain": 2, "pay": "none", "tools": ["YouTube", "TikTok", "Instagram"], "quote": "Dubbing takes away the personal connection you create with your actual voice/brand recognition", "flag": "none"}
+{"id": "r_1hczowg", "demand": false}
+{"id": "r_1hdco57", "demand": false}
+{"id": "r_1he2h0d", "demand": true, "problem": "AI agent for shopping research", "who": "online shoppers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "making a simple purchase can take hours.", "flag": "none"}
+{"id": "r_1hejgth", "demand": true, "problem": "finding recurring problems to solve with MVPs", "who": "aspiring founders", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Reddit"], "quote": "how hard it is to come up with a SaaS idea that solves a real problem", "flag": "none"}
+{"id": "r_1hf9oiq", "demand": true, "problem": "AI-guided hosting setup for MVPs", "who": "solo developers launching MVPs", "product": "web tool", "pain": 2, "pay": "none", "tools": ["GCP", "AWS"], "quote": "it seemed like a pain point to me to consolidate all the different paths", "flag": "none"}
+{"id": "r_1hh4bp2", "demand": false}
+{"id": "r_1hhkppm", "demand": false}
+{"id": "r_1hjwneb", "demand": false}
+{"id": "r_1hk75sf", "demand": false}
+{"id": "r_1hld5gf", "demand": false}
+{"id": "r_1hn0civ", "demand": false}
+{"id": "r_1hqggcq", "demand": false}
+{"id": "r_1hqyo0u", "demand": false}
+{"id": "r_1hr5xvr", "demand": true, "problem": "founder community for aspiring entrepreneurs", "who": "aspiring founders without networks", "product": "web tool", "pain": 2, "pay": "none", "tools": ["LinkedIn", "Reddit"], "quote": "Most of these founder communities are inaccessible for regular people", "flag": "none"}
+{"id": "r_1htaizt", "demand": false}
+{"id": "r_1htem16", "demand": false}
+{"id": "r_1huqqkg", "demand": false}
+{"id": "r_1hvqsb2", "demand": false}
+{"id": "r_1i25u5x", "demand": false}
+{"id": "r_1i26jyr", "demand": false}
+{"id": "r_1i533b5", "demand": true, "problem": "non-anonymous niche interest communities", "who": "people seeking real connections online", "product": "app", "pain": 1, "pay": "none", "tools": ["Reddit"], "quote": "social-media apps are constantly focused more on likes, shares, follower counts", "flag": "none"}
+{"id": "r_1i6jptt", "demand": false}
+{"id": "r_1i7mnrx", "demand": false}
+{"id": "r_1i811ps", "demand": false}
+{"id": "r_1i8x8tb", "demand": false}
+{"id": "r_1iehk6u", "demand": false}
+{"id": "r_1ig4vez", "demand": false}
+{"id": "r_1igzz6q", "demand": false}

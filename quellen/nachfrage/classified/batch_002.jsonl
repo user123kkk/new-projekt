@@ -1,0 +1,100 @@
+{"id": "h_48611307", "demand": true, "problem": "curated ad-free social feed", "who": "social media user", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Instagram"], "quote": "Time lock it based on my prefs so that it respects me as a human being, doesn&#x27;t try to feed off of me as a data source and I&#x27;ll pay for that.", "flag": "none"}
+{"id": "h_48608387", "demand": true, "problem": "LLM uncertainty detection", "who": "AI user", "product": "other", "pain": 2, "pay": "explicit", "tools": [], "quote": "I would pay for that kind of reliability tbh", "flag": "none"}
+{"id": "h_48602316", "demand": false}
+{"id": "h_48388346", "demand": false}
+{"id": "h_48318806", "demand": false}
+{"id": "h_48300313", "demand": true, "problem": "filtering AI-generated video content", "who": "YouTube viewer", "product": "plugin/extension", "pain": 2, "pay": "explicit", "tools": ["YouTube Premium"], "quote": "No joke, I would pay for this more than i do for premium.", "flag": "none"}
+{"id": "h_48032191", "demand": false}
+{"id": "h_47977651", "demand": false}
+{"id": "h_47922573", "demand": false}
+{"id": "h_47887678", "demand": true, "problem": "markdown knowledge base desktop app", "who": "note-taker", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Obsidian", "Bear", "Notion", "Craft"], "quote": "You could just have an official app version - I would pay for that.", "flag": "none"}
+{"id": "h_47856111", "demand": false}
+{"id": "h_47854766", "demand": false}
+{"id": "h_47837579", "demand": true, "problem": "human-made music filtering platform", "who": "music listener", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Deezer"], "quote": "personally I would pay for the thing I describe, sounds like you wouldn&#x27;t.", "flag": "music"}
+{"id": "h_47816816", "demand": false}
+{"id": "h_47795924", "demand": true, "problem": "hard spending caps for cloud services", "who": "solo developer", "product": "other", "pain": 2, "pay": "implied", "tools": ["Cloudflare", "Supabase", "Vercel", "Resend"], "quote": "The problem is that once you&#x27;re on the paid plan, you&#x27;re exposed to unlimited risk if your worker goes crazy due to a stupid code bug or if you&#x27;re hacked.", "flag": "none"}
+{"id": "h_47792192", "demand": false}
+{"id": "h_47743105", "demand": false}
+{"id": "h_47599723", "demand": true, "problem": "cheapest grocery price aggregation", "who": "grocery shopper", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["REWE"], "quote": "An aggregator like this that could surface the same good for the cheapest price all inclusive of delivery would be something I would pay for!", "flag": "none"}
+{"id": "h_47538201", "demand": false}
+{"id": "h_47459419", "demand": false}
+{"id": "h_47456636", "demand": false}
+{"id": "h_47447760", "demand": false}
+{"id": "h_47440757", "demand": false}
+{"id": "h_47229507", "demand": false}
+{"id": "h_47089128", "demand": true, "problem": "fast embedding model hosting", "who": "developer", "product": "other", "pain": 1, "pay": "explicit", "tools": [], "quote": "It would be pretty incredible if they could host an embedding model on this same hardware, I would pay for that immediately.", "flag": "none"}
+{"id": "h_47065610", "demand": false}
+{"id": "h_47046822", "demand": true, "problem": "unified alternative payment API", "who": "developer", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Wero", "WeChat Pay", "AliPay"], "quote": "I would pay for a solution that aggregates these alternative payment systems that aren&#x27;t tied to VISA and Mastercard and their rules.", "flag": "none"}
+{"id": "h_47019724", "demand": true, "problem": "hide YouTube Shorts", "who": "YouTube user", "product": "plugin/extension", "pain": 2, "pay": "explicit", "tools": ["uBlock Origin", "YouTube Premium"], "quote": "I would pay for YouTube premium again if I could switch off shorts.", "flag": "none"}
+{"id": "h_46975503", "demand": false}
+{"id": "h_46971506", "demand": false}
+{"id": "h_46859761", "demand": true, "problem": "AI-free browsing filter", "who": "web browser user", "product": "plugin/extension", "pain": 1, "pay": "explicit", "tools": ["Firefox"], "quote": "Seriously...I would pay for web browsing, reddit, HackerNews, etc. to exclude all AI stuff.", "flag": "none"}
+{"id": "h_46737069", "demand": true, "problem": "automating multi-app business workflows", "who": "small business owner", "product": "automation", "pain": 3, "pay": "explicit", "tools": ["Square"], "quote": "I hate it and I would pay for your product if you could save me that time.", "flag": "none"}
+{"id": "h_46705937", "demand": false}
+{"id": "h_46684740", "demand": false}
+{"id": "h_46678094", "demand": false}
+{"id": "h_46676083", "demand": true, "problem": "local-first native PDF tools", "who": "privacy-focused user", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Chrome", "Electron"], "quote": "If your app blesses me with a beautifully designed native GUI (or UI), instead of presenting itself in Electron slop to me, then I am already almost sold.", "flag": "none"}
+{"id": "h_46506305", "demand": true, "problem": "standalone git diff UI", "who": "developer", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Sublime Merge", "IntelliJ", "Zed"], "quote": "I would pay for a fast, standalone git UI that is as good as the IntelliJ one.", "flag": "none"}
+{"id": "h_46498597", "demand": true, "problem": "podcast ad removal", "who": "podcast listener", "product": "plugin/extension", "pain": 2, "pay": "explicit", "tools": ["Spotify", "SponsorBlock"], "quote": "I would pay for this or a SponsorBlock-type plugin.", "flag": "none"}
+{"id": "h_46427844", "demand": false}
+{"id": "h_46402229", "demand": true, "problem": "paid decentralized search index", "who": "decentralized app user", "product": "other", "pain": 1, "pay": "explicit", "tools": [], "quote": "I would pay for use of decentralised apps which depend on some resources that cost money, for example an index that would make them much faster to find something.", "flag": "none"}
+{"id": "h_46400062", "demand": true, "problem": "run CI jobs locally before commit", "who": "developer", "product": "automation", "pain": 2, "pay": "explicit", "tools": [], "quote": "I hate that I need to write commands in Yaml files, commit (or use the browser) and then look at the result.", "flag": "none"}
+{"id": "h_46327987", "demand": false}
+{"id": "h_46309272", "demand": true, "problem": "private browser for Linux", "who": "Linux user", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Kagi", "Tor Browser"], "quote": "I would pay for a good, private browser (I know they make onion but I&#x27;m on linux, not macos or windows).", "flag": "none"}
+{"id": "h_46299266", "demand": true, "problem": "private local language learning browser extension", "who": "language learner", "product": "plugin/extension", "pain": 1, "pay": "explicit", "tools": [], "quote": "Running this with a local ai and a strongly worded guarantee of no tracking&#x2F;reselling of my metadata is something I would pay for.", "flag": "none"}
+{"id": "h_46289394", "demand": true, "problem": "dark web credential exposure monitoring", "who": "individual with exposed data", "product": "web tool", "pain": 2, "pay": "explicit", "tools": [], "quote": "OK, I would pay for this service.", "flag": "none"}
+{"id": "h_46281391", "demand": true, "problem": "self-hosted backup and restore", "who": "self-hoster", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["Immich", "Google Photos", "Umbrel"], "quote": "If I could easily be up and running after a hardware failure or software upgrade failure, I would pay for that in a heartbeat and ditch the comparable SaaS.", "flag": "none"}
+{"id": "h_46245536", "demand": false}
+{"id": "h_46154316", "demand": true, "problem": "geofenced age-gated internet access", "who": "internet user", "product": "other", "pain": 1, "pay": "explicit", "tools": [], "quote": "PLEASE give me an age gated, geofenced internet. I would pay for such a service.", "flag": "none"}
+{"id": "h_46055048", "demand": true, "problem": "ad-free non-moderated video hosting", "who": "YouTube viewer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["YouTube"], "quote": "I would pay for Youtube if it was a video hosting service straight and honest, connecting creators and viewers, and not an opinionated platform moderated into nannies.", "flag": "none"}
+{"id": "h_45998704", "demand": true, "problem": "search without AI features", "who": "search engine user", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["Kagi"], "quote": "I now that the price haven’t changed for a while, but I would pay for unlimited search and no AI.", "flag": "none"}
+{"id": "h_45919304", "demand": true, "problem": "unified streaming across devices", "who": "media user", "product": "app", "pain": 2, "pay": "explicit", "tools": ["AirPlay"], "quote": "I would pay for a streaming service if everything was in one place and working seamlessly with all my devices like my torrent&#x2F;AirPlay setup.", "flag": "none"}
+{"id": "h_45913262", "demand": false}
+{"id": "h_45869816", "demand": false}
+{"id": "h_45846494", "demand": false}
+{"id": "h_45807079", "demand": false}
+{"id": "h_45762880", "demand": true, "problem": "kids investing learning app", "who": "parent", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "You should make it an app, I would pay for it", "flag": "none"}
+{"id": "h_45745265", "demand": true, "problem": "Excel for Linux", "who": "Linux user", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Excel", "SoftMaker Office"], "quote": "Excel is the one Microsoft application I would pay for a Linux version.", "flag": "none"}
+{"id": "h_45706057", "demand": false}
+{"id": "h_45588096", "demand": false}
+{"id": "h_45538016", "demand": false}
+{"id": "h_45525977", "demand": false}
+{"id": "h_45482749", "demand": false}
+{"id": "h_45455215", "demand": true, "problem": "affordable self-hosted object storage licensing", "who": "homelab user", "product": "other", "pain": 2, "pay": "explicit", "tools": ["MinIO"], "quote": "To be clear, I would pay for a license if the prices weren&#x27;t impossible to afford as an invidual who uses Minio for non-business reasons.", "flag": "none"}
+{"id": "h_45388200", "demand": true, "problem": "paid tier for open source proxy", "who": "developer", "product": "other", "pain": 1, "pay": "explicit", "tools": ["Traefik"], "quote": "If I had access to the code I would pay for it.", "flag": "none"}
+{"id": "h_45383377", "demand": true, "problem": "macOS app switcher replacement", "who": "macOS user", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Cmd-Tab"], "quote": "does it display minimized apps as default macos switcher? that bothers me to degree i would pay for substitute.", "flag": "none"}
+{"id": "h_45376538", "demand": false}
+{"id": "h_45366602", "demand": true, "problem": "semantic search inside video transcripts", "who": "researcher or viewer", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["YouTube"], "quote": "I would pay for YouTube if Google created the best possible search engine they could for it.", "flag": "none"}
+{"id": "h_45359051", "demand": false}
+{"id": "h_45300533", "demand": true, "problem": "Windows-grade image editor for Linux", "who": "image editor user", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["paint.NET", "Pinta", "GIMP", "Krita"], "quote": "Tbh, at this point I would pay for paint.NET on Linux.", "flag": "none"}
+{"id": "h_45135067", "demand": false}
+{"id": "h_45119297", "demand": false}
+{"id": "h_44973941", "demand": false}
+{"id": "h_44947373", "demand": false}
+{"id": "h_44822433", "demand": true, "problem": "single AI subscription bundle", "who": "developer", "product": "other", "pain": 1, "pay": "explicit", "tools": ["Claude", "OpenAI", "Google Developer Premium"], "quote": "but really I just want something that gives me everything in a single subscription, that I can use.", "flag": "none"}
+{"id": "h_44781187", "demand": false}
+{"id": "h_44688049", "demand": true, "problem": "text length rephrasing for applications", "who": "grant writer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": [], "quote": "Re-phrasing to fit within word or character limits is certainly something I would pay for!", "flag": "none"}
+{"id": "h_44632922", "demand": false}
+{"id": "h_44559417", "demand": false}
+{"id": "h_44556949", "demand": false}
+{"id": "h_44550559", "demand": true, "problem": "paid funding for a free browser", "who": "browser user", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Firefox"], "quote": "I would pay for the development of a decent free browser.", "flag": "none"}
+{"id": "h_44440432", "demand": true, "problem": "YouTube Premium without music bundle", "who": "YouTube viewer", "product": "other", "pain": 1, "pay": "explicit", "tools": ["YouTube Premium", "YouTube Music"], "quote": "I would pay for YouTube premium in a heartbeat if they didn’t also include YouTube music, which I have zero interest in paying for.", "flag": "music"}
+{"id": "h_44416767", "demand": false}
+{"id": "h_44416085", "demand": false}
+{"id": "h_44404595", "demand": true, "problem": "local specialized code model weights", "who": "Nix developer", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Nix"], "quote": "I would pay for LLM weights that can figure a complex Nix codebase, preferably my own.", "flag": "none"}
+{"id": "h_44403635", "demand": true, "problem": "universal ad blocking everywhere", "who": "ad-exposed consumer", "product": "other", "pain": 2, "pay": "explicit", "tools": [], "quote": "I would pay for something that blocks all ads everywhere, including when I&#x27;m at a friend&#x27;s house watching TV or YT and they don&#x27;t have an ad blocker.", "flag": "none"}
+{"id": "h_44390451", "demand": true, "problem": "accurate AI language tutor pronunciation", "who": "Japanese learner", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Anki"], "quote": "I think I would pay for this if I wasn&#x27;t worried about learning mispronunciations or errors.", "flag": "none"}
+{"id": "h_44373528", "demand": false}
+{"id": "h_44365300", "demand": true, "problem": "curated developer documentation access", "who": "programmer", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["MDN"], "quote": "I’d pay to be part of a programmer community or access to curated raw material like documentation", "flag": "none"}
+{"id": "h_44339994", "demand": false}
+{"id": "h_44295364", "demand": false}
+{"id": "h_44291304", "demand": false}
+{"id": "h_44281517", "demand": true, "problem": "email verification testing for automated tests", "who": "QA engineer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["puppeteer"], "quote": "like for automated testing with puppeteer, ie: register, then check email via api and click validation link for example.", "flag": "none"}
+{"id": "h_44225526", "demand": true, "problem": "LLM grammar breakdown for language learners", "who": "language learner", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Migaku", "Claude"], "quote": "The one and only actual use (outside of generating funny memes) I&#x27;ve had from any LLM so far, is language learning.", "flag": "none"}
+{"id": "h_44185065", "demand": true, "problem": "post-capture depth bokeh editing", "who": "photographer", "product": "app", "pain": 1, "pay": "explicit", "tools": ["iPhone camera"], "quote": "I would pay for that.", "flag": "none"}
+{"id": "h_44113169", "demand": false}
+{"id": "h_44109478", "demand": false}
+{"id": "h_44061069", "demand": true, "problem": "Java language server for Emacs", "who": "Emacs developer", "product": "other", "pain": 1, "pay": "explicit", "tools": ["IntelliJ IDEA", "Emacs"], "quote": "I would pay for an Intellij Ultimate subscription just to get access to such a thing.", "flag": "none"}
+{"id": "h_44053606", "demand": true, "problem": "e-ink mode browser extension for Safari", "who": "Safari user", "product": "plugin/extension", "pain": 1, "pay": "explicit", "tools": ["Eink Mode"], "quote": "Great work! I would pay for this as a Safari plugin.", "flag": "none"}
+{"id": "h_44024144", "demand": true, "problem": "spaced repetition for handwritten notes", "who": "student", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Anki"], "quote": "I would pay for an e-ink tablet dedicated to notes and spaced repetition.", "flag": "none"}
+{"id": "h_43925345", "demand": true, "problem": "graded reading text generation for language learners", "who": "language learner", "product": "app", "pain": 2, "pay": "explicit", "tools": ["DuoBook"], "quote": "This is such an amazing idea and I would pay for it right now as finding text for A1-A2 is virtually impossible if your language is not incredibly popular", "flag": "none"}

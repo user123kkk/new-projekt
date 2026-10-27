@@ -1,0 +1,100 @@
+{"id": "r_1nlz8aq", "demand": true, "problem": "comparing products and checking reviews online", "who": "online shopper", "product": "app", "pain": 2, "pay": "none", "tools": ["BuyScout"], "quote": "I always end up opening 10+ tabs when I try to buy something online, checking reviews", "flag": "none"}
+{"id": "r_1o7qdpp", "demand": true, "problem": "ranking humanoid and service robots", "who": "robot enthusiast", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "there's no general ranking for them.", "flag": "none"}
+{"id": "r_1ou2n9h", "demand": false}
+{"id": "r_1ppxyvi", "demand": true, "problem": "tracking groceries and expiry dates from receipts", "who": "household grocery shopper", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "something goes bad in the fridge", "flag": "none"}
+{"id": "r_1qwf3dy", "demand": false}
+{"id": "r_1r22udt", "demand": false}
+{"id": "r_1suj1tq", "demand": true, "problem": "collecting customer feedback into product insights", "who": "product manager", "product": "app", "pain": 2, "pay": "none", "tools": ["Slack"], "quote": "customers are on calls saying exactly what they need, sending slack messages, opening tickets, and literally nobody collects any of it in one place", "flag": "none"}
+{"id": "r_1up9mqt", "demand": false}
+{"id": "r_1v99uat", "demand": false}
+{"id": "r_1vj9bw5", "demand": false}
+{"id": "r_1w8xbnm", "demand": true, "problem": "collecting group trip photos", "who": "friend group on a trip", "product": "app", "pain": 1, "pay": "none", "tools": ["group chat"], "quote": "Photos scattered across everyone's phones, half never make it", "flag": "none"}
+{"id": "r_1wfmqu4", "demand": false}
+{"id": "r_1ipdxui", "demand": false}
+{"id": "r_1uic43y", "demand": false}
+{"id": "r_1umeh7g", "demand": false}
+{"id": "r_1c6jn85", "demand": false}
+{"id": "r_1c8lvoc", "demand": false}
+{"id": "r_1ciwo2g", "demand": false}
+{"id": "r_1fgo1sm", "demand": false}
+{"id": "r_1hypibj", "demand": false}
+{"id": "r_1oyoo89", "demand": false}
+{"id": "r_1uilhq3", "demand": false}
+{"id": "r_1x6tom8", "demand": false}
+{"id": "r_1apo7hd", "demand": true, "problem": "extracting item prices from receipts", "who": "shopper tracking prices", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I conducted a quick search, but I couldn't find anything that does what I am looking for.", "flag": "none"}
+{"id": "r_1bf5ps5", "demand": false}
+{"id": "r_1cv18r2", "demand": true, "problem": "finding training partners for open mats", "who": "wrestler", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I’ve lost touch with most of the members of the clubs I used to go to and I’m looking to get back into it to stay in shape.", "flag": "none"}
+{"id": "r_1fa5lb7", "demand": false}
+{"id": "r_1flkzpq", "demand": false}
+{"id": "r_1ge8xou", "demand": true, "problem": "searching multiple book sources in one place", "who": "reader", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Openlib", "Calibre"], "quote": "Something like Openlib, but with support for other sites too, and not just a phone app.", "flag": "none"}
+{"id": "r_1gsbkgk", "demand": false}
+{"id": "r_1gxjelr", "demand": true, "problem": "matching colors across separate items and locations", "who": "interior designer or crafter", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "trying to get the same color as from 2 different objects at 2 different locations is always hard to get right.", "flag": "none"}
+{"id": "r_1he7hus", "demand": false}
+{"id": "r_1i42rcp", "demand": false}
+{"id": "r_1ieazae", "demand": false}
+{"id": "r_1itberi", "demand": false}
+{"id": "r_1itfdnx", "demand": false}
+{"id": "r_1itz1ft", "demand": true, "problem": "searching multiple book archives at once", "who": "reader", "product": "app", "pain": 1, "pay": "none", "tools": ["LibGen", "archive.org", "sci-hub"], "quote": "it would be awesome if someone makes an app/library which can search the latest server of LibGen", "flag": "none"}
+{"id": "r_1l0pytl", "demand": false}
+{"id": "r_1laox3x", "demand": false}
+{"id": "r_1mmt628", "demand": false}
+{"id": "r_1n000tv", "demand": false}
+{"id": "r_1nil2ip", "demand": false}
+{"id": "r_1nwacvh", "demand": false}
+{"id": "r_1ou49bk", "demand": false}
+{"id": "r_1pu2s9r", "demand": false}
+{"id": "r_1qk2g7p", "demand": false}
+{"id": "r_1qxz3zn", "demand": false}
+{"id": "r_1rptjo8", "demand": false}
+{"id": "r_1rptkx7", "demand": false}
+{"id": "r_1rs14ct", "demand": false}
+{"id": "r_1rtw7i7", "demand": false}
+{"id": "r_1ryrcdi", "demand": false}
+{"id": "r_1slisga", "demand": false}
+{"id": "r_1swyims", "demand": false}
+{"id": "r_1tbane9", "demand": false}
+{"id": "r_1tvklmf", "demand": false}
+{"id": "r_1u1tr4f", "demand": false}
+{"id": "r_1u7yskd", "demand": false}
+{"id": "r_1ufw17z", "demand": false}
+{"id": "r_1ufz97q", "demand": false}
+{"id": "r_1ukn657", "demand": false}
+{"id": "r_1uny2ue", "demand": false}
+{"id": "r_1uqsk2b", "demand": false}
+{"id": "r_1urhdb7", "demand": false}
+{"id": "r_1v17iui", "demand": true, "problem": "AI photo recreation with two people", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Was looking for an AI photo generator app that recreates the picture with any two people", "flag": "images of living beings as core product"}
+{"id": "r_1v92nmx", "demand": false}
+{"id": "r_1voq1vw", "demand": false}
+{"id": "r_1vplarm", "demand": false}
+{"id": "r_1vqoboa", "demand": false}
+{"id": "r_1w0lr2m", "demand": false}
+{"id": "r_1wainin", "demand": false}
+{"id": "r_1wfuei1", "demand": false}
+{"id": "r_1x0om2l", "demand": true, "problem": "tracking class period timing for teachers", "who": "student teacher", "product": "app", "pain": 2, "pay": "none", "tools": ["alarm app"], "quote": "I find it hard to keep track of when classes start and when classes end.", "flag": "none"}
+{"id": "r_1x5i9yc", "demand": false}
+{"id": "r_1c9rdcm", "demand": false}
+{"id": "r_1chhxv7", "demand": false}
+{"id": "r_1fgkyja", "demand": false}
+{"id": "r_1haf8aa", "demand": true, "problem": "AAC speech app UX for nonverbal children", "who": "parent of nonverbal autistic child", "product": "app", "pain": 2, "pay": "none", "tools": ["AAC speech apps"], "quote": "I personally have seen such a gap in the UI and UX of the app and the related programs like it", "flag": "none"}
+{"id": "r_1iup7e7", "demand": false}
+{"id": "r_1j0lgpm", "demand": false}
+{"id": "r_1jfq7cp", "demand": false}
+{"id": "r_1nno5n5", "demand": false}
+{"id": "r_1ofl64u", "demand": true, "problem": "YouTube progress bar UI clutter", "who": "YouTube viewer", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["YouTube"], "quote": "I can't look at anything on youtube with this awful UI.", "flag": "none"}
+{"id": "r_1ohbkal", "demand": false}
+{"id": "r_1onbrxt", "demand": false}
+{"id": "r_1ptaum3", "demand": false}
+{"id": "r_1sfkur8", "demand": true, "problem": "previewing furniture in a room photo", "who": "furniture shopper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "it would be nice if there is a software or app that allows you to take photo of a room and try to place furniture", "flag": "none"}
+{"id": "r_1th8v51", "demand": false}
+{"id": "r_1txtq04", "demand": false}
+{"id": "r_1ty9jvj", "demand": false}
+{"id": "r_1ud4nt6", "demand": false}
+{"id": "r_1ued22s", "demand": false}
+{"id": "r_1vr4pgr", "demand": false}
+{"id": "r_1wdc22g", "demand": false}
+{"id": "r_1wdigir", "demand": false}
+{"id": "r_1wobomh", "demand": false}
+{"id": "r_194vvsq", "demand": false}
+{"id": "r_1bisxho", "demand": false}
+{"id": "r_1cpnu4t", "demand": false}
+{"id": "r_1cy43c1", "demand": false}

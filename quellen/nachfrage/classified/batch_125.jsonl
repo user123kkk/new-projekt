@@ -1,0 +1,100 @@
+{"id": "r_1ei720y", "demand": true, "problem": "musician song usage tracking on tiktok", "who": "musicians and artists", "product": "web tool", "pain": 2, "pay": "none", "tools": ["TikTok"], "quote": "Problem is there is no way to know if/when your song is being picked up and people are using it on their videos until it has gone viral.", "flag": "music"}
+{"id": "r_1evrudr", "demand": true, "problem": "tailored resume versions for job applications", "who": "job seekers", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "This process can be cumbersome and hard to manage across multiple versions.", "flag": "none"}
+{"id": "r_1evzc3c", "demand": false}
+{"id": "r_1f02irk", "demand": true, "problem": "unified search across scattered personal notes", "who": "knowledge workers", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "search my notes (that are scattered throughout 5 apps)", "flag": "none"}
+{"id": "r_1fdfbrj", "demand": false}
+{"id": "r_1fg5lg1", "demand": false}
+{"id": "r_1fl76un", "demand": false}
+{"id": "r_1fp3xz2", "demand": false}
+{"id": "r_1fqh6fs", "demand": true, "problem": "low-effort calorie logging from natural language", "who": "people tracking calories", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "how tedious it is to log meals in existing calorie trackers.", "flag": "none"}
+{"id": "r_1fz4pfy", "demand": false}
+{"id": "r_1g03uz7", "demand": false}
+{"id": "r_1g0gn8g", "demand": false}
+{"id": "r_1g14sm8", "demand": false}
+{"id": "r_1g1ielx", "demand": false}
+{"id": "r_1g4s7bi", "demand": false}
+{"id": "r_1g9kwtb", "demand": false}
+{"id": "r_1gi18ll", "demand": false}
+{"id": "r_1gn9qqz", "demand": false}
+{"id": "r_1gpqqr8", "demand": false}
+{"id": "r_1gswuyk", "demand": false}
+{"id": "r_1h1j4d5", "demand": true, "problem": "simple product analytics for startups", "who": "startup product managers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["PostHog", "Pendo", "Google Analytics"], "quote": "Posthog seemed way too complicated and have way too many things on their dashboard and don't even end up using it.", "flag": "none"}
+{"id": "r_1h7fj7q", "demand": false}
+{"id": "r_1h8gfly", "demand": false}
+{"id": "r_1hb6pbm", "demand": false}
+{"id": "r_1hf3jqk", "demand": false}
+{"id": "r_1hgpdmi", "demand": false}
+{"id": "r_1hk5bf4", "demand": false}
+{"id": "r_1i1af0a", "demand": false}
+{"id": "r_1i4d7xd", "demand": false}
+{"id": "r_1i5oh3s", "demand": false}
+{"id": "r_1i5yaq7", "demand": false}
+{"id": "r_1ja2vc4", "demand": false}
+{"id": "r_1jhc0m5", "demand": false}
+{"id": "r_1ji8xlz", "demand": false}
+{"id": "r_1jizyzb", "demand": false}
+{"id": "r_1js7lik", "demand": false}
+{"id": "r_1jsxfmo", "demand": false}
+{"id": "r_1jzsunt", "demand": false}
+{"id": "r_1k60fa1", "demand": true, "problem": "searchable resume database for recruiters", "who": "recruiters and talent acquisition", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "When the need arises to find a past candidate with specific skills or experience (perhaps for a new opening months or even years later), sifting through these scattered files can be incredibly inefficient.", "flag": "none"}
+{"id": "r_1k7ma6r", "demand": false}
+{"id": "r_1k7s3iz", "demand": true, "problem": "blog image creation for bloggers", "who": "bloggers", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "As a blogger, I often spend too much time (and money) hiring designers or using tools to create images for blog posts.", "flag": "none"}
+{"id": "r_1k96zf1", "demand": false}
+{"id": "r_1khzvod", "demand": true, "problem": "sharing spreadsheets as viewable links", "who": "professionals who share spreadsheets", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Jumpshare"], "quote": "Sharing Excel sheets is clunky.", "flag": "none"}
+{"id": "r_1kojxrq", "demand": false}
+{"id": "r_1kph0wf", "demand": false}
+{"id": "r_1kpn1uj", "demand": false}
+{"id": "r_1ksn8p8", "demand": true, "problem": "done-for-you cold email outreach", "who": "solo founders", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Warpleads", "Reoon", "Salesforge"], "quote": "Not an all-in-one SaaS with 50 features, just something super focused like uploading leads", "flag": "none"}
+{"id": "r_1kvxud4", "demand": false}
+{"id": "r_1kyy3y8", "demand": false}
+{"id": "r_1l97vyy", "demand": false}
+{"id": "r_1lf6yrf", "demand": false}
+{"id": "r_1lhf45w", "demand": true, "problem": "photo editing for non-designers", "who": "hobbyists without editing skills", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "always asking me to edit her garden photos and videos", "flag": "none"}
+{"id": "r_1lxh2w9", "demand": true, "problem": "standalone knowledge chatbot for regulated industry", "who": "professionals in a regulated industry", "product": "web tool", "pain": 2, "pay": "none", "tools": ["ChatGPT"], "quote": "I need advice on how to build a standalone chat-bot for a niche industry, with a specialized knowledge base.", "flag": "none"}
+{"id": "r_1m0myd7", "demand": false}
+{"id": "r_1m3he6n", "demand": false}
+{"id": "r_1m5nl8n", "demand": true, "problem": "testing ad campaigns before spending", "who": "small business owners", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Google Ads"], "quote": "Even for the first time it was a smaller amount investment yet ended up loosing money without results.", "flag": "none"}
+{"id": "r_1m6gm6m", "demand": true, "problem": "startup idea validation", "who": "startup founders", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "No real market insights, no actual leads, and no actionable feedback.", "flag": "none"}
+{"id": "r_1m70qy4", "demand": true, "problem": "version history and diffs for notion pages", "who": "writers and teams using Notion", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Notion"], "quote": "But for writers, teams and creators, it's limited:", "flag": "none"}
+{"id": "r_1m79s6y", "demand": false}
+{"id": "r_1matjtn", "demand": true, "problem": "step-by-step startup idea validation", "who": "new founders", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "The process of validating an idea feels like a black box for many, and it often leads to wasted time and burnout.", "flag": "none"}
+{"id": "r_1mb2yj7", "demand": false}
+{"id": "r_1mcoray", "demand": true, "problem": "startup idea validation", "who": "new founders", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "I read a lot of successful SaaS stories and I just noticed that we start understanding how to market research and validate after some cool ideas nobody wants.", "flag": "none"}
+{"id": "r_1mi3jrs", "demand": true, "problem": "predicting video virality before posting", "who": "content creators", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "was completely lost on how to focus my own videos", "flag": "none"}
+{"id": "r_1mkq59o", "demand": false}
+{"id": "r_1mq5mz7", "demand": false}
+{"id": "r_1mv4eq2", "demand": false}
+{"id": "r_1mz8zl0", "demand": true, "problem": "organized investment research from filings", "who": "retail investors", "product": "web tool", "pain": 2, "pay": "none", "tools": ["ChatGPT", "Google"], "quote": "The idea is to bring all the essential data into one place", "flag": "none"}
+{"id": "r_1n0mncd", "demand": false}
+{"id": "r_1n0tg4e", "demand": false}
+{"id": "r_1n1o4fq", "demand": false}
+{"id": "r_1n53sk1", "demand": false}
+{"id": "r_1n6v6sx", "demand": true, "problem": "organizing and reusing ChatGPT prompts and chats", "who": "heavy ChatGPT users", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["ChatGPT"], "quote": "Losing track of good prompts because the history is messy.", "flag": "none"}
+{"id": "r_1n775eg", "demand": false}
+{"id": "r_1nbohyz", "demand": false}
+{"id": "r_1nc7k4d", "demand": false}
+{"id": "r_1ndd8wt", "demand": false}
+{"id": "r_1nf2011", "demand": false}
+{"id": "r_1nfmt1a", "demand": false}
+{"id": "r_1nghoh8", "demand": true, "problem": "trending short video formats for restaurant marketing", "who": "restaurant owners", "product": "web tool", "pain": 2, "pay": "none", "tools": ["TikTok"], "quote": "So is there any tool where I can just check format-by-format and category-by-category?", "flag": "none"}
+{"id": "r_1nhfgo8", "demand": false}
+{"id": "r_1nmkyyo", "demand": true, "problem": "vocabulary retention from saved words", "who": "language learners", "product": "app", "pain": 2, "pay": "none", "tools": ["flashcards"], "quote": "The word just sits on a lifeless list.", "flag": "none"}
+{"id": "r_1ntipl2", "demand": true, "problem": "monitoring reddit for relevant conversations", "who": "founders and marketers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Reddit ads"], "quote": "Miss it by a few hours, and the conversation has already moved on.", "flag": "none"}
+{"id": "r_1ntqnti", "demand": false}
+{"id": "r_1nzarmj", "demand": false}
+{"id": "r_1o0pqjr", "demand": true, "problem": "adding event flyers to calendar", "who": "university students", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Google Calendar", "LinkedIn"], "quote": "I kept missing info sessions because I'd see them on LinkedIn/email/posters but forget actually to add them to my calendar.", "flag": "none"}
+{"id": "r_1ofczdb", "demand": true, "problem": "sharing slide decks as web pages", "who": "marketers and founders", "product": "web tool", "pain": 2, "pay": "none", "tools": ["PowerPoint"], "quote": "The goal is to make it easy to share decks online without rebuilding them in HTML.", "flag": "none"}
+{"id": "r_1oha2sp", "demand": false}
+{"id": "r_1omi19x", "demand": false}
+{"id": "r_1ooxfym", "demand": false}
+{"id": "r_1otpdmb", "demand": false}
+{"id": "r_1ou86xv", "demand": false}
+{"id": "r_1ov57lf", "demand": false}
+{"id": "r_1oy0f9x", "demand": false}
+{"id": "r_1oyzuem", "demand": false}
+{"id": "r_1ozmh8o", "demand": false}
+{"id": "r_18wa1ol", "demand": false}
+{"id": "r_190pzuu", "demand": false}
+{"id": "r_19cce7j", "demand": true, "problem": "vacant buildings used by creatives", "who": "property owners and creatives", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Creatives could solve the problem, but they often don't have the financial means or contacts.", "flag": "none"}
+{"id": "r_19eyk4z", "demand": false}
+{"id": "r_19fcmxg", "demand": true, "problem": "finding customers on X for a product", "who": "early-stage founders", "product": "web tool", "pain": 2, "pay": "none", "tools": ["X (Twitter)"], "quote": "So I am building a product that aims to solve a big problem that we entrepreneurs face that is how to find & gain customers for our products or services.", "flag": "none"}

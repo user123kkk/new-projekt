@@ -1,0 +1,100 @@
+{"id": "r_1cqpbok", "demand": false}
+{"id": "r_1cr2zyc", "demand": false}
+{"id": "r_1crxa9b", "demand": false}
+{"id": "r_1cvrict", "demand": false}
+{"id": "r_1cz79iv", "demand": false}
+{"id": "r_1d1363n", "demand": true, "problem": "organizing soccer pickup games in group chats", "who": "soccer player organizing pickup games", "product": "app", "pain": 1, "pay": "none", "tools": ["WhatsApp"], "quote": "most of these are close friends who banter each other on who played better than who", "flag": "none"}
+{"id": "r_1d2qmjy", "demand": true, "problem": "clothes that fit unusual body shape", "who": "person with unusual body proportions", "product": "app", "pain": 2, "pay": "none", "tools": ["custom tailoring"], "quote": "it’s nearly impossible to find clothes that fit well.", "flag": "none"}
+{"id": "r_1d2qmmm", "demand": true, "problem": "clothes that fit unusual body shape", "who": "person with unusual body proportions", "product": "app", "pain": 2, "pay": "none", "tools": ["custom tailoring"], "quote": "it’s nearly impossible to find clothes that fit well.", "flag": "none"}
+{"id": "r_1d2qsj3", "demand": true, "problem": "clothes that fit unusual body shape", "who": "person with unusual body proportions", "product": "app", "pain": 2, "pay": "none", "tools": ["custom tailoring"], "quote": "it’s nearly impossible to find clothes that fit well.", "flag": "none"}
+{"id": "r_1d31enc", "demand": false}
+{"id": "r_1d53qlx", "demand": false}
+{"id": "r_1d7v20d", "demand": false}
+{"id": "r_1dbd3p4", "demand": false}
+{"id": "r_1dcvy96", "demand": false}
+{"id": "r_1dcyi46", "demand": false}
+{"id": "r_1ddnb2b", "demand": true, "problem": "using calendar as a reminder tool", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["calendar app", "email"], "quote": "Instead of a to-do app, I make appointments in the calendar, because I get an email and a notification that reminds me what to do.", "flag": "none"}
+{"id": "r_1dfjsdn", "demand": false}
+{"id": "r_1djkubz", "demand": false}
+{"id": "r_1dldg98", "demand": false}
+{"id": "r_1dog1kr", "demand": false}
+{"id": "r_1dqqhuf", "demand": false}
+{"id": "r_1dsjwlf", "demand": false}
+{"id": "r_1dtqvye", "demand": false}
+{"id": "r_1dwmjzq", "demand": false}
+{"id": "r_1dyal8q", "demand": false}
+{"id": "r_1dzmsnk", "demand": false}
+{"id": "r_1dzyzmi", "demand": false}
+{"id": "r_1e1ql7e", "demand": false}
+{"id": "r_1e2z026", "demand": true, "problem": "no-code app builder with good graphical design", "who": "hobbyist building Arduino control app", "product": "web tool", "pain": 2, "pay": "none", "tools": ["MIT App Inventor"], "quote": "but it's difficult to get a good graphical look given the site's limitations.", "flag": "none"}
+{"id": "r_1e3lkxl", "demand": false}
+{"id": "r_1e4k67s", "demand": false}
+{"id": "r_1e9jrgh", "demand": false}
+{"id": "r_1ee2d1o", "demand": false}
+{"id": "r_1ee61gp", "demand": true, "problem": "LinkedIn spam and privacy concerns", "who": "young and old professionals", "product": "app", "pain": 2, "pay": "none", "tools": ["LinkedIn"], "quote": "Spam and scam content plaguing the site", "flag": "none"}
+{"id": "r_1ef20bd", "demand": false}
+{"id": "r_1ekrp38", "demand": false}
+{"id": "r_1ekyizm", "demand": false}
+{"id": "r_1el00gc", "demand": false}
+{"id": "r_1en0slx", "demand": false}
+{"id": "r_1enikui", "demand": false}
+{"id": "r_1esda8k", "demand": false}
+{"id": "r_1eu5vqk", "demand": true, "problem": "generating playlists from favourite artists", "who": "music listener", "product": "app", "pain": 1, "pay": "none", "tools": ["Spotify", "Apple Music"], "quote": "I think there needs to be an easier way to generate playlists of artists you like rather than creating them manually.", "flag": "none"}
+{"id": "r_1ex1ro3", "demand": false}
+{"id": "r_1exosa4", "demand": false}
+{"id": "r_1ey8e34", "demand": false}
+{"id": "r_1f16ov6", "demand": true, "problem": "tracking hybrid training across separate fitness apps", "who": "hybrid athlete", "product": "app", "pain": 2, "pay": "none", "tools": ["Hevy", "Strava"], "quote": "each one emphasises a certain area of sport", "flag": "none"}
+{"id": "r_1f82aj4", "demand": false}
+{"id": "r_1f82lzz", "demand": false}
+{"id": "r_1f92np4", "demand": false}
+{"id": "r_1fcs3ly", "demand": true, "problem": "slow payment release on PayPal and Stripe", "who": "online seller or buyer", "product": "app", "pain": 2, "pay": "none", "tools": ["PayPal", "Stripe"], "quote": "PayPal and Stripes don't really suit me", "flag": "none"}
+{"id": "r_1fhmou7", "demand": true, "problem": "staying consistent with language learning", "who": "language learner", "product": "app", "pain": 1, "pay": "none", "tools": ["Anki", "Duolingo"], "quote": "I had a problem with consistency.", "flag": "none"}
+{"id": "r_1flrbga", "demand": true, "problem": "finding restaurant food pregnant partner craves", "who": "partner of pregnant woman", "product": "app", "pain": 1, "pay": "none", "tools": ["Facebook Reels"], "quote": "So, my wife is pregnant and she usually browse facebook reels and see food that she likes.", "flag": "none"}
+{"id": "r_1fmkh7f", "demand": true, "problem": "syncing print, Kindle and audio editions", "who": "reader who buys multiple editions", "product": "app", "pain": 2, "pay": "none", "tools": ["Kindle Whispersync", "Audible"], "quote": "I wish this app existed already.", "flag": "none"}
+{"id": "r_1fmwbf8", "demand": false}
+{"id": "r_1fo5at9", "demand": false}
+{"id": "r_1ft5sws", "demand": false}
+{"id": "r_1ftzaig", "demand": true, "problem": "finding grocery items in store efficiently", "who": "grocery shopper", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I spend a lot of time wandering around the grocery store looking for things", "flag": "none"}
+{"id": "r_1fvrsmz", "demand": false}
+{"id": "r_1fvt81x", "demand": false}
+{"id": "r_1fwb5tx", "demand": false}
+{"id": "r_1fxd1mn", "demand": false}
+{"id": "r_1g1d43p", "demand": false}
+{"id": "r_1g2b8ad", "demand": false}
+{"id": "r_1g30aek", "demand": false}
+{"id": "r_1g3pjjq", "demand": false}
+{"id": "r_1g4vt8f", "demand": false}
+{"id": "r_1g4wabp", "demand": false}
+{"id": "r_1g5nc88", "demand": false}
+{"id": "r_1g73b3q", "demand": true, "problem": "finding restrooms on delivery routes", "who": "delivery driver", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "making you loose hours for delivering packages", "flag": "none"}
+{"id": "r_1g8mz26", "demand": false}
+{"id": "r_1g9qpw2", "demand": false}
+{"id": "r_1gayvyr", "demand": true, "problem": "single tracker for films books and comics", "who": "note-taker tracking media", "product": "app", "pain": 1, "pay": "none", "tools": ["Letterboxd", "IMDb", "Goodreads"], "quote": "I'm kind of flabbergasted that this doesn't exist yet.", "flag": "none"}
+{"id": "r_1gc1py0", "demand": false}
+{"id": "r_1gd2ewn", "demand": false}
+{"id": "r_1gfjn33", "demand": false}
+{"id": "r_1gfsfv4", "demand": false}
+{"id": "r_1ggpirr", "demand": false}
+{"id": "r_1gihe6z", "demand": false}
+{"id": "r_1gk3hls", "demand": false}
+{"id": "r_1gkfhsr", "demand": true, "problem": "finding career mentorship from specific people", "who": "software engineer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I am a software engineer often looking for mentorship in decision making, leadership and levelling up.", "flag": "none"}
+{"id": "r_1gm18ik", "demand": true, "problem": "organizing soccer pickup games in group chats", "who": "soccer pickup organizer", "product": "app", "pain": 2, "pay": "none", "tools": ["WhatsApp", "Luma", "Apple Notes"], "quote": "sometimes I get lazy just do it in apple notes but that actually is more work", "flag": "none"}
+{"id": "r_1gmag3e", "demand": false}
+{"id": "r_1gnbpxc", "demand": false}
+{"id": "r_1gps8xc", "demand": false}
+{"id": "r_1guvpdx", "demand": true, "problem": "posting to several social networks from one app", "who": "social media power user", "product": "app", "pain": 1, "pay": "none", "tools": ["X", "Bluesky", "Threads"], "quote": "forcing you back into the full apps", "flag": "none"}
+{"id": "r_1gv9ooc", "demand": true, "problem": "unwanted topics keep appearing in feeds", "who": "social media user", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": [], "quote": "I’m tired of seeing content about stuff I don’t care about.", "flag": "none"}
+{"id": "r_1gx7nfh", "demand": false}
+{"id": "r_1gyr3t8", "demand": false}
+{"id": "r_1gzp369", "demand": false}
+{"id": "r_1h0g2pv", "demand": false}
+{"id": "r_1h3y8x5", "demand": false}
+{"id": "r_1h641zo", "demand": false}
+{"id": "r_1h6sgg7", "demand": false}
+{"id": "r_1h82ms8", "demand": false}
+{"id": "r_1hauzc8", "demand": false}
+{"id": "r_1hchhoe", "demand": true, "problem": "reading iPad serial numbers at scale", "who": "school IT technician", "product": "app", "pain": 3, "pay": "none", "tools": ["iPad settings"], "quote": "I have to record the serial numbers of sometimes hundreds of iPads at once.", "flag": "none"}
+{"id": "r_1he3x6z", "demand": true, "problem": "camera colours not matching real clothing colours", "who": "knitter or crocheter", "product": "app", "pain": 1, "pay": "none", "tools": ["Android camera"], "quote": "Camera colours really do not match with clothes colours", "flag": "none"}
+{"id": "r_1hex6co", "demand": false}
+{"id": "r_1hfzj68", "demand": false}
+{"id": "r_1hh789o", "demand": false}

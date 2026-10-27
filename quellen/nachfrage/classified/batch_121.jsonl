@@ -1,0 +1,100 @@
+{"id": "r_1tkii6l", "demand": false}
+{"id": "r_1ubyr1w", "demand": false}
+{"id": "r_1ux59yn", "demand": false}
+{"id": "r_1v8zx3d", "demand": false}
+{"id": "r_1vp9q8l", "demand": false}
+{"id": "r_1vtheel", "demand": false}
+{"id": "r_1vwgbcq", "demand": false}
+{"id": "r_1vy3oe6", "demand": false}
+{"id": "r_1w5bt7b", "demand": false}
+{"id": "r_1x4f1gr", "demand": false}
+{"id": "r_1x4wzue", "demand": false}
+{"id": "r_1hiuisb", "demand": false}
+{"id": "r_1hiujz2", "demand": false}
+{"id": "r_1idrrq2", "demand": false}
+{"id": "r_1obmrq8", "demand": false}
+{"id": "r_1pczhoq", "demand": false}
+{"id": "r_1q5m63x", "demand": false}
+{"id": "r_1rlgu4m", "demand": false}
+{"id": "r_1wqivpo", "demand": false}
+{"id": "r_1f4tfic", "demand": false}
+{"id": "r_1f6gj1p", "demand": true, "problem": "shared wifi cost splitting", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I’m living alone and find it annoying to pay the full Wi-Fi bill by myself.", "flag": "none"}
+{"id": "r_1hdpgs9", "demand": false}
+{"id": "r_1ntqpli", "demand": false}
+{"id": "r_1o25u25", "demand": false}
+{"id": "r_1p4cyyp", "demand": true, "problem": "lead organization across channels", "who": "small business owner", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I had leads coming in from social media, calls, Reddit, emails… and everything was scattered all over the place.", "flag": "none"}
+{"id": "r_1pb6b4p", "demand": true, "problem": "business idea discovery", "who": "aspiring entrepreneur", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Me personally i really want to start a business but struggle to come up with business ideas", "flag": "none"}
+{"id": "r_1qvzl7d", "demand": false}
+{"id": "r_1roip75", "demand": false}
+{"id": "r_1usohfb", "demand": false}
+{"id": "r_18xncv8", "demand": false}
+{"id": "r_196aatb", "demand": false}
+{"id": "r_1985ecn", "demand": false}
+{"id": "r_198ro98", "demand": true, "problem": "emotion tracking to understand feelings", "who": "person struggling to identify emotions", "product": "app", "pain": 2, "pay": "none", "tools": ["How We Feel"], "quote": "But there still was problem for me to orient and understand what do i feel.", "flag": "none"}
+{"id": "r_1agk0yu", "demand": false}
+{"id": "r_1ahw38q", "demand": false}
+{"id": "r_1an0qx8", "demand": false}
+{"id": "r_1ao3jtn", "demand": false}
+{"id": "r_1b0j3wk", "demand": false}
+{"id": "r_1b6cogx", "demand": true, "problem": "practicing real english conversation", "who": "language learner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Personally, I'm searching for something similar—an app that facilitates \"real\" conversations in English to enhance both my language skills and confidence.", "flag": "none"}
+{"id": "r_1bbojgv", "demand": false}
+{"id": "r_1bbphth", "demand": false}
+{"id": "r_1bkhku4", "demand": false}
+{"id": "r_1blnwaq", "demand": false}
+{"id": "r_1byafna", "demand": true, "problem": "backend auth setup for web apps", "who": "web developer", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "The idea has stemmed from an annoyance I find when creating new projects - and that is the tedious task of setting up and sorting a backend for authentication (things such as Password Reset, Email Confirmations etc.)", "flag": "none"}
+{"id": "r_1c1mqbm", "demand": false}
+{"id": "r_1c53xfi", "demand": false}
+{"id": "r_1c8r7k9", "demand": false}
+{"id": "r_1cdmqgy", "demand": false}
+{"id": "r_1cjwzxg", "demand": true, "problem": "brainstorming with a conversational partner", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["ChatGPT"], "quote": "When brainstorming, I always find myself wanting to speak to someone, get validation for my ideas and have them help me with pending questions.", "flag": "none"}
+{"id": "r_1ck39rv", "demand": true, "problem": "automatic expense tracking without bank link", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["expense tracking apps"], "quote": "In my country there are a lot of apps tracking expenses but with manual input", "flag": "none"}
+{"id": "r_1cojm40", "demand": false}
+{"id": "r_1cos0a7", "demand": false}
+{"id": "r_1coxh6e", "demand": false}
+{"id": "r_1cqksa1", "demand": false}
+{"id": "r_1cqvlop", "demand": true, "problem": "affordable clinic appointment management", "who": "doctor running small clinic", "product": "app", "pain": 2, "pay": "implied", "tools": ["Practo"], "quote": "But I have received complaints from doctor friends that they are not able to afford it in the long run", "flag": "none"}
+{"id": "r_1cu3cdj", "demand": false}
+{"id": "r_1cwkeaj", "demand": false}
+{"id": "r_1d2qen0", "demand": true, "problem": "affordable therapy access", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Why not lower the cost of therapy by 10x using an A.I.", "flag": "none"}
+{"id": "r_1d9188f", "demand": false}
+{"id": "r_1desgfd", "demand": false}
+{"id": "r_1dfk73f", "demand": true, "problem": "school subject difficulty motivation", "who": "students", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "All of us would have faced some difficulty in some subjects during our school days.", "flag": "none"}
+{"id": "r_1dfny0m", "demand": false}
+{"id": "r_1dlhhbf", "demand": false}
+{"id": "r_1dm7hcu", "demand": false}
+{"id": "r_1dq30zj", "demand": false}
+{"id": "r_1dr5fed", "demand": true, "problem": "staying committed to fitness goals", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "It seems like everyone wants to get fit, but many are unable to commit to doing so.", "flag": "none"}
+{"id": "r_1dsbi5k", "demand": false}
+{"id": "r_1dz5fcj", "demand": true, "problem": "scattered in-game event announcements", "who": "VR and MMORPG players", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "they miss out on in-game events because announcements are scattered across 990+ fragmented gaming forums", "flag": "none"}
+{"id": "r_1dzm3k5", "demand": false}
+{"id": "r_1e3tup0", "demand": true, "problem": "tracking child sleep patterns", "who": "parent of autistic child", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "She is a wonderful kid but as many parents know she faces many difficulties with her sleep.", "flag": "none"}
+{"id": "r_1e7zjmm", "demand": false}
+{"id": "r_1efkj91", "demand": false}
+{"id": "r_1eg132l", "demand": true, "problem": "tracking booktok mentions of books", "who": "independent author", "product": "automation", "pain": 2, "pay": "none", "tools": ["TikTok"], "quote": "These writers rarely know where the spike in sales is coming from until they are told that it all started from a mention on some random Tiktok video under #booktok.", "flag": "none"}
+{"id": "r_1ejl2x8", "demand": false}
+{"id": "r_1em4jy1", "demand": false}
+{"id": "r_1eqkalc", "demand": false}
+{"id": "r_1ewmcm5", "demand": true, "problem": "meetup inconvenience in peer-to-peer marketplace sales", "who": "online marketplace buyer", "product": "app", "pain": 1, "pay": "none", "tools": ["Facebook Marketplace"], "quote": "Whenever a buyer finds a good deal, most likely, the seller is living miles away, which makes meeting up inconvenient.", "flag": "none"}
+{"id": "r_1ewqnbo", "demand": false}
+{"id": "r_1fgwzw0", "demand": true, "problem": "fragmented sports content and apps", "who": "sports fan", "product": "app", "pain": 1, "pay": "none", "tools": ["Twitter", "Instagram"], "quote": "We noticed that a lot of sports apps or ways to access sports are pretty fragmented", "flag": "none"}
+{"id": "r_1fowqn9", "demand": false}
+{"id": "r_1fpjg4c", "demand": false}
+{"id": "r_1fuxaf9", "demand": false}
+{"id": "r_1fuxb9o", "demand": false}
+{"id": "r_1fvgmjd", "demand": true, "problem": "finding items and locations in grocery store", "who": "grocery shopper", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "One problem that I have run into in the past is I have a long grocery list and then I spend a lot of time wandering around the grocery store looking for things", "flag": "none"}
+{"id": "r_1g7p64m", "demand": false}
+{"id": "r_1g89enk", "demand": true, "problem": "matching volunteers with campaigns", "who": "progressive campaign organizer", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I have found that there are plenty of willing volunteers but it’s a matter of finding them.", "flag": "none"}
+{"id": "r_1g9qtvf", "demand": false}
+{"id": "r_1gisds5", "demand": false}
+{"id": "r_1go2w75", "demand": false}
+{"id": "r_1gp4qvp", "demand": false}
+{"id": "r_1gurzah", "demand": false}
+{"id": "r_1gvorlw", "demand": false}
+{"id": "r_1gw6xo0", "demand": false}
+{"id": "r_1gxams6", "demand": false}
+{"id": "r_1gxy1fq", "demand": true, "problem": "single ordering platform for kirana stores", "who": "kirana store owner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Flipkart"], "quote": "rather than having 3-4 different distributors for different products", "flag": "none"}
+{"id": "r_1h15pl6", "demand": true, "problem": "smartphone addiction", "who": "smartphone user", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Smartphone addiction is a massive problem for a lot of people.", "flag": "none"}
+{"id": "r_1h1ep9j", "demand": false}
+{"id": "r_1h2vn84", "demand": false}
+{"id": "r_1hc2qbd", "demand": true, "problem": "saving content scattered across platforms", "who": "newsletter writer", "product": "app", "pain": 2, "pay": "none", "tools": ["YouTube", "X", "Facebook", "Reddit"], "quote": "I have often found myself consuming content across multiple platforms (YouTube, X, Facebook, Reddit, podcasts, etc) and will end up bookmarking or saving posts that I like.", "flag": "none"}
+{"id": "r_1hdzdot", "demand": false}

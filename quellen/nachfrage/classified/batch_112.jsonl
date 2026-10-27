@@ -1,0 +1,100 @@
+{"id": "r_1vdc9vv", "demand": true, "problem": "correlating nutrition with wearable fitness data", "who": "Garmin wearer", "product": "app", "pain": 2, "pay": "none", "tools": ["Garmin"], "quote": "the insights are limited and the Garmin plus plan is expensive.", "flag": "none"}
+{"id": "r_1ve7zuv", "demand": false}
+{"id": "r_1vekcqc", "demand": false}
+{"id": "r_1vf5t2u", "demand": false}
+{"id": "r_1vfhprp", "demand": false}
+{"id": "r_1vgh4cw", "demand": false}
+{"id": "r_1vgk6dx", "demand": false}
+{"id": "r_1vgrqb0", "demand": false}
+{"id": "r_1vgw23n", "demand": true, "problem": "identifying overhead aircraft", "who": "aviation enthusiast", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Happens on layovers too, standing at a gate trying to figure out what's taxiing past.", "flag": "none"}
+{"id": "r_1vivu8z", "demand": false}
+{"id": "r_1vkgcpf", "demand": false}
+{"id": "r_1vl3h8z", "demand": false}
+{"id": "r_1vq2ukh", "demand": false}
+{"id": "r_1vq5ogz", "demand": false}
+{"id": "r_1vqnkjm", "demand": true, "problem": "trip planning fragmentation", "who": "traveler", "product": "app", "pain": 2, "pay": "none", "tools": ["Google", "Instagram", "Reddit", "Maps"], "quote": "I end up jumping between Google, Instagram/Reels, Reddit, Maps, blogs, and a bunch of saved posts", "flag": "none"}
+{"id": "r_1vsgkgj", "demand": true, "problem": "scattered campus communication", "who": "university student", "product": "app", "pain": 2, "pay": "none", "tools": ["WhatsApp"], "quote": "Everything important is scattered across a dozen unindexed WhatsApp groups and random social media pages", "flag": "none"}
+{"id": "r_1vsj0vi", "demand": true, "problem": "co-parenting communication", "who": "separated parent", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "or they might feel that their ex-partner doesn't share the information properly about it", "flag": "none"}
+{"id": "r_1vu24gn", "demand": false}
+{"id": "r_1vue6h4", "demand": false}
+{"id": "r_1vvrhl8", "demand": false}
+{"id": "r_1vwbjo3", "demand": false}
+{"id": "r_1vwdycz", "demand": true, "problem": "habit motivation with friends", "who": "habit builder", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I have been previously frustrated with how so many productivity apps fail to incentivise me to actually do the habit", "flag": "none"}
+{"id": "r_1vywj5g", "demand": true, "problem": "temporary clipboard notes clutter", "who": "developer", "product": "app", "pain": 1, "pay": "none", "tools": ["Notepad", "Apple Notes", "VS Code"], "quote": "I never save it, but I never delete it either", "flag": "none"}
+{"id": "r_1w0ben8", "demand": false}
+{"id": "r_1w14i60", "demand": false}
+{"id": "r_1w1wpjy", "demand": true, "problem": "phone addiction breaking attempts", "who": "smartphone users", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "We are aware of issues and we would like to quit", "flag": "none"}
+{"id": "r_1w2olxc", "demand": false}
+{"id": "r_1w95iwv", "demand": false}
+{"id": "r_1w9bz0n", "demand": false}
+{"id": "r_1wcd2u3", "demand": false}
+{"id": "r_1wclw4h", "demand": false}
+{"id": "r_1wcukd7", "demand": false}
+{"id": "r_1wdyiok", "demand": false}
+{"id": "r_1wgz8z6", "demand": false}
+{"id": "r_1wm1goh", "demand": false}
+{"id": "r_1wmpxji", "demand": true, "problem": "finding items in warehouse stores", "who": "Costco shopper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I am in Costco and I can't find an item.", "flag": "none"}
+{"id": "r_1wmsk4i", "demand": false}
+{"id": "r_1wmugpn", "demand": false}
+{"id": "r_1wn0z0o", "demand": true, "problem": "finding people for casual sports", "who": "casual sports player", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "let's say I want to play football in the neighborhood and don't really have enough people to play with", "flag": "none"}
+{"id": "r_1wnmz60", "demand": true, "problem": "timer apps lacking game mechanics", "who": "productivity users", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "For a long time now i've been waiting for someone to make an app like this", "flag": "none"}
+{"id": "r_1wqqht9", "demand": false}
+{"id": "r_1wug7lc", "demand": false}
+{"id": "r_1wuw1ww", "demand": true, "problem": "motivation for daily tasks during depression", "who": "person with depression", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I am severely depressed lately and even taking a shower feels difficult.", "flag": "none"}
+{"id": "r_1wvlf40", "demand": false}
+{"id": "r_1wx99i3", "demand": false}
+{"id": "r_1wy7fuf", "demand": true, "problem": "surplus food donation to NGOs", "who": "event venue or hotel", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Hotels, restaurants, caterers, wedding/event venues, etc. often have safe, usable surplus food after events.", "flag": "none"}
+{"id": "r_1wyzsti", "demand": false}
+{"id": "r_1wz14m9", "demand": true, "problem": "daycare safety visibility for parents", "who": "parent with young child", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "When parents leave a young child at kindergarten/daycare, they basically have to trust what happens after they leave.", "flag": "none"}
+{"id": "r_1wz21w5", "demand": false}
+{"id": "r_1wz9q10", "demand": false}
+{"id": "r_1x08j6m", "demand": false}
+{"id": "r_1x0ks87", "demand": true, "problem": "finding game walkthrough videos", "who": "gamer", "product": "app", "pain": 1, "pay": "none", "tools": ["YouTube"], "quote": "walkthrough video of the game you're stuck on", "flag": "none"}
+{"id": "r_1x0n4fv", "demand": true, "problem": "forgetting past nights out", "who": "party-goer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "The photos and videos are buried somewhere in your camera roll between screenshots and memes.", "flag": "none"}
+{"id": "r_1x28n4t", "demand": false}
+{"id": "r_1x35sdm", "demand": true, "problem": "social networks built around consumption not building", "who": "creators and builders", "product": "app", "pain": 1, "pay": "none", "tools": ["Instagram", "TikTok"], "quote": "When you’re building something, you usually go to socials to promote it", "flag": "none"}
+{"id": "r_1x3d3mp", "demand": false}
+{"id": "r_1x3vug6", "demand": false}
+{"id": "r_1x42uda", "demand": false}
+{"id": "r_1x4zics", "demand": false}
+{"id": "r_1x6a6fm", "demand": true, "problem": "tracking shows across streaming services", "who": "streaming subscriber", "product": "app", "pain": 1, "pay": "none", "tools": ["Netflix", "Amazon Prime", "Disney+"], "quote": "but what I do is keep a list of what i want to watch on the other app.", "flag": "none"}
+{"id": "r_1x6i7wo", "demand": true, "problem": "photo gallery cleanup", "who": "phone user with full storage", "product": "app", "pain": 3, "pay": "none", "tools": [], "quote": "Then you open your Gallery and end up spending 2–3 hours manually going through hundreds or thousands of photos and videos", "flag": "none"}
+{"id": "r_1x7lqk5", "demand": true, "problem": "entrepreneur task and email organization", "who": "solo entrepreneurs", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I personally haven’t found one that works well for me.", "flag": "none"}
+{"id": "r_1x8ctja", "demand": false}
+{"id": "r_1x9dppj", "demand": false}
+{"id": "r_1xb8m82", "demand": true, "problem": "anonymous peer support for OCD", "who": "person with OCD", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I was always scared to tell people my thoughts because I knew how crazy/dark they seemed.", "flag": "none"}
+{"id": "r_1xbp7n0", "demand": false}
+{"id": "r_1xcj3qa", "demand": false}
+{"id": "r_1xclse7", "demand": false}
+{"id": "r_1xcym3h", "demand": false}
+{"id": "r_1xdafd0", "demand": false}
+{"id": "r_1xdb3ed", "demand": false}
+{"id": "r_1xea0ob", "demand": false}
+{"id": "r_1xenfj2", "demand": false}
+{"id": "r_1xfzjgd", "demand": true, "problem": "scattered pet care apps and calendars", "who": "dog owners", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "instead of having to rely on several apps, calendars, and notes.", "flag": "none"}
+{"id": "r_1xgy582", "demand": true, "problem": "direct support for people experiencing homelessness", "who": "donors and people experiencing homelessness", "product": "app", "pain": 2, "pay": "none", "tools": ["Swish"], "quote": "people experiencing homelessness may need much more than food", "flag": "none"}
+{"id": "r_1b47lnn", "demand": true, "problem": "repurposing newsletter content for social posts", "who": "email newsletter creators", "product": "automation", "pain": 3, "pay": "none", "tools": ["Substack", "Beehiiv"], "quote": "50% of content creators spend 4-6 hours a week repurposing their content across social channels.", "flag": "none"}
+{"id": "r_1bwakvl", "demand": false}
+{"id": "r_1czbarj", "demand": true, "problem": "self-hosted team knowledge base", "who": "remote software worker", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Notion", "GitLab", "GitHub"], "quote": "They hosted everything themselves, such as GitLab instead of GitHub.", "flag": "none"}
+{"id": "r_1d9e0jm", "demand": true, "problem": "lively kitchen design renderings", "who": "kitchen design studio", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "This makes it hard for customers to imagine the final product.", "flag": "none"}
+{"id": "r_1em6xvs", "demand": false}
+{"id": "r_1gls8yy", "demand": false}
+{"id": "r_1h41lbt", "demand": false}
+{"id": "r_1hj5002", "demand": false}
+{"id": "r_1hs96pt", "demand": true, "problem": "ineffective social media content reporting", "who": "social media user", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "has had the infuriating experience of clicking 'report' on some piece of social media content", "flag": "none"}
+{"id": "r_1hufh8f", "demand": false}
+{"id": "r_1hyyo4g", "demand": true, "problem": "cluttered YouTube watch later list", "who": "YouTube user", "product": "web tool", "pain": 1, "pay": "none", "tools": ["YouTube"], "quote": "but you never actually watch them.", "flag": "none"}
+{"id": "r_1hzfobe", "demand": true, "problem": "combined PDF and note-taking tool", "who": "knowledge worker", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Logseq", "Obsidian", "Evernote"], "quote": "It would be good if there is a tool or software that combines all the benefits of these three software together.", "flag": "none"}
+{"id": "r_1ijv24n", "demand": false}
+{"id": "r_1iyw8ji", "demand": false}
+{"id": "r_1j8xrxd", "demand": true, "problem": "legal reference management", "who": "legal academic", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Zotero", "Juris-M"], "quote": "a specific use case has come up again and again", "flag": "none"}
+{"id": "r_1jb2gzk", "demand": false}
+{"id": "r_1jdkw7h", "demand": false}
+{"id": "r_1js7njm", "demand": false}
+{"id": "r_1jsxerw", "demand": false}
+{"id": "r_1ju5g9f", "demand": false}
+{"id": "r_1jv4usy", "demand": false}
+{"id": "r_1k5rq3p", "demand": true, "problem": "project tools abandoned for spreadsheets", "who": "unknown", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Trello"], "quote": "I've always found most project tools become more work than doing the work it'self!", "flag": "none"}
+{"id": "r_1k9yno4", "demand": true, "problem": "android file organization", "who": "ADHD adult", "product": "app", "pain": 2, "pay": "none", "tools": ["Samsung My Files", "Google Photos", "Google Drive"], "quote": "Or nothing like what I am talking about for android!", "flag": "none"}
+{"id": "r_1kgtcvs", "demand": false}
+{"id": "r_1kh3xmx", "demand": true, "problem": "channel manager for small rental hosts", "who": "small property owner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Airbnb", "booking.com"], "quote": "Most of these booking platforms have a channel manager but they are either expensive", "flag": "none"}

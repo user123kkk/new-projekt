@@ -1,0 +1,100 @@
+{"id": "r_1n2xtei", "demand": false}
+{"id": "r_1n4rs49", "demand": true, "problem": "copying unselectable text from web pages", "who": "AI chatbot user", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Windows Snipping Tool"], "quote": "I want it done more seamlessly in the web directly, select and copy even the unselectable by default", "flag": "none"}
+{"id": "r_1n9bryg", "demand": true, "problem": "matching store shelf media against a wishlist", "who": "media collector", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I think it’d be super useful!", "flag": "none"}
+{"id": "r_1nchhgb", "demand": false}
+{"id": "r_1nobb6a", "demand": true, "problem": "temporary contact info for marketplace sales", "who": "online seller", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Facebook Marketplace", "Twilio"], "quote": "I'm tired of getting spam calls months after selling anything on any of those platforms", "flag": "none"}
+{"id": "r_1o1imvn", "demand": true, "problem": "finding music fan communities", "who": "music fan", "product": "app", "pain": 2, "pay": "none", "tools": ["Discord", "Spotify"], "quote": "Most platforms are either hidden, impossible-to-discover Discord servers or outdated forums with a terrible mobile experience.", "flag": "none"}
+{"id": "r_1o2pwam", "demand": false}
+{"id": "r_1ojmhvb", "demand": false}
+{"id": "r_1ouc1o2", "demand": true, "problem": "AI drafting replies for overwhelmed messages", "who": "person with social anxiety", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "What if your messages were summarized and the AI drafted a calm reply in your tone so you could approve it when you had energy?", "flag": "none"}
+{"id": "r_1pnp92j", "demand": false}
+{"id": "r_1pnze9p", "demand": false}
+{"id": "r_1po0brr", "demand": false}
+{"id": "r_1q328q5", "demand": true, "problem": "free vision board maker", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "It should be free, no login, no ads, no cc.", "flag": "none"}
+{"id": "r_1q9gaer", "demand": false}
+{"id": "r_1qqmsy8", "demand": true, "problem": "automating go-to-market outreach", "who": "startup founder", "product": "automation", "pain": 2, "pay": "none", "tools": ["Claude Code", "LinkedIn", "Reddit"], "quote": "All fully automated with just accept/deny critical decisions like with Claude Code.", "flag": "none"}
+{"id": "r_1qz56mv", "demand": true, "problem": "fitness progress photo journal", "who": "gym-goer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Now if someone makes an app that takes this feature and add some extras like workout tracker, diet tracker and 1 rep max tracker, I think it would be a great app.", "flag": "none"}
+{"id": "r_1r59vfg", "demand": true, "problem": "renter move-in evidence storage", "who": "tenant", "product": "app", "pain": 3, "pay": "none", "tools": ["Avail", "RentRedi", "Google Drive"], "quote": "Renting in the US is a nightmare when it comes to security deposits.", "flag": "none"}
+{"id": "r_1sl9u2e", "demand": true, "problem": "low-effort investing strategy", "who": "retail investor", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Feels like there’s room for something that reduces decision-making without removing control completely.", "flag": "investment/financing"}
+{"id": "r_1szk3zg", "demand": false}
+{"id": "r_1thsz41", "demand": false}
+{"id": "r_1tno19y", "demand": false}
+{"id": "r_1tr427c", "demand": false}
+{"id": "r_1tyc1qd", "demand": true, "problem": "merging playlists across spotify and youtube", "who": "music streamer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Spotify", "YouTube Music"], "quote": "I've had this problem a ton of times(I use YT music, ik.)", "flag": "none"}
+{"id": "r_1u3mvgy", "demand": false}
+{"id": "r_1u6hyii", "demand": false}
+{"id": "r_1u7fzpw", "demand": false}
+{"id": "r_1ug2bc4", "demand": false}
+{"id": "r_1uvq9dd", "demand": false}
+{"id": "r_1v7fnx8", "demand": false}
+{"id": "r_1vqkjuf", "demand": true, "problem": "continuing ai project across chatbots", "who": "developer", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Claude", "Gemini", "ChatGPT"], "quote": "Ideally, it would feel like one continuous project rather than constantly starting new conversations with different AIs.", "flag": "none"}
+{"id": "r_1vrvk6w", "demand": true, "problem": "flagging ai-generated posts on linkedin", "who": "LinkedIn user", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["LinkedIn"], "quote": "I'm done with these fake influencers and HRs posting copy-pasted or AI bullshit on LinkedIn all day instead of doing their jobs.", "flag": "none"}
+{"id": "r_1vthkxb", "demand": true, "problem": "identifying object demand from a photo", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I keep thinking about how weird it is that the internet basically has no idea most physical objects exist unless somebody decides to list them for sale.", "flag": "none"}
+{"id": "r_1vxzlku", "demand": false}
+{"id": "r_1w53hob", "demand": true, "problem": "editable qr codes after printing", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Somebody make a QR code that I can change after I've printed it", "flag": "none"}
+{"id": "r_1w7lh00", "demand": true, "problem": "finding and tracking volunteer hours", "who": "student volunteer", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I wish there were one simple platform where people could find volunteer opportunities in their area, see the important details, and sign up without having to search through dozens of different organization websites and social media pages.", "flag": "none"}
+{"id": "r_1w8vloy", "demand": true, "problem": "shared group trip photo album", "who": "friend group traveler", "product": "app", "pain": 1, "pay": "none", "tools": ["group chat"], "quote": "Wish there was something where the whole group just adds photos quietly during the trip,", "flag": "none"}
+{"id": "r_1w9fowb", "demand": false}
+{"id": "r_1wb560c", "demand": false}
+{"id": "r_1jbzl2z", "demand": true, "problem": "displaying bingo numbers on screen", "who": "bingo volunteer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I am looking for an app or website that I can cast from my phone that shows the numbers on the screen for anyone who didn't hear the numbers were called.", "flag": "none"}
+{"id": "r_1ncnxsn", "demand": false}
+{"id": "r_1okonow", "demand": true, "problem": "randomized interval workout timer", "who": "fitness trainee", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "The app will then cycle through the exercises randomly while also assigning a random time duration per exercise.", "flag": "none"}
+{"id": "r_1dn1z7j", "demand": true, "problem": "saving and curating images without pinterest", "who": "image curator", "product": "app", "pain": 2, "pay": "none", "tools": ["Pinterest"], "quote": "Pinterest has so many problems: deleting peoples pins randomly, features randomly missing on the app, not being able to see a feed of the pins from people you follow, the list goes on.", "flag": "none"}
+{"id": "r_1euxlcv", "demand": false}
+{"id": "r_1i9afjo", "demand": false}
+{"id": "r_1l33odr", "demand": false}
+{"id": "r_1l8tx7p", "demand": false}
+{"id": "r_1lh8lve", "demand": false}
+{"id": "r_1maz0s6", "demand": false}
+{"id": "r_1mx1dlk", "demand": true, "problem": "url shortener alternative to bitly", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Bitly"], "quote": "Would someone please create an alternative to Bitly?", "flag": "none"}
+{"id": "r_1o731nx", "demand": false}
+{"id": "r_1p7pfof", "demand": true, "problem": "finding open-source saas alternatives", "who": "developer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Google Analytics", "Trello", "Slack"], "quote": "I'm often looking for open-source alternatives to popular tools like Google Analytics, Trello, or Slack.", "flag": "none"}
+{"id": "r_1phvnx6", "demand": false}
+{"id": "r_1q2nrgy", "demand": false}
+{"id": "r_1r0hgv6", "demand": false}
+{"id": "r_1s2dco3", "demand": true, "problem": "open-source writing editor with own llm key", "who": "writer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Hemingway Editor"], "quote": "Is there any opensource alternative to Hemingway Editor Plus with my own LLM api key", "flag": "none"}
+{"id": "r_1sb4g0k", "demand": false}
+{"id": "r_1u6d2jh", "demand": true, "problem": "reopening browser tabs at a set time", "who": "browser user", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Firefox", "RemindMe"], "quote": "Tons of people want this and complain about open tabs and how bookmarking them makes us forget.", "flag": "none"}
+{"id": "r_1wrxawo", "demand": false}
+{"id": "r_1wtudr3", "demand": false}
+{"id": "r_1xblzam", "demand": false}
+{"id": "r_1s9lpc1", "demand": false}
+{"id": "r_1cgn1q7", "demand": false}
+{"id": "r_1hhp30x", "demand": false}
+{"id": "r_1hulhho", "demand": true, "problem": "social app for home cooking", "who": "home cook", "product": "app", "pain": 1, "pay": "none", "tools": ["Beli", "Pepper", "Mealime", "Deglazed"], "quote": "I really wish there was an app like Beli but for personal cooking.", "flag": "none"}
+{"id": "r_1jg7o4r", "demand": false}
+{"id": "r_1lfkp25", "demand": true, "problem": "shared goal tracking with a friend", "who": "long-distance friends", "product": "app", "pain": 2, "pay": "none", "tools": ["habit tracker apps"], "quote": "Kind of like a shared habit tracker, accountability journal, and cheerleader all in one.", "flag": "none"}
+{"id": "r_1lkt9we", "demand": false}
+{"id": "r_1lkxkj6", "demand": false}
+{"id": "r_1luhqux", "demand": false}
+{"id": "r_1m3ltt2", "demand": true, "problem": "digital ticket stubs for attended events", "who": "concertgoer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I wish there was an app where you got digital ticket stubs for events you attended, and could keep them all saved in the app.", "flag": "none"}
+{"id": "r_1pu2rga", "demand": false}
+{"id": "r_1q5mecg", "demand": false}
+{"id": "r_1tftife", "demand": false}
+{"id": "r_1ul9xne", "demand": false}
+{"id": "r_1uox3ki", "demand": false}
+{"id": "r_1up3jkl", "demand": false}
+{"id": "r_1uw30hx", "demand": false}
+{"id": "r_1v30l8u", "demand": false}
+{"id": "r_1x8dmwr", "demand": true, "problem": "before-after job photo management", "who": "pressure washing business owner", "product": "app", "pain": 2, "pay": "none", "tools": ["CompanyCam", "Zapier", "Make"], "quote": "Taking before-after photos and organizing them and sending them to the client takes up so much time.", "flag": "none"}
+{"id": "r_1c0vn3k", "demand": true, "problem": "ar flight path planning for photos", "who": "photographer", "product": "app", "pain": 1, "pay": "none", "tools": ["PhotoPills"], "quote": "In a sense I want to plan out photos of planes crossing the moon or sun.", "flag": "none"}
+{"id": "r_1ddbd91", "demand": true, "problem": "text shorthand expansion across apps", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "none", "tools": [], "quote": "Can someone let me know if such an app exists for Android/iOS/Windows?", "flag": "none"}
+{"id": "r_1dz1z01", "demand": true, "problem": "auto-filling customer satisfaction surveys", "who": "customer", "product": "app", "pain": 1, "pay": "none", "tools": ["Taco Bell", "Target"], "quote": "but filling out forms online is tedious.", "flag": "none"}
+{"id": "r_1e27lwh", "demand": true, "problem": "offline field survey data collection", "who": "field surveyor", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Forms"], "quote": "I have to record their answers and then come back and enter it all into a sheet", "flag": "none"}
+{"id": "r_1eb8jq4", "demand": true, "problem": "clothing size finder from photo", "who": "online shopper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "For online shopping, it is always hard to get the right size,", "flag": "none"}
+{"id": "r_1ecxfi6", "demand": true, "problem": "margin call price calculator", "who": "trader", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I'm looking for risk management tools to help me with my trading.", "flag": "investment/financing"}
+{"id": "r_1eq76es", "demand": true, "problem": "holistic personal data insights", "who": "self-tracker", "product": "app", "pain": 1, "pay": "none", "tools": ["Ubereats"], "quote": "Build an app that captures user data from multiple apps such as health , web browsing, banking etc, and provides a holistic picture of their user data.", "flag": "none"}
+{"id": "r_1hqno7w", "demand": true, "problem": "comparing food delivery prices", "who": "food delivery customer", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that compares food prices on different food delivery apps?", "flag": "none"}
+{"id": "r_1huned1", "demand": true, "problem": "local crime alerts and news", "who": "local resident", "product": "app", "pain": 1, "pay": "none", "tools": ["Citizen"], "quote": "Is there an app that creates real time notifications and mini news updates about local crime or news using apps like citizen?", "flag": "none"}
+{"id": "r_1j5i4ne", "demand": true, "problem": "logging live concerts attended", "who": "gig-goer", "product": "app", "pain": 1, "pay": "none", "tools": ["Letterboxd"], "quote": "is there an app that can help like Letterboxd does for film?", "flag": "none"}
+{"id": "r_1khnz8b", "demand": true, "problem": "checking if a dating profile photo is fake", "who": "online dater", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that tells you if a profile is fake(of an existing person)", "flag": "dating"}
+{"id": "r_1l85kh9", "demand": true, "problem": "aggregating birthday freebies from businesses", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": ["Sephora", "Ulta"], "quote": "Is there an app that compiles all the birthday gifts offered by various companies and establishments?", "flag": "none"}
+{"id": "r_1mmfnfm", "demand": true, "problem": "fashion inspiration sharing", "who": "fashion-conscious user", "product": "app", "pain": 1, "pay": "none", "tools": ["TikTok"], "quote": "Is there an app that is like tiktok but for fashion?", "flag": "none"}
+{"id": "r_1nohc1g", "demand": false}
+{"id": "r_1pa7b62", "demand": true, "problem": "identifying foreign coins and bills", "who": "traveler", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that can identify foreign coins or bills from a photo?", "flag": "none"}
+{"id": "r_1qsx58n", "demand": false}
+{"id": "r_1rwwpgp", "demand": true, "problem": "tracking places couples visited together", "who": "couple", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that lets couples track places they've experienced together?", "flag": "none"}
+{"id": "r_1ts3bmk", "demand": true, "problem": "fast voice note and task capture", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an App that makes it super easy and fast to create Voice Notes (Maybe Voice Todo Tasks)?", "flag": "none"}
+{"id": "r_1tukhvz", "demand": true, "problem": "unified bookmarking across social platforms", "who": "social media user", "product": "app", "pain": 2, "pay": "none", "tools": ["X", "Signal", "yt-dlp"], "quote": "Each social media has their own save/bookmark for later but I'd like to have some sort of a unified place to have all these", "flag": "none"}
+{"id": "r_1wvo5aq", "demand": true, "problem": "custom ai companion creation", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["WhatsApp"], "quote": "Like an AI girlfriend generator that you could even connect to receive real random Whatsapp message, emails or even calls.", "flag": "dating"}
+{"id": "r_1x3ooqr", "demand": false}

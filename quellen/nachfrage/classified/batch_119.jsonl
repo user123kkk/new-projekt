@@ -1,0 +1,100 @@
+{"id": "r_1lyxmf3", "demand": false}
+{"id": "r_1lzmr1t", "demand": false}
+{"id": "r_1m1d3ve", "demand": false}
+{"id": "r_1m1ltgc", "demand": false}
+{"id": "r_1m2aux2", "demand": false}
+{"id": "r_1m2x8pp", "demand": true, "problem": "natural language search of local photos", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I find it hard to find specific photos or videos I am looking for.", "flag": "none"}
+{"id": "r_1m3zuab", "demand": false}
+{"id": "r_1m5i2uc", "demand": true, "problem": "affordable bike route planning", "who": "app developer", "product": "app", "pain": 1, "pay": "none", "tools": ["Google Maps"], "quote": "Are there any free/low cost options for this purpose?", "flag": "none"}
+{"id": "r_1m5n6dp", "demand": false}
+{"id": "r_1m7e9fw", "demand": false}
+{"id": "r_1m8i5s4", "demand": false}
+{"id": "r_1mc5hh6", "demand": true, "problem": "beginner running guidance", "who": "adults starting to run", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "How do I even start running without overdoing it?", "flag": "none"}
+{"id": "r_1mcl21q", "demand": false}
+{"id": "r_1mcpu2b", "demand": false}
+{"id": "r_1mg2jem", "demand": false}
+{"id": "r_1mgrvlb", "demand": true, "problem": "finding pain points on reddit", "who": "indie hackers and content creators", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Reddit"], "quote": "there’s no easy way to surface or filter them.", "flag": "none"}
+{"id": "r_1mh3zbn", "demand": true, "problem": "following workout videos hands-free", "who": "home workout users", "product": "app", "pain": 2, "pay": "none", "tools": ["Instagram", "YouTube"], "quote": "following them is a pain", "flag": "none"}
+{"id": "r_1mj6xrc", "demand": true, "problem": "cafe ambiance discovery", "who": "remote workers and cafe-goers", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Maps", "Beli"], "quote": "dig through a bunch of photos and reviews to try and figure out if a specific cafe would fit what I'm looking for.", "flag": "none"}
+{"id": "r_1mjtu3x", "demand": false}
+{"id": "r_1mk38e8", "demand": false}
+{"id": "r_195k1zo", "demand": false}
+{"id": "r_1d4rbyy", "demand": false}
+{"id": "r_1dj4h6n", "demand": true, "problem": "train delay refund claims", "who": "UK train commuters", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Greater Anglia Delay Repay"], "quote": "the delay repay process is so long winded that most people", "flag": "none"}
+{"id": "r_1fcpc6r", "demand": false}
+{"id": "r_1fehy7q", "demand": false}
+{"id": "r_1h9m2h3", "demand": false}
+{"id": "r_1i5znbd", "demand": false}
+{"id": "r_1isza5j", "demand": false}
+{"id": "r_1j0ucns", "demand": false}
+{"id": "r_1jtl4s0", "demand": false}
+{"id": "r_1k57pbb", "demand": false}
+{"id": "r_1k9z2pp", "demand": true, "problem": "structured debate video app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "social media is increasingly becoming a media trap", "flag": "none"}
+{"id": "r_1kfu97q", "demand": true, "problem": "sharing life visions with family and friends", "who": "people sharing life plans", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I find it very hard to layout out an entire vision in a way that another person (family, friends) can understand it easily.", "flag": "none"}
+{"id": "r_1l33n3y", "demand": false}
+{"id": "r_1l4waso", "demand": false}
+{"id": "r_1lh8r0i", "demand": false}
+{"id": "r_1lvo0cq", "demand": true, "problem": "motion sickness on laptop", "who": "travellers with motion sickness", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["KineStop"], "quote": "to help with nausea while moving.", "flag": "none"}
+{"id": "r_1ml4f1d", "demand": false}
+{"id": "r_1mx11rm", "demand": false}
+{"id": "r_1myyajz", "demand": true, "problem": "shame-free sobriety tracking", "who": "people in sobriety", "product": "app", "pain": 2, "pay": "none", "tools": ["quit apps"], "quote": "if you slip, your streak resets to zero.", "flag": "none"}
+{"id": "r_1nncvg1", "demand": false}
+{"id": "r_1nwa6vo", "demand": false}
+{"id": "r_1o731c0", "demand": false}
+{"id": "r_1o9tzwv", "demand": false}
+{"id": "r_1owzp5i", "demand": false}
+{"id": "r_1phhe66", "demand": true, "problem": "electronics purchase guidance", "who": "consumers buying electronics", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "The majority of consumers lack technical knowledge which makes them struggle to understand product specifications.", "flag": "none"}
+{"id": "r_1pj67uy", "demand": false}
+{"id": "r_1pnd57l", "demand": true, "problem": "social listening for sales leads", "who": "sales and marketing", "product": "automation", "pain": 2, "pay": "none", "tools": ["Reddit search", "X search", "Discord", "Slack"], "quote": "keeping 5 tabs open and refreshing them every hour is miserable.", "flag": "none"}
+{"id": "r_1qgcno0", "demand": false}
+{"id": "r_1qwh14p", "demand": false}
+{"id": "r_1r4pbfb", "demand": false}
+{"id": "r_1rbie6e", "demand": true, "problem": "branching fan fiction platform", "who": "fantasy readers", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Wattpad", "AO3"], "quote": "I want to explore the world beyond the single linear path the author chose.", "flag": "none"}
+{"id": "r_1rc0d7i", "demand": true, "problem": "running HTML apps on phone", "who": "non-technical users", "product": "app", "pain": 1, "pay": "none", "tools": ["ChatGPT"], "quote": "It's not as easy to run them on your phone.", "flag": "none"}
+{"id": "r_1rfa5ec", "demand": false}
+{"id": "r_1rini4s", "demand": false}
+{"id": "r_1rk1abc", "demand": true, "problem": "instagram without reels", "who": "Instagram users", "product": "app", "pain": 2, "pay": "none", "tools": ["Instagram"], "quote": "i beg someone to make an alternative instagram app WITHOUT reels.", "flag": "none"}
+{"id": "r_1swbev5", "demand": false}
+{"id": "r_1to0sfx", "demand": true, "problem": "online payments in restricted country", "who": "developer in Afghanistan", "product": "other", "pain": 2, "pay": "none", "tools": ["Stripe", "Lemon Squeezy"], "quote": "I struggle to find any online payment processor that works in Afghanistan.", "flag": "none"}
+{"id": "r_1trz56t", "demand": true, "problem": "duolingo alternative", "who": "language learners", "product": "app", "pain": 1, "pay": "none", "tools": ["Duolingo"], "quote": "duolingo has so many bad reviews", "flag": "none"}
+{"id": "r_1u00h9j", "demand": false}
+{"id": "r_1udolkb", "demand": false}
+{"id": "r_1v1vnp3", "demand": false}
+{"id": "r_1v4k44s", "demand": false}
+{"id": "r_1vdw5k1", "demand": false}
+{"id": "r_1vf5qvy", "demand": false}
+{"id": "r_1vlc25n", "demand": false}
+{"id": "r_1vsy2kz", "demand": true, "problem": "creator link page without fees", "who": "content creators", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Linktree", "Beacons"], "quote": "Tired of Linktree and Beacons taking a cut of creator sales", "flag": "none"}
+{"id": "r_1vsy3s8", "demand": true, "problem": "creator link page without fees", "who": "content creators", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Linktree", "Beacons"], "quote": "Tired of Linktree and Beacons taking a cut of creator sales", "flag": "none"}
+{"id": "r_1vwajbn", "demand": true, "problem": "reading PDFs with translation", "who": "readers of foreign-language books", "product": "app", "pain": 1, "pay": "none", "tools": ["PDF readers"], "quote": "whenever I have difficulty understanding something, without leaving the reader.", "flag": "none"}
+{"id": "r_1w69oqw", "demand": false}
+{"id": "r_1w9rrhi", "demand": false}
+{"id": "r_1wj3hmu", "demand": false}
+{"id": "r_1wrlp56", "demand": false}
+{"id": "r_1wugc6z", "demand": false}
+{"id": "r_1x47xnm", "demand": false}
+{"id": "r_1x4rizx", "demand": false}
+{"id": "r_1x6e7tr", "demand": false}
+{"id": "r_1xcu2fg", "demand": false}
+{"id": "r_1xe7wkm", "demand": false}
+{"id": "r_1aj5fjh", "demand": true, "problem": "nutrient pairing guidance", "who": "people managing nutrition", "product": "app", "pain": 2, "pay": "none", "tools": ["health tracker apps"], "quote": "Trying to figure that out with all essential vitamins and nutrients in mind can be frustrating and tedious", "flag": "none"}
+{"id": "r_1gz35d0", "demand": true, "problem": "ready-made automation marketplace", "who": "small business owners", "product": "web tool", "pain": 2, "pay": "none", "tools": ["make.com"], "quote": "the steep learning curve and how frustrating it can be at first", "flag": "none"}
+{"id": "r_1hax8yz", "demand": false}
+{"id": "r_1hlydpm", "demand": true, "problem": "class schedule organizer", "who": "students", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I struggle to find the schedule image buried somewhere in my gallery before heading to class.", "flag": "none"}
+{"id": "r_1hmm7ch", "demand": false}
+{"id": "r_1ifw2ss", "demand": true, "problem": "AI product research for shoppers", "who": "online shoppers", "product": "app", "pain": 2, "pay": "none", "tools": ["Reddit"], "quote": "spend hours scrolling through Reddit threads, forums, videos, and reviews just to figure out if a product is worth buying", "flag": "none"}
+{"id": "r_1iikbj8", "demand": false}
+{"id": "r_1ip3yqp", "demand": false}
+{"id": "r_1k09xqq", "demand": false}
+{"id": "r_1k28jld", "demand": true, "problem": "real-time local event discovery", "who": "people going out", "product": "app", "pain": 2, "pay": "none", "tools": ["Instagram", "Snapchat"], "quote": "I leave a place (bar, restaurant, park, etc.), and I learn the next day that a crazy event was taking place a few meters away", "flag": "none"}
+{"id": "r_1kek7ml", "demand": false}
+{"id": "r_1klnrip", "demand": false}
+{"id": "r_1lb6uuj", "demand": false}
+{"id": "r_1ligb0d", "demand": false}
+{"id": "r_1lmwrff", "demand": false}
+{"id": "r_1mqqd84", "demand": false}
+{"id": "r_1nkyym2", "demand": false}
+{"id": "r_1ohksqs", "demand": false}
+{"id": "r_1p3yjsf", "demand": false}
+{"id": "r_1p5k1is", "demand": false}
+{"id": "r_1p7egtq", "demand": false}

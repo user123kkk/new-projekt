@@ -1,0 +1,100 @@
+{"id": "h_40229038", "demand": false}
+{"id": "h_40212342", "demand": false}
+{"id": "h_40094688", "demand": true, "problem": "soft skills and persuasion training", "who": "product manager", "product": "app", "pain": 2, "pay": "explicit", "tools": [], "quote": "I’m a PM that’s great with written word but not great with words talking and it’s the number one skill I need to improve", "flag": "none"}
+{"id": "h_40080144", "demand": true, "problem": "rentable audioguide for virtual museum visits", "who": "museum visitor", "product": "app", "pain": 1, "pay": "explicit", "tools": ["El Prado virtual tour"], "quote": "I would pay for being able to rent to audioguide for a couple of days (similarly to how you can rent the audioguide during the in person visit)", "flag": "none"}
+{"id": "h_40066799", "demand": false}
+{"id": "h_39936891", "demand": true, "problem": "offline presentation software for Linux", "who": "teacher", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["LibreOffice Impress"], "quote": "If I could get something to replace LibreOffice that is not online and works on Linux I would pay for it.", "flag": "none"}
+{"id": "h_39916655", "demand": false}
+{"id": "h_39840160", "demand": true, "problem": "native voice dictation for any text field", "who": "Mac user", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Aqua Voice", "macOS dictation"], "quote": "I think I would pay for this in a heartbeat if it was more &quot;available&quot;, as in not just a web app.", "flag": "none"}
+{"id": "h_39821254", "demand": false}
+{"id": "h_39711224", "demand": true, "problem": "browser automation to reusable scraping code", "who": "developer", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["Skyvern"], "quote": "Bravo, I would pay for this one, or hopefully run it on my GPU", "flag": "none"}
+{"id": "h_39598279", "demand": false}
+{"id": "h_39520140", "demand": false}
+{"id": "h_39515217", "demand": true, "problem": "adjustable AI book summaries", "who": "reader", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["ChatGPT"], "quote": "This is fantastic, now can you do it again with 20 bullet points? If so I would pay for that!", "flag": "none"}
+{"id": "h_39454768", "demand": false}
+{"id": "h_39391663", "demand": true, "problem": "interview practice coaching", "who": "job seeker", "product": "app", "pain": 2, "pay": "explicit", "tools": [], "quote": "Because you are in a hurry I would pay for interview practice.", "flag": "none"}
+{"id": "h_39370842", "demand": false}
+{"id": "h_39352807", "demand": false}
+{"id": "h_39304147", "demand": true, "problem": "privacy-branded email hosting", "who": "email user", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["Mozilla"], "quote": "That seems like an obvious thing that I would pay for.", "flag": "none"}
+{"id": "h_39300541", "demand": true, "problem": "raw LLM access without system prompt", "who": "developer", "product": "other", "pain": 2, "pay": "explicit", "tools": ["ChatGPT"], "quote": "Can we have a ChatGPT4 without system prompt? I would pay for that.", "flag": "none"}
+{"id": "h_39220855", "demand": false}
+{"id": "h_39174586", "demand": false}
+{"id": "h_39139246", "demand": true, "problem": "fine-tuned embedding model service", "who": "developer using embeddings", "product": "other", "pain": 2, "pay": "explicit", "tools": ["vector databases"], "quote": "I would pay for a service that made (1) and (2) easy.", "flag": "none"}
+{"id": "h_39124226", "demand": false}
+{"id": "h_39111980", "demand": false}
+{"id": "h_39076086", "demand": false}
+{"id": "h_38954941", "demand": true, "problem": "low-cost event listing for small organizers", "who": "meetup organizer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["Meetup"], "quote": "I would pay for meetup!", "flag": "none"}
+{"id": "h_38941146", "demand": true, "problem": "interactive networking practice labs", "who": "network engineer learner", "product": "app", "pain": 1, "pay": "explicit", "tools": ["LeetCode"], "quote": "Think: leetcode for networking. I would pay for that.", "flag": "none"}
+{"id": "h_38930639", "demand": false}
+{"id": "h_38905647", "demand": false}
+{"id": "h_38863643", "demand": false}
+{"id": "h_43759833", "demand": false}
+{"id": "h_44838726", "demand": false}
+{"id": "h_43222928", "demand": false}
+{"id": "h_50204793", "demand": true, "problem": "pre-verified formal property libraries", "who": "chip designer", "product": "other", "pain": 2, "pay": "explicit", "tools": [], "quote": "But I’d pay for a commercial set of properties and assertions that had guarantees, and not worry about their complexity.", "flag": "none"}
+{"id": "h_50156902", "demand": false}
+{"id": "h_50089187", "demand": false}
+{"id": "h_50076565", "demand": true, "problem": "TV-aware voice assistant queries", "who": "Apple TV user", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Siri", "Apple TV"], "quote": "I&#x27;d pay for that (grudgingly, given the big hike).", "flag": "none"}
+{"id": "h_49831218", "demand": false}
+{"id": "h_49732076", "demand": false}
+{"id": "h_49717962", "demand": false}
+{"id": "h_49707670", "demand": true, "problem": "AI-assisted classified listing search", "who": "home or second-hand buyer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["Craigslist", "Zillow", "Claude"], "quote": "I&#x27;d pay for this and I&#x27;d recommend some kind of freemium approach.", "flag": "none"}
+{"id": "h_49665787", "demand": false}
+{"id": "h_49633461", "demand": false}
+{"id": "h_49538125", "demand": false}
+{"id": "h_49534642", "demand": true, "problem": "battery data transparency tool", "who": "battery owner", "product": "other", "pain": 1, "pay": "explicit", "tools": [], "quote": "Cool, is there any commercial product that does this? I&#x27;d pay for that.", "flag": "none"}
+{"id": "h_49520417", "demand": false}
+{"id": "h_49485844", "demand": false}
+{"id": "h_49283911", "demand": false}
+{"id": "h_49231524", "demand": false}
+{"id": "h_49204193", "demand": false}
+{"id": "h_49202022", "demand": false}
+{"id": "h_49192345", "demand": true, "problem": "agent diagnosis with competing hypotheses", "who": "engineer running autonomous pipelines", "product": "other", "pain": 2, "pay": "explicit", "tools": ["HyperProbe"], "quote": "The discriminating check is the part I&#x27;d pay for.", "flag": "none"}
+{"id": "h_49132178", "demand": false}
+{"id": "h_49015427", "demand": false}
+{"id": "h_48999478", "demand": false}
+{"id": "h_48885443", "demand": true, "problem": "personal admin task offloading", "who": "developer with family", "product": "app", "pain": 2, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for something to deal with that.", "flag": "none"}
+{"id": "h_48832860", "demand": false}
+{"id": "h_48825235", "demand": true, "problem": "higher quality local text-to-speech", "who": "TTS user", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Kokoro", "Samantha"], "quote": "But still, if I could wait a few seconds to get a much richer TTS experience I&#x27;d pay for that.", "flag": "none"}
+{"id": "h_48813200", "demand": false}
+{"id": "h_48791746", "demand": false}
+{"id": "h_48612448", "demand": false}
+{"id": "h_48570582", "demand": true, "problem": "installable self-hosted AI model package", "who": "developer", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["GLM-5.2"], "quote": "I&#x27;d pay for an out of the box solution.", "flag": "none"}
+{"id": "h_48565198", "demand": true, "problem": "price-competitive AI coding IDE", "who": "developer", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Cursor", "Claude"], "quote": "Same I’d pay for Cursor again if they get more price competitive with Claude max", "flag": "none"}
+{"id": "h_48555689", "demand": false}
+{"id": "h_48473531", "demand": true, "problem": "fast privacy-first non-Chromium browser", "who": "power browser user", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Firefox", "Chrome", "Safari"], "quote": "Mozilla seems way off in the weeds with its product and corporate strategy.", "flag": "none"}
+{"id": "h_48457146", "demand": false}
+{"id": "h_48430186", "demand": false}
+{"id": "h_48359161", "demand": false}
+{"id": "h_48341324", "demand": false}
+{"id": "h_48300031", "demand": true, "problem": "ad-free paid social media tier", "who": "social media user", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Facebook", "Instagram", "WhatsApp"], "quote": "The only way I&#x27;d pay for FB or Insta would be if one of the perks was &quot;no ads&quot;.", "flag": "none"}
+{"id": "h_48212785", "demand": false}
+{"id": "h_48100456", "demand": false}
+{"id": "h_48096690", "demand": true, "problem": "isolated project workspaces for multiple roles", "who": "multi-project developer", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": [], "quote": "BTW, I&#x27;d pay for this! Keep building.", "flag": "none"}
+{"id": "h_48061987", "demand": false}
+{"id": "h_47995414", "demand": true, "problem": "Windows apps in Linux containers", "who": "Linux developer", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["podman", "Windows"], "quote": "If only Windows containers were at the level of the Linux ones, I’d flip the whole world up side down.", "flag": "none"}
+{"id": "h_47936006", "demand": true, "problem": "simple reliable hosted git service", "who": "developer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["GitHub", "GitLab", "Codeberg", "Sourcehut", "Bitbucket"], "quote": "Please can somebody start a simple, reliable hosted GitHub alternative? I&#x27;d pay for it...", "flag": "none"}
+{"id": "h_47759415", "demand": true, "problem": "self-hosted note sync server", "who": "Obsidian user", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Obsidian Sync", "LiveSync"], "quote": "I&#x27;d pay for the option to host my own server with the official sync but they don&#x27;t offer that for now.", "flag": "none"}
+{"id": "h_47733755", "demand": false}
+{"id": "h_47725718", "demand": false}
+{"id": "h_47635116", "demand": false}
+{"id": "h_47615308", "demand": false}
+{"id": "h_47592643", "demand": false}
+{"id": "h_47540508", "demand": false}
+{"id": "h_47539657", "demand": true, "problem": "guaranteed fast coding model responses", "who": "programmer", "product": "other", "pain": 2, "pay": "explicit", "tools": ["API"], "quote": "When I&#x27;m in the mood to code I&#x27;d pay for API request to guarantee I get a response right away.", "flag": "none"}
+{"id": "h_47498901", "demand": false}
+{"id": "h_47432431", "demand": false}
+{"id": "h_47399638", "demand": false}
+{"id": "h_47327704", "demand": true, "problem": "customizable YouTube feed controls", "who": "YouTube viewer", "product": "app", "pain": 2, "pay": "explicit", "tools": ["YouTube Premium"], "quote": "I&#x27;d pay for YT premium in a heartbeat if they let me tune the platform to my needs: disable all recommends, disable all comments, allow only a whitelisted set of channels.", "flag": "none"}
+{"id": "h_47282083", "demand": false}
+{"id": "h_47160936", "demand": false}
+{"id": "h_47128858", "demand": false}
+{"id": "h_47101107", "demand": true, "problem": "well-designed regional weather app", "who": "weather app user", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Windy"], "quote": "This one seems pretty cool and I’d pay for it if it would be available.", "flag": "none"}
+{"id": "h_47094739", "demand": false}
+{"id": "h_47080903", "demand": true, "problem": "kids task-based earning app", "who": "parent", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Pixie", "TaskRabbit", "Fiverr"], "quote": "Could it be set as a simple $10 task with before and after photos?", "flag": "none"}
+{"id": "h_47041422", "demand": false}
+{"id": "h_46988743", "demand": false}
+{"id": "h_46986139", "demand": true, "problem": "private local AI assistant with user control", "who": "privacy-focused AI user", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Siri"], "quote": "I want some context, some of the time and I want to be in full control of it.", "flag": "none"}
+{"id": "h_46968941", "demand": false}
+{"id": "h_46951229", "demand": true, "problem": "private search without Yandex", "who": "search engine user", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["DuckDuckGo", "Kagi"], "quote": "I&#x27;d pay for search but not if it&#x27;s paying Russia", "flag": "none"}
+{"id": "h_46942607", "demand": false}

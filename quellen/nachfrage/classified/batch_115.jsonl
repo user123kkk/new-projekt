@@ -1,0 +1,100 @@
+{"id": "r_1qtv4w6", "demand": false}
+{"id": "r_1qygm86", "demand": true, "problem": "managing contractor crew availability", "who": "contractor or tradesperson", "product": "app", "pain": 2, "pay": "none", "tools": ["spreadsheets", "text threads"], "quote": "Finding available trades, tracking who's on which job, and managing crew contacts is a mess", "flag": "none"}
+{"id": "r_1r315kn", "demand": false}
+{"id": "r_1r3lq90", "demand": true, "problem": "long waits at clinics despite booking", "who": "patient visiting a clinic in India", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "even after booking an appointment, you still end up waiting", "flag": "none"}
+{"id": "r_1r4ko8w", "demand": true, "problem": "manual Stripe refund processing", "who": "small online business owner", "product": "automation", "pain": 2, "pay": "none", "tools": ["Stripe"], "quote": "Takes 3-5 minutes. If you do 20-50 refunds/month, that's hours wasted.", "flag": "none"}
+{"id": "r_1r4ks6l", "demand": true, "problem": "writing follow-up emails after sales calls", "who": "sales rep or sales leader", "product": "automation", "pain": 2, "pay": "none", "tools": ["Zoom", "Google Meet", "Gmail"], "quote": "After sales calls, you spend 15 minutes writing follow-up emails:", "flag": "none"}
+{"id": "r_1r75usr", "demand": false}
+{"id": "r_1ra6py9", "demand": false}
+{"id": "r_1raj5uw", "demand": false}
+{"id": "r_1rdws2q", "demand": true, "problem": "scattered knowledge across media apps", "who": "heavy media consumer and writer", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Goodreads", "Readwise", "Medium"], "quote": "I basically have this knowledge scattered across 4-5 different apps with no way to:", "flag": "none"}
+{"id": "r_1rhq84x", "demand": true, "problem": "lumpy freelancer income budgeting", "who": "freelancer or gig worker", "product": "app", "pain": 2, "pay": "none", "tools": ["YNAB"], "quote": "Standard apps just show them in the red during slow months, which is stressful and unhelpful.", "flag": "none"}
+{"id": "r_1rnddr4", "demand": true, "problem": "monitoring multiple micro-SaaS apps", "who": "solo developer running micro-SaaS", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Stripe", "Vercel", "Supabase", "OpenAI"], "quote": "Every day I have to jump between Stripe (MRR/subs), Vercel (deploys), Supabase (users), and OpenAI (token usage) just to check if my apps are alive and profitable.", "flag": "none"}
+{"id": "r_1rp3kl4", "demand": true, "problem": "saved links never revisited", "who": "heavy bookmarker and saver of content", "product": "app", "pain": 2, "pay": "none", "tools": ["WhatsApp", "Instagram", "X"], "quote": "I've got hell lot of links sitting in my whatsapp chat that I never revisited", "flag": "none"}
+{"id": "r_1rtl0ef", "demand": true, "problem": "manual status sync across project tools", "who": "solo builder using 3+ project tools", "product": "automation", "pain": 2, "pay": "none", "tools": ["Zapier"], "quote": "I have to manually mirror it in two others.", "flag": "none"}
+{"id": "r_1ruco30", "demand": true, "problem": "unfinished YouTube playlists", "who": "self-learner studying from YouTube", "product": "app", "pain": 1, "pay": "none", "tools": ["YouTube"], "quote": "instead of doom-scrolling past forever", "flag": "none"}
+{"id": "r_1rw9z86", "demand": true, "problem": "reminding friends to repay loans", "who": "person who lends money to friends", "product": "app", "pain": 2, "pay": "none", "tools": ["SMS"], "quote": "I generally don't like borrowing because I feel uncomfortable being reminded of a debt", "flag": "none"}
+{"id": "r_1ry10ht", "demand": true, "problem": "keeping toddlers occupied while parent works", "who": "parent of a toddler", "product": "app", "pain": 1, "pay": "none", "tools": ["Guided Access"], "quote": "Where you just need 5 minutes to get something done and your kid is not having it.", "flag": "none"}
+{"id": "r_1rzgn02", "demand": false}
+{"id": "r_1rzrhjm", "demand": false}
+{"id": "r_1s50fxe", "demand": true, "problem": "manual grant search for a non-profit", "who": "staff of a Dutch patient non-profit", "product": "automation", "pain": 2, "pay": "none", "tools": ["ZonMw", "NWO"], "quote": "We spend a significant amount of time manually searching for research grants and subsidies", "flag": "none"}
+{"id": "r_1sa1pyn", "demand": true, "problem": "habit trackers losing motivation", "who": "person building habits", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "after a couple of weeks I lose motivation.", "flag": "none"}
+{"id": "r_1sd717a", "demand": false}
+{"id": "r_1sdsb9n", "demand": false}
+{"id": "r_1secs69", "demand": false}
+{"id": "r_1shg3y2", "demand": false}
+{"id": "r_1shq1nj", "demand": false}
+{"id": "r_1sk6sx1", "demand": true, "problem": "missed appointments from silent reminders", "who": "person missing medical and work appointments", "product": "app", "pain": 2, "pay": "none", "tools": ["Apple Reminders"], "quote": "I keep missing important appointments", "flag": "none"}
+{"id": "r_1sqtcfr", "demand": true, "problem": "forgotten client follow-ups", "who": "freelancer or small business owner", "product": "automation", "pain": 3, "pay": "none", "tools": ["Gmail", "HubSpot", "Notion"], "quote": "lost a partnership because I forgot to followup in time", "flag": "none"}
+{"id": "r_1sy8fzg", "demand": false}
+{"id": "r_1szgkq9", "demand": false}
+{"id": "r_1t100ns", "demand": true, "problem": "effortless gym workout tracking", "who": "barbell lifter", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "They all require too much brain power between sets", "flag": "none"}
+{"id": "r_1t1n2t8", "demand": false}
+{"id": "r_1t2jonp", "demand": false}
+{"id": "r_1t59hwv", "demand": true, "problem": "filtering political content from feeds", "who": "social media user", "product": "plugin/extension", "pain": 1, "pay": "explicit", "tools": ["X", "Reddit", "Instagram"], "quote": "Fed up of how political my feeds are.", "flag": "none"}
+{"id": "r_1tbzjqc", "demand": true, "problem": "keyword-only search for rare synth gear", "who": "vintage synth buyer and seller", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "if you're looking for a specific oscillator, you get a million unrelated listings.", "flag": "none"}
+{"id": "r_1tc6txz", "demand": true, "problem": "screen time habit control", "who": "social media user", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Setting up/customisation takes forever", "flag": "none"}
+{"id": "r_1tc83sm", "demand": true, "problem": "scam-free peer-to-peer trades", "who": "buyer and seller in online P2P trades", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Razorpay"], "quote": "After seeing a lot of scams happening.", "flag": "none"}
+{"id": "r_1tfihik", "demand": false}
+{"id": "r_1tn8myl", "demand": false}
+{"id": "r_1tq8ujb", "demand": false}
+{"id": "r_1tqvjss", "demand": false}
+{"id": "r_1trd5d5", "demand": false}
+{"id": "r_1tstjzj", "demand": false}
+{"id": "r_1ty8vfw", "demand": false}
+{"id": "r_1tzz3cp", "demand": false}
+{"id": "r_1u0gtc3", "demand": false}
+{"id": "r_1u189bb", "demand": false}
+{"id": "r_1u1aozc", "demand": false}
+{"id": "r_1u1asue", "demand": false}
+{"id": "r_1u2ch0k", "demand": false}
+{"id": "r_1u3a55c", "demand": false}
+{"id": "r_1u4htrr", "demand": false}
+{"id": "r_1u9z15p", "demand": false}
+{"id": "r_1ud2cfn", "demand": false}
+{"id": "r_1uebvf3", "demand": false}
+{"id": "r_1ui16ng", "demand": true, "problem": "never learning from past decisions", "who": "individual who makes everyday decisions", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "it's that I never learn from them.", "flag": "none"}
+{"id": "r_1ukbuu7", "demand": false}
+{"id": "r_1ukjmz9", "demand": false}
+{"id": "r_1ul4jk5", "demand": true, "problem": "turning saved cooking videos into grocery lists", "who": "home cook saving recipe videos", "product": "app", "pain": 2, "pay": "explicit", "tools": ["TikTok", "Instagram", "Kroger"], "quote": "I would literally pay an exorbitant amount of money for this", "flag": "none"}
+{"id": "r_1ulk8z7", "demand": true, "problem": "forgetting game progress between sessions", "who": "gamer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I kept playing multiple games over time and never remembered", "flag": "none"}
+{"id": "r_1unxsiu", "demand": false}
+{"id": "r_1up20ku", "demand": false}
+{"id": "r_1usfkf0", "demand": false}
+{"id": "r_1uuews3", "demand": true, "problem": "medication reminders people ignore", "who": "family caregiver of medication user", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "medication reminder apps are basically alarm clocks, and people ignore them the same way they ignore alarms.", "flag": "none"}
+{"id": "r_1uvatzb", "demand": false}
+{"id": "r_1uw5rk8", "demand": false}
+{"id": "r_1uw8v4p", "demand": true, "problem": "explaining technical answers in a second language", "who": "ESL software engineer in interviews", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "ESL engineers lose interviews not because of their technical skills", "flag": "none"}
+{"id": "r_1uyttzd", "demand": false}
+{"id": "r_1v00icz", "demand": true, "problem": "finding stronger synonyms while writing", "who": "writer", "product": "app", "pain": 1, "pay": "none", "tools": ["Google"], "quote": "I find myself constantly writing things and then copy and pasting weak words into google", "flag": "none"}
+{"id": "r_1v0s0ms", "demand": true, "problem": "calendar cascade from rescheduled events", "who": "busy professional with a full calendar", "product": "automation", "pain": 2, "pay": "none", "tools": ["Google Calendar"], "quote": "every time I delay, miss, or reschedule an event, all the following events get shifted, misplaced, and in my case usually cancelled.", "flag": "none"}
+{"id": "r_1v2k5hg", "demand": false}
+{"id": "r_1v2z7ev", "demand": true, "problem": "fake AI-edited listing photos on marketplaces", "who": "marketplace buyer", "product": "app", "pain": 1, "pay": "none", "tools": ["Facebook Marketplace", "Etsy", "Alibaba"], "quote": "people being frustrated nowadays with Facebook marketplace, Etsy etc being flooded with sellers who use AI generated or highly edited photos", "flag": "none"}
+{"id": "r_1v40xwe", "demand": false}
+{"id": "r_1vaq5gr", "demand": false}
+{"id": "r_1vfokao", "demand": true, "problem": "compulsive brokerage app checking", "who": "retail investor", "product": "app", "pain": 1, "pay": "none", "tools": ["brokerage apps"], "quote": "Not to trade, just to check if I'm in the green or red.", "flag": "none"}
+{"id": "r_1vhvuzu", "demand": false}
+{"id": "r_1vja7r0", "demand": false}
+{"id": "r_1vthcxr", "demand": false}
+{"id": "r_1vya1fw", "demand": true, "problem": "news overload", "who": "news-engaged professional", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is anyone else feeling overwhelmed by the amount of news content and how impossible it feels to get on top of it?", "flag": "none"}
+{"id": "r_1w05fl0", "demand": true, "problem": "chasing unpaid client invoices", "who": "freelancer or small business owner", "product": "automation", "pain": 2, "pay": "none", "tools": ["Stripe"], "quote": "chases down late-paying clients via email/SMS until they click a Stripe link to pay", "flag": "none"}
+{"id": "r_1w44ei0", "demand": true, "problem": "unwanted WhatsApp profile pictures", "who": "WhatsApp user", "product": "app", "pain": 1, "pay": "explicit", "tools": ["WhatsApp"], "quote": "I'd personally be willing to pay for such an App.", "flag": "none"}
+{"id": "r_1w6g4mi", "demand": false}
+{"id": "r_1w7cz8q", "demand": true, "problem": "unread saved content piles up", "who": "person with a save-for-later backlog", "product": "app", "pain": 1, "pay": "none", "tools": ["YouTube", "Reddit"], "quote": "my save for later pile is basically a graveyard.", "flag": "none"}
+{"id": "r_1w91zpo", "demand": false}
+{"id": "r_1w9j8hu", "demand": false}
+{"id": "r_1ws5wiq", "demand": false}
+{"id": "r_1wwnq9x", "demand": true, "problem": "low-quality social feeds", "who": "social media fan or creator", "product": "app", "pain": 1, "pay": "none", "tools": ["YouTube", "X"], "quote": "regular feeds push rage-bait and filler", "flag": "none"}
+{"id": "r_1wx1p23", "demand": true, "problem": "filtering large Amazon wishlist for deals", "who": "gift shopper with a large wishlist", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Camel Camel Camel", "ChatGPT", "Google AI"], "quote": "The size of my wishlist flat out broke Camel Camel Camel functions", "flag": "none"}
+{"id": "r_1wxdcvr", "demand": false}
+{"id": "r_1x06o7u", "demand": false}
+{"id": "r_1x4kkby", "demand": false}
+{"id": "r_1x5etrw", "demand": false}
+{"id": "r_1x7banz", "demand": false}
+{"id": "r_1x7elel", "demand": false}
+{"id": "r_1x7gb84", "demand": false}
+{"id": "r_1x8nm4a", "demand": true, "problem": "daily meal decision fatigue", "who": "home cook or busy eater", "product": "app", "pain": 1, "pay": "none", "tools": ["ChatGPT"], "quote": "deciding what to eat every day can be surprisingly frustrating.", "flag": "none"}
+{"id": "r_1x9y0dt", "demand": false}
+{"id": "r_1xavlw6", "demand": true, "problem": "juggling multiple coding agents across projects", "who": "developer running coding agents", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["VS Code"], "quote": "my attention was all over the place", "flag": "none"}
+{"id": "r_1xbr9bp", "demand": false}
+{"id": "r_1xctc2r", "demand": false}

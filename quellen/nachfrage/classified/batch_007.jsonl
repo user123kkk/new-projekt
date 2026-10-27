@@ -1,0 +1,100 @@
+{"id": "h_38898137", "demand": false}
+{"id": "h_46201943", "demand": true, "problem": "notes app as automatic journal", "who": "unknown", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Apple Notes"], "quote": "Basically by taking something I already do today (writing in my notes), erasing that initial step of writing from scratch, and then maybe asking me to fill in the gaps.", "flag": "none"}
+{"id": "h_39215367", "demand": true, "problem": "react native app store deployment maintenance", "who": "startup cto", "product": "other", "pain": 3, "pay": "explicit", "tools": ["React Native", "Xcode", "Fastlane"], "quote": "Fixing this is nobody’s full time job and so it tends to end up on my plate (founder&#x2F;CTO).", "flag": "none"}
+{"id": "h_50022866", "demand": true, "problem": "on-screen annotation overlay for older users", "who": "older adults", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "I would pay good money for something like this on iPad!", "flag": "none"}
+{"id": "h_49411631", "demand": false}
+{"id": "h_48687261", "demand": false}
+{"id": "h_48159271", "demand": true, "problem": "foreign card transactions flagged as fraud", "who": "saas billing owner", "product": "other", "pain": 3, "pay": "explicit", "tools": [], "quote": "A real support headache if any has a fix to either of these problems I would pay good money for it.", "flag": "none"}
+{"id": "h_48072275", "demand": false}
+{"id": "h_47719848", "demand": false}
+{"id": "h_47450597", "demand": false}
+{"id": "h_47161821", "demand": true, "problem": "curated app store filtering out ads and permissions", "who": "power user", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Google Play Store"], "quote": "I would pay good money for a version of the Play Store curated by other power users like myself.", "flag": "none"}
+{"id": "h_46934051", "demand": false}
+{"id": "h_46860293", "demand": false}
+{"id": "h_46466146", "demand": true, "problem": "gnucash ui and accounting engine library", "who": "personal finance user", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["GnuCash"], "quote": "I would pay good money for someone to improve the UI, maybe even separate the accounting engine into a library that could be used by different UIs.", "flag": "none"}
+{"id": "h_46441567", "demand": false}
+{"id": "h_46355990", "demand": false}
+{"id": "h_45981882", "demand": true, "problem": "updated classic city builder game", "who": "city builder fan", "product": "other", "pain": 1, "pay": "explicit", "tools": ["Cities Skylines", "SimCity 4"], "quote": "I would pay good money for an updated Sim City 4 or ... Sim City 3000.", "flag": "none"}
+{"id": "h_45932250", "demand": true, "problem": "windows 7 style os without win11 bloat", "who": "windows user", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Windows 11", "Windows 7", "Steam"], "quote": "I would pay good money for win7 resurrection.", "flag": "none"}
+{"id": "h_45534303", "demand": false}
+{"id": "h_45462874", "demand": false}
+{"id": "h_45232412", "demand": true, "problem": "forum with discord-style chat", "who": "unknown", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["Discord"], "quote": "I just want Discord but a forum.", "flag": "none"}
+{"id": "h_44952850", "demand": true, "problem": "feed-free social media experience", "who": "unknown", "product": "app", "pain": 2, "pay": "explicit", "tools": ["YouTube Shorts", "Instagram Reels"], "quote": "I would pay good money to never have to see a &quot;suggested&quot; anything again.", "flag": "none"}
+{"id": "h_44913899", "demand": false}
+{"id": "h_44884371", "demand": false}
+{"id": "h_44302141", "demand": false}
+{"id": "h_43903086", "demand": true, "problem": "identify critical css rules", "who": "web developer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": [], "quote": "I would pay good money for this tool ~12 years ago.", "flag": "none"}
+{"id": "h_43858964", "demand": false}
+{"id": "h_43599516", "demand": true, "problem": "ar replacement of billboards with personal content", "who": "unknown", "product": "other", "pain": 1, "pay": "explicit", "tools": [], "quote": "I am no longer into hackathons, but I would pay good money for such a product.", "flag": "none"}
+{"id": "h_42935723", "demand": true, "problem": "translation overlay for existing video calls", "who": "video call user", "product": "app", "pain": 2, "pay": "explicit", "tools": [], "quote": "It could be a standalone app that exports video to existing conferencing services.", "flag": "none"}
+{"id": "h_42817779", "demand": false}
+{"id": "h_42809627", "demand": true, "problem": "up-to-date pubmed rag for llm", "who": "researcher", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["Anthropic API", "PubMed"], "quote": "A RAG built using all of PubMed and updated weekly would be a very different story.", "flag": "none"}
+{"id": "h_42706108", "demand": false}
+{"id": "h_42365072", "demand": false}
+{"id": "h_42305169", "demand": false}
+{"id": "h_42087026", "demand": false}
+{"id": "h_41770061", "demand": false}
+{"id": "h_41561511", "demand": false}
+{"id": "h_41218155", "demand": true, "problem": "cheap ai voice acting replacement", "who": "game or animation producer", "product": "app", "pain": 1, "pay": "explicit", "tools": ["ChatGPT"], "quote": "That would be way more useful than a voice assistant, with that you can replace voice actors for cheap!", "flag": "none"}
+{"id": "h_41058794", "demand": true, "problem": "block political text messages", "who": "unknown", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Robokiller"], "quote": "I would pay good money for an app that would block political texts and not send equally annoying notifications.", "flag": "none"}
+{"id": "h_40809268", "demand": true, "problem": "user agent that serves the user", "who": "web user", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": [], "quote": "At this point, I would pay good money for an actual user agent that is worthy of the name.", "flag": "none"}
+{"id": "h_40460758", "demand": false}
+{"id": "h_39948355", "demand": false}
+{"id": "h_39659880", "demand": true, "problem": "proactive llm assistant that interjects", "who": "unknown", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Clippy"], "quote": "I would pay good money for a Clippy powered by a capable LLM.", "flag": "none"}
+{"id": "h_39616028", "demand": true, "problem": "quality educational software for kids", "who": "parent", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Sugar"], "quote": "I would pay good money for a tablet filled with software for kids that would teach the basics and be interesting at the same time.", "flag": "none"}
+{"id": "h_39598710", "demand": false}
+{"id": "h_39465445", "demand": true, "problem": "llm as default android voice assistant", "who": "android user", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Alexa", "Google Assistant", "Retell AI"], "quote": "I wish I could set it as my phone&#x27;s (Android) default assistant.", "flag": "none"}
+{"id": "h_39206637", "demand": false}
+{"id": "h_39155718", "demand": false}
+{"id": "h_38842754", "demand": false}
+{"id": "h_47350026", "demand": false}
+{"id": "h_50027388", "demand": false}
+{"id": "h_49846500", "demand": false}
+{"id": "h_49675132", "demand": false}
+{"id": "h_49651055", "demand": false}
+{"id": "h_49387995", "demand": false}
+{"id": "h_48716651", "demand": false}
+{"id": "h_48640980", "demand": false}
+{"id": "h_48095878", "demand": false}
+{"id": "h_47901936", "demand": false}
+{"id": "h_47834633", "demand": false}
+{"id": "h_47052500", "demand": false}
+{"id": "h_46829550", "demand": false}
+{"id": "h_46620045", "demand": true, "problem": "github actions ci tool frustration", "who": "developer", "product": "automation", "pain": 2, "pay": "none", "tools": ["GitHub Actions"], "quote": "then you’re basically working against or despite the CI tool, and at that point maybe someone should build a better or more suitable CI tool.", "flag": "none"}
+{"id": "h_46424102", "demand": false}
+{"id": "h_46041326", "demand": false}
+{"id": "h_45740376", "demand": false}
+{"id": "h_45704982", "demand": true, "problem": "pull request review cognitive overhead", "who": "developer", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I’ve always found the cognitive overhead of going through a pull request challenging", "flag": "none"}
+{"id": "h_45489398", "demand": false}
+{"id": "h_45416402", "demand": true, "problem": "command line pdf manipulation tool", "who": "mac power user", "product": "automation", "pain": 1, "pay": "none", "tools": ["Automator", "Preview", "ImageMagick", "ffmpeg"], "quote": "I’m surprised there’s no ffmeg or imagemagik for pdfs (maybe there is?).", "flag": "none"}
+{"id": "h_45053756", "demand": false}
+{"id": "h_44933113", "demand": false}
+{"id": "h_44585566", "demand": false}
+{"id": "h_44508333", "demand": true, "problem": "finding non-smart appliances", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Someone should build a search listing for this.", "flag": "none"}
+{"id": "h_44455385", "demand": false}
+{"id": "h_44415529", "demand": false}
+{"id": "h_44181070", "demand": false}
+{"id": "h_42871786", "demand": false}
+{"id": "h_42236614", "demand": false}
+{"id": "h_42015466", "demand": false}
+{"id": "h_41416998", "demand": true, "problem": "stylus input from kindle scribe browser", "who": "daily driver computer user", "product": "other", "pain": 2, "pay": "none", "tools": ["Kindle Scribe", "Raspberry Pi 5", "Wacom One"], "quote": "if someone has a tool which would allow this to capture stylus input, please let me know", "flag": "none"}
+{"id": "h_41304579", "demand": false}
+{"id": "h_40532420", "demand": false}
+{"id": "h_40495660", "demand": true, "problem": "local host for single-file web apps", "who": "developer", "product": "other", "pain": 1, "pay": "none", "tools": ["Electron"], "quote": "someone should build a local service that hosts a library of static web apps for use cases like this.", "flag": "none"}
+{"id": "h_39787019", "demand": false}
+{"id": "h_39736152", "demand": false}
+{"id": "h_39427547", "demand": false}
+{"id": "h_38908376", "demand": false}
+{"id": "h_49199330", "demand": false}
+{"id": "h_49893330", "demand": false}
+{"id": "h_50263180", "demand": false}
+{"id": "h_50136648", "demand": false}
+{"id": "h_49424233", "demand": false}
+{"id": "h_49164048", "demand": true, "problem": "ocaml graphql tooling", "who": "developer", "product": "other", "pain": 1, "pay": "none", "tools": ["Relay", "OCaml"], "quote": "Please somebody make a good OCaml GraphQL compiler, server, and client.", "flag": "none"}
+{"id": "h_48508448", "demand": false}
+{"id": "h_48161788", "demand": false}
+{"id": "h_47956239", "demand": true, "problem": "ux laws as agent skill", "who": "developer", "product": "other", "pain": 1, "pay": "none", "tools": [], "quote": "can somebody make these laws into a skill for agents?", "flag": "none"}
+{"id": "h_47941274", "demand": false}
+{"id": "h_47534447", "demand": false}
+{"id": "h_47467062", "demand": false}
+{"id": "h_46991379", "demand": false}

@@ -1,0 +1,100 @@
+{"id": "r_1hjg7a7", "demand": false}
+{"id": "r_1hkrzpn", "demand": true, "problem": "tracking supermarket half-price deals", "who": "budget shopper in Australia", "product": "app", "pain": 2, "pay": "none", "tools": ["Coles", "Woolworths"], "quote": "Similarly, there are many such products that I buy only when they are at half-price.", "flag": "none"}
+{"id": "r_1hkx20v", "demand": true, "problem": "cataloguing rock collection with display view", "who": "rock collector", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there any app out there where you can create a tile for each piece", "flag": "none"}
+{"id": "r_1hlv9db", "demand": false}
+{"id": "r_1hnini6", "demand": false}
+{"id": "r_1ho7rus", "demand": true, "problem": "estimating how long to stay in a travel spot", "who": "traveller planning trips", "product": "app", "pain": 2, "pay": "none", "tools": ["travel influencer guides"], "quote": "it took me extra time to find it with scarce/inaccurate information from the influencers", "flag": "none"}
+{"id": "r_1hod9eb", "demand": true, "problem": "saving media from deleted TikTok", "who": "TikTok user", "product": "app", "pain": 1, "pay": "none", "tools": ["TikTok", "Google Drive"], "quote": "It would be nice to have an app that would download all of those onto possibly a Google Drive or another storage.", "flag": "none"}
+{"id": "r_1hojekq", "demand": false}
+{"id": "r_1hp7o1k", "demand": false}
+{"id": "r_1hq2px6", "demand": false}
+{"id": "r_1hr54tr", "demand": false}
+{"id": "r_1hrc32n", "demand": false}
+{"id": "r_1hsglxe", "demand": false}
+{"id": "r_1htfrnd", "demand": true, "problem": "choosing what to watch across streaming platforms", "who": "streaming viewer", "product": "app", "pain": 1, "pay": "none", "tools": ["streaming aggregator app"], "quote": "I had the idea to solve the challenge of endlessly scrolling multiple streaming platforms to find something to watch.", "flag": "none"}
+{"id": "r_1htj1ry", "demand": false}
+{"id": "r_1hujcuz", "demand": false}
+{"id": "r_1hunmb5", "demand": false}
+{"id": "r_1huzgm8", "demand": false}
+{"id": "r_1hvewk7", "demand": false}
+{"id": "r_1hvjusx", "demand": true, "problem": "commute timing with unpredictable traffic", "who": "office commuter", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "You either leave too early and end up waiting awkwardly in the office parking lot, or you cut it too close and risk being late for an important meeting.", "flag": "none"}
+{"id": "r_1hxxi64", "demand": false}
+{"id": "r_1hywgu1", "demand": false}
+{"id": "r_1i16w87", "demand": false}
+{"id": "r_1i1n4le", "demand": false}
+{"id": "r_1i208pc", "demand": false}
+{"id": "r_1i4xwdz", "demand": false}
+{"id": "r_1i5qgan", "demand": false}
+{"id": "r_1i7aipf", "demand": true, "problem": "tracking grocery prices like stock prices", "who": "grocery shopper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I’ve been trying to find an app like this for a while and can’t seem to find one.", "flag": "none"}
+{"id": "r_1i8tnyp", "demand": false}
+{"id": "r_1i8wk2f", "demand": true, "problem": "aggregating tasks from several task managers", "who": "freelancer working with multiple clients", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Jira", "Trello", "Monday"], "quote": "I'm using multiple task management apps like Jira, Trello, Monday, etc due to working with multiple clients", "flag": "none"}
+{"id": "r_1ict7j2", "demand": false}
+{"id": "r_1ieb0zt", "demand": false}
+{"id": "r_1ihonuv", "demand": true, "problem": "finding people to discuss niche books and films", "who": "reader with no local friends who share interests", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I dont have any friends or relatives who are even slightly interested in such topics", "flag": "none"}
+{"id": "r_1ij3non", "demand": false}
+{"id": "r_1ijw3tb", "demand": false}
+{"id": "r_1ijx3t3", "demand": false}
+{"id": "r_1ikj2v6", "demand": false}
+{"id": "r_1iou0i0", "demand": false}
+{"id": "r_1iou7cz", "demand": false}
+{"id": "r_1isp5m8", "demand": true, "problem": "state-level hurricane alerts", "who": "traveller visiting hurricane-prone states", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "this one would be really helpful", "flag": "none"}
+{"id": "r_1iuoa1w", "demand": true, "problem": "finding varied coding vlogs by topic", "who": "coding video viewer", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["YouTube"], "quote": "When we searched for coding vlogs, it was just pure simple ones getting repeated repeatedly.", "flag": "none"}
+{"id": "r_1iuzw5x", "demand": true, "problem": "automatic clicking on screen images", "who": "non-programmer computer user", "product": "desktop software", "pain": 1, "pay": "none", "tools": [], "quote": "I was looking for an application that fulfilled to detect a specific image and that quickly clicked on it.", "flag": "none"}
+{"id": "r_1iweu4l", "demand": true, "problem": "practising DSA questions on a phone", "who": "computer science student", "product": "app", "pain": 1, "pay": "none", "tools": ["LeetCode", "HackerRank", "Sololearn"], "quote": "I tried to find an app to practice dsa questions on phone.", "flag": "none"}
+{"id": "r_1ixc61c", "demand": false}
+{"id": "r_1izni5c", "demand": false}
+{"id": "r_1j0zd9c", "demand": false}
+{"id": "r_1j1smmr", "demand": false}
+{"id": "r_1j2hur3", "demand": true, "problem": "forgetting where everyday items were left", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "This happens to me way too often", "flag": "none"}
+{"id": "r_1j2shbx", "demand": true, "problem": "finding used-item listings for Amazon products", "who": "bargain shopper buying second-hand", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["SearchTempest", "eBay", "Facebook Marketplace", "Craigslist"], "quote": "Its barely more usful than just searching all the sites separately too", "flag": "none"}
+{"id": "r_1j3lafv", "demand": false}
+{"id": "r_1j4zbz8", "demand": false}
+{"id": "r_1j5ldnz", "demand": false}
+{"id": "r_1j6tv0a", "demand": false}
+{"id": "r_1j6tvov", "demand": false}
+{"id": "r_1j71sbi", "demand": false}
+{"id": "r_1j7932z", "demand": false}
+{"id": "r_1j7fp9h", "demand": false}
+{"id": "r_1j85dsm", "demand": false}
+{"id": "r_1j9ix2q", "demand": true, "problem": "controlling dance videos with a remote", "who": "Python developer learning dance choreography", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["VLC", "YouTube"], "quote": "I am a Python dev with a few years experience who is looking to solve a problem I have - learning dance choreography from YouTube.", "flag": "none"}
+{"id": "r_1jbpxoi", "demand": false}
+{"id": "r_1jcyxas", "demand": true, "problem": "finding people to meet at events", "who": "person wanting social matching", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I know a lot of people including me that would be so much interested in using an app that does something like this.", "flag": "none"}
+{"id": "r_1jei5ox", "demand": false}
+{"id": "r_1jenz61", "demand": true, "problem": "tracking government actions in one place", "who": "politically engaged citizen", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Frustrated citizen here trying to stay informed in tumultuous times in a sea of data.", "flag": "none"}
+{"id": "r_1jf1wf2", "demand": false}
+{"id": "r_1jfv77s", "demand": false}
+{"id": "r_1jge9o9", "demand": false}
+{"id": "r_1jj8nj7", "demand": true, "problem": "productivity apps lose user interest", "who": "post-secondary student", "product": "app", "pain": 1, "pay": "none", "tools": ["Notion", "Streaks", "Habitica"], "quote": "but I've always found myself to rather stop using the app after a few weeks.", "flag": "none"}
+{"id": "r_1jjmf89", "demand": false}
+{"id": "r_1jjwety", "demand": false}
+{"id": "r_1jk1zqu", "demand": false}
+{"id": "r_1jkinug", "demand": false}
+{"id": "r_1jmomxu", "demand": false}
+{"id": "r_1jovs3m", "demand": false}
+{"id": "r_1jqhbbw", "demand": true, "problem": "resuming coding project each morning", "who": "self-taught programmer", "product": "automation", "pain": 1, "pay": "none", "tools": ["git"], "quote": "I think I struggle most with getting back into the project each morning.", "flag": "none"}
+{"id": "r_1jqqrul", "demand": false}
+{"id": "r_1jrby0r", "demand": false}
+{"id": "r_1jtfthc", "demand": false}
+{"id": "r_1jtjxdz", "demand": false}
+{"id": "r_1jtpkz7", "demand": false}
+{"id": "r_1jtwf2f", "demand": true, "problem": "nutrition tracking without calorie focus", "who": "people recovering from eating disorders", "product": "app", "pain": 2, "pay": "none", "tools": ["MyFitnessPal", "Cronometer"], "quote": "Apps like MyFitnessPal do this, but they prominently feature calorie counts and weight loss metrics, which can trigger EDs.", "flag": "none"}
+{"id": "r_1jv0yhs", "demand": true, "problem": "filtering news and posts about specific public figures", "who": "internet user with anxiety", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": [], "quote": "the anxiety that triggers seeing one of these two men is insane.", "flag": "none"}
+{"id": "r_1jx8qui", "demand": false}
+{"id": "r_1jxb23l", "demand": false}
+{"id": "r_1jxhlc0", "demand": false}
+{"id": "r_1jydyes", "demand": false}
+{"id": "r_1jyhcem", "demand": false}
+{"id": "r_1jyshni", "demand": true, "problem": "checking private shuttle bus schedules", "who": "commuter using private shuttle buses", "product": "app", "pain": 1, "pay": "none", "tools": ["Google Calendar"], "quote": "find it a bit of a hassle to look up each of the schedules.", "flag": "none"}
+{"id": "r_1k0baqm", "demand": false}
+{"id": "r_1k37rzr", "demand": false}
+{"id": "r_1k7zzs8", "demand": true, "problem": "grocery inventory and restock tracking outside the US", "who": "household shopper outside the US", "product": "app", "pain": 1, "pay": "none", "tools": ["Kitchenpal"], "quote": "it seems that the audience is mainly for the US.", "flag": "none"}
+{"id": "r_1k9mt9w", "demand": false}
+{"id": "r_1kagfdp", "demand": false}
+{"id": "r_1kai7te", "demand": true, "problem": "single app for several sports and game logs", "who": "multi-sport fan", "product": "app", "pain": 1, "pay": "none", "tools": ["Futbology"], "quote": "It has annoyed me for months that there is no cross-sport app for groundhopping.", "flag": "none"}
+{"id": "r_1kaweda", "demand": false}
+{"id": "r_1kb6edb", "demand": false}
+{"id": "r_1kblcxw", "demand": false}
+{"id": "r_1kcxjok", "demand": false}
+{"id": "r_1ke6tfd", "demand": false}
+{"id": "r_1keznwy", "demand": true, "problem": "unloading scattered thoughts into a private notes app", "who": "person who writes unorganized notes", "product": "app", "pain": 1, "pay": "none", "tools": ["phone notes app"], "quote": "I never organize them, I rarely revisit them.", "flag": "none"}
+{"id": "r_1kezrd7", "demand": true, "problem": "unloading scattered thoughts into a private notes app", "who": "person who writes unorganized notes", "product": "app", "pain": 1, "pay": "none", "tools": ["phone notes app"], "quote": "I never organize them, I rarely revisit them.", "flag": "none"}

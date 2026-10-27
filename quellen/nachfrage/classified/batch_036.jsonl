@@ -1,0 +1,100 @@
+{"id": "r_1r11k8a", "demand": true, "problem": "vibe coding credit burn", "who": "developers using AI coding tools", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["ChatGPT", "Claude"], "quote": "AI vibe coding tools are great… until you watch credits evaporate on every prompt.", "flag": "none"}
+{"id": "r_1mxfpcd", "demand": true, "problem": "attention-controlled personal social feed", "who": "social network users", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Facebook", "X", "Telegram"], "quote": "I would pay for a social network that lets me decide how I consume the content", "flag": "none"}
+{"id": "r_1tpshc5", "demand": true, "problem": "automatic grocery coupon clipping", "who": "grocery shoppers", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["Safeway app", "Lucky"], "quote": "I would happily pay a monthly fee for it.", "flag": "none"}
+{"id": "r_1r73tui", "demand": true, "problem": "freelancer unpaid invoice collection", "who": "freelancers", "product": "automation", "pain": 3, "pay": "none", "tools": ["FreshBooks", "Wave"], "quote": "freelancers losing $2-5K/year on clients who ghost invoices.", "flag": "none"}
+{"id": "r_1lx2412", "demand": false}
+{"id": "r_1rs4wcc", "demand": false}
+{"id": "r_1tvik2a", "demand": false}
+{"id": "r_1cwbcjk", "demand": true, "problem": "photo theft prevention for catfishing", "who": "social media users", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "can somebody make an app or at least a program where if you saved/screenshot a certain photo it would look distorted to prevent it from being used?", "flag": "none"}
+{"id": "r_1suwsfw", "demand": false}
+{"id": "r_1tsxy9v", "demand": true, "problem": "facebook group post keyword alerts", "who": "trading card collectors", "product": "automation", "pain": 2, "pay": "none", "tools": ["Facebook", "Telegram"], "quote": "whenever people post I'm too late to claim the cards", "flag": "none"}
+{"id": "r_1wb7mje", "demand": true, "problem": "warranty expiry tracking", "who": "household consumers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Somebody make an app that tracks product warranties so I stop losing money on stuff I forgot was covered", "flag": "none"}
+{"id": "r_192v3cc", "demand": true, "problem": "classroom student response kiosk", "who": "teachers", "product": "app", "pain": 2, "pay": "none", "tools": ["iPad"], "quote": "I'm looking for an app for a shared iPad in the classroom (kiosk style) where I as the teacher can send a prompt to it", "flag": "none"}
+{"id": "r_1aeb4lv", "demand": true, "problem": "weight training log with spreadsheet import", "who": "weight lifters", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "What I’m looking for would have excel/sheets importing, edit workout history, analytics, and HealthKit integration.", "flag": "none"}
+{"id": "r_1cakec0", "demand": true, "problem": "virtual classroom quiz game platform", "who": "biology and geology teacher", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Padlet", "Google Classroom", "Minecraft"], "quote": "Unfortunately, I haven't found any suitable platform yet.", "flag": "none"}
+{"id": "r_1d716ws", "demand": false}
+{"id": "r_1djjpva", "demand": false}
+{"id": "r_1e1xcyx", "demand": true, "problem": "country economic and political data lookup", "who": "business traveler", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I travel for my job to other countries and am looking for an app that has economic and political data.", "flag": "none"}
+{"id": "r_1fc2r6h", "demand": true, "problem": "friend contact reminder", "who": "individual", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I need a system or app that reminds me to message them if I haven't done so in the last two months", "flag": "none"}
+{"id": "r_1gfnlnw", "demand": false}
+{"id": "r_1k30dsn", "demand": true, "problem": "book retention through visual summaries", "who": "book reader", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I often struggle to remember the key ideas or concepts over time.", "flag": "none"}
+{"id": "r_1kv1kh1", "demand": false}
+{"id": "r_1lgtuvb", "demand": true, "problem": "volume button short video swiping", "who": "runners and exercisers", "product": "app", "pain": 2, "pay": "none", "tools": ["TikTok", "Instagram"], "quote": "Do you know any app which can allow me to swipe tiktoks with the click of a volume button?", "flag": "none"}
+{"id": "r_1lgtwf3", "demand": true, "problem": "volume button short video swiping", "who": "runners and exercisers", "product": "app", "pain": 2, "pay": "none", "tools": ["TikTok", "Instagram"], "quote": "Imagine carrying your phone while running in your hand and swiping without looking", "flag": "none"}
+{"id": "r_1louqow", "demand": true, "problem": "effortless online journaling", "who": "teen journal writer", "product": "app", "pain": 1, "pay": "none", "tools": ["Instagram", "Tumblr", "Pinterest", "Notion"], "quote": "I'm looking for an app that feels like an in person journal, no complex & long process.", "flag": "none"}
+{"id": "r_198nt3i", "demand": false}
+{"id": "r_1aw7gqu", "demand": false}
+{"id": "r_1c33m7c", "demand": true, "problem": "ad-free non-algorithmic social network", "who": "social media users", "product": "app", "pain": 2, "pay": "none", "tools": ["Instagram"], "quote": "such as excessive ads, a heck load of bots with whatever unrelated messages they want to post", "flag": "none"}
+{"id": "r_1c4mfs5", "demand": false}
+{"id": "r_1d0848n", "demand": false}
+{"id": "r_1d4qukc", "demand": false}
+{"id": "r_1dr9xb0", "demand": false}
+{"id": "r_1fbtdhe", "demand": true, "problem": "music streaming without paywalls", "who": "music listeners", "product": "app", "pain": 2, "pay": "none", "tools": ["Spotify"], "quote": "Spotify is becoming pay to win, like you can barely do anything on the app without paying.", "flag": "music"}
+{"id": "r_1fmpzcw", "demand": true, "problem": "smoking habit tracking and analysis", "who": "smokers and vapers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "So the main idea here is to track smoking, vaping …etc and provide habit analysis so people know what they are doing.", "flag": "none"}
+{"id": "r_1hhqznz", "demand": false}
+{"id": "r_1ipalxl", "demand": false}
+{"id": "r_1jjc3pd", "demand": false}
+{"id": "r_1kcm4a0", "demand": false}
+{"id": "r_1l2f2p7", "demand": false}
+{"id": "r_1l4l1ex", "demand": false}
+{"id": "r_1ll4a1i", "demand": false}
+{"id": "r_1lol73t", "demand": true, "problem": "event group organizing alternative to Meetup", "who": "event and group organizers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Meetup"], "quote": "The moment you click anything they want you to pay", "flag": "none"}
+{"id": "r_1mnqga3", "demand": false}
+{"id": "r_1n0e43f", "demand": false}
+{"id": "r_1nl9cbf", "demand": false}
+{"id": "r_1nytwhr", "demand": false}
+{"id": "r_1oa0fgi", "demand": false}
+{"id": "r_1p2xf7k", "demand": false}
+{"id": "r_1q5shn5", "demand": false}
+{"id": "r_1q8a718", "demand": false}
+{"id": "r_1rs6kh8", "demand": false}
+{"id": "r_1rxavj8", "demand": false}
+{"id": "r_1saz843", "demand": true, "problem": "shared-housing elder care matching", "who": "families of elderly or disabled people", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "An alternative to nursing homes for disabled/aging/people who can’t fully live on their own.", "flag": "none"}
+{"id": "r_1tb5ba6", "demand": false}
+{"id": "r_1ts4p4e", "demand": false}
+{"id": "r_1u7hc7k", "demand": false}
+{"id": "r_1ucjido", "demand": true, "problem": "reliable free AI API access", "who": "AI course platform builder", "product": "other", "pain": 2, "pay": "none", "tools": ["Gemini API"], "quote": "the problem is that the gemini api free key keeps breaking.", "flag": "none"}
+{"id": "r_1ulrqk2", "demand": false}
+{"id": "r_1uzixwr", "demand": false}
+{"id": "r_1xfx7a3", "demand": false}
+{"id": "r_1exmbw8", "demand": true, "problem": "apartment rental search and landlord inquiries", "who": "renters and landlords", "product": "app", "pain": 2, "pay": "none", "tools": ["Kijiji", "Craigslist"], "quote": "The search is endless, with confusing long descriptions, except any clue of availability.", "flag": "none"}
+{"id": "r_1h3dzjj", "demand": true, "problem": "virtual presentation audience feedback", "who": "presenters", "product": "app", "pain": 2, "pay": "none", "tools": ["Zoom"], "quote": "I miss seeing people make eye contact and nod.", "flag": "depicts a human face as the core product"}
+{"id": "r_1cnctkp", "demand": false}
+{"id": "r_1n80gqt", "demand": true, "problem": "phone photo search by memory", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "A \"Photographic Memory\" Search Engine for Your Phone", "flag": "none"}
+{"id": "r_1n8bukf", "demand": true, "problem": "sensory perception simulation app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Somebody Make This: An App That Lets You See The World Like a Bee (UV Vision) & Hear Trees Whisper", "flag": "none"}
+{"id": "r_1c55cfv", "demand": false}
+{"id": "r_1cmxe91", "demand": false}
+{"id": "r_1czqhf1", "demand": false}
+{"id": "r_1hjtu38", "demand": false}
+{"id": "r_1l4l1qz", "demand": false}
+{"id": "r_1s21plu", "demand": false}
+{"id": "r_1vpyi74", "demand": false}
+{"id": "r_1wo8ni7", "demand": false}
+{"id": "r_1m7gy0p", "demand": false}
+{"id": "r_1pzzpfj", "demand": true, "problem": "glucose-aware food and activity planning", "who": "type 2 diabetics", "product": "app", "pain": 2, "pay": "none", "tools": ["Libre", "smart watch"], "quote": "I wish you could tie together the Libra blood monitor, with smart watch, and and a food app.", "flag": "none"}
+{"id": "r_1rlfgxf", "demand": true, "problem": "skill-matched pickup sports players", "who": "recreational sports players", "product": "app", "pain": 2, "pay": "none", "tools": ["Facebook groups", "Meetup"], "quote": "feels like there should be something way better than facebook groups and random meetup posts", "flag": "none"}
+{"id": "r_1wnd810", "demand": false}
+{"id": "r_1g0mt3r", "demand": false}
+{"id": "r_1i6ggid", "demand": true, "problem": "AI-graded spaced repetition flashcards", "who": "Anki learners", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Anki"], "quote": "I really want this, and I would pay for it, if it existed.", "flag": "none"}
+{"id": "r_1wn92nv", "demand": true, "problem": "multi-calendar availability sharing", "who": "freelancers", "product": "web tool", "pain": 3, "pay": "explicit", "tools": ["Apple Calendar", "Google Calendar", "Microsoft Calendar"], "quote": "I spend a bunch of time coordinating (sharing availability between individual calendars).", "flag": "none"}
+{"id": "r_1ivpnm2", "demand": false}
+{"id": "r_1tflg3t", "demand": false}
+{"id": "r_1u66cs8", "demand": false}
+{"id": "r_1vv6a3t", "demand": true, "problem": "blockchain employer review platform", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Glassdoor"], "quote": "Someone should build an alternative to Glassdoor on the blockchain", "flag": "none"}
+{"id": "r_1bn55c5", "demand": false}
+{"id": "r_1fi6aje", "demand": false}
+{"id": "r_1r27jx1", "demand": false}
+{"id": "r_1c3q1sq", "demand": false}
+{"id": "r_1ck33g5", "demand": true, "problem": "in-app user onboarding guidance", "who": "SaaS product builders", "product": "web tool", "pain": 2, "pay": "none", "tools": ["tooltips"], "quote": "Do you know a good alternative to tooltips to provide user insights about how a product works and where to click for services?", "flag": "none"}
+{"id": "r_1dgegnl", "demand": false}
+{"id": "r_1g8ki37", "demand": false}
+{"id": "r_1hh79kn", "demand": true, "problem": "bloated analytics for small SaaS", "who": "small SaaS teams", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Google Analytics", "Mixpanel", "PostHog"], "quote": "Existing analytics tools are often bloated with features that smaller teams don’t need or use.", "flag": "none"}
+{"id": "r_1hhra0f", "demand": false}
+{"id": "r_1ja2hhw", "demand": true, "problem": "local secure marketplace for used items", "who": "people selling used items locally", "product": "app", "pain": 2, "pay": "none", "tools": ["Facebook Marketplace", "Craigslist", "Poshmark"], "quote": "I was a trash human and didn’t want to go through the constant hassle of weeding out scams, messaging back and forth to no success, dealing with meeting up, so I threw them out.", "flag": "none"}
+{"id": "r_1js61ft", "demand": false}
+{"id": "r_1juqs6u", "demand": false}
+{"id": "r_1k7mvdt", "demand": false}
+{"id": "r_1kbho43", "demand": false}
+{"id": "r_1khsaab", "demand": false}
+{"id": "r_1krf98p", "demand": false}
+{"id": "r_1l0xrzs", "demand": true, "problem": "affordable contact lead lookup", "who": "sales and outreach teams", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I see there are many tools to generate or search for contacts but they are all expensive.", "flag": "none"}

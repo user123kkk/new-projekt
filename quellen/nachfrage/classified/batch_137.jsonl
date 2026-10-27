@@ -1,0 +1,17 @@
+{"id": "r_1lhmr1i", "demand": false}
+{"id": "r_1lt697l", "demand": false}
+{"id": "r_1m264i8", "demand": false}
+{"id": "r_1m26h52", "demand": false}
+{"id": "r_1mampdf", "demand": false}
+{"id": "r_1map8lj", "demand": false}
+{"id": "r_1mpz51k", "demand": false}
+{"id": "r_1ok6f1m", "demand": false}
+{"id": "r_1ppczjb", "demand": false}
+{"id": "r_1rft2og", "demand": false}
+{"id": "r_1rywdvs", "demand": false}
+{"id": "r_1s9aycm", "demand": false}
+{"id": "r_1sats0f", "demand": true, "problem": "solo founder finances and invoicing chaos", "who": "solo founder", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Zero idea what I was actually spending on tools monthly", "flag": "none"}
+{"id": "r_1seygd6", "demand": false}
+{"id": "r_1tugiuz", "demand": false}
+{"id": "r_1w7cm7m", "demand": true, "problem": "candidates gaming reused coding assessment problems", "who": "Indian tech companies hiring engineers", "product": "web tool", "pain": 3, "pay": "implied", "tools": ["HackerEarth", "HackerRank"], "quote": "The problem is that both platforms reuse the few hundred problems.", "flag": "none"}
+{"id": "r_1wyes8q", "demand": false}

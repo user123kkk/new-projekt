@@ -1,0 +1,100 @@
+{"id": "h_44996343", "demand": false}
+{"id": "h_44393931", "demand": false}
+{"id": "h_43762433", "demand": false}
+{"id": "h_42509429", "demand": false}
+{"id": "h_40865260", "demand": false}
+{"id": "h_49200118", "demand": false}
+{"id": "h_48410663", "demand": false}
+{"id": "h_47074495", "demand": false}
+{"id": "h_46944477", "demand": false}
+{"id": "h_46572929", "demand": false}
+{"id": "h_46186561", "demand": true, "problem": "european alternative to reddit", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Reddit"], "quote": "Is there a European alternative to Reddit?", "flag": "none"}
+{"id": "h_46123481", "demand": false}
+{"id": "h_42774429", "demand": false}
+{"id": "h_42480699", "demand": false}
+{"id": "h_42159777", "demand": true, "problem": "container runtime written in C", "who": "systems engineer", "product": "other", "pain": 2, "pay": "none", "tools": ["Docker", "Podman", "CNI", "Netavark", "cocker"], "quote": "since none of our other components in the OS need Go or Rust it would be rather useful if there was a project out there with a similar ambition that was written in C.", "flag": "none"}
+{"id": "h_40585098", "demand": false}
+{"id": "h_39931075", "demand": false}
+{"id": "h_39188487", "demand": false}
+{"id": "h_43134923", "demand": true, "problem": "code editor memory bloat in WSL", "who": "developer using VS Code with WSL2 on Windows 11", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["VS Code", "Neovim", "Sublime Text"], "quote": "The VS Code Remote Server in the WSL starts to eat all the memory.", "flag": "none"}
+{"id": "h_45796787", "demand": true, "problem": "decentralized photo sharing alternative to instagram", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Pixelfed", "Flashes"], "quote": "I feel like the world very much needs a decentralized, censorship-free alternative to Instagram.", "flag": "none"}
+{"id": "h_40063790", "demand": true, "problem": "transactional email api with free tier", "who": "developer", "product": "other", "pain": 2, "pay": "none", "tools": ["SendGrid", "Twilio"], "quote": "I was wondering if there is any other email sending service as reliable as SendGrid but also has an equally generous free tier?", "flag": "none"}
+{"id": "h_45214077", "demand": true, "problem": "team dev documentation hub", "who": "startup engineering lead hiring developers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Notion", "Google Drive", "GitHub", "Slack", "Confluence", "Phabricator", "Linear"], "quote": "All my dev docs are spread across Notion, Google Drive, a Github repo and text notes in Slack.", "flag": "none"}
+{"id": "h_42807611", "demand": false}
+{"id": "h_41731867", "demand": true, "problem": "migrating off wordpress", "who": "website owner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["WordPress"], "quote": "Hi HN, as someone wanting to migrate off Wordpress, what are some recommendations you have?", "flag": "none"}
+{"id": "h_43405806", "demand": true, "problem": "spreadsheet handling of 100k+ rows", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Excel"], "quote": "Is there a fast/performant alternative to Excel?", "flag": "none"}
+{"id": "h_49589399", "demand": false}
+{"id": "h_46885019", "demand": false}
+{"id": "h_44951625", "demand": false}
+{"id": "h_43282724", "demand": false}
+{"id": "h_40512782", "demand": false}
+{"id": "h_39918359", "demand": false}
+{"id": "h_48340757", "demand": false}
+{"id": "h_44821427", "demand": false}
+{"id": "h_44557442", "demand": false}
+{"id": "h_44443298", "demand": false}
+{"id": "h_42954272", "demand": true, "problem": "global hotkey mic mute on macos", "who": "macos user in video meetings", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Shush"], "quote": "Ask HN: Alternative to Shush?", "flag": "none"}
+{"id": "h_49175220", "demand": false}
+{"id": "h_49158319", "demand": false}
+{"id": "h_48109014", "demand": false}
+{"id": "h_48093824", "demand": true, "problem": "end-to-end encrypted messaging for ai agents", "who": "developer building AI agents", "product": "app", "pain": 2, "pay": "none", "tools": ["Telegram", "WhatsApp", "Signal"], "quote": "We need a safe alternative to Telegram for agents like OpenClaw or Hermes", "flag": "none"}
+{"id": "h_47711612", "demand": false}
+{"id": "h_47312558", "demand": false}
+{"id": "h_47133003", "demand": false}
+{"id": "h_45602208", "demand": false}
+{"id": "h_44660064", "demand": false}
+{"id": "h_39046818", "demand": false}
+{"id": "h_38962282", "demand": false}
+{"id": "h_49827344", "demand": false}
+{"id": "h_49781612", "demand": false}
+{"id": "h_48933001", "demand": false}
+{"id": "h_48224175", "demand": false}
+{"id": "h_48007175", "demand": false}
+{"id": "h_47047405", "demand": false}
+{"id": "h_45901784", "demand": false}
+{"id": "h_45697269", "demand": false}
+{"id": "h_45248747", "demand": false}
+{"id": "h_44623897", "demand": false}
+{"id": "h_44230970", "demand": false}
+{"id": "h_43755614", "demand": false}
+{"id": "h_43029504", "demand": false}
+{"id": "h_42810048", "demand": false}
+{"id": "h_42803320", "demand": false}
+{"id": "h_39887483", "demand": false}
+{"id": "h_39573652", "demand": false}
+{"id": "h_39530057", "demand": false}
+{"id": "h_38874557", "demand": false}
+{"id": "h_43812776", "demand": false}
+{"id": "h_39990263", "demand": false}
+{"id": "h_49993820", "demand": false}
+{"id": "h_39992316", "demand": true, "problem": "multi-session ssh client management on windows", "who": "windows sysadmin or developer", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["PuTTY", "KiTTY"], "quote": "I need something better to manage multiple logins, better searching, possibly tagging, etc.", "flag": "none"}
+{"id": "h_42411136", "demand": true, "problem": "news site without login wall", "who": "tech news reader", "product": "web tool", "pain": 1, "pay": "none", "tools": ["The Verge"], "quote": "Alas, I will not be creating an account just to browse.", "flag": "none"}
+{"id": "h_47907232", "demand": false}
+{"id": "h_46302119", "demand": false}
+{"id": "h_47977081", "demand": true, "problem": "self-hosted s3-compatible object storage", "who": "self-hoster", "product": "other", "pain": 2, "pay": "none", "tools": ["MinIO"], "quote": "Ask HN: Is there any good open-source alternative to MinIO?", "flag": "none"}
+{"id": "h_45744680", "demand": false}
+{"id": "h_44860673", "demand": false}
+{"id": "h_44026227", "demand": false}
+{"id": "h_42542267", "demand": false}
+{"id": "h_42106944", "demand": false}
+{"id": "h_42862949", "demand": false}
+{"id": "h_42817523", "demand": false}
+{"id": "h_49679761", "demand": false}
+{"id": "h_47016221", "demand": false}
+{"id": "h_39692548", "demand": false}
+{"id": "h_49916657", "demand": false}
+{"id": "h_49626154", "demand": false}
+{"id": "h_48211972", "demand": false}
+{"id": "h_47655813", "demand": false}
+{"id": "h_46696097", "demand": false}
+{"id": "h_46237272", "demand": false}
+{"id": "h_45834273", "demand": false}
+{"id": "h_45516486", "demand": false}
+{"id": "h_45005800", "demand": false}
+{"id": "h_43466454", "demand": true, "problem": "location history app that works", "who": "user who relied on Google Maps Timeline", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Maps Timeline"], "quote": "Unfortunately they moved to an on-device storage for security reasons and it hangs every time I open it.", "flag": "none"}
+{"id": "h_49994363", "demand": false}
+{"id": "h_49481635", "demand": false}
+{"id": "h_48332561", "demand": false}
+{"id": "h_47868000", "demand": false}
+{"id": "h_47789664", "demand": false}
+{"id": "h_47663319", "demand": false}

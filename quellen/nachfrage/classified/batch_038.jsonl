@@ -1,0 +1,65 @@
+{"id": "r_1gq653b", "demand": true, "problem": "text to BPMN diagram generation", "who": "unknown", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Is there a tool that can draw or create BPMN diagrams from textual description or by pasting the scenario", "flag": "none"}
+{"id": "r_1gedvsw", "demand": false}
+{"id": "r_1ieimqy", "demand": false}
+{"id": "r_1m4oq7r", "demand": false}
+{"id": "r_1o5lua1", "demand": false}
+{"id": "r_1o9v1e3", "demand": false}
+{"id": "r_1hy4z4x", "demand": false}
+{"id": "r_1kszoh0", "demand": true, "problem": "restaurant menu price history tracking", "who": "diners", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Someone should build something that lists how the price of food at specific restaurants has changed in the past x years.", "flag": "none"}
+{"id": "r_1mam8iv", "demand": false}
+{"id": "r_1n1h10d", "demand": false}
+{"id": "r_1nzcxkx", "demand": false}
+{"id": "r_1pl450o", "demand": false}
+{"id": "r_1qi7izn", "demand": false}
+{"id": "r_1m26t7n", "demand": false}
+{"id": "r_1eph7ik", "demand": false}
+{"id": "r_1h1rpop", "demand": false}
+{"id": "r_1rr28cr", "demand": false}
+{"id": "r_18wzt3w", "demand": false}
+{"id": "r_192q274", "demand": false}
+{"id": "r_1948fo7", "demand": false}
+{"id": "r_198nsbb", "demand": false}
+{"id": "r_19blfau", "demand": true, "problem": "modern alternative to a content site", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Little Big Details"], "quote": "Is there a modern alternative to it?", "flag": "none"}
+{"id": "r_19cz7hg", "demand": false}
+{"id": "r_19f7lau", "demand": false}
+{"id": "r_1ajzzzl", "demand": false}
+{"id": "r_1akg92e", "demand": false}
+{"id": "r_1asqywy", "demand": false}
+{"id": "r_1atypdw", "demand": false}
+{"id": "r_1b2d8cf", "demand": false}
+{"id": "r_1b3klcd", "demand": false}
+{"id": "r_1b4c2yb", "demand": false}
+{"id": "r_1b61658", "demand": false}
+{"id": "r_1b8aofc", "demand": false}
+{"id": "r_1b8mpks", "demand": false}
+{"id": "r_1bga49s", "demand": false}
+{"id": "r_1bnf6fg", "demand": false}
+{"id": "r_1boawq6", "demand": false}
+{"id": "r_1bodjz7", "demand": false}
+{"id": "r_1boelhy", "demand": false}
+{"id": "r_1bpv42v", "demand": false}
+{"id": "r_1bpyfnv", "demand": false}
+{"id": "r_1btc0tw", "demand": false}
+{"id": "r_1btwt46", "demand": false}
+{"id": "r_1bvi89v", "demand": false}
+{"id": "r_1bvi9il", "demand": false}
+{"id": "r_1bviakd", "demand": false}
+{"id": "r_1bvkwae", "demand": false}
+{"id": "r_1bzrowc", "demand": false}
+{"id": "r_1c059fp", "demand": false}
+{"id": "r_1c0pdn1", "demand": false}
+{"id": "r_1c2ibz3", "demand": false}
+{"id": "r_1c4v5bc", "demand": false}
+{"id": "r_1c5vu95", "demand": false}
+{"id": "r_1c7cf70", "demand": true, "problem": "affordable transactional email API", "who": "developers", "product": "other", "pain": 2, "pay": "none", "tools": ["SendGrid", "Twilio"], "quote": "I was wondering if there is any other email sending service as reliable as SendGrid but also has an equally generous free tier?", "flag": "none"}
+{"id": "r_1cbttmk", "demand": false}
+{"id": "r_1cd9fs1", "demand": false}
+{"id": "r_1cfvmwu", "demand": false}
+{"id": "r_1cif2nw", "demand": false}
+{"id": "r_1cioyds", "demand": false}
+{"id": "r_1clfdys", "demand": false}
+{"id": "r_1cmhzk4", "demand": false}
+{"id": "r_1cmih7e", "demand": false}
+{"id": "r_1cmlyeb", "demand": false}
+{"id": "r_1d9fzbs", "demand": true, "problem": "unreliable freelance developer hiring", "who": "non-technical founders", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Upwork"], "quote": "it's so frustrating having to start the project with a different developer", "flag": "none"}
+{"id": "r_1exmaew", "demand": true, "problem": "apartment rental search and landlord inquiries", "who": "renters and landlords", "product": "app", "pain": 2, "pay": "none", "tools": ["Kijiji", "Craigslist"], "quote": "The search is endless, with confusing long descriptions, except any clue of availability.", "flag": "none"}

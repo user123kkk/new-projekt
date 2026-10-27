@@ -1,0 +1,100 @@
+{"id": "r_1qwnv9a", "demand": false}
+{"id": "r_1qyqr34", "demand": false}
+{"id": "r_1qzfz63", "demand": false}
+{"id": "r_1qzk9hd", "demand": false}
+{"id": "r_1qzzkh8", "demand": false}
+{"id": "r_1r04xv1", "demand": false}
+{"id": "r_1r0bk9e", "demand": false}
+{"id": "r_1r0p0vr", "demand": false}
+{"id": "r_1r0r8zg", "demand": true, "problem": "indie film discovery across streaming services", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Tubi", "Prime Video", "Pluto TV"], "quote": "I know many independent movies are made each year, and it seems like they are all hard to find.", "flag": "none"}
+{"id": "r_1r137vy", "demand": false}
+{"id": "r_1r25r4j", "demand": false}
+{"id": "r_1r2nvao", "demand": false}
+{"id": "r_1r2vpyu", "demand": false}
+{"id": "r_1r3clp2", "demand": false}
+{"id": "r_1r57x13", "demand": true, "problem": "distribution and marketing for tech founders", "who": "tech founders", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I have noticed that founders especially the tech founders struggle with distribution and marketing so I wanted to know if people would actually pay for a service like this if it existed.", "flag": "none"}
+{"id": "r_1r65dqi", "demand": false}
+{"id": "r_1r67yj1", "demand": true, "problem": "SaaS content architecture and SEO debt", "who": "SaaS founders", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Updating old pages becomes chaotic", "flag": "none"}
+{"id": "r_1r6ibgi", "demand": false}
+{"id": "r_1r72rey", "demand": true, "problem": "non-technical founders hiring developers", "who": "non-technical founders", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Upwork", "LinkedIn"], "quote": "The actual problem isn't finding developers. It's that founders don't have a framework for evaluating them.", "flag": "none"}
+{"id": "r_1r78nd4", "demand": false}
+{"id": "r_1r87sdm", "demand": false}
+{"id": "r_1r8nwg4", "demand": true, "problem": "fragmented domain email setup", "who": "indie hackers and small dev teams", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Google Workspace", "GMass", "Instantly"], "quote": "It's fragmented, annoying, and expensive for small teams.", "flag": "none"}
+{"id": "r_1r98m73", "demand": true, "problem": "robocall spam blocking", "who": "mobile phone users in India", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "AI-powered robo calls are increasing rapidly.", "flag": "none"}
+{"id": "r_1rchkke", "demand": false}
+{"id": "r_1rcmont", "demand": true, "problem": "contract obligation tracking for SMBs", "who": "small and mid-sized business owners", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "They find out something changed when they’re already late or exposed.", "flag": "none"}
+{"id": "r_1rczuez", "demand": false}
+{"id": "r_1rdcrp6", "demand": false}
+{"id": "r_1rdvk1z", "demand": false}
+{"id": "r_1rhknck", "demand": false}
+{"id": "r_1rio6hy", "demand": false}
+{"id": "r_1rjdmds", "demand": false}
+{"id": "r_1rkxmug", "demand": false}
+{"id": "r_1rpvk2c", "demand": false}
+{"id": "r_1rq6vx7", "demand": false}
+{"id": "r_1rr52lw", "demand": true, "problem": "engineering managers handling hiring ops", "who": "engineering managers", "product": "automation", "pain": 3, "pay": "none", "tools": ["Claude Code", "OpenClaw"], "quote": "A single senior hire can eat 15-20 hours/week in scheduling, sourcing, follow-ups, and coordination.", "flag": "none"}
+{"id": "r_1rrl3zo", "demand": false}
+{"id": "r_1rrnuh4", "demand": true, "problem": "pre-build idea validation platform", "who": "founders and inventors", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Kickstarter", "IdeaCounty"], "quote": "But I also know it's way harder to build something (especially hardware projects) for months and years and watch it fail miserably.", "flag": "none"}
+{"id": "r_1rv7ypp", "demand": false}
+{"id": "r_1rv9nwu", "demand": false}
+{"id": "r_1rwxk5b", "demand": false}
+{"id": "r_1rx5hwv", "demand": false}
+{"id": "r_1rx82vx", "demand": false}
+{"id": "r_1rzjdki", "demand": false}
+{"id": "r_1rzuqvj", "demand": false}
+{"id": "r_1rzwnpa", "demand": false}
+{"id": "r_1s21xak", "demand": false}
+{"id": "r_1s4lih0", "demand": true, "problem": "limited print placement on POD platforms", "who": "clothing brands", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Printful", "Printify"], "quote": "Current POD platforms are limiting clothing brands.", "flag": "none"}
+{"id": "r_1s5qz1p", "demand": false}
+{"id": "r_1s6ekz1", "demand": false}
+{"id": "r_1s77xlu", "demand": false}
+{"id": "r_1s7a2n3", "demand": false}
+{"id": "r_1s88j1y", "demand": true, "problem": "generic AI UI styling mismatch", "who": "frontend developers using AI coding tools", "product": "plugin/extension", "pain": 3, "pay": "none", "tools": ["Cursor", "v0", "Claude", "Shadcn"], "quote": "Is AI-generated UI being a generic slop a big enough problem to build a product around?", "flag": "none"}
+{"id": "r_1s8hzy5", "demand": false}
+{"id": "r_1s909o2", "demand": true, "problem": "managing outsourced partners in one place", "who": "founders and agencies", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Fiverr", "Upwork"], "quote": "freelance marketplaces like fiverr and upwork don't have a way to manage everyone you're doing business with", "flag": "none"}
+{"id": "r_1s96h2h", "demand": true, "problem": "creator outreach email drafting", "who": "SaaS founders doing creator outreach", "product": "web tool", "pain": 3, "pay": "none", "tools": [], "quote": "It takes me like 3-4 minutes per creator and when you want to reach 50 people that's basically your whole day gone.", "flag": "none"}
+{"id": "r_1s9h1ml", "demand": false}
+{"id": "r_1s9wltv", "demand": false}
+{"id": "r_1sacrta", "demand": false}
+{"id": "r_1sc6x56", "demand": false}
+{"id": "r_1sc8vhw", "demand": false}
+{"id": "r_1scoy8f", "demand": false}
+{"id": "r_1scoz43", "demand": false}
+{"id": "r_1scxuq8", "demand": false}
+{"id": "r_1sdx0m8", "demand": false}
+{"id": "r_1sec2x5", "demand": false}
+{"id": "r_1serxfx", "demand": false}
+{"id": "r_1sfndms", "demand": true, "problem": "fragmented wellness app stack", "who": "students and young professionals", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "People end up with 5–7 apps, none talk to each other, and engagement drops after 1–2 weeks.", "flag": "none"}
+{"id": "r_1sftf44", "demand": false}
+{"id": "r_1sjl8ac", "demand": false}
+{"id": "r_1sjom7f", "demand": false}
+{"id": "r_1sm2epk", "demand": false}
+{"id": "r_1smjl0b", "demand": false}
+{"id": "r_1sne7rs", "demand": false}
+{"id": "r_1sotnl4", "demand": false}
+{"id": "r_1sqnt3n", "demand": false}
+{"id": "r_1srdgvn", "demand": false}
+{"id": "r_1srhwgs", "demand": true, "problem": "browser profile health diagnostics", "who": "anti-detect browser users", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Most of the time you just end up guessing and rotating profiles until something works again.", "flag": "none"}
+{"id": "r_1srj4da", "demand": false}
+{"id": "r_1ssq5oj", "demand": false}
+{"id": "r_1stl9kj", "demand": false}
+{"id": "r_1su6437", "demand": false}
+{"id": "r_1su9p1g", "demand": false}
+{"id": "r_1sv1t3j", "demand": false}
+{"id": "r_1svf4tu", "demand": false}
+{"id": "r_1swlr6a", "demand": false}
+{"id": "r_1sxn6c5", "demand": false}
+{"id": "r_1sxqyvu", "demand": false}
+{"id": "r_1sz4ia6", "demand": false}
+{"id": "r_1t2edp0", "demand": false}
+{"id": "r_1t2kmh6", "demand": false}
+{"id": "r_1t31bdq", "demand": false}
+{"id": "r_1t3f38e", "demand": false}
+{"id": "r_1t3oq0b", "demand": false}
+{"id": "r_1t485qi", "demand": false}
+{"id": "r_1t4hlsb", "demand": false}
+{"id": "r_1t6iudi", "demand": false}
+{"id": "r_1t8cl9y", "demand": false}
+{"id": "r_1t8fjyg", "demand": false}
+{"id": "r_1t8n99o", "demand": false}
+{"id": "r_1tb703o", "demand": false}

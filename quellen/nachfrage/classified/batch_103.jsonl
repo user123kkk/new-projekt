@@ -1,0 +1,100 @@
+{"id": "r_1iqsp1d", "demand": false}
+{"id": "r_1jn6pd4", "demand": false}
+{"id": "r_1k71bm1", "demand": false}
+{"id": "r_1kfi296", "demand": false}
+{"id": "r_1kgiq76", "demand": false}
+{"id": "r_1khzdda", "demand": false}
+{"id": "r_1m7qjl4", "demand": false}
+{"id": "r_1myangx", "demand": false}
+{"id": "r_1n6cazb", "demand": false}
+{"id": "r_1n783se", "demand": true, "problem": "following through on daily habits", "who": "person with gym and meal-prep goals", "product": "app", "pain": 2, "pay": "none", "tools": ["Duolingo"], "quote": "I plan to go to the gym everyday after work, prep my breakfast and lunch for the next day, but I never end up doing it because I am so exhausted.", "flag": "none"}
+{"id": "r_1n80dhv", "demand": false}
+{"id": "r_1n8bg4d", "demand": false}
+{"id": "r_1ncgkvp", "demand": false}
+{"id": "r_1ncgt61", "demand": false}
+{"id": "r_1ncgww9", "demand": false}
+{"id": "r_1nj1nql", "demand": false}
+{"id": "r_1nobxy5", "demand": false}
+{"id": "r_1nof2pq", "demand": false}
+{"id": "r_1npbvxf", "demand": false}
+{"id": "r_1nsjuro", "demand": false}
+{"id": "r_1nysxq9", "demand": false}
+{"id": "r_1nzfepm", "demand": false}
+{"id": "r_1og0hbh", "demand": false}
+{"id": "r_1og0hxq", "demand": false}
+{"id": "r_1pagaya", "demand": false}
+{"id": "r_1pnie59", "demand": false}
+{"id": "r_1pve710", "demand": false}
+{"id": "r_1q2tpv1", "demand": false}
+{"id": "r_1q2tsxv", "demand": false}
+{"id": "r_1q4g9j6", "demand": false}
+{"id": "r_1q4tj0z", "demand": true, "problem": "organizing saved memes by context", "who": "meme collector", "product": "app", "pain": 1, "pay": "none", "tools": ["Pinterest", "Instagram", "Reddit"], "quote": "There’s no good way to organize humor by context", "flag": "none"}
+{"id": "r_1q7qdts", "demand": false}
+{"id": "r_1qg4w6n", "demand": true, "problem": "keeping friends' time zones organized", "who": "person with friends around the world", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Every time someone moves, my timezone list becomes a mess.", "flag": "none"}
+{"id": "r_1qp9ukv", "demand": false}
+{"id": "r_1qt7b9g", "demand": false}
+{"id": "r_1rgjjdt", "demand": false}
+{"id": "r_1rgwmsw", "demand": false}
+{"id": "r_1rpofl1", "demand": false}
+{"id": "r_1rytkm7", "demand": false}
+{"id": "r_1s9fih6", "demand": false}
+{"id": "r_1sj8mdf", "demand": false}
+{"id": "r_1t5uuo6", "demand": false}
+{"id": "r_1tfr1jp", "demand": false}
+{"id": "r_1tiow2o", "demand": false}
+{"id": "r_1tqkmtc", "demand": false}
+{"id": "r_1txocne", "demand": false}
+{"id": "r_1txx70x", "demand": false}
+{"id": "r_1tyf1if", "demand": true, "problem": "logging embedded engineering bugs", "who": "embedded engineer", "product": "template", "pain": 2, "pay": "none", "tools": ["Notion"], "quote": "I often find myself overwhelmed by the sheer volume of log entries, especially when I want to document bug-related issues.", "flag": "none"}
+{"id": "r_1tyfgy9", "demand": true, "problem": "logging embedded engineering bugs", "who": "embedded engineer", "product": "template", "pain": 2, "pay": "none", "tools": ["Notion"], "quote": "I often find myself overwhelmed by the sheer volume of log entries, especially when I want to document bug-related issues.", "flag": "none"}
+{"id": "r_1u38rma", "demand": false}
+{"id": "r_1u5kxi8", "demand": false}
+{"id": "r_1u9gjc3", "demand": false}
+{"id": "r_1uh3v9s", "demand": false}
+{"id": "r_1unct0d", "demand": false}
+{"id": "r_1uyuer6", "demand": false}
+{"id": "r_1v1777j", "demand": false}
+{"id": "r_1v6xkx4", "demand": false}
+{"id": "r_1v74qug", "demand": true, "problem": "assistant for mixed iPhone and Android group chats", "who": "person in mixed group chats", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["dexi"], "quote": "my group chat is half android.", "flag": "none"}
+{"id": "r_1vj0s4p", "demand": false}
+{"id": "r_1vjndgv", "demand": false}
+{"id": "r_1vybecp", "demand": false}
+{"id": "r_1w5xl1b", "demand": true, "problem": "free neighborhood recommendations alternative to Nextdoor", "who": "local small business", "product": "app", "pain": 2, "pay": "none", "tools": ["Nextdoor"], "quote": "Nextdoor's new pay to play policy is hurting neighborhood entrepreneurs who use it to network and find customers.", "flag": "none"}
+{"id": "r_1w7p4ph", "demand": false}
+{"id": "r_1wgcwr3", "demand": true, "problem": "multi-sport AI coaching from wearable data", "who": "multi-sport athlete", "product": "app", "pain": 2, "pay": "none", "tools": ["Garmin"], "quote": "Does not take into account multiple sports - I like to do e.g. running, strength, indoor rowing and yoga", "flag": "none"}
+{"id": "r_1wikvis", "demand": false}
+{"id": "r_1wnjc3m", "demand": false}
+{"id": "r_1wpcz9o", "demand": false}
+{"id": "r_1wrij7b", "demand": false}
+{"id": "r_1wrinat", "demand": true, "problem": "customizable editor workspace for presentations", "who": "professional presentation designer", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["PowerPoint"], "quote": "I want to dress up the workspace. Not the slides. The workspace.", "flag": "none"}
+{"id": "r_1wsky2u", "demand": false}
+{"id": "r_1x0rp94", "demand": false}
+{"id": "r_1x0w4i2", "demand": true, "problem": "crowdsourced audiobook narration", "who": "book lover", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I still think it's a cool idea that I would absolutely use if someone else built it!", "flag": "none"}
+{"id": "r_1x24pbr", "demand": false}
+{"id": "r_1x4ifp5", "demand": true, "problem": "fun personal finance tracking", "who": "personal finance user", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Monarch", "YNAB", "Copilot"], "quote": "opening it feels like doing taxes", "flag": "none"}
+{"id": "r_1xggfu2", "demand": false}
+{"id": "r_1cy2l61", "demand": false}
+{"id": "r_1hfrdb1", "demand": true, "problem": "keeping friends' time zones organized", "who": "person with friends around the world", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "I have to remove one place and add another to keep track of time when my friends move.", "flag": "none"}
+{"id": "r_1nji1xw", "demand": false}
+{"id": "r_1pnir3y", "demand": false}
+{"id": "r_1tahsl8", "demand": true, "problem": "auto-assigning interview slots to volunteers", "who": "nonprofit scholarship coordinator", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["Calendly", "Outlook"], "quote": "I am trying to build a workflow that I don't think the free plan supports", "flag": "none"}
+{"id": "r_1u03sjr", "demand": true, "problem": "searching multiple job boards at once", "who": "job seeker", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["LinkedIn", "Indeed", "Glassdoor", "JobStreet"], "quote": "I'm tired of checking 5 different sites for the same job title.", "flag": "none"}
+{"id": "r_1unvm8h", "demand": false}
+{"id": "r_1vbljyz", "demand": false}
+{"id": "r_1vblkly", "demand": false}
+{"id": "r_1vg733g", "demand": false}
+{"id": "r_1vyland", "demand": false}
+{"id": "r_1kuh0oe", "demand": false}
+{"id": "r_1b9yxdd", "demand": true, "problem": "organizing scratch notes into to-dos", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there something where I can basically put my scratch work notes and it organizes it?", "flag": "none"}
+{"id": "r_1baosu8", "demand": false}
+{"id": "r_1bc9m47", "demand": false}
+{"id": "r_1c9ky0c", "demand": false}
+{"id": "r_1c9no4i", "demand": false}
+{"id": "r_1cuvbw1", "demand": true, "problem": "desktop companion pet that interacts", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "none", "tools": [], "quote": "i just want someone to make a pet for pc, an actual pet, that you can talk to, play with, surprises you, helps you, laughs with you", "flag": "none"}
+{"id": "r_1dgzaii", "demand": false}
+{"id": "r_1fzdaj7", "demand": false}
+{"id": "r_1gk2ww6", "demand": true, "problem": "stopping impulsive replies on social media", "who": "impulsive Reddit or Facebook user", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": [], "quote": "A self-reminder for impulsive people to not get dragged into dumb arguments", "flag": "none"}
+{"id": "r_1i9jwsr", "demand": true, "problem": "pinning browser tabs to a chosen side", "who": "student using Brave", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Brave"], "quote": "it would be better to distinguish it from studying", "flag": "none"}
+{"id": "r_1ipxbts", "demand": true, "problem": "finding games by genre", "who": "gamer", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Can somebody please please make a website or an app where you give a genre, and it gives all the possible games in that genre?", "flag": "none"}
+{"id": "r_1js8xjo", "demand": true, "problem": "stacking browser tabs in two rows", "who": "Chrome user", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["Chrome"], "quote": "Why is it so hard to find and app/extension that allows you to stack 2 rows of tabs across the top in Chrome?", "flag": "none"}
+{"id": "r_1jxyaws", "demand": false}

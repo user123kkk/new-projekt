@@ -1,0 +1,100 @@
+{"id": "r_1nk4beo", "demand": false}
+{"id": "r_1nogl73", "demand": true, "problem": "small business customer app for bookings and payments", "who": "small business owners", "product": "app", "pain": 2, "pay": "none", "tools": ["Blink", "Bubble", "FlutterFlow"], "quote": "The idea is to have a simple app where they can see updates, book services, even pay directly.", "flag": "none"}
+{"id": "r_1nqywkx", "demand": false}
+{"id": "r_1nrsov6", "demand": false}
+{"id": "r_1nuctm8", "demand": false}
+{"id": "r_1nx4g6c", "demand": false}
+{"id": "r_1nyqsfu", "demand": false}
+{"id": "r_1nyw6ol", "demand": false}
+{"id": "r_1o0eurz", "demand": false}
+{"id": "r_1o0lm8o", "demand": false}
+{"id": "r_1o50y7y", "demand": false}
+{"id": "r_1o5qc87", "demand": true, "problem": "cash runway tracking for irregular income", "who": "freelancers and solo workers", "product": "app", "pain": 1, "pay": "none", "tools": ["YNAB", "Mint"], "quote": "anyone that does not want to live in a spreadsheets", "flag": "none"}
+{"id": "r_1o79s01", "demand": false}
+{"id": "r_1o7jfho", "demand": false}
+{"id": "r_1o7wykx", "demand": false}
+{"id": "r_1o8j4uh", "demand": true, "problem": "rewards for on-time student loan payments", "who": "student loan borrowers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "A lot of my salary goes off to my student loans and has basically made me live paycheck to paycheck.", "flag": "none"}
+{"id": "r_1od4mhn", "demand": false}
+{"id": "r_1od66kt", "demand": false}
+{"id": "r_1oe25pt", "demand": false}
+{"id": "r_1ofupcd", "demand": false}
+{"id": "r_1ohlkt6", "demand": false}
+{"id": "r_1omevj6", "demand": false}
+{"id": "r_1omml0u", "demand": false}
+{"id": "r_1oo2xcg", "demand": false}
+{"id": "r_1oocmgk", "demand": false}
+{"id": "r_1oozly8", "demand": false}
+{"id": "r_1op8e00", "demand": false}
+{"id": "r_1oqlaom", "demand": true, "problem": "peer feedback platform for indie developers", "who": "indie developers and founders", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Reddit"], "quote": "The social platforms like reddit, are imposing very strict community rules these days", "flag": "none"}
+{"id": "r_1ouj1m9", "demand": false}
+{"id": "r_1ox3ib8", "demand": false}
+{"id": "r_1ozav9s", "demand": false}
+{"id": "r_1p0yj70", "demand": true, "problem": "fragmented wellness apps combined into one", "who": "students and young professionals", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "none talk to each other", "flag": "none"}
+{"id": "r_1p1cm20", "demand": false}
+{"id": "r_1p1mmb3", "demand": false}
+{"id": "r_1p4lriq", "demand": true, "problem": "human-only micro-gig tasks", "who": "creators, startups and small businesses", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "creators, startups, and small businesses need daily", "flag": "none"}
+{"id": "r_1p5jqpg", "demand": false}
+{"id": "r_1p63ojf", "demand": true, "problem": "AI training consent compliance for UGC platforms", "who": "product and legal teams at UGC platforms", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "EU AI Act will require consent tracking by 2026", "flag": "none"}
+{"id": "r_1p68asq", "demand": false}
+{"id": "r_1p6rvim", "demand": false}
+{"id": "r_1p7329o", "demand": true, "problem": "AI training consent compliance for UGC platforms", "who": "product and legal teams at UGC platforms", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Data/AI lawsuits (NYT, Getty, Figma) = rising liability", "flag": "none"}
+{"id": "r_1p73tea", "demand": false}
+{"id": "r_1p7dybd", "demand": false}
+{"id": "r_1p7xllj", "demand": false}
+{"id": "r_1p9udgm", "demand": false}
+{"id": "r_1pbe7nm", "demand": false}
+{"id": "r_1pebxg2", "demand": true, "problem": "automated removal of fake Amazon reviews", "who": "Amazon FBA sellers", "product": "automation", "pain": 2, "pay": "none", "tools": ["Seller Central"], "quote": "Manually reporting them through Seller Central is a slow, frustrating process with low success rates.", "flag": "none"}
+{"id": "r_1ph7dxc", "demand": false}
+{"id": "r_1phjwo9", "demand": false}
+{"id": "r_1pho2tw", "demand": false}
+{"id": "r_1pj31e0", "demand": false}
+{"id": "r_1pjbcjn", "demand": true, "problem": "senior home care coordination marketplace", "who": "families and caregivers of seniors", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "so I know the pain points and user needs quite well", "flag": "none"}
+{"id": "r_1pl05h5", "demand": true, "problem": "lowest shipping fee for Meesho sellers", "who": "Meesho resellers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Meesho"], "quote": "Would sellers actually pay a small fee for this if it saves them", "flag": "none"}
+{"id": "r_1plyw7t", "demand": true, "problem": "remote car diagnostics guidance", "who": "car owners and small workshops", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "people replacing parts blindly, getting wrong diagnoses", "flag": "none"}
+{"id": "r_1po5azp", "demand": false}
+{"id": "r_1pqo7rf", "demand": false}
+{"id": "r_1ps8x67", "demand": false}
+{"id": "r_1psjgtn", "demand": false}
+{"id": "r_1psto7j", "demand": false}
+{"id": "r_1pwif6v", "demand": true, "problem": "realistic task scheduling from personal time data", "who": "ADHD professionals and freelancers", "product": "app", "pain": 2, "pay": "none", "tools": ["Motion", "Reclaim.ai"], "quote": "You plan 8 tasks, finish 3, feel like a failure. Every day.", "flag": "none"}
+{"id": "r_1px0cbh", "demand": false}
+{"id": "r_1pxkgze", "demand": true, "problem": "skill-based candidate screening instead of resumes", "who": "recruiters and hiring managers", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "recruiters and hiring managers get flooded with resumes", "flag": "none"}
+{"id": "r_1pxup7q", "demand": false}
+{"id": "r_1pxwkho", "demand": false}
+{"id": "r_1pyx1je", "demand": false}
+{"id": "r_1pz2jjo", "demand": false}
+{"id": "r_1q1zy6a", "demand": false}
+{"id": "r_1q2avqr", "demand": true, "problem": "automated research of online complaints for idea validation", "who": "founders validating ideas", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Reddit"], "quote": "Searching Reddit, reading through hundreds of threads", "flag": "none"}
+{"id": "r_1q32zjb", "demand": false}
+{"id": "r_1q330fu", "demand": false}
+{"id": "r_1q3pz5q", "demand": true, "problem": "alerts when creators posts are copied", "who": "content creators", "product": "web tool", "pain": 1, "pay": "none", "tools": ["X", "LinkedIn"], "quote": "getting copy-pasted by bigger accounts", "flag": "none"}
+{"id": "r_1q4kdpq", "demand": true, "problem": "quick expert feedback on short questions", "who": "students and job seekers", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I need review on my resumes", "flag": "none"}
+{"id": "r_1q6bxnc", "demand": false}
+{"id": "r_1q6gs90", "demand": false}
+{"id": "r_1q6mkp0", "demand": false}
+{"id": "r_1q6qdrl", "demand": true, "problem": "staying consistent after product launch", "who": "indie hackers and solo founders", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Progress slows down, focus fades, motivation drops, and the project slowly dies.", "flag": "none"}
+{"id": "r_1q8e8os", "demand": false}
+{"id": "r_1q8egr6", "demand": false}
+{"id": "r_1q8zxki", "demand": true, "problem": "tracking energy waste from operational decisions", "who": "steel plant operators", "product": "desktop software", "pain": 2, "pay": "none", "tools": [], "quote": "Steel plants know their total energy consumption, but they rarely know", "flag": "none"}
+{"id": "r_1qc19mp", "demand": false}
+{"id": "r_1qc8fiw", "demand": false}
+{"id": "r_1qd655v", "demand": false}
+{"id": "r_1qg1735", "demand": false}
+{"id": "r_1qg99d9", "demand": false}
+{"id": "r_1qi7h79", "demand": false}
+{"id": "r_1qitswm", "demand": false}
+{"id": "r_1qk3rep", "demand": false}
+{"id": "r_1qkdmml", "demand": true, "problem": "daily AI accountability check-ins", "who": "people struggling with consistency", "product": "app", "pain": 2, "pay": "none", "tools": ["todo apps", "habit trackers"], "quote": "I struggle with consistency more than motivation.", "flag": "none"}
+{"id": "r_1qkk8lr", "demand": false}
+{"id": "r_1qkxmh0", "demand": true, "problem": "digital student networking cards", "who": "students and early-career professionals", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "how long do you spend exchanging contact information/social media?", "flag": "none"}
+{"id": "r_1qolerf", "demand": false}
+{"id": "r_1qpjb8q", "demand": false}
+{"id": "r_1qq00qo", "demand": true, "problem": "calorie tracking for Indian food", "who": "Indian users tracking calories", "product": "app", "pain": 2, "pay": "none", "tools": ["Cal AI"], "quote": "Most calorie tracking apps work fine for Western food, but they struggle with", "flag": "none"}
+{"id": "r_1qrt8ss", "demand": true, "problem": "monitoring competitor SaaS pricing changes", "who": "SaaS founders", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Every time I want to price my SaaS, I end up spending hours manually checking competitor pricing pages", "flag": "none"}
+{"id": "r_1qtsbju", "demand": false}
+{"id": "r_1quufxf", "demand": false}
+{"id": "r_1qvmyn6", "demand": false}
+{"id": "r_1qvzn03", "demand": true, "problem": "finding and messaging prospects on Reddit", "who": "B2B founders doing outbound sales", "product": "automation", "pain": 3, "pay": "none", "tools": ["Reddit", "Twitter", "LinkedIn"], "quote": "Every day, I spend two to three hours just to find relevant posts or threads", "flag": "none"}
+{"id": "r_1qw1gid", "demand": true, "problem": "recording why leadership decisions were made", "who": "leadership teams and boards", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Slack"], "quote": "Nobody remembers what was decided", "flag": "none"}
+{"id": "r_1qw2utz", "demand": false}
+{"id": "r_1qw4dmm", "demand": true, "problem": "lightweight reminders for small tasks", "who": "busy workers", "product": "app", "pain": 1, "pay": "none", "tools": ["Notion", "Trello"], "quote": "people forget small tasks and follow ups", "flag": "none"}

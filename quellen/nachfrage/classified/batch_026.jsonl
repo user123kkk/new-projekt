@@ -1,0 +1,100 @@
+{"id": "h_48988277", "demand": false}
+{"id": "h_48983488", "demand": false}
+{"id": "h_48983425", "demand": false}
+{"id": "h_48983350", "demand": false}
+{"id": "h_48982081", "demand": false}
+{"id": "h_48979498", "demand": false}
+{"id": "h_48978784", "demand": false}
+{"id": "h_48975605", "demand": false}
+{"id": "h_48975251", "demand": false}
+{"id": "h_48975178", "demand": false}
+{"id": "h_48971115", "demand": false}
+{"id": "h_48970652", "demand": false}
+{"id": "h_48969909", "demand": false}
+{"id": "h_48968898", "demand": false}
+{"id": "h_48968458", "demand": false}
+{"id": "h_48965980", "demand": false}
+{"id": "h_48961482", "demand": false}
+{"id": "h_48959730", "demand": false}
+{"id": "h_48955196", "demand": false}
+{"id": "h_48951783", "demand": false}
+{"id": "h_48951265", "demand": false}
+{"id": "h_48948533", "demand": false}
+{"id": "h_48947622", "demand": false}
+{"id": "h_48947075", "demand": false}
+{"id": "h_48945979", "demand": false}
+{"id": "h_48944203", "demand": false}
+{"id": "h_48943367", "demand": false}
+{"id": "h_48940693", "demand": false}
+{"id": "h_48939848", "demand": false}
+{"id": "h_48938960", "demand": false}
+{"id": "h_48936964", "demand": false}
+{"id": "h_48936001", "demand": false}
+{"id": "h_48935782", "demand": false}
+{"id": "h_48935726", "demand": true, "problem": "phone wallet for tap-to-pay and loyalty cards", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Google Wallet"], "quote": "What's the alternative to Google Wallet for tap to pay and loyalty cards?", "flag": "none"}
+{"id": "h_48933862", "demand": false}
+{"id": "h_48932966", "demand": false}
+{"id": "h_48928906", "demand": false}
+{"id": "h_48928455", "demand": false}
+{"id": "h_48924150", "demand": false}
+{"id": "h_48924140", "demand": false}
+{"id": "h_48924118", "demand": false}
+{"id": "h_48917077", "demand": false}
+{"id": "h_48916272", "demand": false}
+{"id": "h_48915932", "demand": true, "problem": "cloud file sync client alternative", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["OneDrive"], "quote": "Is there a viable alternative to the sync clients - pc/android with cloud/ghost files etc?", "flag": "none"}
+{"id": "h_48907223", "demand": false}
+{"id": "h_48907116", "demand": false}
+{"id": "h_48906600", "demand": false}
+{"id": "h_48906338", "demand": false}
+{"id": "h_48905785", "demand": false}
+{"id": "h_48904876", "demand": false}
+{"id": "h_48898066", "demand": true, "problem": "voice dictation app for windows", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Wispr Flow", "Rekody"], "quote": "I need an alternative to Wispr flow.", "flag": "none"}
+{"id": "h_48896951", "demand": false}
+{"id": "h_48895654", "demand": false}
+{"id": "h_48893850", "demand": false}
+{"id": "h_48892434", "demand": false}
+{"id": "h_48892072", "demand": true, "problem": "photo editing app alternative to Lightroom", "who": "photographer", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Lightroom", "Photoshop", "Affinity", "Photopea", "Capture One"], "quote": "Does anyone happen to know if there is a similarly good alternative to Lightroom?", "flag": "none"}
+{"id": "h_48891170", "demand": false}
+{"id": "h_48886777", "demand": false}
+{"id": "h_48886338", "demand": false}
+{"id": "h_48882930", "demand": false}
+{"id": "h_48881426", "demand": false}
+{"id": "h_48878425", "demand": false}
+{"id": "h_48875675", "demand": false}
+{"id": "h_48874800", "demand": false}
+{"id": "h_48871463", "demand": false}
+{"id": "h_48870261", "demand": false}
+{"id": "h_48869209", "demand": false}
+{"id": "h_48868251", "demand": false}
+{"id": "h_48864530", "demand": false}
+{"id": "h_48864314", "demand": false}
+{"id": "h_43959652", "demand": true, "problem": "simple client scheduling with paid bookings", "who": "freelancer, coach or consultant", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Calendly", "SavvyCal"], "quote": "The tools either try to do too much or assume you're part of a big team.", "flag": "none"}
+{"id": "h_40082848", "demand": false}
+{"id": "h_41139010", "demand": false}
+{"id": "h_39832421", "demand": false}
+{"id": "h_47000206", "demand": true, "problem": "grid layout visualizer tool", "who": "unknown", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Claude Code"], "quote": "I'm trying to build a simple tool that will let me visualize grid layouts.", "flag": "none"}
+{"id": "h_40520051", "demand": true, "problem": "finding testers for android closed testing", "who": "indie app developer", "product": "web tool", "pain": 3, "pay": "none", "tools": ["Google Play Console"], "quote": "I have spent the last few days messaging people, doing the test swaps, and generally wasting my time.", "flag": "none"}
+{"id": "h_40714641", "demand": false}
+{"id": "h_46507934", "demand": false}
+{"id": "h_48447980", "demand": false}
+{"id": "h_48545230", "demand": false}
+{"id": "h_46120706", "demand": false}
+{"id": "h_43392656", "demand": false}
+{"id": "h_41747151", "demand": false}
+{"id": "h_40393371", "demand": false}
+{"id": "h_43539440", "demand": false}
+{"id": "h_47425555", "demand": false}
+{"id": "h_46392051", "demand": false}
+{"id": "h_49187992", "demand": false}
+{"id": "h_45199442", "demand": true, "problem": "outlook calendar sync with apple calendar", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["Outlook", "Apple Calendar"], "quote": "My calendar constantly falls out of sync.", "flag": "none"}
+{"id": "h_50232806", "demand": false}
+{"id": "h_50224478", "demand": true, "problem": "mac disk cleanup for xcode build data", "who": "mac app developer", "product": "desktop software", "pain": 3, "pay": "none", "tools": ["Xcode", "disk space analyzers"], "quote": "Xcode generates a ton of hidden cruft in the DerivedData folder during every build/release that I wasn't even aware of!", "flag": "none"}
+{"id": "h_50206424", "demand": false}
+{"id": "h_50176205", "demand": true, "problem": "universal furniture room planning app", "who": "homeowner", "product": "app", "pain": 2, "pay": "none", "tools": ["IKEA design apps"], "quote": "What I really would like is a universal furniture planning program which includes all IKEA furniture (and possibly third party furniture as well) and full configurability of the room.", "flag": "none"}
+{"id": "h_50173030", "demand": false}
+{"id": "h_50170592", "demand": false}
+{"id": "h_50164530", "demand": true, "problem": "outage alerts for banking app", "who": "unknown", "product": "automation", "pain": 2, "pay": "none", "tools": ["Revolut", "Reddit"], "quote": "Revolut needs a way to proactively notify users when their cards aren't working.", "flag": "none"}
+{"id": "h_50132302", "demand": false}
+{"id": "h_50095983", "demand": false}
+{"id": "h_50066106", "demand": false}
+{"id": "h_50049413", "demand": false}

@@ -1,0 +1,100 @@
+{"id": "r_1qodlhx", "demand": false}
+{"id": "r_1qq2313", "demand": true, "problem": "choosing app niche by demand", "who": "indie app developer", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I struggle with figuring out what’s actually in demand versus what’s already overcrowded.", "flag": "none"}
+{"id": "r_1qrn3j4", "demand": false}
+{"id": "r_1qrq7m3", "demand": false}
+{"id": "r_1qrt1aw", "demand": false}
+{"id": "r_1qscqc2", "demand": true, "problem": "pet reactions to TV sounds", "who": "dog owner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "The dog hears it, starts barking, and runs to the door, thinking someone has arrived.", "flag": "none"}
+{"id": "r_1qt3hw1", "demand": true, "problem": "dining alone companionship", "who": "solo diner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I just don't want to eat alone all the time.", "flag": "none"}
+{"id": "r_1qtd1k2", "demand": false}
+{"id": "r_1qtu1yw", "demand": true, "problem": "decluttering decision support", "who": "person decluttering home", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Taking action feels overwhelming", "flag": "none"}
+{"id": "r_1qtu54n", "demand": true, "problem": "decluttering decision support", "who": "person decluttering home", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Taking action feels overwhelming", "flag": "none"}
+{"id": "r_1qtui2h", "demand": true, "problem": "decluttering decision support", "who": "person decluttering home", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Taking action feels overwhelming", "flag": "none"}
+{"id": "r_1qultn6", "demand": true, "problem": "habit accountability through visible failure", "who": "habit builder", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "They fail because failure is invisible, there are no consequences, and no one is watching.", "flag": "none"}
+{"id": "r_1quvad8", "demand": true, "problem": "small talk and awkward conversation help", "who": "introvert", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I don't like small talk or any kind of conversations with not so my type people.", "flag": "none"}
+{"id": "r_1qwafkn", "demand": false}
+{"id": "r_1qwapxl", "demand": true, "problem": "name and face memorization", "who": "teacher, salesperson or manager", "product": "app", "pain": 2, "pay": "none", "tools": ["Name Shark"], "quote": "There needs to be an app where people who need to know a lot of names", "flag": "none"}
+{"id": "r_1r035rw", "demand": false}
+{"id": "r_1r0yv17", "demand": false}
+{"id": "r_1r11z18", "demand": true, "problem": "finding parking at busy venues", "who": "driver in Malaysia", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I might get to a mall or a busy area and I need parking quick.", "flag": "none"}
+{"id": "r_1r28ez2", "demand": false}
+{"id": "r_1r2jqjo", "demand": true, "problem": "pregnancy tracker app frustrations", "who": "pregnant user", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "user have problem with current app", "flag": "none"}
+{"id": "r_1r3dvnm", "demand": false}
+{"id": "r_1r3plyz", "demand": false}
+{"id": "r_1r3s19q", "demand": true, "problem": "juggling multiple NFL game streams", "who": "NFL fan", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "could make watching multiple NFL games less of a headache.", "flag": "none"}
+{"id": "r_1r51300", "demand": false}
+{"id": "r_1r57f77", "demand": false}
+{"id": "r_1r5qeut", "demand": false}
+{"id": "r_1r6fbns", "demand": false}
+{"id": "r_1r7ijno", "demand": false}
+{"id": "r_1r7kjnx", "demand": false}
+{"id": "r_1r8i1ni", "demand": true, "problem": "authentic social connection beyond feeds", "who": "social media user", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Every platform optimises for engagement, which means feeds, likes, algorithmic content, and dopamine loops.", "flag": "dating: compatibility matching for connections"}
+{"id": "r_1r8inaq", "demand": false}
+{"id": "r_1r8p1vy", "demand": false}
+{"id": "r_1r94w6k", "demand": true, "problem": "sharing vibe-coded projects", "who": "vibe coder", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Twitter", "Reddit"], "quote": "I'd build something cool, whether it's a game, a tool, a weird little app, and then what?", "flag": "none"}
+{"id": "r_1r96fyu", "demand": false}
+{"id": "r_1r98ji7", "demand": true, "problem": "learning low-resource African languages", "who": "language learner in Africa", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "for anyone wanting to learn a low-resource or endangered language, the options are basically non-existent.", "flag": "none"}
+{"id": "r_1ravm21", "demand": false}
+{"id": "r_1rc98xi", "demand": false}
+{"id": "r_1rcklga", "demand": false}
+{"id": "r_1rcqpaz", "demand": false}
+{"id": "r_1rcrb98", "demand": false}
+{"id": "r_1rf4mpq", "demand": true, "problem": "private photo backup", "who": "privacy-conscious photo user", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Photos", "iCloud Photos"], "quote": "Mainstream photo clouds (Google Photos, default iCloud Photos, etc.) can access and algorithmically analyze your images.", "flag": "none"}
+{"id": "r_1rh53ck", "demand": false}
+{"id": "r_1ris4rr", "demand": false}
+{"id": "r_1riz5u2", "demand": true, "problem": "late invoice payment follow-up for freelancers", "who": "freelancers", "product": "automation", "pain": 3, "pay": "none", "tools": ["FreshBooks", "Wave"], "quote": "freelancers eventually give up and lose $2K to $5K per year", "flag": "none"}
+{"id": "r_1rkxq9z", "demand": false}
+{"id": "r_1rm6vyk", "demand": false}
+{"id": "r_1rmffwm", "demand": false}
+{"id": "r_1rn4xe7", "demand": true, "problem": "local LLM hosting for app developers", "who": "app developer", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["OpenAI", "Anthropic"], "quote": "which means ongoing costs, rate limits, and sending data to external servers.", "flag": "none"}
+{"id": "r_1rnbioe", "demand": false}
+{"id": "r_1ro9br4", "demand": false}
+{"id": "r_1rowa3r", "demand": true, "problem": "breaking daily routine with variety", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I look for ways to add some variance in my daily life.", "flag": "none"}
+{"id": "r_1rp2lnf", "demand": false}
+{"id": "r_1rp7t84", "demand": false}
+{"id": "r_1rqh5ik", "demand": true, "problem": "security camera footage organization", "who": "homeowner with security cameras", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I have lots of security cam footage for months and the experience is honestly terrible.", "flag": "none"}
+{"id": "r_1rs2t06", "demand": false}
+{"id": "r_1ru5hpr", "demand": false}
+{"id": "r_1ruidq7", "demand": false}
+{"id": "r_1rum55s", "demand": false}
+{"id": "r_1rutjkj", "demand": false}
+{"id": "r_1ruulm0", "demand": false}
+{"id": "r_1rv5t0l", "demand": true, "problem": "first paying customer for startups", "who": "early-stage founder", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "A lot of founders struggle with the same thing.", "flag": "none"}
+{"id": "r_1rwvu1h", "demand": false}
+{"id": "r_1rxdbqo", "demand": true, "problem": "side project idea generation", "who": "side hustler", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Was struggling to come up with some ideas for a side hustle irl / new online project to build", "flag": "none"}
+{"id": "r_1ryqkpk", "demand": true, "problem": "tracking friendship health", "who": "busy professional", "product": "app", "pain": 2, "pay": "none", "tools": ["Monica", "Dex"], "quote": "keeping track of my relationships and making sure I'm actually putting effort into them.", "flag": "none"}
+{"id": "r_1rzah9e", "demand": true, "problem": "fragmented fitness app tracking", "who": "fitness enthusiast", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I noticed that in fitness there is an app for something", "flag": "none"}
+{"id": "r_1s2a5rp", "demand": true, "problem": "finding beta testers for apps", "who": "app developer", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Reddit"], "quote": "the communities that do allow these sorts of posts usually consist of other devs", "flag": "none"}
+{"id": "r_1s2lpwj", "demand": false}
+{"id": "r_1s3tl7l", "demand": false}
+{"id": "r_1s5flbi", "demand": true, "problem": "finding friends by shared niche interests", "who": "adults looking for friends", "product": "app", "pain": 1, "pay": "none", "tools": ["dating apps", "LinkedIn"], "quote": "We’re good at sorting people by demographics.", "flag": "none"}
+{"id": "r_1s72h1h", "demand": false}
+{"id": "r_1s7bwny", "demand": false}
+{"id": "r_1s7uw6p", "demand": false}
+{"id": "r_1s8zub5", "demand": true, "problem": "personal admin and reminder management", "who": "parent with full-time job", "product": "app", "pain": 2, "pay": "none", "tools": ["habit trackers", "calendar apps", "Notion", "ChatGPT"], "quote": "chances are I've left it to the last minute.", "flag": "none"}
+{"id": "r_1s9n0r0", "demand": true, "problem": "band rehearsal scheduling", "who": "musician", "product": "app", "pain": 2, "pay": "none", "tools": ["WhatsApp"], "quote": "I searched it in WhatsApp and usually it took too much time or I did not find it at all.", "flag": "none"}
+{"id": "r_1sa5uqn", "demand": false}
+{"id": "r_1sgrvft", "demand": false}
+{"id": "r_1siklj1", "demand": false}
+{"id": "r_1sj86lz", "demand": false}
+{"id": "r_1sn0u1p", "demand": true, "problem": "shift scheduling for first responders", "who": "firefighter, police officer or EMS worker", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Calendar", "Apple Calendar"], "quote": "every calendar app out there assumes you work 9-5, Monday through Friday.", "flag": "none"}
+{"id": "r_1sne4fo", "demand": true, "problem": "no verifiable record of real-life achievements", "who": "people seeking proof of personal progress", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Real life doesn’t really have that.", "flag": "none"}
+{"id": "r_1snhop6", "demand": false}
+{"id": "r_1spty1g", "demand": true, "problem": "outfit feedback from peers", "who": "young man exploring fashion", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "There probably is an app like this already but the ones I've seen don't really come close to what I was thinking / wanted.", "flag": "none"}
+{"id": "r_1sq2ckq", "demand": false}
+{"id": "r_1sq3fue", "demand": false}
+{"id": "r_1sr5nxh", "demand": false}
+{"id": "r_1sriin7", "demand": true, "problem": "finding part-time work for students", "who": "student in India", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "a lot of people actually want to work, earn their own money, and not depend on their parents for everything", "flag": "none"}
+{"id": "r_1sru6qs", "demand": true, "problem": "finding part-time work for students", "who": "student in India", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "a lot of people actually want to work, earn their own money, and not depend on their parents for everything", "flag": "none"}
+{"id": "r_1ss7zno", "demand": true, "problem": "focus and decision fatigue", "who": "corporate professional", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "As a result, I struggle with decision fatigue and lose a lot of focus on doing things that actually matter.", "flag": "none"}
+{"id": "r_1st59yv", "demand": true, "problem": "finding part-time work for students", "who": "student in India", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "a lot of people actually want to work, earn their own money, and not depend on their parents for everything", "flag": "none"}
+{"id": "r_1suwzu3", "demand": true, "problem": "life balance tracking", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Most apps out there are focused on daily streaks or strict habit tracking", "flag": "none"}
+{"id": "r_1swcgu9", "demand": true, "problem": "screen time limits without consequences", "who": "person trying to cut phone use", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I feel like screen time limits right now have 0 failure cost.", "flag": "none"}
+{"id": "r_1sx3gei", "demand": true, "problem": "scheduling small household tasks", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Apple Reminders"], "quote": "I know I need to do X, but I have no idea when I will have time for it.", "flag": "none"}
+{"id": "r_1sxkbn2", "demand": true, "problem": "PC focus-breaking alarm", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Alarmy"], "quote": "I haven't found any still.", "flag": "none"}
+{"id": "r_1t1u1m8", "demand": true, "problem": "tracking grocery expiry dates", "who": "household", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Many households usually buy groceries at bulk for a month and often forget when they expire", "flag": "none"}
+{"id": "r_1t1umtb", "demand": false}
+{"id": "r_1t2x0rf", "demand": false}
+{"id": "r_1t4i6iy", "demand": true, "problem": "coordinating group support for shared posts", "who": "friend groups and communities", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Instead of just hoping people see it", "flag": "none"}
+{"id": "r_1t4j6rz", "demand": false}
+{"id": "r_1tbk5vy", "demand": false}
+{"id": "r_1tdwx5k", "demand": true, "problem": "no alert when group loses contact off-piste", "who": "recreational ski groups", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "When a group splits on off-piste terrain, there's no reliable way to know if someone", "flag": "none"}

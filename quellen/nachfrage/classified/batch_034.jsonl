@@ -1,0 +1,100 @@
+{"id": "h_39544933", "demand": false}
+{"id": "h_39519378", "demand": false}
+{"id": "h_39516087", "demand": false}
+{"id": "h_39515432", "demand": false}
+{"id": "h_39504305", "demand": false}
+{"id": "h_39502044", "demand": false}
+{"id": "h_39489137", "demand": false}
+{"id": "h_39486426", "demand": false}
+{"id": "h_39478755", "demand": false}
+{"id": "h_39465149", "demand": false}
+{"id": "h_39462930", "demand": false}
+{"id": "h_39438064", "demand": false}
+{"id": "h_39431830", "demand": false}
+{"id": "h_39418179", "demand": false}
+{"id": "h_39418031", "demand": false}
+{"id": "h_39418012", "demand": false}
+{"id": "h_39394314", "demand": false}
+{"id": "h_39386777", "demand": false}
+{"id": "h_39369388", "demand": false}
+{"id": "h_39363824", "demand": false}
+{"id": "h_39360125", "demand": false}
+{"id": "h_39347742", "demand": false}
+{"id": "h_39341445", "demand": false}
+{"id": "h_39334504", "demand": false}
+{"id": "h_39327812", "demand": true, "problem": "visual ui builder for web apps", "who": "web developer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["WinForms"], "quote": "I just want to make some buttons and menus and hook them up to a little logic!", "flag": "none"}
+{"id": "h_39300964", "demand": false}
+{"id": "h_39257189", "demand": false}
+{"id": "h_39228196", "demand": true, "problem": "color palette management in figma", "who": "UI designer", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Figma", "Tailwind"], "quote": "Figma&#x27;s approach to color is so frustrating and bonkers that I don&#x27;t even bother.", "flag": "none"}
+{"id": "h_39174642", "demand": false}
+{"id": "h_39142109", "demand": false}
+{"id": "h_39132577", "demand": false}
+{"id": "h_39126177", "demand": false}
+{"id": "h_39119178", "demand": false}
+{"id": "h_39108182", "demand": false}
+{"id": "h_39107958", "demand": false}
+{"id": "h_39103092", "demand": false}
+{"id": "h_39057924", "demand": false}
+{"id": "h_39046045", "demand": false}
+{"id": "h_39042675", "demand": false}
+{"id": "h_39027556", "demand": false}
+{"id": "h_39015992", "demand": false}
+{"id": "h_38998302", "demand": false}
+{"id": "h_38986392", "demand": false}
+{"id": "h_38976207", "demand": false}
+{"id": "h_38975797", "demand": false}
+{"id": "h_38969783", "demand": false}
+{"id": "h_38959257", "demand": false}
+{"id": "h_38958243", "demand": true, "problem": "migrating off google workspace", "who": "google workspace family account owner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Google Workspace", "YouTube TV"], "quote": "And migrating off is basically impossible, it&#x27;s so frustrating.", "flag": "none"}
+{"id": "h_38930495", "demand": false}
+{"id": "h_38917042", "demand": false}
+{"id": "h_38915137", "demand": false}
+{"id": "h_38905643", "demand": false}
+{"id": "h_38875153", "demand": false}
+{"id": "h_38850588", "demand": false}
+{"id": "h_42088048", "demand": true, "problem": "email client with semantic search", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Thunderbird", "Gmail", "Outlook"], "quote": "today I just get completely lost, especially when some people on the thread use outlook and others use gmail", "flag": "none"}
+{"id": "h_44446122", "demand": false}
+{"id": "h_44393964", "demand": false}
+{"id": "h_43780031", "demand": false}
+{"id": "h_46574652", "demand": false}
+{"id": "h_46413855", "demand": false}
+{"id": "h_42793838", "demand": false}
+{"id": "h_40305219", "demand": false}
+{"id": "r_1s6s1sb", "demand": true, "problem": "small service business scheduling and client follow ups", "who": "small services business owner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I keep running into the same operational headaches scheduling, follow ups, client tracking.", "flag": "none"}
+{"id": "r_1hm4j2m", "demand": false}
+{"id": "r_1lvuqmn", "demand": false}
+{"id": "r_1nif2tn", "demand": false}
+{"id": "r_1q197pm", "demand": true, "problem": "finding nearby stores with specific items", "who": "consumer", "product": "app", "pain": 2, "pay": "none", "tools": ["DoorDash", "UberEats"], "quote": "I end up either driving farther than I need to or paying for delivery.", "flag": "none"}
+{"id": "r_1qdnsms", "demand": false}
+{"id": "r_1rn4iac", "demand": false}
+{"id": "r_1uau2uk", "demand": false}
+{"id": "r_1v919ad", "demand": false}
+{"id": "r_1ww478j", "demand": false}
+{"id": "r_1x5zspx", "demand": false}
+{"id": "r_1dnoc19", "demand": true, "problem": "converting websites to pdf", "who": "developer", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "i wish there was a tool that simply converted docs to pdf easily.", "flag": "none"}
+{"id": "r_1s8ph48", "demand": true, "problem": "brand mention monitoring", "who": "brand owner", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I wish there was a tool that tracked every time my brand got mentioned online", "flag": "none"}
+{"id": "r_1bhupl2", "demand": true, "problem": "consolidating group chats outside social feeds", "who": "social media user", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Facebook", "Instagram"], "quote": "I would pay for this and I know others would too.", "flag": "none"}
+{"id": "r_1keudel", "demand": true, "problem": "turning social threads into music playlists", "who": "unknown", "product": "web tool", "pain": 1, "pay": "explicit", "tools": ["YouTube", "Spotify"], "quote": "I'd pay for this, even if it was, say, only like 80% accurate.", "flag": "none"}
+{"id": "r_1b3rudz", "demand": false}
+{"id": "r_1c28bx1", "demand": false}
+{"id": "r_1cc6jj4", "demand": false}
+{"id": "r_1djud1m", "demand": true, "problem": "matching youtubers for collaborations", "who": "youtuber", "product": "app", "pain": 1, "pay": "none", "tools": ["Omegle"], "quote": "Somebody make an app wherein we can collaborate with another stranger youtuber with equivalent or approx same subscribers.", "flag": "none"}
+{"id": "r_1dt9rwl", "demand": true, "problem": "labor marketplace with worker-set terms", "who": "laborers in service industries", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I'm tired of seeing job listings colluding and being increasingly picky to drive laborer spirits down.", "flag": "none"}
+{"id": "r_1ecuclj", "demand": true, "problem": "transparent healthcare pricing lookup", "who": "patient in India", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Review my Idea, should somebody make a website that shows you transparent healthcare pricing.", "flag": "none"}
+{"id": "r_1eibqt9", "demand": true, "problem": "running scripts by voice commands", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Somebody make TalkScript, the simple AI app to run script from voice", "flag": "none"}
+{"id": "r_1es8y82", "demand": false}
+{"id": "r_1faqhuo", "demand": true, "problem": "meeting people without dating apps", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["dating apps"], "quote": "Somebody make a good way to meet your match!", "flag": "dating"}
+{"id": "r_1fru0gg", "demand": false}
+{"id": "r_1gctvz3", "demand": false}
+{"id": "r_1glr3ah", "demand": true, "problem": "prompt testing and versioning tool", "who": "AI software developer", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Tweaking prompts and tracking which ones work best across different models is a tedious but necessary task.", "flag": "none"}
+{"id": "r_1hnw30d", "demand": true, "problem": "reading physical books aloud with AI", "who": "book reader", "product": "app", "pain": 2, "pay": "implied", "tools": ["Speechify", "Ray-Ban Meta", "Audible", "ChatGPT"], "quote": "Why doesn’t a simple, seamless way to read physical books aloud exist?", "flag": "none"}
+{"id": "r_1ivzs83", "demand": false}
+{"id": "r_1j0bvny", "demand": true, "problem": "offline youtube comments viewing", "who": "video viewer", "product": "app", "pain": 1, "pay": "none", "tools": ["Snaptube", "vidmate", "ytdl", "YouTube"], "quote": "So an app that allows you, offline, to read 30 or so popular comments of the video that you watching.", "flag": "none"}
+{"id": "r_1j3wki7", "demand": false}
+{"id": "r_1kfk1dh", "demand": true, "problem": "voice journaling into markdown notes", "who": "daily journaler", "product": "app", "pain": 2, "pay": "none", "tools": ["Logseq", "Apple Journal"], "quote": "half the time i forget the thought before i finish wrestling with the keyboard.", "flag": "none"}
+{"id": "r_1l8ikfg", "demand": true, "problem": "landowner and investor real estate matching", "who": "landowner", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Somebody Make This: A platform that connects landowners with small investors for joint real estate development.", "flag": "investment/financing"}
+{"id": "r_1l94sla", "demand": false}
+{"id": "r_1li2b18", "demand": false}
+{"id": "r_1lqhtua", "demand": false}
+{"id": "r_1n2xkb5", "demand": false}
+{"id": "r_1n2xm2p", "demand": false}

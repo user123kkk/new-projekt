@@ -3,3 +3,6 @@
 *.wav
 quellen/videos/*/frames/
 __pycache__/
+quellen/nachfrage/raw/
+quellen/nachfrage/batches/
+quellen/nachfrage/demand_compact.tsv

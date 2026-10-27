@@ -1,0 +1,100 @@
+{"id": "r_1murtjw", "demand": true, "problem": "bypass silent mode for specific app alerts", "who": "smart home user", "product": "automation", "pain": 2, "pay": "none", "tools": ["Tuya"], "quote": "I am looking for a way to have a specific app (in this case Tuya) have notifications that overwrite my phones volume settings.", "flag": "none"}
+{"id": "r_1mvaicv", "demand": false}
+{"id": "r_1mvl0kn", "demand": true, "problem": "fragmented taxi hailing across apps", "who": "locals and tourists in Turkey", "product": "app", "pain": 2, "pay": "none", "tools": ["BiTaksi", "iTaksi", "Uber Taxi", "inDrive", "Marti Tag"], "quote": "Locals have to switch between apps in an attempt to find a ride, and tourists frequently aren't sure which one to use.", "flag": "none"}
+{"id": "r_1mvybnl", "demand": false}
+{"id": "r_1mx3bra", "demand": false}
+{"id": "r_1mx48l9", "demand": false}
+{"id": "r_1mx8wec", "demand": false}
+{"id": "r_1mz3qpq", "demand": false}
+{"id": "r_1mz3sj3", "demand": false}
+{"id": "r_1mzdi1a", "demand": true, "problem": "AI coding tools losing context", "who": "vibe coder building apps", "product": "web tool", "pain": 2, "pay": "none", "tools": ["GPT-5", "Bolt.new"], "quote": "I find it constantly forgets context and just publishes trash code.", "flag": "none"}
+{"id": "r_1n09phg", "demand": false}
+{"id": "r_1n0iop8", "demand": false}
+{"id": "r_1n0mpsc", "demand": false}
+{"id": "r_1n12a3m", "demand": false}
+{"id": "r_1n1vk8v", "demand": false}
+{"id": "r_1n5uzux", "demand": true, "problem": "social conversation practice app", "who": "person with social anxiety", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I'm over here overthinking every word.", "flag": "dating: practicing conversations to approach women"}
+{"id": "r_1n6fpj2", "demand": false}
+{"id": "r_1ng583v", "demand": true, "problem": "doctor appointment access and symptom tracking", "who": "patient", "product": "app", "pain": 3, "pay": "none", "tools": [], "quote": "A big problem I have is I have to wait months to book an doctors appointment.", "flag": "none"}
+{"id": "r_1ngevaf", "demand": false}
+{"id": "r_1ngkq12", "demand": false}
+{"id": "r_1nh8bk7", "demand": false}
+{"id": "r_1nkrd2h", "demand": true, "problem": "automated B2B lead generation", "who": "entrepreneur", "product": "automation", "pain": 2, "pay": "none", "tools": [], "quote": "finding your audience is expensive and time-consuming.", "flag": "none"}
+{"id": "r_1nlb6xf", "demand": true, "problem": "cheque issuance tracking", "who": "small business owner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "My father, for instance forgets who he has issued cheques to and when they are due for deposit.", "flag": "none"}
+{"id": "r_1nnwtip", "demand": false}
+{"id": "r_1np9c1l", "demand": false}
+{"id": "r_1npc0jg", "demand": false}
+{"id": "r_1nrsvi6", "demand": false}
+{"id": "r_1nruhh4", "demand": false}
+{"id": "r_1ntpyak", "demand": false}
+{"id": "r_1nuo65f", "demand": false}
+{"id": "r_1nvukn0", "demand": false}
+{"id": "r_1nw1py2", "demand": false}
+{"id": "r_1o0534f", "demand": false}
+{"id": "r_1o0ftr6", "demand": true, "problem": "per-room household electricity usage", "who": "household bill payer", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I want app that can identify which room had the light turned on the most and at which time", "flag": "none"}
+{"id": "r_1o1wowt", "demand": false}
+{"id": "r_1o2uc4s", "demand": true, "problem": "AI companion app recommendations", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Ourdream AI"], "quote": "I've been looking for a good AI girlfriend app that can do voices and simulate calls, send nudes, have a chat with good memory", "flag": "adult content: sexual AI companion"}
+{"id": "r_1o4fdmk", "demand": false}
+{"id": "r_1o6wy5s", "demand": false}
+{"id": "r_1o7vrw9", "demand": false}
+{"id": "r_1o9uy74", "demand": false}
+{"id": "r_1obejnp", "demand": false}
+{"id": "r_1ocqzvm", "demand": false}
+{"id": "r_1od3kf8", "demand": false}
+{"id": "r_1oeejha", "demand": false}
+{"id": "r_1ofh7tu", "demand": false}
+{"id": "r_1ofky3i", "demand": false}
+{"id": "r_1oh7kb3", "demand": false}
+{"id": "r_1ok3ai5", "demand": true, "problem": "fragmented personal growth tracking", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "You need five different apps just to manage your mind, goals, and habits, and none of them talk to each other.", "flag": "none"}
+{"id": "r_1ouzmpf", "demand": false}
+{"id": "r_1ovtz8r", "demand": true, "problem": "multi-media consumption logging", "who": "media enthusiast", "product": "app", "pain": 1, "pay": "none", "tools": ["Letterboxd", "Goodreads"], "quote": "I scoured the internet, and found no apps that fit what i wanted.", "flag": "none"}
+{"id": "r_1owclzk", "demand": false}
+{"id": "r_1ozclm7", "demand": false}
+{"id": "r_1p1q733", "demand": false}
+{"id": "r_1p33em7", "demand": false}
+{"id": "r_1p35gb7", "demand": false}
+{"id": "r_1p8bty7", "demand": false}
+{"id": "r_1p8u4yn", "demand": true, "problem": "comparing quick-commerce grocery prices", "who": "online grocery shoppers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Zepto", "Blinkit", "Swiggy Instamart"], "quote": "comparing all the apps every time is not convenient and doable.", "flag": "none"}
+{"id": "r_1p9z9bl", "demand": true, "problem": "strength progress tracking", "who": "lifter", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "one thing that always frustrated me was not knowing if my training was actually working.", "flag": "none"}
+{"id": "r_1pbjhp0", "demand": false}
+{"id": "r_1pcez06", "demand": true, "problem": "filtering calls from narcissistic contacts", "who": "people stuck with narcissistic relatives or partners", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "For people who can't fully separate themselves from narcissists, their life is full of unpredictable attacks.", "flag": "none"}
+{"id": "r_1pdhfwp", "demand": false}
+{"id": "r_1pdyxj2", "demand": false}
+{"id": "r_1pfser3", "demand": false}
+{"id": "r_1pi27zv", "demand": true, "problem": "long video triage", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Struggling with too many long videos I don't know which one to watch.", "flag": "none"}
+{"id": "r_1pimlu8", "demand": false}
+{"id": "r_1pizjkc", "demand": false}
+{"id": "r_1pmetc5", "demand": true, "problem": "unreliable reviews for local recommendations", "who": "consumers seeking local tradespeople and services", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "We have reviews everywhere, but they feel sef serving and catty, littered with unnecessary bias.", "flag": "none"}
+{"id": "r_1pn4omt", "demand": false}
+{"id": "r_1pnczug", "demand": false}
+{"id": "r_1pnog2q", "demand": false}
+{"id": "r_1ppezal", "demand": false}
+{"id": "r_1ppmixn", "demand": false}
+{"id": "r_1pt86su", "demand": false}
+{"id": "r_1pu8wlp", "demand": false}
+{"id": "r_1pud31n", "demand": true, "problem": "legal complaint process awareness", "who": "citizen in India", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Being in India the issue is people think filing an FIR or any Police related complaints will have you going back and forth courts on frequent basis, hiring lawyers uses too much of money, corruption has become common.", "flag": "none"}
+{"id": "r_1pxhm57", "demand": true, "problem": "multi-line text copying on Android", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an Android app that lets you copy multiple lines of text one by one using a floating window?", "flag": "none"}
+{"id": "r_1pz91vt", "demand": false}
+{"id": "r_1q0yul1", "demand": false}
+{"id": "r_1q0zwpn", "demand": false}
+{"id": "r_1q15r6h", "demand": false}
+{"id": "r_1q17tcf", "demand": true, "problem": "gluten-free product identification in stores", "who": "celiac consumer", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I imagine this frustration is shared by others who have dietary restrictions, especially while traveling.", "flag": "none"}
+{"id": "r_1q1inwn", "demand": false}
+{"id": "r_1q1tmlc", "demand": true, "problem": "sharing memories without implied DM intent", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "dm's typically feel like there is implied intent on why you chose that specific person to talk about a memory with", "flag": "none"}
+{"id": "r_1q1wmbd", "demand": true, "problem": "calorie balance weight tracking", "who": "weight loss user", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "sometimes there is too much going on, which can affect staying motivated and consistent.", "flag": "none"}
+{"id": "r_1q7h7z3", "demand": true, "problem": "saved social posts never revisited", "who": "individual learner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Over time my bookmarks pile up, feel overwhelming, and honestly make me feel a bit guilty for not digesting what I thought was valuable.", "flag": "none"}
+{"id": "r_1q809re", "demand": false}
+{"id": "r_1qa8m26", "demand": true, "problem": "field service job progress tracking", "who": "plumbers and truck drivers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "We forget where the job is progress-wise.", "flag": "none"}
+{"id": "r_1qbrrkk", "demand": true, "problem": "all-in-one ADHD support app", "who": "neurodivergent adult", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I wish this would exist", "flag": "none"}
+{"id": "r_1qcdkvu", "demand": false}
+{"id": "r_1qeeg8r", "demand": false}
+{"id": "r_1qer7k4", "demand": false}
+{"id": "r_1qf7s11", "demand": false}
+{"id": "r_1qge0qv", "demand": false}
+{"id": "r_1qhgfxc", "demand": true, "problem": "shared trip bucket list map", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Someone should create an app where it is a map that you can share with your friends.", "flag": "none"}
+{"id": "r_1qj7tpb", "demand": true, "problem": "PC and game error troubleshooting", "who": "PC gamer", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Google", "YouTube", "Reddit"], "quote": "I keep wasting time fixing PC and game errors… thinking of building a site or an app for this.", "flag": "none"}
+{"id": "r_1qjg6ag", "demand": true, "problem": "scattered mental health apps", "who": "people with anxiety or depression", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "they often lack something another app may provide and you end up with varying apps that you have to keep track of.", "flag": "none"}
+{"id": "r_1qkrsku", "demand": false}
+{"id": "r_1qkw1nr", "demand": false}
+{"id": "r_1qmfzqq", "demand": false}
+{"id": "r_1qod7ke", "demand": false}

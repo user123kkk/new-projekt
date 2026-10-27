@@ -1,0 +1,100 @@
+{"id": "h_46798089", "demand": false}
+{"id": "h_46229280", "demand": false}
+{"id": "h_45080004", "demand": false}
+{"id": "h_44791981", "demand": false}
+{"id": "h_44762605", "demand": false}
+{"id": "h_44654182", "demand": false}
+{"id": "h_44454313", "demand": false}
+{"id": "h_42776468", "demand": false}
+{"id": "h_42351663", "demand": true, "problem": "home wifi access point management with ansible", "who": "home network enthusiast", "product": "web tool", "pain": 2, "pay": "none", "tools": ["OpenWrt", "openwisp", "ansible", "grafana"], "quote": "The parts that I have closed source pain are primarily the wifi aps", "flag": "none"}
+{"id": "h_42082959", "demand": false}
+{"id": "h_41195589", "demand": false}
+{"id": "h_40828085", "demand": false}
+{"id": "h_40089345", "demand": false}
+{"id": "h_39978158", "demand": false}
+{"id": "h_39895899", "demand": false}
+{"id": "h_39750955", "demand": false}
+{"id": "h_39254292", "demand": false}
+{"id": "h_40710275", "demand": true, "problem": "recording both sides of phone calls on android", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["Android"], "quote": "I can&#x27;t find an app that lets me record both sides of the conversation on Android.", "flag": "none"}
+{"id": "h_48114828", "demand": true, "problem": "voice-controlled home lights via llm tool calls", "who": "home automation hobbyist", "product": "other", "pain": 1, "pay": "none", "tools": ["Home Assistant", "Gemini"], "quote": "This is pretty much exactly what I want for Home Assistant.", "flag": "none"}
+{"id": "h_46424526", "demand": false}
+{"id": "h_39719547", "demand": true, "problem": "chat with full book without hallucination", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["ChatGPT"], "quote": "Hey, I&#x27;m looking for an AI app that allows me to chat with a book.", "flag": "none"}
+{"id": "h_40369059", "demand": false}
+{"id": "h_44608840", "demand": false}
+{"id": "h_41049759", "demand": true, "problem": "end-to-end encrypted open source notes sync", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Standard Notes", "Notesnook"], "quote": "hi, I&#x27;m looking for an app for notes, E2E and open source, and which has synchronization, do you have any ideas?", "flag": "none"}
+{"id": "h_41681810", "demand": true, "problem": "rss client tracking news front-page placement", "who": "news reader", "product": "app", "pain": 2, "pay": "explicit", "tools": ["RSS"], "quote": "Essentially I am looking for a smart RSS client; can you recommend one?", "flag": "none"}
+{"id": "h_41455387", "demand": false}
+{"id": "h_45222631", "demand": false}
+{"id": "h_45104376", "demand": false}
+{"id": "h_49865975", "demand": false}
+{"id": "h_49355970", "demand": true, "problem": "terminal sessions mapped many-to-one to tasks", "who": "mac terminal user", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Saggar"], "quote": "some of us have might be looking for an app that supports a many:1 mapping.", "flag": "none"}
+{"id": "h_48976392", "demand": true, "problem": "one-tap toggle of android developer settings", "who": "android developer", "product": "app", "pain": 1, "pay": "none", "tools": ["Android developer settings"], "quote": "The dev settings is too frustrating!", "flag": "none"}
+{"id": "h_47258343", "demand": false}
+{"id": "h_46082958", "demand": true, "problem": "messaging app without forced updates", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Signal", "Molly"], "quote": "I&#x27;m looking for an app that never needs to be updated;", "flag": "none"}
+{"id": "h_45582576", "demand": true, "problem": "ambient cafe sound loops for focus", "who": "remote worker", "product": "app", "pain": 1, "pay": "none", "tools": ["Coffitivity", "White Noise"], "quote": "But still looking for an app with the perfect background cafe&#x2F;office loop for focused work.", "flag": "none"}
+{"id": "h_45424504", "demand": false}
+{"id": "h_45414596", "demand": false}
+{"id": "h_45372288", "demand": true, "problem": "satellite position prediction visualization", "who": "amateur astronomer", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "I&#x27;ve been looking for an app, website or tool that can predict or visualize the location of any satellite up to a week out.", "flag": "none"}
+{"id": "h_45250683", "demand": false}
+{"id": "h_44397227", "demand": true, "problem": "adjustable breathing pattern timer with controller", "who": "terminal user", "product": "app", "pain": 1, "pay": "none", "tools": ["keyd", "8bitdo controller"], "quote": "I was looking for an app&#x2F;cli that lets me adjust breathing patterns on the fly", "flag": "none"}
+{"id": "h_43887789", "demand": false}
+{"id": "h_43777290", "demand": false}
+{"id": "h_42531863", "demand": true, "problem": "workout suggestions from history with exportable data", "who": "gym goer", "product": "app", "pain": 1, "pay": "none", "tools": ["Apple Notes", "ChatGPT"], "quote": "Any recommendations for folks looking for an app that suggests workouts and routines based on prior workout history?", "flag": "none"}
+{"id": "h_42410967", "demand": false}
+{"id": "h_41809761", "demand": false}
+{"id": "h_41151056", "demand": false}
+{"id": "h_39548748", "demand": false}
+{"id": "h_39483693", "demand": false}
+{"id": "h_47640988", "demand": false}
+{"id": "h_47274567", "demand": false}
+{"id": "h_45953035", "demand": false}
+{"id": "h_47201816", "demand": false}
+{"id": "h_46923337", "demand": false}
+{"id": "h_38869261", "demand": true, "problem": "web software for choose-your-path interactive stories", "who": "writer", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Preferably something that runs on the web.", "flag": "none"}
+{"id": "h_46290443", "demand": false}
+{"id": "h_50212446", "demand": false}
+{"id": "h_50009408", "demand": true, "problem": "annotating recipe bookmarks with notes", "who": "home cook", "product": "app", "pain": 1, "pay": "none", "tools": ["Firefox"], "quote": "I was looking for software that would let me bookmark recipes (from web pages) and let me scrawl my notes on them.", "flag": "none"}
+{"id": "h_49966033", "demand": false}
+{"id": "h_49958559", "demand": false}
+{"id": "h_49758074", "demand": false}
+{"id": "h_49601673", "demand": false}
+{"id": "h_49542883", "demand": false}
+{"id": "h_49218506", "demand": false}
+{"id": "h_49159115", "demand": false}
+{"id": "h_49017599", "demand": false}
+{"id": "h_48871371", "demand": false}
+{"id": "h_48806181", "demand": false}
+{"id": "h_48636907", "demand": false}
+{"id": "h_48620929", "demand": false}
+{"id": "h_48385173", "demand": false}
+{"id": "h_48360222", "demand": false}
+{"id": "h_48342541", "demand": false}
+{"id": "h_48082904", "demand": false}
+{"id": "h_48015893", "demand": false}
+{"id": "h_47955974", "demand": false}
+{"id": "h_47918851", "demand": false}
+{"id": "h_47676433", "demand": false}
+{"id": "h_47593572", "demand": false}
+{"id": "h_47246546", "demand": false}
+{"id": "h_47147856", "demand": false}
+{"id": "h_46862707", "demand": false}
+{"id": "h_46660795", "demand": false}
+{"id": "h_46589055", "demand": true, "problem": "small business admin automation", "who": "small business owner", "product": "automation", "pain": 2, "pay": "none", "tools": [], "quote": "they constantly talk to me about problems they want to solve with software.", "flag": "none"}
+{"id": "h_46499824", "demand": false}
+{"id": "h_46442867", "demand": false}
+{"id": "h_46360134", "demand": false}
+{"id": "h_46265234", "demand": true, "problem": "flashcards written inside markdown notes", "who": "student", "product": "app", "pain": 2, "pay": "none", "tools": ["Anki", "Hashcards"], "quote": "have been looking for software where I can write flashcards directly within my notes, and both review them when reading my notes, and globally across notes.", "flag": "none"}
+{"id": "h_46124439", "demand": false}
+{"id": "h_46118679", "demand": false}
+{"id": "h_46112736", "demand": false}
+{"id": "h_45810049", "demand": false}
+{"id": "h_45808635", "demand": false}
+{"id": "h_45501609", "demand": false}
+{"id": "h_45446831", "demand": false}
+{"id": "h_45240497", "demand": false}
+{"id": "h_45167965", "demand": false}
+{"id": "h_45096328", "demand": false}
+{"id": "h_45096239", "demand": false}
+{"id": "h_44927097", "demand": false}
+{"id": "h_44786393", "demand": false}
+{"id": "h_44765215", "demand": false}

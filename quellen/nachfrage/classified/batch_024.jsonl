@@ -1,0 +1,100 @@
+{"id": "h_49339619", "demand": false}
+{"id": "h_49339526", "demand": false}
+{"id": "h_49339498", "demand": false}
+{"id": "h_49339042", "demand": false}
+{"id": "h_49338123", "demand": false}
+{"id": "h_49338081", "demand": false}
+{"id": "h_49335423", "demand": true, "problem": "compliance-certified hosted CI runners", "who": "software team with ISO 27001 obligations", "product": "web tool", "pain": 2, "pay": "none", "tools": ["GitHub", "GitLab"], "quote": "The only thing your \"GitLab Runners as a Service\" is missing is ISO 27001 (and optionally SOC 2) certification.", "flag": "none"}
+{"id": "h_49332914", "demand": false}
+{"id": "h_49331682", "demand": false}
+{"id": "h_49331106", "demand": false}
+{"id": "h_49330182", "demand": false}
+{"id": "h_49327600", "demand": false}
+{"id": "h_49327074", "demand": false}
+{"id": "h_49326720", "demand": true, "problem": "community forum alternative to Reddit", "who": "long-time forum user", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Reddit", "old.reddit.com"], "quote": "But I'm beginning to think it's finally time to move on; I'm just not sure where to.", "flag": "none"}
+{"id": "h_49323913", "demand": false}
+{"id": "h_49323877", "demand": false}
+{"id": "h_49321834", "demand": false}
+{"id": "h_49319512", "demand": false}
+{"id": "h_49315621", "demand": false}
+{"id": "h_49313870", "demand": false}
+{"id": "h_49313333", "demand": false}
+{"id": "h_49312729", "demand": false}
+{"id": "h_49311865", "demand": false}
+{"id": "h_49311536", "demand": false}
+{"id": "h_49310774", "demand": false}
+{"id": "h_49310377", "demand": false}
+{"id": "h_49309816", "demand": false}
+{"id": "h_49309578", "demand": false}
+{"id": "h_49309205", "demand": false}
+{"id": "h_49307135", "demand": false}
+{"id": "h_49297968", "demand": false}
+{"id": "h_49292554", "demand": false}
+{"id": "h_49291507", "demand": false}
+{"id": "h_49290314", "demand": false}
+{"id": "h_49289537", "demand": false}
+{"id": "h_49289302", "demand": false}
+{"id": "h_49289043", "demand": false}
+{"id": "h_49287493", "demand": false}
+{"id": "h_49286478", "demand": false}
+{"id": "h_49286156", "demand": false}
+{"id": "h_49285822", "demand": false}
+{"id": "h_49285045", "demand": false}
+{"id": "h_49283226", "demand": false}
+{"id": "h_49282939", "demand": true, "problem": "code-based workflow automation with full autocomplete", "who": "developer", "product": "automation", "pain": 1, "pay": "none", "tools": ["Zapier", "n8n"], "quote": "A product I wish existed is basically something like Zapier but with code.", "flag": "none"}
+{"id": "h_49280402", "demand": false}
+{"id": "h_49279663", "demand": false}
+{"id": "h_49276863", "demand": false}
+{"id": "h_49268050", "demand": false}
+{"id": "h_49265832", "demand": true, "problem": "open alternative to CUDA for GPU computing", "who": "GPU software developer", "product": "other", "pain": 1, "pay": "none", "tools": ["CUDA", "Mojo"], "quote": "We would be well served with a good alternative to Cuda.", "flag": "none"}
+{"id": "h_49265154", "demand": false}
+{"id": "h_49264420", "demand": true, "problem": "decent social network alternative to X", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": ["X", "Bluesky"], "quote": "Can someone pretty please create a decent alternative to X?", "flag": "none"}
+{"id": "h_49264288", "demand": true, "problem": "reachable web archive service when blocked", "who": "unknown", "product": "web tool", "pain": 2, "pay": "none", "tools": ["archive.is"], "quote": "general question: is there an alternative to archive.is ? it seems to be blocked in my country.", "flag": "none"}
+{"id": "h_49261304", "demand": false}
+{"id": "h_49254285", "demand": false}
+{"id": "h_49254135", "demand": false}
+{"id": "h_49253783", "demand": false}
+{"id": "h_49251120", "demand": false}
+{"id": "h_49240770", "demand": false}
+{"id": "h_49238794", "demand": false}
+{"id": "h_49235140", "demand": false}
+{"id": "h_49232948", "demand": false}
+{"id": "h_49231727", "demand": false}
+{"id": "h_49231408", "demand": false}
+{"id": "h_49230743", "demand": false}
+{"id": "h_49230409", "demand": false}
+{"id": "h_49223658", "demand": false}
+{"id": "h_49219659", "demand": true, "problem": "self-hosted anti-scraper protection for large website", "who": "website operator", "product": "other", "pain": 2, "pay": "none", "tools": ["Cloudflare", "Anubis", "nginx", "HAProxy", "go-away"], "quote": "I'm desperately trying to avoid resorting to Cloudflare, but I'm running out of time and patience to keep tweaking nginx and firewall rules every few weeks.", "flag": "none"}
+{"id": "h_49216613", "demand": false}
+{"id": "h_49216210", "demand": false}
+{"id": "h_49215567", "demand": false}
+{"id": "h_49215433", "demand": false}
+{"id": "h_49212008", "demand": false}
+{"id": "h_49205587", "demand": false}
+{"id": "h_49204572", "demand": false}
+{"id": "h_49203047", "demand": false}
+{"id": "h_49200984", "demand": false}
+{"id": "h_49200245", "demand": false}
+{"id": "h_49199496", "demand": false}
+{"id": "h_49197730", "demand": true, "problem": "trustworthy Android app store alternative to Play Store", "who": "Android user", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Play", "F-Droid"], "quote": "I wish there was a real alternative to the play store.", "flag": "none"}
+{"id": "h_49196568", "demand": false}
+{"id": "h_49196207", "demand": false}
+{"id": "h_49196022", "demand": false}
+{"id": "h_49194851", "demand": false}
+{"id": "h_49192249", "demand": false}
+{"id": "h_49189024", "demand": false}
+{"id": "h_49184649", "demand": true, "problem": "locked-down shell access for LLM agents", "who": "unknown", "product": "other", "pain": 2, "pay": "none", "tools": ["MCP"], "quote": "but we can't manage to lock down shell access to trust an LLM with it as if it were a human user we don't fully trust.", "flag": "none"}
+{"id": "h_49181690", "demand": false}
+{"id": "h_49180038", "demand": false}
+{"id": "h_49178514", "demand": false}
+{"id": "h_49169561", "demand": false}
+{"id": "h_49169395", "demand": true, "problem": "decent Gmail alternative on Android with working search", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["Gmail", "Proton Mail", "Outlook"], "quote": "Is there a decent alternative to gmail that works seemlessly on android?", "flag": "none"}
+{"id": "h_49165628", "demand": false}
+{"id": "h_49161665", "demand": false}
+{"id": "h_49160906", "demand": false}
+{"id": "h_49155852", "demand": true, "problem": "production-ready web framework for D language", "who": "software developer", "product": "other", "pain": 1, "pay": "none", "tools": ["vibe.d"], "quote": "I feel like D needs a really good alternative to Vibe.d a web framework with a well designed ORM, or a rich GUI stack out of the box.", "flag": "none"}
+{"id": "h_49153717", "demand": false}
+{"id": "h_49151183", "demand": false}
+{"id": "h_49151055", "demand": false}
+{"id": "h_49150893", "demand": true, "problem": "safe AUR package installation without reading build files", "who": "Arch Linux user", "product": "other", "pain": 2, "pay": "none", "tools": ["AUR", "Arch Linux"], "quote": "I don't have the time/desire to read the build files of every package I install.", "flag": "none"}
+{"id": "h_49148902", "demand": false}

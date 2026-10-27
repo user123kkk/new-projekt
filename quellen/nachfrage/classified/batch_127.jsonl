@@ -1,0 +1,100 @@
+{"id": "r_1iib6u8", "demand": false}
+{"id": "r_1ioztx9", "demand": true, "problem": "finding a romantic match", "who": "single adults seeking a partner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I understand the loneliness epidemic more than most people.", "flag": "dating"}
+{"id": "r_1iqde1l", "demand": true, "problem": "automated travel itinerary planning", "who": "travelers", "product": "app", "pain": 2, "pay": "none", "tools": ["YouTube"], "quote": "to figure out what to do and when and where and how the schedule fits together", "flag": "none"}
+{"id": "r_1iqgt11", "demand": true, "problem": "domain portfolio and renewal management", "who": "domain owners", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Just thought of it because I need it for myself lol.", "flag": "none"}
+{"id": "r_1is5pnm", "demand": false}
+{"id": "r_1it6q2z", "demand": false}
+{"id": "r_1izhs0x", "demand": false}
+{"id": "r_1j3xnqf", "demand": false}
+{"id": "r_1j41taj", "demand": false}
+{"id": "r_1j8h672", "demand": false}
+{"id": "r_1ja44pb", "demand": true, "problem": "migraine symptom tracking and monitoring", "who": "migraine patients and neurologists", "product": "web tool", "pain": 2, "pay": "none", "tools": ["EHR systems"], "quote": "Patients struggle with symptom tracking", "flag": "none"}
+{"id": "r_1jcqcrq", "demand": false}
+{"id": "r_1jfnvry", "demand": true, "problem": "rent payment and deposit financing for tenants", "who": "tenants in India", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "How many of you face issues with huge security deposits", "flag": "financing (rent and deposit credit)"}
+{"id": "r_1jgfwu5", "demand": false}
+{"id": "r_1jhr4ki", "demand": false}
+{"id": "r_1jj7ix4", "demand": false}
+{"id": "r_1jo30kg", "demand": false}
+{"id": "r_1juxl4v", "demand": false}
+{"id": "r_1jv4xjm", "demand": false}
+{"id": "r_1jz0f7d", "demand": false}
+{"id": "r_1k17b1w", "demand": false}
+{"id": "r_1k17dpf", "demand": false}
+{"id": "r_1k33m60", "demand": true, "problem": "guidance for choosing a business to start", "who": "aspiring entrepreneurs", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "people who are unsure about what kind of business to start", "flag": "none"}
+{"id": "r_1k4l5sv", "demand": true, "problem": "rate limiting and caching to cut API costs", "who": "developers on serverless platforms", "product": "other", "pain": 2, "pay": "none", "tools": ["Vercel", "AWS", "Firebase"], "quote": "you pay for every request and bit of data transferred", "flag": "none"}
+{"id": "r_1k4mp80", "demand": false}
+{"id": "r_1k71as0", "demand": false}
+{"id": "r_1k7lv9t", "demand": false}
+{"id": "r_1k93bmn", "demand": false}
+{"id": "r_1k9u2ao", "demand": false}
+{"id": "r_1kaajih", "demand": true, "problem": "skill-based learning platform", "who": "self-learners", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Coursera", "Skillshare", "Udemy", "Khan Academy"], "quote": "addresses all aspects of what we need as humans to flourish", "flag": "none"}
+{"id": "r_1kbm8du", "demand": true, "problem": "dark mode for Miro", "who": "Miro users", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["Miro"], "quote": "it has been the most requested item on their community wish list", "flag": "none"}
+{"id": "r_1kc422w", "demand": false}
+{"id": "r_1kc43fv", "demand": false}
+{"id": "r_1kf7vt3", "demand": false}
+{"id": "r_1kh4wfg", "demand": false}
+{"id": "r_1khzc3x", "demand": false}
+{"id": "r_1kntgal", "demand": false}
+{"id": "r_1koc9xb", "demand": false}
+{"id": "r_1kop9lk", "demand": true, "problem": "plain-language medication label explanations", "who": "medication users", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "A lot of time this is very specific health terminology", "flag": "none"}
+{"id": "r_1kpb8f6", "demand": true, "problem": "pre-built AI agent workflows", "who": "small business owners", "product": "web tool", "pain": 2, "pay": "none", "tools": ["n8n", "Make.com", "Lindy"], "quote": "way too technical for the average person or small business owner", "flag": "none"}
+{"id": "r_1kqvhzz", "demand": false}
+{"id": "r_1kruwk3", "demand": true, "problem": "auto-generated placeholder images in code", "who": "developers", "product": "other", "pain": 1, "pay": "explicit", "tools": [], "quote": "Would happily pay for this and/or contribute if needed.", "flag": "none"}
+{"id": "r_1ksrrpd", "demand": false}
+{"id": "r_1ksxpsc", "demand": false}
+{"id": "r_1kt0ygj", "demand": false}
+{"id": "r_1kuohcd", "demand": false}
+{"id": "r_1ky89pk", "demand": false}
+{"id": "r_1kz79ra", "demand": false}
+{"id": "r_1l1gtd0", "demand": false}
+{"id": "r_1l1nqlm", "demand": true, "problem": "matching student founders with student freelancers", "who": "young founders and student freelancers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Fiverr", "Upwork"], "quote": "Founders spend tons of time on multiple platforms writing hiring posts", "flag": "none"}
+{"id": "r_1l1p6xs", "demand": true, "problem": "guided app-building for self-taught coders", "who": "self-taught coders", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "feel a lack of guidance and haven't really gotten anywhere with building something", "flag": "none"}
+{"id": "r_1l36f02", "demand": false}
+{"id": "r_1lamyo9", "demand": true, "problem": "price drop tracking for favorite items", "who": "online shoppers", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I personally spend a lot of time tracking prices of my fav items", "flag": "none"}
+{"id": "r_1lbl6ft", "demand": false}
+{"id": "r_1le8ih2", "demand": false}
+{"id": "r_1leyd6k", "demand": false}
+{"id": "r_1lf4cyc", "demand": true, "problem": "trusted invite-only startup community", "who": "startup founders", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Reddit"], "quote": "to know which posts are worth investing time in", "flag": "none"}
+{"id": "r_1lh3dkg", "demand": false}
+{"id": "r_1lkup88", "demand": false}
+{"id": "r_1lkxrzi", "demand": false}
+{"id": "r_1ll939l", "demand": false}
+{"id": "r_1lloj6v", "demand": true, "problem": "early user testing for AI startups", "who": "AI startup founders", "product": "web tool", "pain": 2, "pay": "none", "tools": ["ProductHunt", "Reddit"], "quote": "Founders struggle to get their first real users", "flag": "none"}
+{"id": "r_1lp2ct3", "demand": false}
+{"id": "r_1lq6u76", "demand": true, "problem": "stopping impulse online shopping", "who": "impulse online shoppers", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Amazon"], "quote": "would 100% pay for this", "flag": "none"}
+{"id": "r_1lrgk9l", "demand": true, "problem": "journaling and recovery support for postpartum moms", "who": "postpartum mothers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "postpartum moms often feel invisible, unsupported, and overwhelmed", "flag": "none"}
+{"id": "r_1lxzguz", "demand": false}
+{"id": "r_1m8418p", "demand": true, "problem": "freelancer deadline management", "who": "freelancers", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "and I bet some of you have too", "flag": "none"}
+{"id": "r_1m851w4", "demand": false}
+{"id": "r_1m8alnl", "demand": false}
+{"id": "r_1m99lnf", "demand": false}
+{"id": "r_1mak017", "demand": false}
+{"id": "r_1mayzse", "demand": true, "problem": "invoicing and payment follow-ups for freelancers", "who": "freelancers", "product": "app", "pain": 2, "pay": "none", "tools": ["Bonsai", "FreshBooks", "Wave"], "quote": "paying $25+/month for bloated software just to send a few invoices", "flag": "none"}
+{"id": "r_1mg9sgd", "demand": false}
+{"id": "r_1mgjyh7", "demand": false}
+{"id": "r_1mh65dg", "demand": false}
+{"id": "r_1mp2fjj", "demand": false}
+{"id": "r_1mr5swy", "demand": true, "problem": "client onboarding admin for ad agencies", "who": "Facebook ad agency owners", "product": "automation", "pain": 2, "pay": "none", "tools": ["Google Docs", "Google Sheets"], "quote": "Waiting on access to ad accounts, pages, and assets.", "flag": "none"}
+{"id": "r_1mremx3", "demand": true, "problem": "AI thumbnail generation for YouTube", "who": "YouTube creators", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Canva"], "quote": "Most creators struggle to make", "flag": "none"}
+{"id": "r_1mub6pl", "demand": true, "problem": "daily spending limits instead of monthly budgets", "who": "budget-conscious individuals", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Instead of reducing stress, those apps made me", "flag": "none"}
+{"id": "r_1mvm4v0", "demand": false}
+{"id": "r_1mzi44u", "demand": false}
+{"id": "r_1mzw08e", "demand": false}
+{"id": "r_1n0utx1", "demand": true, "problem": "group trip savings", "who": "friend groups planning trips", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Nobody has enough money right now", "flag": "none"}
+{"id": "r_1n13uuw", "demand": false}
+{"id": "r_1n34i0l", "demand": true, "problem": "CRM for small travel agencies", "who": "small travel agencies", "product": "web tool", "pain": 2, "pay": "none", "tools": ["WhatsApp", "Excel"], "quote": "agencies end up juggling calls, WhatsApp, and messy Excel sheets", "flag": "none"}
+{"id": "r_1n3js3t", "demand": false}
+{"id": "r_1n7j3va", "demand": true, "problem": "DPDP data privacy compliance for companies", "who": "Indian B2B companies", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "a software solution which will help Indian companies to be compliant with dpdp", "flag": "none"}
+{"id": "r_1n7nmko", "demand": true, "problem": "skipping mall checkout queues", "who": "mall shoppers in India", "product": "app", "pain": 2, "pay": "none", "tools": ["Perpule 1Pay", "MishiPay"], "quote": "long queues at billing counters", "flag": "none"}
+{"id": "r_1n9ite7", "demand": false}
+{"id": "r_1n9yjqg", "demand": false}
+{"id": "r_1na258y", "demand": false}
+{"id": "r_1nanvet", "demand": false}
+{"id": "r_1nc5g3d", "demand": false}
+{"id": "r_1nelwm3", "demand": false}
+{"id": "r_1nevr0x", "demand": false}
+{"id": "r_1nh6su6", "demand": true, "problem": "cashless payments at concerts and festivals", "who": "concert-goers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Paying for food, drinks, and merch at concerts is a nightmare.", "flag": "none"}
+{"id": "r_1nhgp78", "demand": false}
+{"id": "r_1niyd33", "demand": true, "problem": "give and get coordination in small groups", "who": "friends and neighbours in groups", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Social media feels passive.", "flag": "none"}
+{"id": "r_1nj70je", "demand": false}
+{"id": "r_1nj710z", "demand": false}

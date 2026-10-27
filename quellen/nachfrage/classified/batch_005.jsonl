@@ -1,0 +1,100 @@
+{"id": "h_46911653", "demand": false}
+{"id": "h_46884303", "demand": true, "problem": "screen-share secret redaction in configs", "who": "developer", "product": "plugin/extension", "pain": 2, "pay": "explicit", "tools": ["VS Code"], "quote": "I&#x27;d pay for a &quot;demo mode&quot; extension that handles all those edge cases.", "flag": "none"}
+{"id": "h_46865566", "demand": true, "problem": "browser fingerprint spoofing", "who": "unknown", "product": "plugin/extension", "pain": 1, "pay": "explicit", "tools": ["Firefox"], "quote": "Don&#x27;t forget an obfuscation layer to spoof things like canvas fingerprinting, installed fonts, etc.", "flag": "none"}
+{"id": "h_46851854", "demand": true, "problem": "wikipedia feed as phone distraction replacement", "who": "unknown", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for an app that fwd&#x27;d messages from other apps and gave me a wikipedia feed to scroll on the elevator &#x2F; other places where the phone is a social respite", "flag": "none"}
+{"id": "h_46819320", "demand": false}
+{"id": "h_46819076", "demand": false}
+{"id": "h_46787834", "demand": false}
+{"id": "h_46762888", "demand": false}
+{"id": "h_46730679", "demand": false}
+{"id": "h_46721572", "demand": false}
+{"id": "h_46702864", "demand": true, "problem": "reddit posting despite account bans", "who": "unknown", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Reddit API"], "quote": "Reddit keeps banning my account despite all my best attempts at evading.", "flag": "none"}
+{"id": "h_46679798", "demand": false}
+{"id": "h_46645049", "demand": false}
+{"id": "h_46636406", "demand": false}
+{"id": "h_46620158", "demand": false}
+{"id": "h_46606524", "demand": true, "problem": "ai synthesis from own unfinished music files", "who": "musician", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Ableton"], "quote": "I&#x27;d pay for some app which allows be to dump all my ableton files into, train some transformer on it, just to synthesize new stuff out of my unfinished body of work.", "flag": "music"}
+{"id": "h_46530929", "demand": false}
+{"id": "h_46521454", "demand": false}
+{"id": "h_46519997", "demand": false}
+{"id": "h_46517309", "demand": false}
+{"id": "h_46465023", "demand": true, "problem": "popup blocking in browsers", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": [], "quote": "This is the only thing I want in an &quot;AI&quot; browser.", "flag": "none"}
+{"id": "h_46354180", "demand": true, "problem": "social media with verified real identities", "who": "unknown", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Instagram"], "quote": "But I&#x27;d pay for a social media site that respected my preferences &#x2F; content choices and had everyone using real names &#x2F; validated and so on.", "flag": "none"}
+{"id": "h_46338988", "demand": true, "problem": "automated postgres maintenance and recovery", "who": "database operator", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["Grafana", "PagerDuty", "Postgres"], "quote": "Someone should make this in the open.", "flag": "none"}
+{"id": "h_46299371", "demand": true, "problem": "ad-free paid browser", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": [], "quote": "Personally, I&#x27;d  love  a paid for high quality browser that serves me rather than sneakily trying to get me to look at ads.", "flag": "none"}
+{"id": "h_46289803", "demand": false}
+{"id": "h_46234269", "demand": true, "problem": "keyboard quality for non-English languages", "who": "non-English speaker on iPhone", "product": "app", "pain": 2, "pay": "explicit", "tools": ["GBoard"], "quote": "I&#x27;d pay for an actually good keyboard.", "flag": "none"}
+{"id": "h_46212375", "demand": true, "problem": "sqlite wrapper abstraction layer", "who": "developer", "product": "other", "pain": 1, "pay": "explicit", "tools": ["SQLite"], "quote": "That&#x27;s why I&#x27;d like it to be wrapped in a nice package away from my application logic.", "flag": "none"}
+{"id": "h_46058058", "demand": false}
+{"id": "h_46046631", "demand": true, "problem": "phone calls handled by virtual assistant proxy", "who": "unknown", "product": "app", "pain": 2, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for something like this.", "flag": "none"}
+{"id": "h_46034946", "demand": true, "problem": "simple document ingestion and metadata search", "who": "developer", "product": "other", "pain": 1, "pay": "explicit", "tools": ["tantivy", "Notion"], "quote": "And I’d pay for it if it had good and simple document ingestion and metadata search semantics.", "flag": "none"}
+{"id": "h_46017779", "demand": false}
+{"id": "h_45896264", "demand": true, "problem": "automated property tax appeals", "who": "homeowner", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["Zillow", "Redfin"], "quote": "I&#x27;d pay for a service to automatically optimize my property taxes of it kept up with Zillow&#x2F;redfin and auto-appealed each year that the market value was lower than the assessment.", "flag": "none"}
+{"id": "h_45891585", "demand": true, "problem": "word puzzle game on apple tv", "who": "parent", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Apple TV"], "quote": "Feature request: Please create an apple TV app for this.", "flag": "none"}
+{"id": "h_45855844", "demand": true, "problem": "pay-as-you-go overflow for LLM coding quota", "who": "developer", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Cerebras", "RooCode", "GPT-5", "Sonnet 4.5", "Gemini 2.5 Pro"], "quote": "Oh also, when I spill over my daily 24M limits, please let me use the Pay2Go thing on top of that, if instead of 24M tokens", "flag": "none"}
+{"id": "h_45839635", "demand": false}
+{"id": "h_45819987", "demand": true, "problem": "caldav sync in planner app", "who": "unknown", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "A good calDAV client is something I&#x27;d pay for.", "flag": "none"}
+{"id": "h_45813514", "demand": false}
+{"id": "h_45783261", "demand": false}
+{"id": "h_45652585", "demand": true, "problem": "local testing of distributed microservices", "who": "software engineer", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Claude Code"], "quote": "But the problem hasn&#x27;t even been solved locally yet.", "flag": "none"}
+{"id": "h_45498626", "demand": false}
+{"id": "h_45492112", "demand": true, "problem": "personal finance tracking in spreadsheet", "who": "unknown", "product": "template", "pain": 1, "pay": "explicit", "tools": ["Excel", "LibreOffice Sheets"], "quote": "Agreed, I’d pay for an Excel or LibreOffice Sheets version of this", "flag": "none"}
+{"id": "h_45458276", "demand": false}
+{"id": "h_45378552", "demand": true, "problem": "filtering school communications into key alerts", "who": "parent", "product": "automation", "pain": 2, "pay": "explicit", "tools": ["Tapestry", "Arbor", "WhatsApp"], "quote": "And 90% of the information is not stuff I care about.", "flag": "none"}
+{"id": "h_45360899", "demand": false}
+{"id": "h_45257994", "demand": false}
+{"id": "h_45198674", "demand": false}
+{"id": "h_45146097", "demand": false}
+{"id": "h_45129269", "demand": false}
+{"id": "h_45096529", "demand": true, "problem": "always-on voice assistant device", "who": "unknown", "product": "other", "pain": 1, "pay": "explicit", "tools": ["Alexa", "ChatGPT"], "quote": "If ChatGPT&#x27;s Advanced Voice Mode could be served through an always-on device like Alexa, I&#x27;d pay for it.", "flag": "none"}
+{"id": "h_45014852", "demand": true, "problem": "lightweight native sqlite gui for macos", "who": "developer", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Sequel Ace"], "quote": "I&#x27;d happily pay for something basic, native, and pretty like Sequel Ace†, but all of the other options are Swiss Army knives for power users who need to tweak every little thing.", "flag": "none"}
+{"id": "h_44986114", "demand": false}
+{"id": "h_44982809", "demand": false}
+{"id": "h_44931998", "demand": false}
+{"id": "h_44907036", "demand": true, "problem": "streaming subscription fragmentation aggregator", "who": "unknown", "product": "app", "pain": 2, "pay": "explicit", "tools": [], "quote": "But managing 3-4 subscriptions is dumb.", "flag": "none"}
+{"id": "h_44900193", "demand": false}
+{"id": "h_44837574", "demand": true, "problem": "decoding grpc protobuf traffic in proxy", "who": "developer", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["MITMProxy"], "quote": "And still none of these do protobuf&#x2F;grpc&#x2F;http2 properly.", "flag": "none"}
+{"id": "h_44831924", "demand": false}
+{"id": "h_44831690", "demand": false}
+{"id": "h_44779242", "demand": false}
+{"id": "h_44724696", "demand": false}
+{"id": "h_44714549", "demand": false}
+{"id": "h_44702447", "demand": false}
+{"id": "h_44680244", "demand": true, "problem": "explanatory web docs for learning css", "who": "developer learning css", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["MDN"], "quote": "I’d love to get a wiki that has the explanations of CSS: The Definitive Guide, kept up to date with the reference material of MDN.", "flag": "none"}
+{"id": "h_44656253", "demand": false}
+{"id": "h_44647603", "demand": false}
+{"id": "h_44581191", "demand": true, "problem": "scriptable minimal browser", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["Firefox"], "quote": "Imagine a JavaScript console that could call functions that ran browser functionality!", "flag": "none"}
+{"id": "h_44573939", "demand": true, "problem": "ai user agent that filters web pages", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Firefox"], "quote": "Clean up broken, irrelevant and repetitive search listings on Amazon and eBay,", "flag": "none"}
+{"id": "h_44548590", "demand": true, "problem": "pcb routing puzzle game", "who": "PCB designer", "product": "other", "pain": 1, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for a game that just had me route PCBs.", "flag": "none"}
+{"id": "h_44489073", "demand": false}
+{"id": "h_44431957", "demand": true, "problem": "simple email client without middle server", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Apple Mail", "Thunderbird"], "quote": "Sorry, but I just want to read my damn email.", "flag": "none"}
+{"id": "h_44410548", "demand": false}
+{"id": "h_44398733", "demand": false}
+{"id": "h_44380222", "demand": false}
+{"id": "h_44345119", "demand": false}
+{"id": "h_44334866", "demand": false}
+{"id": "h_44278321", "demand": false}
+{"id": "h_44271106", "demand": false}
+{"id": "h_44235169", "demand": true, "problem": "standards-following browser without telemetry", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Firefox"], "quote": "I&#x27;d pay for a browser that just follows the standards, does not change layout and menus in every release and  does not spy on me .", "flag": "none"}
+{"id": "h_44087918", "demand": false}
+{"id": "h_44045349", "demand": true, "problem": "ai chat subscription without training on chats", "who": "unknown", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["Gemini Pro"], "quote": "If anyone at Google cares, I’d pay for Gemini Pro (not this new $200+ ridiculousness) if they didn’t train on my chats in that case.", "flag": "none"}
+{"id": "h_44032574", "demand": true, "problem": "windows defaults needing manual disabling", "who": "windows 11 pro user", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Windows 11 Pro", "group policy"], "quote": "It is annoying you have to do this, and it does take some time to get set up right.", "flag": "none"}
+{"id": "h_43994605", "demand": false}
+{"id": "h_43922666", "demand": true, "problem": "ai inline code editing without chat panels", "who": "developer", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["Zed", "Cursor"], "quote": "I&#x27;d like to see something like that in Zed and I&#x27;d pay for it, agent mode and chats never worked for me, always been the worse experience", "flag": "none"}
+{"id": "h_43915025", "demand": true, "problem": "standalone cross-platform debugger", "who": "developer", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": ["CLion"], "quote": "I wish they&#x27;d extract the debugger and release it as a crossplatform standalone tool, i&#x27;d pay for it", "flag": "none"}
+{"id": "h_43907216", "demand": false}
+{"id": "h_43903514", "demand": false}
+{"id": "h_43900483", "demand": true, "problem": "ad-blocking dns service", "who": "home user", "product": "other", "pain": 1, "pay": "explicit", "tools": ["Pi-hole"], "quote": "Why don&#x27;t people run their own public DNS and sell you very cheap access to it?", "flag": "none"}
+{"id": "h_43801442", "demand": false}
+{"id": "h_43773077", "demand": true, "problem": "rule-based self-control distraction blocker", "who": "unknown", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Apple Screen Time"], "quote": "I&#x27;d pay for an app that was able to block time-wasters, play music and nag me.", "flag": "none"}
+{"id": "h_43767631", "demand": false}
+{"id": "h_43677330", "demand": false}
+{"id": "h_43670283", "demand": false}
+{"id": "h_43661621", "demand": false}
+{"id": "h_43643817", "demand": true, "problem": "lightweight app for old phone", "who": "unknown", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Busy Bar"], "quote": "I&#x27;d pay for a cheaper app version of this that I could run on an old no-SIM phone.", "flag": "none"}
+{"id": "h_43455739", "demand": false}
+{"id": "h_43428353", "demand": true, "problem": "offline on-device text-to-speech", "who": "aac app developer", "product": "other", "pain": 2, "pay": "explicit", "tools": ["Tortoise TTS", "Acapela SDK", "Whisper.cpp"], "quote": "I&#x27;d pay for something like this as long as it&#x27;s less expensive than Acapela.", "flag": "none"}
+{"id": "h_43416707", "demand": true, "problem": "drag-drop llm fine-tuning and hosting", "who": "developer", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["DeepSeek"], "quote": "It feels like there should be a service where I just drag drop a folder of examples and it fine tunes the latest DeepSeek or whatever for me and even can host it for me at some cost.", "flag": "none"}
+{"id": "h_43353178", "demand": true, "problem": "private ad-free browser subscription", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "explicit", "tools": [], "quote": "I&#x27;d pay for something that is truly private and blocks personalized ads and the associated data collection.", "flag": "none"}
+{"id": "h_43341978", "demand": true, "problem": "privacy groupware suite in browser", "who": "unknown", "product": "web tool", "pain": 2, "pay": "explicit", "tools": ["Thunderbird", "Nextcloud", "Firefox"], "quote": "They should have gotten into privacy centric groupware a decade ago: thunderbird, collaboration office suite, calendar, tasks, etc all baked into Firefox ala nextcloud but with Mozilla polish.", "flag": "none"}
+{"id": "h_43231312", "demand": false}

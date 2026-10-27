@@ -1,0 +1,100 @@
+{"id": "r_1q244x5", "demand": true, "problem": "employees leaking sensitive data into AI tools", "who": "employees under deadline pressure", "product": "other", "pain": 2, "pay": "none", "tools": ["ChatGPT", "Copilot"], "quote": "There’s no safe alternative.", "flag": "none"}
+{"id": "r_1q9hu7d", "demand": false}
+{"id": "r_1qhc1my", "demand": false}
+{"id": "r_1qq5v5o", "demand": false}
+{"id": "r_1r2o1bo", "demand": false}
+{"id": "r_1r6h0an", "demand": false}
+{"id": "r_1r8l4hx", "demand": false}
+{"id": "r_1r9519b", "demand": false}
+{"id": "r_1r9prq4", "demand": false}
+{"id": "r_1rc51mu", "demand": false}
+{"id": "r_1rgk8qp", "demand": false}
+{"id": "r_1ri9thw", "demand": false}
+{"id": "r_1rjf0c0", "demand": false}
+{"id": "r_1rnkygc", "demand": false}
+{"id": "r_1rptfgr", "demand": false}
+{"id": "r_1rsba3w", "demand": false}
+{"id": "r_1s1s2td", "demand": true, "problem": "missed nearby planning application alerts", "who": "homeowners", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "most homeowners have no idea when their neighbour applies to build an extension", "flag": "none"}
+{"id": "r_1s288g0", "demand": true, "problem": "expensive dictation software subscription", "who": "writer using voice dictation with LLMs", "product": "app", "pain": 2, "pay": "implied", "tools": ["WisprFlow", "Typeless", "SaySo", "macOS dictation"], "quote": "Good but not $144/year good, not worth paying that much for dictation.", "flag": "none"}
+{"id": "r_1s43lvv", "demand": false}
+{"id": "r_1s5d5ya", "demand": false}
+{"id": "r_1s7rkey", "demand": false}
+{"id": "r_1s7sdeb", "demand": false}
+{"id": "r_1s907pp", "demand": false}
+{"id": "r_1s9lp2s", "demand": false}
+{"id": "r_1sovvas", "demand": false}
+{"id": "r_1stzetj", "demand": false}
+{"id": "r_1t1tmio", "demand": false}
+{"id": "r_1t2tb6j", "demand": false}
+{"id": "r_1tgtyqr", "demand": false}
+{"id": "r_1tkbtqg", "demand": false}
+{"id": "r_1tvbj8h", "demand": false}
+{"id": "r_1u0vp9j", "demand": false}
+{"id": "r_1uhsuka", "demand": false}
+{"id": "r_1ujed8c", "demand": false}
+{"id": "r_1un51bp", "demand": false}
+{"id": "r_1ustkaq", "demand": true, "problem": "expensive AI video clipping subscriptions", "who": "content creators", "product": "desktop software", "pain": 2, "pay": "implied", "tools": ["Opus Clip", "Vizard"], "quote": "Tired of paying $30/mo for AI clippers (Opus Clip, Vizard, etc.)?", "flag": "none"}
+{"id": "r_1utbarl", "demand": true, "problem": "ad-free private social sharing with filters", "who": "users wanting private family sharing", "product": "app", "pain": 1, "pay": "none", "tools": ["Facebook", "Instagram"], "quote": "Why is there no alternative for fb and Insta for people willing to pay a monthly subscription for more private and ads free sharing with family and friends?", "flag": "none"}
+{"id": "r_1ux2qo8", "demand": true, "problem": "payment account holds and risk flags for SaaS", "who": "SaaS and internet business operators", "product": "other", "pain": 2, "pay": "none", "tools": ["Stripe"], "quote": "account reviews or temporary holds can disrupt cash flow at critical moments", "flag": "none"}
+{"id": "r_1uxugwx", "demand": false}
+{"id": "r_1v92miq", "demand": false}
+{"id": "r_1vkfkw3", "demand": false}
+{"id": "r_1vmhk8r", "demand": false}
+{"id": "r_1vnux5c", "demand": false}
+{"id": "r_1vwjx4i", "demand": false}
+{"id": "r_1w0s2tj", "demand": false}
+{"id": "r_1w6zlxx", "demand": false}
+{"id": "r_1w7oz6c", "demand": false}
+{"id": "r_1w9olq9", "demand": false}
+{"id": "r_1wqlovp", "demand": false}
+{"id": "r_1wro7ae", "demand": false}
+{"id": "r_1wx68z2", "demand": true, "problem": "manual upload and local copy cleanup for video delivery", "who": "freelance videographers and editors", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Google Drive", "WeTransfer"], "quote": "then have to go delete your local copy because its not needed and eats up your storage?", "flag": "none"}
+{"id": "r_1x3eyym", "demand": false}
+{"id": "r_1xef8bs", "demand": true, "problem": "letting go of forgotten old accounts", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "simply logging off from them and forgetting about them doesn't feel right for some reason.", "flag": "none"}
+{"id": "r_1b57gyu", "demand": true, "problem": "spam call interruptions at work", "who": "professionals taking business calls", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Like most, I hit that frustrating point of getting 6-8 spam calls daily, which tanked my productivity.", "flag": "none"}
+{"id": "r_1dkmngk", "demand": true, "problem": "restaurant reservation hassle", "who": "diners", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "often involving long wait times and frustrating phone calls.", "flag": "none"}
+{"id": "r_1h3zuqa", "demand": false}
+{"id": "r_1ht5zdj", "demand": true, "problem": "scattered community documentation and onboarding", "who": "community and group organisers", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "the documentation is hard to find.", "flag": "none"}
+{"id": "r_1i5k7va", "demand": false}
+{"id": "r_1i9j624", "demand": false}
+{"id": "r_1j4fi87", "demand": true, "problem": "isolation for solo founders", "who": "solo founders", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "it sucks to have no one to share the journey with.", "flag": "none"}
+{"id": "r_1jpkmbl", "demand": false}
+{"id": "r_1juaf2o", "demand": false}
+{"id": "r_1kr9jzn", "demand": false}
+{"id": "r_1kt0pci", "demand": true, "problem": "finding trusted ritual priests", "who": "Indian families including abroad", "product": "web tool", "pain": 2, "pay": "none", "tools": ["WhatsApp"], "quote": "people either ask around in WhatsApp groups or struggle with unreliable contacts.", "flag": "none"}
+{"id": "r_1kud40d", "demand": false}
+{"id": "r_1mai02q", "demand": false}
+{"id": "r_1mgewxs", "demand": true, "problem": "irrelevant out-of-stock filters on Shopify", "who": "Shopify store owners", "product": "automation", "pain": 2, "pay": "none", "tools": ["Shopify Search & Discovery"], "quote": "shows filter options (like size) even when they’re out of stock.", "flag": "none"}
+{"id": "r_1mv9z1p", "demand": false}
+{"id": "r_1nzx8tp", "demand": false}
+{"id": "r_1o3s58j", "demand": false}
+{"id": "r_1o44cf2", "demand": false}
+{"id": "r_1o6h140", "demand": false}
+{"id": "r_1oee713", "demand": true, "problem": "self-study without structured guidance", "who": "self-learners of coding or languages", "product": "app", "pain": 2, "pay": "none", "tools": ["AI chatbots"], "quote": "most tools and AI chatbots just give information", "flag": "none"}
+{"id": "r_1p6f2f5", "demand": true, "problem": "lowball offers and fast-fashion clutter on resale apps", "who": "resale sellers", "product": "app", "pain": 2, "pay": "none", "tools": ["Vinted", "Depop"], "quote": "sellers are constantly getting lowballed with £3 offers on £20 items.", "flag": "none"}
+{"id": "r_1qj7wkm", "demand": false}
+{"id": "r_1qof0q9", "demand": false}
+{"id": "r_1rf3aq1", "demand": false}
+{"id": "r_1rsf93u", "demand": true, "problem": "investor pitch deck design for non-designers", "who": "developer founder", "product": "template", "pain": 3, "pay": "none", "tools": ["PowerPoint", "Hype Presentations"], "quote": "spent the last three nights trying to make a slide about our market projection", "flag": "none"}
+{"id": "r_1rsk6ty", "demand": true, "problem": "investor pitch deck design for non-designers", "who": "developer founder", "product": "template", "pain": 3, "pay": "none", "tools": ["PowerPoint", "Hype Presentations"], "quote": "spent the last three nights trying to make a slide about our market projection", "flag": "none"}
+{"id": "r_1rx1cg6", "demand": false}
+{"id": "r_1sk2ool", "demand": false}
+{"id": "r_1skbmdf", "demand": false}
+{"id": "r_1smft6z", "demand": true, "problem": "anime watch tracking across unstable sites", "who": "anime fans", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Either the site shuts down, loses data", "flag": "none"}
+{"id": "r_1sqy8qo", "demand": false}
+{"id": "r_1svegey", "demand": false}
+{"id": "r_1sxde7i", "demand": false}
+{"id": "r_1tiqlwp", "demand": true, "problem": "fragmented creator-editor project workflow", "who": "founders and video editors", "product": "web tool", "pain": 2, "pay": "none", "tools": ["WhatsApp", "Google Drive", "Notion", "UPI"], "quote": "Even when both sides are good, projects still become messy, inconsistent, and frustrating to manage.", "flag": "none"}
+{"id": "r_1u71hrk", "demand": false}
+{"id": "r_1upf3y5", "demand": true, "problem": "fragmented AI developer resources", "who": "AI builders", "product": "web tool", "pain": 2, "pay": "none", "tools": ["GitHub", "Hugging Face", "Discord", "Reddit"], "quote": "and it feels like everything is scattered.", "flag": "none"}
+{"id": "r_1w5f0wq", "demand": false}
+{"id": "r_1wzap37", "demand": false}
+{"id": "r_1p06dkp", "demand": false}
+{"id": "r_1p1xt0j", "demand": false}
+{"id": "r_1p8jttr", "demand": false}
+{"id": "r_1ux53qn", "demand": true, "problem": "leadership visibility gap across Jira GitHub Slack", "who": "tech agency managers", "product": "other", "pain": 3, "pay": "none", "tools": ["Jira", "GitHub", "Slack"], "quote": "Jira is always outdated.", "flag": "none"}
+{"id": "r_1ux69sm", "demand": true, "problem": "leadership visibility gap across Jira GitHub Slack", "who": "tech agency managers", "product": "other", "pain": 3, "pay": "none", "tools": ["Jira", "GitHub", "Slack"], "quote": "Jira is always outdated.", "flag": "none"}
+{"id": "r_1vzld0b", "demand": false}
+{"id": "r_1wpk5or", "demand": false}
+{"id": "r_1r7qi9k", "demand": false}
+{"id": "r_1lahvxx", "demand": true, "problem": "affordable support tooling for solo founders", "who": "solo founders and small teams", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Zendesk", "Intercom"], "quote": "customer support is still a problem for many B2B startups especially for solo founders and small teams", "flag": "none"}

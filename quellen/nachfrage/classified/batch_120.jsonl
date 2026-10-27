@@ -1,0 +1,100 @@
+{"id": "r_1q4krb5", "demand": true, "problem": "academic writing edited across abstraction levels", "who": "students and academic writers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["ChatGPT"], "quote": "I often find it frustrating to constantly reprompt, since ChatGPT rarely fully grasps what I want to express.", "flag": "none"}
+{"id": "r_1qh0jy7", "demand": false}
+{"id": "r_1s0j85l", "demand": false}
+{"id": "r_1so3dp3", "demand": false}
+{"id": "r_1t6378n", "demand": false}
+{"id": "r_1tt1mek", "demand": true, "problem": "finding which email account joined a site", "who": "people with many email accounts", "product": "app", "pain": 2, "pay": "none", "tools": ["Gmail"], "quote": "That is very frustrating so is there any google service any app", "flag": "none"}
+{"id": "r_1vx1jws", "demand": false}
+{"id": "r_1x9w1ku", "demand": false}
+{"id": "r_1k91rud", "demand": false}
+{"id": "r_1np53vd", "demand": false}
+{"id": "r_1nufrkq", "demand": false}
+{"id": "r_1rndbvd", "demand": false}
+{"id": "r_1to6mpg", "demand": true, "problem": "daily news and events digest", "who": "city residents wanting a summary", "product": "app", "pain": 2, "pay": "none", "tools": ["news websites", "TikTok"], "quote": "It takes hours if I want to search all the internet and find the info I want.", "flag": "none"}
+{"id": "r_1i0fjwd", "demand": true, "problem": "reducing smartphone screen time", "who": "smartphone users", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Viele von uns verbringen mehr Zeit am Handy, als uns lieb ist", "flag": "none"}
+{"id": "r_1tb8l3f", "demand": true, "problem": "cash flow forecasting for bills and loans", "who": "people with recurring bills and loan payments", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "hilft mir das wenn am 10. die Kreditrate abbucht und ich nicht weiß ob auf dem richtigen Konto genug ist?", "flag": "none"}
+{"id": "r_1adubla", "demand": false}
+{"id": "r_1cq7ey8", "demand": false}
+{"id": "r_1h2ratu", "demand": false}
+{"id": "r_1m5noox", "demand": true, "problem": "finding which streaming service has a movie", "who": "streaming subscribers", "product": "app", "pain": 2, "pay": "none", "tools": ["Netflix", "Disney+"], "quote": "I need an app that I could just search a movie title on, then when clicked would open Netflix, Disney or whatever.", "flag": "none"}
+{"id": "r_1mttez0", "demand": false}
+{"id": "r_1mxz9cv", "demand": true, "problem": "repeated content across subreddits", "who": "Reddit users", "product": "app", "pain": 1, "pay": "none", "tools": ["Reddit"], "quote": "Why can't Reddit detect content that you've already seen so you don't see the same thing across multiple subreddits?", "flag": "none"}
+{"id": "r_1np22la", "demand": false}
+{"id": "r_1oj5z5c", "demand": false}
+{"id": "r_1parwa2", "demand": true, "problem": "finding lost everyday items", "who": "people who lose everyday items", "product": "other", "pain": 2, "pay": "none", "tools": [], "quote": "Imagine this scenario: You lose your wallet.", "flag": "none"}
+{"id": "r_1pcomrh", "demand": true, "problem": "beginner guitar learning aid", "who": "beginner guitarists", "product": "other", "pain": 2, "pay": "none", "tools": [], "quote": "would get discouraged because they were so advanced to learn.", "flag": "none"}
+{"id": "r_1q87uji", "demand": false}
+{"id": "r_1tj2hpb", "demand": false}
+{"id": "r_1ubmf0i", "demand": false}
+{"id": "r_1vn8niw", "demand": true, "problem": "SSD write monitoring for macOS", "who": "Mac laptop owners", "product": "desktop software", "pain": 2, "pay": "none", "tools": [], "quote": "I wish macOS had a simple utility that monitored how much data each process writes to the SSD", "flag": "none"}
+{"id": "r_1vvflai", "demand": true, "problem": "finding rare second-hand objects", "who": "collectors and second-hand buyers", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I basically have to hope somebody somewhere decides to list one.", "flag": "none"}
+{"id": "r_1vxee3n", "demand": false}
+{"id": "r_1wsdnym", "demand": false}
+{"id": "r_1x4iuem", "demand": false}
+{"id": "r_18xbjw9", "demand": false}
+{"id": "r_1gk6bn1", "demand": false}
+{"id": "r_1lm9a21", "demand": true, "problem": "client scope management", "who": "small dev studios", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "facing scope challenges quite often.", "flag": "none"}
+{"id": "r_1mn86ep", "demand": true, "problem": "separating work email from personal email", "who": "professionals with busy inboxes", "product": "app", "pain": 2, "pay": "none", "tools": ["Gmail"], "quote": "I have a mix of public and private emails in the same Gmail account.", "flag": "none"}
+{"id": "r_1njcqg9", "demand": true, "problem": "spotting logical fallacies in videos", "who": "video viewers", "product": "plugin/extension", "pain": 2, "pay": "explicit", "tools": ["YouTube"], "quote": "I would gladly pay for a subscription to this.", "flag": "none"}
+{"id": "r_1uya1wm", "demand": false}
+{"id": "r_1v4h62f", "demand": true, "problem": "beta software SSD wear", "who": "developers and beta testers", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Users could then decide whether the risk is worth it before installing a beta.", "flag": "none"}
+{"id": "r_18wyvm3", "demand": false}
+{"id": "r_192lcks", "demand": true, "problem": "slow store checkout lines", "who": "shoppers", "product": "app", "pain": 2, "pay": "none", "tools": ["Amazon"], "quote": "it could take 20 minutes or more to check out, even if you're using a self-checkout booth.", "flag": "none"}
+{"id": "r_1c352p4", "demand": false}
+{"id": "r_1d6xajc", "demand": true, "problem": "clothing fit before buying online", "who": "online clothing shoppers", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "Some measurements aren't even listed (e.g. upper arms).", "flag": "none"}
+{"id": "r_1ddgvdq", "demand": false}
+{"id": "r_1g53fia", "demand": false}
+{"id": "r_1g5dum5", "demand": false}
+{"id": "r_1h8gwnv", "demand": false}
+{"id": "r_1iopj21", "demand": false}
+{"id": "r_1kv86x4", "demand": false}
+{"id": "r_1lhvdts", "demand": true, "problem": "airline announcements disrupting passengers", "who": "air travelers", "product": "other", "pain": 1, "pay": "explicit", "tools": [], "quote": "I just want the airline equivalent of push notifications.", "flag": "none"}
+{"id": "r_1lntyd5", "demand": true, "problem": "searching saved memes", "who": "meme savers", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "I wish someone would make an extension or an app that lets you search memes", "flag": "none"}
+{"id": "r_1ncgklg", "demand": false}
+{"id": "r_1njte0r", "demand": false}
+{"id": "r_1p6upai", "demand": false}
+{"id": "r_1pp3i74", "demand": false}
+{"id": "r_1q4tkot", "demand": true, "problem": "finding and paying referees", "who": "referees and local league organisers", "product": "web tool", "pain": 2, "pay": "none", "tools": ["texts", "spreadsheets", "Facebook groups"], "quote": "refs deal with late payments, last-minute cancellations, and messy scheduling.", "flag": "none"}
+{"id": "r_1qeecwl", "demand": false}
+{"id": "r_1qz8b48", "demand": false}
+{"id": "r_1rstcrh", "demand": true, "problem": "processing anxiety about the future", "who": "people with future anxieties", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "We all have anxieties about future outcomes", "flag": "none"}
+{"id": "r_1tie817", "demand": false}
+{"id": "r_1v0vadw", "demand": false}
+{"id": "r_1vrzfx9", "demand": false}
+{"id": "r_1wsoryv", "demand": false}
+{"id": "r_1xbjkkw", "demand": true, "problem": "dunk training feedback", "who": "basketball players", "product": "app", "pain": 1, "pay": "none", "tools": ["YouTube"], "quote": "useful feedback on your actual jump might be.", "flag": "none"}
+{"id": "r_1b9ygri", "demand": false}
+{"id": "r_1e0nort", "demand": false}
+{"id": "r_1cuityg", "demand": false}
+{"id": "r_1ij3z8q", "demand": false}
+{"id": "r_1t85nd5", "demand": false}
+{"id": "r_1u7kak0", "demand": false}
+{"id": "r_1vnykjh", "demand": false}
+{"id": "r_1w1ozsc", "demand": false}
+{"id": "r_1wcl9ov", "demand": false}
+{"id": "r_1x9zriv", "demand": false}
+{"id": "r_1h1zrzf", "demand": false}
+{"id": "r_1n81l1w", "demand": false}
+{"id": "r_1nchk76", "demand": false}
+{"id": "r_1vy7okr", "demand": false}
+{"id": "r_1u0jb0d", "demand": false}
+{"id": "r_1ncv0mp", "demand": true, "problem": "finding saved content", "who": "people who save links and screenshots", "product": "app", "pain": 2, "pay": "none", "tools": ["Chrome", "Instagram"], "quote": "I waste time searching and often never find it.", "flag": "none"}
+{"id": "r_1jxlhh5", "demand": false}
+{"id": "r_1iqcfdn", "demand": true, "problem": "credible verified money discussions", "who": "personal finance forum users", "product": "app", "pain": 2, "pay": "none", "tools": ["Reddit"], "quote": "a lot of online money discussions contain a lot of fake flexes", "flag": "none"}
+{"id": "r_1kmtsq7", "demand": false}
+{"id": "r_1l69k1b", "demand": true, "problem": "accidental messages and shares", "who": "phone users", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "sharing random videos with people because my phone screen is wet from rain", "flag": "none"}
+{"id": "r_1mr9dol", "demand": false}
+{"id": "r_1p2fuei", "demand": false}
+{"id": "r_1pcbsu5", "demand": false}
+{"id": "r_1qi3umf", "demand": true, "problem": "Spotify algorithm training", "who": "Spotify listeners", "product": "app", "pain": 2, "pay": "none", "tools": ["Spotify", "AirPods"], "quote": "So the algorithm thinks I'm okay with it, and keeps playing trash.", "flag": "none"}
+{"id": "r_1w3oqtq", "demand": false}
+{"id": "r_1wo6mjg", "demand": true, "problem": "corrupted app data on macOS", "who": "macOS users", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["macOS"], "quote": "A lot of weird, persistent problems can come from corrupted databases, preferences, caches, or other files buried in", "flag": "none"}
+{"id": "r_1c97msb", "demand": false}
+{"id": "r_1c9c6we", "demand": false}
+{"id": "r_1nno4cq", "demand": false}
+{"id": "r_1udlncq", "demand": false}
+{"id": "r_1wz38qz", "demand": false}
+{"id": "r_1fnomer", "demand": true, "problem": "traffic and local news in streaming", "who": "commuters", "product": "app", "pain": 1, "pay": "none", "tools": ["Spotify", "Pandora"], "quote": "you become cutoff from weather, traffic, and news that you hear during your daily commute.", "flag": "none"}
+{"id": "r_1im93ni", "demand": false}
+{"id": "r_1pau4dm", "demand": false}
+{"id": "r_1tioapi", "demand": false}
