@@ -49,7 +49,7 @@ Discrepancies and notes (transcript vs. on-screen text, artifacts):
 7. **conditional** – Same condition: both pictures must be realistic and attainable/true; no promise of life outcomes the product cannot deliver.
 8. **usable** – Claim, unverified; no study named.
 9. **conditional** – Usable if all costs (price, terms, effort) are disclosed so 'perceived costs' are accurate (gharar).
-10. **conditional** – Fear of missing out is acceptable only about real, verifiable losses. Required change: no fabricated urgency, scarcity or deadline (ghish, najsh).
+10. **conditional** – Fear of missing out is acceptable only about real, verifiable losses. Required change: no fabricated urgency, scarcity or deadline (ghish, najsh); 'picture it' by text, objects or abstract graphics, no figures or silhouettes of people (rule 9, 10).
 
 ## Links
 - [[21-people-want-to-stop-losing]] – same mechanism: showing the cost of not acting (anti-goal = 'what they are already losing')

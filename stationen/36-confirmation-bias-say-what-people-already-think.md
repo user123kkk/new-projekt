@@ -66,7 +66,7 @@ Discrepancies and notes (transcript vs. on-screen text, artifacts):
 18. "I'll see you next time."
 
 ## Assessment
-1. **not usable** – The stated aim is to manipulate customers. Deception (ghish), interpretive mapping. The technique's usable parts are rated individually in statements 5-17.
+1. **not usable** – The stated aim is to manipulate customers. Rule 7: the aim is to move a person against their own interest. The technique's usable parts are rated individually in statements 5-17.
 2. **conditional** – Only true statements. Required change: do not reinforce false beliefs held by customers; do not present a falsehood because people already think it.
 3. **usable** – No checkpoint touched.
 4. **usable** – Definition of a named phenomenon; no source cited.

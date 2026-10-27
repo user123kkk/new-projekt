@@ -38,11 +38,11 @@ Discrepancies and notes (transcript vs. on-screen text, artifacts):
 ## Assessment
 1. **conditional** – Claim, unverified; a sale with no message is not shown. Required change: restate as 'create context before the offer'.
 2. **usable** – Claim, unverified; 'the reason why brands exist' is absolute.
-3. **conditional** – The mechanism described is covert influence. Nearest checkpoint: deception (ghish), interpretive mapping. Required change: primed context must be truthful and the offer fully disclosed; hints are not used to hide terms.
+3. **conditional** – The mechanism described is covert influence. Allowed under rule 7 only if the statement is true and nothing is concealed (ghish). Required change: primed context must be truthful and the offer fully disclosed; hints are not used to hide terms.
 4. **usable** – Truthful mood context if the furniture provides comfort.
-5. **conditional** – Required change: imagery must not include impermissible content (content checkpoint) and must be truthful about the vacation.
+5. **conditional** – Required change: no people or families shown (rule 9), no women (rule 10); convey the vacation with text, shapes, icons or places/objects, and truthfully.
 6. **conditional** – Same condition as statement 3.
-7. **conditional** – 'Feels like their own idea' through pre-conditioning is covert. Required change: the decision stays informed; no false association.
+7. **conditional** – 'Feels like their own idea' through pre-conditioning is allowed only if true and nothing is concealed (rule 7). Required change: the decision stays informed; no false association.
 
 ## Links
 - [[35-make-them-feel-they-found-it]] – same mechanism: the purchase should feel like the customer's own idea

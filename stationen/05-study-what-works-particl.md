@@ -48,7 +48,7 @@ Discrepancies and notes (transcript vs. on-screen text, artifacts):
 6. **conditional** – Tool claim, unverified; same disclosure condition.
 7. **conditional** – 'Should not miss this' is urgency without a stated deadline. Required change: no implied scarcity; state a real reason or remove (fabricated urgency).
 8. **conditional** – Free trial: terms must be stated (duration, end, billing, cancellation) (gharar). Existence of the trial as described is unverified.
-9. **usable** – Flattering close; no checkpoint touched.
+9. **conditional** – 'The best' is a superlative claim (rule 5). Required change: remove it or state it only with proof.
 
 ## Links
 - [[01-reduce-the-pain-of-paying]] – same tactic: free trial named as a way to reduce pain of paying

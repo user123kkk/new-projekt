@@ -46,11 +46,11 @@ Discrepancies and notes (transcript vs. on-screen text, artifacts):
 2. **usable** – Claim, unverified.
 3. **usable** – Claim, unverified.
 4. **usable** – Claim, unverified.
-5. **conditional** – Named brand: Coca-Cola. Usable if the depicted emotion corresponds to a real product experience. Claim, unverified. Beverage content: no checkpoint hit as such.
-6. **usable** – Claim, unverified. Supports truthfulness. 'Authentic' must be real, not staged to look real (ghish).
-7. **conditional** – Claim, unverified. Required change: 'feels raw and real' must not be produced by scripted fake testimonials or actors presented as customers (ghish).
+5. **conditional** – Named brand: Coca-Cola. Usable if the depicted emotion corresponds to a real product experience. Claim, unverified. Beverage content: no checkpoint hit as such. Required change: the happy drinker is not shown as a person or drawn figure (rule 9, 10); express the emotion in text, voice or abstract graphics.
+6. **conditional** – Claim, unverified. Supports truthfulness. 'Authentic' must be real, not staged to look real (ghish). Required change: convey authenticity without showing people (rule 9, 10), e.g. real customer voice or quoted text; photo/video of living beings only on real need.
+7. **conditional** – Claim, unverified. Required change: 'feels raw and real' must not be produced by scripted fake testimonials or actors presented as customers (ghish); no depiction of people (rule 9) or women (rule 10).
 8. **conditional** – Product and its terms must still be clear (gharar).
-9. **conditional** – Claim, unverified. 'Subconsciously' = covert influence; usable only with fully disclosed offer.
+9. **conditional** – Claim, unverified. 'Subconsciously': allowed under rule 7 only if true and nothing is concealed; offer fully disclosed.
 
 ## Links
 - [[11-you-sell-emotions-not-the-product]] – same claim: you sell emotions

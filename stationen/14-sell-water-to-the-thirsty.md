@@ -37,7 +37,7 @@ Discrepancies and notes (transcript vs. on-screen text, artifacts):
 2. **usable** – No checkpoint touched.
 3. **usable** – Claim, unverified.
 4. **usable** – No checkpoint touched.
-5. **conditional** – Required change: the offer must really solve the problem; no exploitation of acute distress; a religious obligation is not treated as a market gap (GRUNDSATZ).
+5. **conditional** – Required change: the offer must really solve the problem; no exploitation of acute distress; a religious obligation is not treated as a market gap (rule 11).
 6. **conditional** – Usable if the offer actually brings relief; 'not like persuasion' must not mean hiding the sales intent (ghish).
 
 ## Links

@@ -54,9 +54,9 @@ Discrepancies and notes (transcript vs. on-screen text, artifacts):
 
 ## Assessment
 1. **usable** – Framing.
-2. **conditional** – Example product is wine (alcohol): do not reuse the example (content: no promotion of the forbidden); the mechanism is rated separately in statements 10-12.
+2. **conditional** – Example product is wine (alcohol): do not reuse the example (order of authority 1: alcohol is forbidden); the mechanism is rated separately in statements 10-12.
 3. **conditional** – Same example condition. Named brand: Walmart. Prices hypothetical, claim, unverified.
-4. **conditional** – Same example condition. 'Only sold in selected stores' is an exclusivity claim; usable only if true (scarcity checkpoint).
+4. **conditional** – Same example condition. 'Only sold in selected stores' is an exclusivity claim; usable only if true (rule 1: no false scarcity claims).
 5. **conditional** – Same example condition.
 6. **conditional** – Same example condition.
 7. **usable** – Rhetorical question.

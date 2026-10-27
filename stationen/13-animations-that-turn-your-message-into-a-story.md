@@ -38,8 +38,8 @@ Discrepancies and notes (transcript vs. on-screen text, artifacts):
 2. **usable** – Claim, unverified.
 3. **usable** – Service claim by the creator.
 4. **usable** – Service claim, unverified.
-5. **conditional** – Service offer. Required change: scope, price and deliverables stated before purchase (gharar).
-6. **conditional** – 'Hypnotize' and 'moves minds' read as covert influence. Required change: remove as outcome promise (ghish); claim, unverified.
+5. **conditional** – Service offer. Required change: scope, price and deliverables stated before purchase (gharar); animations use shapes, text and icons, no animated or drawn living beings (rule 9, 10).
+6. **conditional** – 'Hypnotize' and 'moves minds' are unproven outcome claims (rule 5) and imply influence beyond what rule 7 allows. Required change: remove as outcome promise (ghish); claim, unverified.
 7. **usable** – Call to action; no checkpoint touched.
 
 ## Links

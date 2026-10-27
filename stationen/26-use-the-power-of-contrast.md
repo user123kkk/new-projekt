@@ -45,7 +45,7 @@ Discrepancies and notes (transcript vs. on-screen text, artifacts):
 1. **conditional** – Usable with truthful comparison; see statements 5-8.
 2. **usable** – Claim, unverified.
 3. **usable** – Claim, unverified; 'always'.
-4. **conditional** – Mechanism usable; example product is wine (alcohol): do not reuse the example (content: no promotion of the forbidden). Replace with a permissible product.
+4. **conditional** – Mechanism usable; example product is wine (alcohol): do not reuse the example (order of authority 1: alcohol is forbidden). Replace with a permissible product.
 5. **conditional** – Anchoring is usable only if the high price is a real price the item or a comparable item is actually sold at. A decoy or reference price that was never charged is najsh and ghish. Required change: the anchor must be genuine and disclosed as such.
 6. **conditional** – The denial does not change the assessment; the technique is judged by statements 4 and 5. Claim, unverified.
 7. **usable** – Claim, unverified.

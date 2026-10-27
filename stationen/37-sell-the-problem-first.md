@@ -35,7 +35,7 @@ Discrepancies and notes (transcript vs. on-screen text, artifacts):
 7. "So sell the problem first, and the product sells itself."
 
 ## Assessment
-1. **not usable** – The stated aim is to make the customer feel dumb for declining: shaming and pressure. No listed checkpoint covers this case; mapped interpretively to point 1 of the order of authority (no humiliation of people, no coercion into a purchase). To be confirmed by the project owner.
+1. **not usable** – The stated aim is to make the customer feel dumb for declining: shaming and pressure. Rule 7: the aim is to move a person against their own interest (shaming and pressure); also order of authority 1 (no humiliation of people, no coercion into a purchase).
 2. **usable** – Claim, unverified.
 3. **conditional** – The problem must be real and relevant to this customer (ghish).
 4. **conditional** – Required change: no exaggeration or fear beyond the real size of the problem (ghish); no use of distress.
