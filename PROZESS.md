@@ -21,3 +21,8 @@ Applies to the first videos and to every video added later.
 ## 4. Linking
 - Obsidian-style links `[[NN-title]]` between stations and to concepts in `begriffe/`.
 - Map: `map/index.html` is generated from the links.
+
+## 5. Update the rulebooks
+- A new station that says something about video form, editing or motion graphics updates [VIDEO-REGELN.md](VIDEO-REGELN.md): new or changed rule with the station id, counts re-measured.
+- A new station about selling or ideas updates the criteria in [IDEEN.md](IDEEN.md) if it changes one.
+- Existing videos are re-checked against the updated checklist before the next one is published.
