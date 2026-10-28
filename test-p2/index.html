@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fotos auf der Baustelle, Abnahmeprotokoll als PDF</title>
+<meta name="description" content="Fotos auf der Baustelle machen, fertiges Abnahmeprotokoll als PDF an den Kunden. Kostenlose Vorlage zum Download.">
+<style>
+  :root { --ink:#1b1b1b; --muted:#4a4a4a; --bg:#fff; --soft:#f3f3f1; --accent:#1d4e7a; }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:0 16px; font:17px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; color:var(--ink); background:var(--bg); }
+  main, footer { max-width:640px; margin:0 auto; }
+  section { padding:28px 0; border-bottom:1px solid #ddd; }
+  h1 { font-size:1.7rem; line-height:1.25; margin:12px 0 12px; }
+  h2 { font-size:1.2rem; margin:8px 0 10px; }
+  p { margin:0 0 12px; }
+  ul { margin:0 0 12px; padding-left:20px; }
+  li { margin-bottom:6px; }
+  .icon { width:44px; height:44px; stroke:var(--accent); fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+  .btn { display:inline-block; padding:13px 20px; border-radius:6px; border:2px solid var(--accent); background:var(--accent); color:#fff; font:inherit; font-weight:600; text-decoration:none; cursor:pointer; }
+  .btn.alt { background:#fff; color:var(--accent); }
+  .price { font-size:1.35rem; font-weight:700; margin:0 0 12px; }
+  .notice { background:var(--soft); border-left:4px solid var(--accent); padding:10px 12px; margin:0 0 16px; }
+  form label { display:block; font-weight:600; margin-bottom:4px; }
+  form input[type=email] { width:100%; padding:12px; font:inherit; border:2px solid #777; border-radius:6px; margin-bottom:12px; }
+  .small { font-size:.88rem; color:var(--muted); }
+  footer { padding:20px 0 40px; font-size:.95rem; }
+  footer a { margin-right:16px; }
+  a { color:var(--accent); }
+  .btn { color:#fff; }
+  .btn.alt { color:var(--accent); }
+</style>
+</head>
+<body>
+<main>
+
+<section>
+  <svg class="icon" viewBox="0 0 48 48" aria-hidden="true"><path d="M12 6h18l8 8v28H12z"/><path d="M30 6v8h8"/><path d="M18 24h14M18 31h14M18 38h8"/></svg>
+  <h1>Fotos auf der Baustelle machen, fertiges Abnahmeprotokoll als PDF an den Kunden.</h1>
+  <p>Für kleine Handwerksbetriebe. Eine Aufgabe: Fotos hinein, fertiger Bericht mit Datum und Firmenname heraus.</p>
+</section>
+
+<section>
+  <h2>Für wen</h2>
+  <p>Für kleine Handwerksbetriebe, die nach der Arbeit Fotos sortieren, in ein Protokoll schreiben und dem Kunden schicken müssen. Das kostet Zeit am Abend. Die geplante App soll genau das abnehmen.</p>
+</section>
+
+<section>
+  <svg class="icon" viewBox="0 0 48 48" aria-hidden="true"><path d="M8 40V18l16-10 16 10v22z"/><path d="M20 40V28h8v12"/></svg>
+  <h2>Kostenlose Vorlage</h2>
+  <p>Schon jetzt: eine druckbare Vorlage &bdquo;Abnahmeprotokoll mit Fotodokumentation&ldquo; (A4). Ohne Anmeldung, ohne E-Mail.</p>
+  <p><a class="btn alt" href="vorlage-abnahmeprotokoll.html">Vorlage öffnen und als PDF speichern</a></p>
+  <p class="small">Allgemeine Hilfe, keine Rechtsberatung.</p>
+</section>
+
+<section id="angebot">
+  <svg class="icon" viewBox="0 0 48 48" aria-hidden="true"><path d="M10 38l16-16 6 6-16 16H10z"/><path d="M28 20l4-4 6 6-4 4"/><path d="M8 10h14"/></svg>
+  <h2>Das Angebot</h2>
+  <div class="notice"><strong>Die App ist noch nicht gebaut.</strong> Wenn Sie sich vormerken, informieren wir Sie nur beim Start. Sie zahlen jetzt nichts und gehen keinen Vertrag ein.</div>
+  <p class="price">[PREIS] € pro Monat, monatlich kündbar</p>
+  <p>Geplant ist:</p>
+  <ul>
+    <li>Fotos auf der Baustelle aufnehmen und einem Auftrag zuordnen</li>
+    <li>Datum und Uhrzeit je Foto, Beschriftung je Foto</li>
+    <li>Abnahmeprotokoll mit Firmenname als PDF</li>
+    <li>PDF per E-Mail an den Kunden senden</li>
+    <li>Monatlich kündbar, kein Mindestvertrag</li>
+  </ul>
+  <p class="small">Das ist die Planung, kein fertiges Produkt. Der Preis steht noch nicht fest und wird vor dem Start genannt.</p>
+</section>
+
+<section id="vormerken">
+  <h2>Vormerken</h2>
+  <!-- TODO: Formular-Anbieter hier eintragen (action und method setzen). Bis dahin sendet das Formular nirgendwohin. -->
+  <form action="#" method="post">
+    <label for="mail">E-Mail-Adresse</label>
+    <input id="mail" name="email" type="email" autocomplete="email" required>
+    <button class="btn" type="submit">Vormerken</button>
+  </form>
+  <p class="small" style="margin-top:12px">Wir nutzen Ihre E-Mail-Adresse nur, um Sie beim Start zu informieren. Sie können sich jederzeit austragen. Mehr dazu in der Datenschutzerklärung.</p>
+</section>
+
+</main>
+
+<footer>
+  <a href="#">[IMPRESSUM]</a><a href="#">[DATENSCHUTZ]</a>
+</footer>
+</body>
+</html>

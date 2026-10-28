@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Abnahmeprotokoll mit Fotodokumentation (Vorlage)</title>
+<style>
+  :root { --ink:#1b1b1b; --line:#555; --soft:#f3f3f1; }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:16px; font:16px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; color:var(--ink); background:#fff; }
+  .sheet { max-width:210mm; margin:0 auto; }
+  h1 { font-size:1.4rem; margin:0 0 4px; }
+  h2 { font-size:1.05rem; margin:22px 0 8px; border-bottom:2px solid var(--ink); padding-bottom:3px; }
+  .sub { margin:0 0 14px; color:#444; }
+  .tools { background:var(--soft); padding:12px; border-radius:6px; margin-bottom:16px; }
+  .tools button { font:inherit; padding:10px 16px; border:2px solid var(--ink); background:#fff; border-radius:6px; cursor:pointer; }
+  .tools p { margin:8px 0 0; font-size:.95rem; }
+  .field { margin:0 0 10px; }
+  .field label { display:block; font-size:.85rem; font-weight:600; margin-bottom:2px; }
+  .field .box { min-height:2.2em; border:1px solid var(--line); border-radius:3px; background:#fff; }
+  .field .box.tall { min-height:4.5em; }
+  .grid2 { display:grid; grid-template-columns:1fr; gap:0 14px; }
+  .tablewrap { overflow-x:auto; }
+  table { width:100%; border-collapse:collapse; min-width:520px; }
+  th, td { border:1px solid var(--line); padding:4px 6px; text-align:left; vertical-align:top; font-size:.9rem; }
+  th { background:var(--soft); }
+  td { height:2.4em; }
+  .photos { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; }
+  .photo { border:1px solid var(--line); border-radius:3px; break-inside:avoid; }
+  .photo .frame { height:150px; display:flex; align-items:center; justify-content:center; color:#888; border-bottom:1px solid var(--line); background:
+      repeating-linear-gradient(45deg,#fafafa,#fafafa 8px,#f1f1ef 8px,#f1f1ef 16px); font-size:.85rem; }
+  .photo .meta { padding:4px 6px; font-size:.82rem; }
+  .photo .meta div { border-bottom:1px solid #999; min-height:1.6em; margin-top:3px; }
+  .sign { display:grid; grid-template-columns:1fr; gap:26px 20px; margin-top:8px; }
+  .sign .line { border-bottom:1px solid var(--ink); height:56px; }
+  .sign small { display:block; margin-top:3px; }
+  .note { margin-top:24px; padding:10px 12px; border:1px solid var(--line); border-radius:4px; font-size:.85rem; background:var(--soft); }
+  @media (min-width:640px) {
+    .grid2 { grid-template-columns:1fr 1fr; }
+    .photos { grid-template-columns:repeat(3,1fr); }
+    .sign { grid-template-columns:1fr 1fr; }
+  }
+  @page { size:A4; margin:14mm; }
+  @media print {
+    body { padding:0; font-size:10.5pt; }
+    .tools { display:none; }
+    .sheet { max-width:none; }
+    .tablewrap { overflow:visible; }
+    table { min-width:0; }
+    .grid2 { grid-template-columns:1fr 1fr; }
+    .photos { grid-template-columns:repeat(3,1fr); gap:6mm; }
+    .photo .frame { height:48mm; background:none; }
+    .sign { grid-template-columns:1fr 1fr; }
+    .pagebreak { break-before:page; }
+    h2 { break-after:avoid; }
+    tr, .field { break-inside:avoid; }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+<div class="tools">
+  <button type="button" onclick="window.print()">Drucken / Als PDF speichern</button>
+  <p>Im Druckdialog &bdquo;Als PDF speichern&ldquo; wählen, A4. Fotos kleben Sie in die Felder oder legen sie nach dem Ausdruck bei.</p>
+</div>
+
+<h1>Abnahmeprotokoll mit Fotodokumentation</h1>
+<p class="sub">Vorlage zum Ausdrucken und Ausfüllen</p>
+
+<h2>1. Beteiligte und Vorhaben</h2>
+<div class="grid2">
+  <div class="field"><label>Auftraggeber (Name, Anschrift)</label><div class="box tall"></div></div>
+  <div class="field"><label>Auftragnehmer (Firma, Anschrift)</label><div class="box tall"></div></div>
+</div>
+<div class="field"><label>Bauvorhaben / Adresse</label><div class="box"></div></div>
+<div class="field"><label>Leistung (was wurde ausgeführt?)</label><div class="box tall"></div></div>
+<div class="grid2">
+  <div class="field"><label>Datum und Uhrzeit der Abnahme</label><div class="box"></div></div>
+  <div class="field"><label>Teilnehmer (Name, Funktion)</label><div class="box"></div></div>
+</div>
+
+<h2>2. Festgestellte Mängel</h2>
+<p class="sub">Wenn keine Mängel festgestellt wurden: &bdquo;Keine&ldquo; eintragen.</p>
+<div class="tablewrap">
+<table>
+  <thead><tr><th style="width:8%">Nr.</th><th style="width:42%">Beschreibung</th><th style="width:20%">Ort</th><th style="width:16%">Frist</th><th style="width:14%">Foto-Nr.</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>2</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>3</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>4</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>5</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>6</td><td></td><td></td><td></td><td></td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2>3. Vorbehalte</h2>
+<div class="field"><label>Vorbehalte (z. B. Mängelrechte, Restarbeiten)</label><div class="box tall"></div></div>
+
+<h2 class="pagebreak">4. Fotodokumentation</h2>
+<p class="sub">Je Foto: Nummer, Datum und kurze Beschriftung (Ort, was ist zu sehen). Fotos von Bauteilen und Arbeiten, nicht von Personen.</p>
+<div class="photos">
+  <div class="photo"><div class="frame">Foto Nr. 1</div><div class="meta">Datum:<div></div>Beschriftung:<div></div></div></div>
+  <div class="photo"><div class="frame">Foto Nr. 2</div><div class="meta">Datum:<div></div>Beschriftung:<div></div></div></div>
+  <div class="photo"><div class="frame">Foto Nr. 3</div><div class="meta">Datum:<div></div>Beschriftung:<div></div></div></div>
+  <div class="photo"><div class="frame">Foto Nr. 4</div><div class="meta">Datum:<div></div>Beschriftung:<div></div></div></div>
+  <div class="photo"><div class="frame">Foto Nr. 5</div><div class="meta">Datum:<div></div>Beschriftung:<div></div></div></div>
+  <div class="photo"><div class="frame">Foto Nr. 6</div><div class="meta">Datum:<div></div>Beschriftung:<div></div></div></div>
+  <div class="photo"><div class="frame">Foto Nr. 7</div><div class="meta">Datum:<div></div>Beschriftung:<div></div></div></div>
+  <div class="photo"><div class="frame">Foto Nr. 8</div><div class="meta">Datum:<div></div>Beschriftung:<div></div></div></div>
+  <div class="photo"><div class="frame">Foto Nr. 9</div><div class="meta">Datum:<div></div>Beschriftung:<div></div></div></div>
+</div>
+
+<h2>5. Unterschriften</h2>
+<div class="sign">
+  <div><div class="line"></div><small>Ort, Datum, Unterschrift Auftraggeber</small></div>
+  <div><div class="line"></div><small>Ort, Datum, Unterschrift Auftragnehmer</small></div>
+</div>
+
+<div class="note">
+  <strong>Hinweis:</strong> Diese Vorlage ist eine allgemeine Hilfe und keine Rechtsberatung. Allgemeine Information: Nach &sect; 650g BGB gibt es eine Zustandsfeststellung, wenn die Abnahme unter Angabe von Mängeln verweigert wird. Mit der Abnahme beginnt in der Regel die Verjährungsfrist für Mängelansprüche (&sect; 634a BGB). Ob und wie das in Ihrem Fall gilt, klären Sie bitte mit einer Rechtsberatung. Prüfen Sie die Vorlage vor der Verwendung auf Ihren Vertrag.
+</div>
+
+</div>
+</body>
+</html>
