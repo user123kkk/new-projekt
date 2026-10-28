@@ -1,0 +1,7 @@
+Woran erkennst du ein ehrliches Angebot für dein Anschreiben?
+Der Preis steht vor dem Bezahlen groß da, nicht im Kleingedruckten.
+Die Laufzeit ist klar.
+Es endet von selbst, ohne dass du kündigen musst.
+Und kostenlos gibt es auch etwas: Für den Lebenslauf bietet Europass ein kostenloses Angebot der EU.
+Wir planen für unser Tool: 9,90 Euro einmal für 30 Tage, kein Abo.
+Wir bauen ein Tool, das aus Stellenanzeige und deinen Angaben ein passendes Anschreiben schreibt. Es ist noch nicht fertig. Wer es vormerken will: Link im Profil.

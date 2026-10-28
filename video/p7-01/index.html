@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="de" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      /* Style of the source videos (bild.md files of the source videos): near-black ground, thin white outline icons, one white dot, one text line per beat. No people, no music (GRUNDSATZ 8-10). */
+      :root {
+        --ground: #060606;
+        --ink: #ffffff;
+        --dim: #5c5c5c;
+        --font-display: "Inter";
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { margin: 0; width: 1080px; height: 1920px; overflow: hidden; background: var(--ground); }
+      #root { position: relative; width: 100%; height: 100%; font-family: var(--font-display); color: var(--ink); }
+      .scene { position: absolute; inset: 0; }
+      .art { position: absolute; left: 0; right: 0; top: 330px; height: 620px; display: flex; align-items: center; justify-content: center; }
+      .art svg { overflow: visible; filter: drop-shadow(0 0 14px rgba(255, 255, 255, 0.35)); }
+      .line { position: absolute; left: 108px; right: 108px; top: 1010px; font-size: 76px; font-weight: 600; line-height: 1.12; letter-spacing: -0.02em; text-align: center; }
+      .sub { position: absolute; left: 108px; right: 108px; top: 1210px; font-size: 40px; font-weight: 400; line-height: 1.3; color: #bdbdbd; text-align: center; }
+      .stroke { fill: none; stroke: var(--ink); stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .dimstroke { fill: none; stroke: var(--dim); stroke-width: 4; stroke-linecap: round; }
+      .dot { fill: var(--ink); }
+      .label { font: 600 40px var(--font-display); fill: var(--ink); text-anchor: middle; }
+      .end-line { position: absolute; left: 108px; right: 108px; font-weight: 600; text-align: center; letter-spacing: -0.02em; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="33" data-width="1080" data-height="1920">
+
+      <!-- Scene 1 (0-2 s): hook -->
+      <div id="s1" class="scene clip" data-start="0" data-duration="2" data-track-index="0" data-track-kind="graphics">
+        <div class="art">
+          <svg id="s1-art" width="760" height="520" viewBox="0 0 760 520">
+            <g id="s1-docs">
+              <g class="s1-doc"><rect class="stroke" x="250" y="60" width="260" height="340" rx="10"/><path class="stroke" d="M290 130h180M290 180h180M290 230h120"/></g>
+              <g class="s1-doc"><rect class="stroke" x="250" y="60" width="260" height="340" rx="10"/><path class="stroke" d="M290 130h180M290 180h180M290 230h120"/></g>
+              <g class="s1-doc"><rect class="stroke" x="250" y="60" width="260" height="340" rx="10"/><path class="stroke" d="M290 130h180M290 180h180M290 230h120"/></g>
+              <g class="s1-doc"><rect class="stroke" x="250" y="60" width="260" height="340" rx="10"/><path class="stroke" d="M290 130h180M290 180h180M290 230h120"/></g>
+              <g class="s1-doc"><rect class="stroke" x="250" y="60" width="260" height="340" rx="10"/><path class="stroke" d="M290 130h180M290 180h180M290 230h120"/></g>
+            </g>
+            <g id="s1-env"><rect class="stroke" x="290" y="400" width="180" height="110" rx="8" style="fill:#060606"/><path class="stroke" d="M290 405l90 60 90-60"/></g>
+          </svg>
+        </div>
+        <div id="s1-text" class="line">Ein Anschreiben für alle Stellen?</div>
+      </div>
+
+      <!-- Scene 2 (2-7 s): same text, other firm -->
+      <div id="s2" class="scene clip" data-start="2" data-duration="5" data-track-index="0" data-track-kind="graphics">
+        <div class="art">
+          <svg width="840" height="460" viewBox="0 0 840 460">
+            <g transform="translate(20 80)"><rect class="stroke" width="230" height="300" rx="10"/><path class="stroke" d="M35 70h160M35 115h160M35 160h100"/></g>
+            <g transform="translate(305 80)"><rect class="stroke" width="230" height="300" rx="10"/><path class="stroke" d="M35 70h160M35 115h160M35 160h100"/></g>
+            <g transform="translate(590 80)"><rect class="stroke" width="230" height="300" rx="10"/><path class="stroke" d="M35 70h160M35 115h160M35 160h100"/></g>
+            <g id="s2-labels">
+              <g><rect class="stroke" x="95" y="0" width="80" height="56" rx="8"/><text class="label" x="135" y="40">A</text></g>
+              <g id="s2-lab2"><rect class="stroke" x="380" y="0" width="80" height="56" rx="8"/><text class="label" x="420" y="40">B</text></g>
+              <g id="s2-lab3"><rect class="stroke" x="665" y="0" width="80" height="56" rx="8"/><text class="label" x="705" y="40">C</text></g>
+            </g>
+          </svg>
+        </div>
+        <div id="s2-text" class="line">Gleicher Text.<br/>Andere Firma.</div>
+      </div>
+
+      <!-- Scene 3 (7-14 s): the ad says what is wanted -->
+      <div id="s3" class="scene clip" data-start="7" data-duration="7" data-track-index="0" data-track-kind="graphics">
+        <div class="art">
+          <svg width="560" height="600" viewBox="0 0 560 600">
+            <rect class="stroke" x="20" y="10" width="520" height="580" rx="14"/>
+            <path class="stroke" d="M70 80h260"/>
+            <path class="dimstroke" d="M70 150h420M70 200h380"/>
+            <path id="s3-r1" class="stroke" d="M70 270h400"/>
+            <path class="dimstroke" d="M70 320h340"/>
+            <path id="s3-r2" class="stroke" d="M70 390h360"/>
+            <path class="dimstroke" d="M70 440h400"/>
+            <path id="s3-r3" class="stroke" d="M70 510h300"/>
+            <circle id="s3-dot" class="dot" cx="500" cy="270" r="12"/>
+          </svg>
+        </div>
+        <div id="s3-text" class="line">Die Anzeige sagt, was gesucht wird.</div>
+      </div>
+
+      <!-- Scene 4 (14-22 s): one sentence with proof per requirement -->
+      <div id="s4" class="scene clip" data-start="14" data-duration="8" data-track-index="0" data-track-kind="graphics">
+        <div class="art">
+          <svg width="900" height="560" viewBox="0 0 900 560">
+            <g><rect class="stroke" x="10" y="40" width="340" height="480" rx="12"/>
+              <path class="dimstroke" d="M50 110h260M50 170h220"/><path class="stroke" d="M50 240h260"/><path class="dimstroke" d="M50 310h240M50 380h200"/></g>
+            <g><rect class="stroke" x="550" y="40" width="340" height="480" rx="12"/>
+              <path class="dimstroke" d="M590 110h260"/><path id="s4-target" class="stroke" d="M590 240h260"/><path class="dimstroke" d="M590 310h220M590 380h240"/></g>
+            <path id="s4-link" class="stroke" d="M310 240C420 240 480 240 590 240" stroke-dasharray="300" stroke-dashoffset="300"/>
+            <circle class="dot" cx="310" cy="240" r="11"/>
+            <path id="s4-check" class="stroke" d="M680 440l40 40 80-90" stroke-width="6" stroke-dasharray="200" stroke-dashoffset="200"/>
+          </svg>
+        </div>
+        <div id="s4-text" class="line">Pro Anforderung ein Satz mit Beleg.</div>
+        <div id="s4-sub" class="sub">Aufgabe. Ergebnis.</div>
+      </div>
+
+      <!-- Scene 5 (22-27 s): tailored instead of general -->
+      <div id="s5" class="scene clip" data-start="22" data-duration="5" data-track-index="0" data-track-kind="graphics">
+        <div class="art">
+          <svg width="760" height="520" viewBox="0 0 760 520">
+            <g class="s5-doc"><rect class="dimstroke" x="250" y="90" width="260" height="340" rx="10"/></g>
+            <g class="s5-doc"><rect class="dimstroke" x="250" y="90" width="260" height="340" rx="10"/></g>
+            <g class="s5-doc"><rect class="dimstroke" x="250" y="90" width="260" height="340" rx="10"/></g>
+            <g class="s5-doc"><rect class="dimstroke" x="250" y="90" width="260" height="340" rx="10"/></g>
+            <g id="s5-one"><rect class="stroke" x="250" y="90" width="260" height="340" rx="10" style="fill:#060606"/>
+              <path class="stroke" d="M290 160h180"/><path class="stroke" d="M290 215h180"/><path class="stroke" d="M290 270h140"/><circle class="dot" cx="470" cy="380" r="12"/></g>
+          </svg>
+        </div>
+        <div id="s5-text" class="line">Passgenau statt allgemein.</div>
+      </div>
+
+      <!-- Scene 6 (27-33 s): standard end card; the tool is not built yet (GRUNDSATZ rule 1) -->
+      <div id="s6" class="scene clip" data-start="27" data-duration="6" data-track-index="0" data-track-kind="graphics">
+        <div class="art" style="top:300px;height:420px">
+          <svg width="420" height="320" viewBox="0 0 420 320">
+            <rect class="stroke" x="40" y="40" width="150" height="200" rx="10"/><path class="stroke" d="M70 90h90M70 130h90M70 170h60"/>
+            <path class="stroke" d="M215 140h50M250 120l20 20-20 20"/>
+            <rect class="stroke" x="290" y="40" width="120" height="200" rx="10"/><path class="stroke" d="M315 90h70M315 130h70M315 170h40"/>
+          </svg>
+        </div>
+        <div id="s6-a" class="end-line" style="top:760px;font-size:60px;line-height:1.15">Wir bauen ein Tool:<br/>Stellenanzeige rein,<br/>passende Bewerbung raus.</div>
+        <div id="s6-b" class="end-line" style="top:1030px;font-size:44px;font-weight:400;color:#bdbdbd">Noch nicht fertig.<br/>Vormerken ist kostenlos.</div>
+        <div id="s6-c" class="end-line" style="top:1200px;font-size:52px">Link im Profil</div>
+      </div>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      const ease = "power3.out";
+      // 1: hook is on screen at frame 0 (it is the thumbnail); docs fan out
+      tl.fromTo(".s1-doc", { x: 0, rotation: 0 }, { x: (i) => (i - 2) * 70, rotation: (i) => (i - 2) * 6, transformOrigin: "50% 100%", duration: 1.2, ease }, 0);
+      // 2: labels change, text stays identical
+      tl.fromTo("#s2-text", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.4, ease }, 2.05);
+      tl.fromTo("#s2-labels", { opacity: 0 }, { opacity: 1, duration: 0.4 }, 2.3);
+      tl.fromTo(["#s2-lab2", "#s2-lab3"], { y: -20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4, stagger: 0.5, ease }, 3.2);
+      // 3: three requirement lines light up in turn
+      tl.fromTo("#s3-text", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.4, ease }, 7.05);
+      tl.fromTo(["#s3-r1", "#s3-r2", "#s3-r3"], { opacity: 0.15 }, { opacity: 1, duration: 0.5, stagger: 1.1 }, 8.2);
+      tl.to("#s3-dot", { attr: { cy: 510 }, duration: 2.2, ease: "power1.inOut" }, 9.0);
+      // 4: line from ad requirement to letter sentence, then check
+      tl.fromTo("#s4-text", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.4, ease }, 14.05);
+      tl.to("#s4-link", { strokeDashoffset: 0, duration: 1.6, ease: "power2.inOut" }, 15.0);
+      tl.fromTo("#s4-sub", { opacity: 0 }, { opacity: 1, duration: 0.5 }, 17.0);
+      tl.to("#s4-check", { strokeDashoffset: 0, duration: 0.8, ease }, 18.6);
+      tl.fromTo("#s4-target", { opacity: 1 }, { opacity: 0.35, duration: 0.6, yoyo: true, repeat: 3, ease: "sine.inOut" }, 19.6);
+      // 5: five generic letters merge into one tailored letter
+      tl.fromTo(".s5-doc", { x: (i) => (i - 1.5) * 140, opacity: 1 }, { x: 0, opacity: 0, duration: 1.4, ease: "power2.inOut" }, 22.1);
+      tl.fromTo("#s5-one", { scale: 0.85, opacity: 0, transformOrigin: "50% 50%" }, { scale: 1, opacity: 1, duration: 0.8, ease }, 23.2);
+      tl.fromTo("#s5-text", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.4, ease }, 22.4);
+      // 6: end card
+      tl.fromTo("#s6-a", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5, ease }, 27.1);
+      tl.fromTo("#s6-b", { opacity: 0 }, { opacity: 1, duration: 0.5 }, 28.6);
+      tl.fromTo("#s6-c", { opacity: 0 }, { opacity: 1, duration: 0.5 }, 30.0);
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

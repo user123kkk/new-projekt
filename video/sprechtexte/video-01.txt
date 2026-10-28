@@ -1,0 +1,6 @@
+Ein Anschreiben für alle Stellen? Das merkt man.
+Wenn nur der Firmenname wechselt, liest die Firma einen Standardbrief.
+Die Anzeige verrät, was die Firma sucht. Meist stehen dort einige klare Anforderungen.
+Schreib zu jeder wichtigen Anforderung einen Satz mit einem Beleg aus deinem Berufsleben: Aufgabe, Ergebnis.
+Passgenau statt allgemein. Das ist der Unterschied.
+Wir bauen ein Tool, das aus Stellenanzeige und deinen Angaben ein passendes Anschreiben schreibt. Es ist noch nicht fertig. Wer es vormerken will: Link im Profil.

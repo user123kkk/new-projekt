@@ -8,3 +8,6 @@ quellen/nachfrage/batches/
 quellen/nachfrage/demand_compact.tsv
 quellen/nachfrage/demand_new.tsv
 quellen/nachfrage/cluster_list.tsv
+video/*/.hyperframes/
+video/*/node_modules/
+video/*/renders/

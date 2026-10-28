@@ -1,0 +1,6 @@
+In der Stellenanzeige steht schon, was du schreiben sollst.
+Markier in der Anzeige die Aufgaben und das, was verlangt wird.
+Frag dich zu jeder Zeile: Wo habe ich das schon gemacht? Ein Beispiel genügt.
+Nimm ruhig dieselben Wörter wie die Anzeige, solange sie bei dir stimmen.
+Aber nur, was wirklich stimmt. Erfundenes fliegt im Gespräch auf.
+Wir bauen ein Tool, das aus Stellenanzeige und deinen Angaben ein passendes Anschreiben schreibt. Es ist noch nicht fertig. Wer es vormerken will: Link im Profil.

@@ -1,0 +1,7 @@
+Zwei Sätze für dieselbe Stelle. Welcher gefällt der Firma?
+Die ausgedachte Anzeige sucht jemanden für Monatsabschlüsse mit DATEV.
+Satz A: Ich bin teamfähig, belastbar und hoch motiviert.
+Satz B: Drei Jahre habe ich in einem Handwerksbetrieb monatlich Abschlüsse vorbereitet, mit DATEV.
+B beantwortet, was die Anzeige verlangt. A könnte in jeder Bewerbung stehen.
+Das Beispiel ist ausgedacht. Schreib nur, was bei dir stimmt.
+Wir bauen ein Tool, das aus Stellenanzeige und deinen Angaben ein passendes Anschreiben schreibt. Es ist noch nicht fertig. Wer es vormerken will: Link im Profil.
