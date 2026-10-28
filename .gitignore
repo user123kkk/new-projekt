@@ -11,3 +11,5 @@ quellen/nachfrage/cluster_list.tsv
 video/*/.hyperframes/
 video/*/node_modules/
 video/*/renders/
+video/*/.thumbnails/
+video/*/.waveform-cache/
