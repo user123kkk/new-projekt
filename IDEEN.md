@@ -216,3 +216,8 @@ P7 fails K9. Idea choice is reopened after stations 38-51 are processed.
 - **Contradictions, decided by Claude on the owner's request:**
   - 41 vs 30: no conflict in practice; different scopes. The opening of a video decides whether it is watched (30, hook first). Inside an offer statement, state the limitation first and the benefit last, with full terms (41).
   - 40 vs 14: content targets people who already know the problem (problem aware, solution aware, product aware). The "unaware" stage is used only to name a real, existing problem in plain words, never to invent a need (14, GRUNDSATZ rule 7).
+
+## 14. Working principles from the owner (2026-10-28)
+- **Marketing before features.** Do not spend months adding features. Ship the smallest product that does the one job, then put the time into marketing and branding. A feature is added only when users ask for it repeatedly.
+- **Content formats:** motion graphics are one option; TikTok slideshows (image carousels with text) are another proven organic format (source: station 53, pending). Both must follow GRUNDSATZ and VIDEO-REGELN.
+- **Excluded directions:** learning for students, language learning, calorie tracking. Not excluded: household/couple budget, meal plan without calories, receipts for small firms, P2 photo report, others to be found.
