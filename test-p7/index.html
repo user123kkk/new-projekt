@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stellenanzeige rein, passende Bewerbung raus</title>
+<meta name="description" content="Stellenanzeige rein, passende Bewerbung raus. Einmal zahlen, kein Abo. Noch nicht gebaut: Sie können sich unverbindlich vormerken lassen.">
+<style>
+  :root { --ink:#1b1b1b; --muted:#4a4a4a; --bg:#fff; --soft:#f3f3f1; --accent:#1d4e7a; }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:0 16px; font:17px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; color:var(--ink); background:var(--bg); overflow-wrap:break-word; }
+  main, footer { max-width:640px; margin:0 auto; }
+  section { padding:28px 0; border-bottom:1px solid #ddd; }
+  h1 { font-size:1.7rem; line-height:1.25; margin:12px 0 12px; }
+  h2 { font-size:1.2rem; margin:8px 0 10px; }
+  p { margin:0 0 12px; }
+  ul { margin:0 0 12px; padding-left:20px; }
+  li { margin-bottom:6px; }
+  .btn { display:inline-block; padding:13px 20px; border-radius:6px; border:2px solid var(--accent); background:var(--accent); color:#fff; font:inherit; font-weight:600; cursor:pointer; }
+  .price { font-size:1.35rem; font-weight:700; margin:0 0 12px; }
+  .notice { background:var(--soft); border-left:4px solid var(--accent); padding:10px 12px; margin:0 0 16px; }
+  .box { background:var(--soft); border:1px solid #ccc; border-radius:6px; padding:10px 12px; margin:0 0 12px; }
+  .box .tag { display:block; font-size:.8rem; font-weight:700; letter-spacing:.04em; text-transform:uppercase; color:var(--muted); margin-bottom:4px; }
+  .box p { margin:0 0 4px; }
+  form label { display:block; font-weight:600; margin-bottom:4px; }
+  form input[type=email] { width:100%; padding:12px; font:inherit; border:2px solid #777; border-radius:6px; margin-bottom:12px; }
+  .small { font-size:.88rem; color:var(--muted); }
+  footer { padding:20px 0 40px; font-size:.95rem; }
+  footer a { margin-right:16px; }
+  a { color:var(--accent); }
+</style>
+</head>
+<body>
+<main>
+
+<section>
+  <h1>Stellenanzeige rein, passende Bewerbung raus. Einmal zahlen, kein Abo.</h1>
+  <p>Für alle, die sich schriftlich auf Deutsch bewerben: Berufswechsler, Absolventen, Auszubildende, Arbeitsuchende.</p>
+</section>
+
+<section>
+  <h2>Das Problem</h2>
+  <p>Das Anschreiben für jede einzelne Stelle neu zu schreiben kostet Zeit und Nerven. Wer dafür ein allgemeines KI-Werkzeug nutzt, bekommt oft Text, dem man die Übersetzung anmerkt. So sagt es ein Personaler im t3n-Artikel &bdquo;KI-Bewerbung: So reagieren Personaler&ldquo;: &bdquo;An einigen Stellen merkt man, dass es sich um eine Übersetzung von Englisch auf Deutsch handelt.&ldquo;</p>
+  <p>Die geplante Anwendung soll das lösen: Sie geben die Anzeige und Ihre eigenen Angaben ein. Daraus entsteht ein deutscher Text für genau diese Stelle. Es steht nur darin, was Sie selbst angegeben haben.</p>
+</section>
+
+<section>
+  <h2>So soll es aussehen</h2>
+  <p class="small">Beide Kästen sind ein <strong>erfundenes Beispiel</strong>, um die geplante Arbeitsweise zu zeigen. Es ist kein echtes Ergebnis der Anwendung, die es noch nicht gibt.</p>
+
+  <div class="box">
+    <span class="tag">Beispiel: Auszug aus der Stellenanzeige</span>
+    <p>Wir suchen eine Sachbearbeitung Einkauf (m/w/d).</p>
+    <p>Sie pflegen Lieferantendaten im ERP-System und prüfen Rechnungen.</p>
+    <p>Sie arbeiten genau und im Team.</p>
+  </div>
+
+  <div class="box">
+    <span class="tag">Beispiel: Auszug aus dem Anschreiben</span>
+    <p>Die Stelle in Ihrem Einkauf spricht mich an, weil ich Lieferantendaten und Rechnungen schon in meiner Ausbildung bearbeitet habe.</p>
+    <p>Im ERP-System habe ich zwei Jahre gearbeitet und dabei Rechnungen geprüft und Abweichungen geklärt.</p>
+    <p>Genauigkeit und Zusammenarbeit im Team gehören für mich zum Arbeitsalltag.</p>
+  </div>
+
+  <p class="small">Im Beispiel stammen die Angaben &bdquo;Ausbildung&ldquo;, &bdquo;zwei Jahre ERP-System&ldquo; und &bdquo;Rechnungen geprüft&ldquo; vom Nutzer. Die Anwendung soll nichts ergänzen, was Sie nicht eingegeben haben.</p>
+</section>
+
+<section id="angebot">
+  <h2>Das Angebot</h2>
+  <div class="notice"><strong>Die Anwendung ist noch nicht gebaut.</strong> Wenn Sie sich vormerken, informieren wir Sie nur beim Start. Sie zahlen jetzt nichts und gehen keinen Vertrag ein.</div>
+  <p class="price">[PREIS] € einmalig für [ZEITRAUM]. Kein Abo, keine automatische Verlängerung.</p>
+  <p>Geplant ist:</p>
+  <ul>
+    <li>Stellenanzeige einfügen</li>
+    <li>Eigene Angaben eintragen: Stationen, Kenntnisse, Motivation</li>
+    <li>Anschreiben auf Deutsch für genau diese Anzeige</li>
+    <li>Passender Lebenslauf-Text für dieselbe Anzeige</li>
+    <li>Nur Inhalte aus Ihren Angaben, nichts hinzugedichtet</li>
+    <li>Einmal bezahlt, danach keine weitere Abbuchung</li>
+  </ul>
+  <p class="small">Das ist die Planung, kein fertiges Produkt. Preis und Zeitraum stehen noch nicht fest und werden vor dem Start genannt, vor jeder Zahlung.</p>
+</section>
+
+<section id="vormerken">
+  <h2>Vormerken</h2>
+  <!-- TODO: Formular-Anbieter hier eintragen (action und method setzen). Bis dahin sendet das Formular nirgendwohin. -->
+  <form action="#" method="post">
+    <label for="mail">E-Mail-Adresse</label>
+    <input id="mail" name="email" type="email" autocomplete="email" required>
+    <button class="btn" type="submit">Vormerken</button>
+  </form>
+  <p class="small" style="margin-top:12px">Wir nutzen Ihre E-Mail-Adresse nur, um Sie beim Start zu informieren. Sie können sich jederzeit austragen. Mehr dazu in der Datenschutzerklärung.</p>
+</section>
+
+</main>
+
+<footer>
+  <a href="#">[IMPRESSUM]</a><a href="#">[DATENSCHUTZ]</a>
+</footer>
+</body>
+</html>
