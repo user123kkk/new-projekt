@@ -196,7 +196,7 @@ Chosen by the owner after comparing P5 and P7 ([p5](quellen/nachfrage/web/p5-deu
 **One sentence:** "Stellenanzeige rein, passende Bewerbung raus. Einmal zahlen, kein Abo."
 **Group (K3):** German-speaking job seekers who apply in writing: job changers, graduates, apprentices, unemployed.
 **Edge (K6):** honest one-time price with no renewal (rule 3), against trial-to-subscription competitors; natural German instead of translated-sounding AI text.
-**Price proposal (owner to decide):** a pass for a fixed period, for example 30 days, one payment, no automatic renewal. Market reference: lebenslauf.de 16.99 EUR one month "Kein Abo", BewerbungGPT 7.99 EUR for five letters, Zety 23.70 EUR per 4 weeks after trial.
+**Price (owner, 2026-10-28):** 9.90 EUR one-time for 30 days of access, no automatic renewal.
 **Main risk:** ChatGPT is free. Our answer must be visible in seconds: German quality, a finished layout, and no invented content.
 
 ### Demand test (before any code)

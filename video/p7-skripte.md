@@ -19,7 +19,7 @@ Status: draft for the owner (2026-10-28). Nothing published. Basis: GRUNDSATZ.md
 - Wording of the last sentence may vary; the three facts (planned, not finished, free sign-up) must stay.
 - Forbidden: "bestes", "Nr. 1", "in 30 Sekunden fertig", "garantiert", "Tausende nutzen", numbers of sign-ups, deadlines, "nur noch X Plätze".
 
-**Before the sign-up page goes live:** it needs the owner's Impressum and privacy notice (IDEEN 11). The price is not decided by the owner; the videos say only "Preis steht noch nicht fest" or nothing about an amount. "Einmal zahlen, kein Abo" is a plan and is always worded as "geplant".
+**Before the sign-up page goes live:** it needs the owner's Impressum and privacy notice (IDEEN 11). Price decided by the owner (2026-10-28): 9,90 € one-time for 30 days, no renewal. "Einmal zahlen, kein Abo" is a plan and is always worded as "geplant".
 
 **Caption (all videos):** "Eigenes Projekt, noch nicht fertig. Beispieltexte sind ausgedacht." plus the sign-up link.
 
@@ -180,7 +180,7 @@ Visual: outline coin, calendar, lock.
 | 14-19 s | 2. Verlängert es sich von selbst? | Circular arrow | "Zwei: Verlängert es sich automatisch?" |
 | 19-24 s | 3. Wie und bis wann kann ich kündigen? | Calendar with check mark | "Drei: Wie und bis wann kann ich kündigen?" |
 | 24-28 s | Nicht klar? Nicht bezahlen. | X over a lock | "Ist eine Antwort nicht klar, bezahl nicht." |
-| 28-35 s | End card + line: „Geplant: einmal zahlen, kein Abo. Preis steht noch nicht fest.“ | standard + line | standard + "Bei uns ist geplant: einmal zahlen, kein Abo. Der Preis steht noch nicht fest." |
+| 28-35 s | End card + line: „Geplant: 9,90 € einmal für 30 Tage, kein Abo.“ | standard + line | standard + "Bei uns ist geplant: 9,90 Euro einmal für 30 Tage, kein Abo." |
 
 **Call to action.** Standard end card.
 
@@ -202,7 +202,7 @@ Visual: checklist card with four empty boxes.
 | 8-13 s | Die Laufzeit ist klar. | Box 2 checked, calendar | "Die Laufzeit ist klar." |
 | 13-18 s | Es endet von selbst. | Box 3 checked, calendar with end mark | "Es endet von selbst, ohne dass du kündigen musst." |
 | 18-24 s | Kostenlos gibt es auch: Europass für den Lebenslauf. | Document icon, ring of small dots | "Und kostenlos gibt es auch etwas: Für den Lebenslauf bietet Europass ein kostenloses Angebot der EU." |
-| 24-28 s | Wir planen: einmal zahlen, kein Abo. | Box 4 | "Wir planen für unser Tool: einmal zahlen, kein Abo. Der Preis steht noch nicht fest." |
+| 24-28 s | Wir planen: einmal zahlen, kein Abo. | Box 4 | "Wir planen für unser Tool: 9,90 Euro einmal für 30 Tage, kein Abo." |
 | 28-34 s | End card | standard | standard |
 
 **Call to action.** Standard end card.
