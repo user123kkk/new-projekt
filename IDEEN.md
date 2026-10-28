@@ -186,3 +186,5 @@ The question is not "where is the gap" but **where people already spend money, a
 2. Cheap attention: the benefit can be shown in a few seconds with text, shapes, voice and screen recordings, without music and without people (GRUNDSATZ rules 8-10), so the videos themselves carry the reach (K7, [[35-make-them-feel-they-found-it]]).
 
 Owner decisions so far: calorie tracking excluded by the owner. Candidate under review: German reading for beginners (P5, research running).
+
+Owner note on P7 (2026-10-28): users may insert their own application photo; we draw or generate nothing. Open question for later, to be settled by the owner (not by us): whether offering a photo slot that women would use carries responsibility. Not required by law (photo is optional in DACH applications). Decide after the idea is chosen.
