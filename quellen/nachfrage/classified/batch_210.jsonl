@@ -1,0 +1,100 @@
+{"id": "r_1lmjj8k", "demand": false}
+{"id": "r_1lu5i0q", "demand": false}
+{"id": "r_1nkbotd", "demand": false}
+{"id": "r_1o0ktng", "demand": false}
+{"id": "r_1rbz226", "demand": false}
+{"id": "r_1rq7xj7", "demand": true, "problem": "eu project management tool replacing clickup", "who": "agency", "product": "web tool", "pain": 1, "pay": "none", "tools": ["ClickUp"], "quote": "High quality and EU based alternative to ClickUp", "flag": "none"}
+{"id": "r_1uyam44", "demand": false}
+{"id": "r_1hflwgv", "demand": true, "problem": "client onboarding workflow automation", "who": "freelancer", "product": "app", "pain": 2, "pay": "none", "tools": ["Dubsado", "HoneyBook", "Notion", "Google Docs"], "quote": "Right now I'm juggling between Notion, Google Docs, and email, but it feels messy.", "flag": "none"}
+{"id": "r_197rqvx", "demand": true, "problem": "inventory software alternative", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Fishbowl"], "quote": "Is there an alternative to fishbowl", "flag": "none"}
+{"id": "r_1abeszs", "demand": false}
+{"id": "r_1ay4x17", "demand": true, "problem": "foresight and trend scanning tools", "who": "consultant", "product": "web tool", "pain": 1, "pay": "none", "tools": ["ITONICS", "TrendTracker"], "quote": "Please recommend more alternative tool", "flag": "none"}
+{"id": "r_1bmyg47", "demand": false}
+{"id": "r_1bu6fuj", "demand": true, "problem": "multi-laptop keyboard sharing with security compliance", "who": "consultant", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Synergy", "KVM"], "quote": "Is there any alternative to products like Synergy that have been designed with security compliance in mind?", "flag": "none"}
+{"id": "r_1dd3yqk", "demand": true, "problem": "powerpoint slide add-on alternative", "who": "consultant", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["EE", "ThinkCell", "PowerPoint"], "quote": "Things like EE and ThinkCell make ppt so much more powerful and quick.", "flag": "none"}
+{"id": "r_1g4z1j2", "demand": false}
+{"id": "r_1bl2zv0", "demand": true, "problem": "automatic file-based time tracking", "who": "construction business owner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that can recognize when you are working on a file and record the time spent on it", "flag": "none"}
+{"id": "r_1am6bqi", "demand": false}
+{"id": "r_1c7idzz", "demand": true, "problem": "multi-unit restaurant pos replacement", "who": "restaurant owner", "product": "app", "pain": 2, "pay": "implied", "tools": ["Toast"], "quote": "The number of issues we've had with Toast just in the last 3 months is astounding", "flag": "none"}
+{"id": "r_1pl2j5j", "demand": false}
+{"id": "r_1pnisnp", "demand": false}
+{"id": "r_1u5vec3", "demand": false}
+{"id": "r_1w0ny50", "demand": false}
+{"id": "r_1emcklo", "demand": true, "problem": "foot traffic tracking for pop-ups", "who": "restaurant owner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an App to Help Track Foot Traffic and Customer Engagement for My Restaurant Pop-Ups", "flag": "none"}
+{"id": "r_1bdlnsw", "demand": false}
+{"id": "r_1bz8arq", "demand": false}
+{"id": "r_1d9awiu", "demand": false}
+{"id": "r_1esbvqr", "demand": false}
+{"id": "r_1gjntzz", "demand": false}
+{"id": "r_1jf9bs8", "demand": false}
+{"id": "r_1jmxiq0", "demand": false}
+{"id": "r_1k1c94o", "demand": false}
+{"id": "r_1na3a8f", "demand": true, "problem": "sous vide pasteurization timing app", "who": "home cook", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Polyscience Sous Vide Toolbox", "Breville"], "quote": "I’d easily pay $15–20 for it", "flag": "none"}
+{"id": "r_1ntghd8", "demand": false}
+{"id": "r_1b8ny1a", "demand": true, "problem": "delivery order routing app", "who": "food business owner", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Maps"], "quote": "Looking for an app that can track orders and the address of the customer, so that we can quickly import the address to Google maps and find the quickest routes.", "flag": "none"}
+{"id": "r_18ymrd4", "demand": false}
+{"id": "r_18z1nfj", "demand": false}
+{"id": "r_1achhlk", "demand": false}
+{"id": "r_1apslgu", "demand": false}
+{"id": "r_1apvqy5", "demand": false}
+{"id": "r_1bq6h5h", "demand": false}
+{"id": "r_1bq6jvr", "demand": false}
+{"id": "r_1d1kddl", "demand": false}
+{"id": "r_1dzphmo", "demand": false}
+{"id": "r_1e48ntn", "demand": false}
+{"id": "r_1e4wnln", "demand": true, "problem": "pdf markup app for ipad", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Bluebeam"], "quote": "Alternative to bluebeam for iPad", "flag": "none"}
+{"id": "r_1e8gm4m", "demand": false}
+{"id": "r_1e960o3", "demand": false}
+{"id": "r_1ed5iv2", "demand": false}
+{"id": "r_1euol7s", "demand": false}
+{"id": "r_1evaqa0", "demand": false}
+{"id": "r_1jyp62h", "demand": true, "problem": "home repair bidding marketplace", "who": "homeowner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Do we already have a platform that does this entire flow?", "flag": "none"}
+{"id": "r_1r2y8ws", "demand": true, "problem": "construction time card and wage tracking", "who": "construction company", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that will automate time cards and allow crew members to select the job/associated wage rate they are working on?", "flag": "none"}
+{"id": "r_193bcuk", "demand": false}
+{"id": "r_1as78tr", "demand": false}
+{"id": "r_1b3fnfy", "demand": false}
+{"id": "r_1buhb4a", "demand": false}
+{"id": "r_1cgrjyv", "demand": false}
+{"id": "r_1cw0z3v", "demand": false}
+{"id": "r_1dd0cg6", "demand": false}
+{"id": "r_1dq3h2p", "demand": false}
+{"id": "r_1eer4zt", "demand": false}
+{"id": "r_1g7no56", "demand": false}
+{"id": "r_1hfwp5s", "demand": false}
+{"id": "r_1i9bla9", "demand": false}
+{"id": "r_1jqxto7", "demand": false}
+{"id": "r_1jt0c51", "demand": false}
+{"id": "r_1jaw02w", "demand": true, "problem": "refrigerant identification from pressure and temperature", "who": "hvac technician", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that can help identify mystery refrigerant?", "flag": "none"}
+{"id": "r_1jleftp", "demand": true, "problem": "hvac equipment setup app", "who": "hvac installer", "product": "app", "pain": 1, "pay": "none", "tools": ["Carrier 820TB60090V21"], "quote": "Is there an app that communicates with this unit?", "flag": "none"}
+{"id": "r_1g88p6b", "demand": false}
+{"id": "r_1gac4m2", "demand": true, "problem": "duct layout drawing on ipad", "who": "hvac installer", "product": "app", "pain": 2, "pay": "none", "tools": ["WrightSoft"], "quote": "I’m looking for an app that can draw the layout of the home and also the layout of the ducts.", "flag": "none"}
+{"id": "r_1iox5aj", "demand": true, "problem": "technician tracking app for hvac", "who": "hvac office manager", "product": "app", "pain": 2, "pay": "none", "tools": ["ServiceTitan"], "quote": "I know Service Titan is expensive, are there any other apps anyone can recommend??", "flag": "none"}
+{"id": "r_1octagc", "demand": true, "problem": "simple wiring diagram software", "who": "hvac technician", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app to assist with making simple wire diagrams for techs", "flag": "none"}
+{"id": "r_18x6g1d", "demand": false}
+{"id": "r_18ygpn8", "demand": false}
+{"id": "r_19bueyz", "demand": false}
+{"id": "r_1aq7dnr", "demand": true, "problem": "trade vetting marketplace alternative", "who": "electrician", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Checkatrade"], "quote": "Just wondering would you guys use an alternative to checkatrade where vetting is key on both the clients and tradesmen side", "flag": "none"}
+{"id": "r_1b3b58c", "demand": false}
+{"id": "r_1b3zhd7", "demand": false}
+{"id": "r_1c0til7", "demand": false}
+{"id": "r_1d72e1f", "demand": false}
+{"id": "r_1drt5ba", "demand": false}
+{"id": "r_1e1oecp", "demand": false}
+{"id": "r_1e9ec0i", "demand": false}
+{"id": "r_1ef0vxn", "demand": false}
+{"id": "r_1en8kjr", "demand": false}
+{"id": "r_1ethtt0", "demand": false}
+{"id": "r_1oyj3n7", "demand": true, "problem": "circuit simulation with current readouts", "who": "electrician", "product": "app", "pain": 1, "pay": "none", "tools": ["everycircuit"], "quote": "Is there an app that shows amps , volts and power on every component", "flag": "none"}
+{"id": "r_1r97x6e", "demand": true, "problem": "job travel time and address planning", "who": "electrician", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I am tired of looking up addresses for every job. Is there an app that does this?", "flag": "none"}
+{"id": "r_1figp89", "demand": false}
+{"id": "r_1qhnoq7", "demand": false}
+{"id": "r_1dw1mmn", "demand": false}
+{"id": "r_1eyu8v0", "demand": true, "problem": "free home service lead marketplace", "who": "contractor", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Angi", "Thumbtack"], "quote": "Free Alternative to Angi & Thumbtack", "flag": "none"}
+{"id": "r_1kh8i72", "demand": false}
+{"id": "r_1pcz3rw", "demand": false}
+{"id": "r_1x8npzb", "demand": true, "problem": "home service lead platform alternative", "who": "contractor", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["Thumbtack", "Angi", "Yelp"], "quote": "especially paying for leads that don't always turn into actual jobs", "flag": "none"}
+{"id": "r_1m88gdf", "demand": true, "problem": "remote window measurement app", "who": "window covering seller", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that does the measurements automatically?", "flag": "none"}
+{"id": "r_1oxvcfa", "demand": true, "problem": "side job expense and receipt tracking", "who": "electrician", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "working out of a notebook is starting to not be manageable", "flag": "none"}
+{"id": "r_1aljwzd", "demand": true, "problem": "all-in-one contractor job management", "who": "flooring window and roofing contractor", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I'm sick of going through 5 different applications to do my work.", "flag": "none"}
+{"id": "r_1cgv1p4", "demand": true, "problem": "client profiles and estimates app", "who": "contractor", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I’m looking for an app to help me stay organized.", "flag": "none"}
+{"id": "r_1e6b83m", "demand": true, "problem": "ai lawn problem diagnosis app", "who": "homeowner", "product": "app", "pain": 1, "pay": "none", "tools": ["PictureThis", "PlantNet"], "quote": "Is there an App that uses AI to identify treatments needed for lawn care?", "flag": "none"}

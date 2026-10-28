@@ -1,0 +1,100 @@
+{"id": "r_19e2il9", "demand": false}
+{"id": "r_1ac9utw", "demand": false}
+{"id": "r_1agntfd", "demand": false}
+{"id": "r_1ajwzx2", "demand": false}
+{"id": "r_1al36y6", "demand": false}
+{"id": "r_1apin5m", "demand": false}
+{"id": "r_1atekoc", "demand": false}
+{"id": "r_1auerf4", "demand": false}
+{"id": "r_1avwvd2", "demand": false}
+{"id": "r_1b0vpu8", "demand": false}
+{"id": "r_1b8pfop", "demand": false}
+{"id": "r_1b9t7ag", "demand": true, "problem": "free weight trend tracking app", "who": "weight loss trainee", "product": "app", "pain": 1, "pay": "none", "tools": ["Happyscale", "Peloton", "loseit"], "quote": "there’s apparently no free version of it and it’s pretty expensive", "flag": "none"}
+{"id": "r_1be9gfq", "demand": false}
+{"id": "r_1bilhm6", "demand": false}
+{"id": "r_1bkyk7r", "demand": false}
+{"id": "r_19591t3", "demand": true, "problem": "meal plan from foods already eaten", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that can build me a meal plan based off what I already eat/like?", "flag": "none"}
+{"id": "r_18yhnh5", "demand": false}
+{"id": "r_1973rrl", "demand": true, "problem": "minimalist macro tracking app", "who": "dieter tracking macros and calories", "product": "app", "pain": 2, "pay": "none", "tools": ["myfitnesspal"], "quote": "I am looking for an app that gives me the ability to maintain a diet in a table like format, allowing me to tweak certain food items and their quantity.", "flag": "none"}
+{"id": "r_1adh8p0", "demand": true, "problem": "calorie tracker with public api", "who": "dashboard builder tracking nutrition", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Cronometer", "Lose It", "MyFitnessPal"], "quote": "I'm looking for an app where I can scan the barcode to add new ingredients and I don't mind paying for the app.", "flag": "none"}
+{"id": "r_1949bea", "demand": false}
+{"id": "r_196va7f", "demand": false}
+{"id": "r_19d5253", "demand": false}
+{"id": "r_19enc0c", "demand": false}
+{"id": "r_1ag8usj", "demand": false}
+{"id": "r_1amq5gj", "demand": false}
+{"id": "r_1awh3bx", "demand": false}
+{"id": "r_1ayv5qg", "demand": true, "problem": "free macro tracking app with cycling macros", "who": "macro dieter", "product": "app", "pain": 2, "pay": "implied", "tools": ["MyFitnessPal"], "quote": "I’m looking for a free alternative to MyFitnessPal", "flag": "none"}
+{"id": "r_1b3vioi", "demand": false}
+{"id": "r_1b4z4qp", "demand": false}
+{"id": "r_1barm0o", "demand": false}
+{"id": "r_1bbgx9a", "demand": false}
+{"id": "r_1bf5seh", "demand": false}
+{"id": "r_1bhj0go", "demand": false}
+{"id": "r_1bmw3mw", "demand": false}
+{"id": "r_1bmw60v", "demand": false}
+{"id": "r_1bshkp2", "demand": false}
+{"id": "r_1bv85dd", "demand": false}
+{"id": "r_1c4evm8", "demand": false}
+{"id": "r_1cb67n5", "demand": false}
+{"id": "r_1cby1sv", "demand": false}
+{"id": "r_1cczgxg", "demand": false}
+{"id": "r_1ciifux", "demand": false}
+{"id": "r_1biyaod", "demand": true, "problem": "food variety tracking app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that tracks variety of food?", "flag": "none"}
+{"id": "r_1cqd6r6", "demand": true, "problem": "micronutrient tracking app", "who": "nutrition-focused eater", "product": "app", "pain": 1, "pay": "none", "tools": ["Cronometer"], "quote": "is there an app that focuses on micronutrients well?", "flag": "none"}
+{"id": "r_1dao2ab", "demand": true, "problem": "daily nutrient gap tracking", "who": "eater tracking daily intake", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that I can input what I’ve eaten through the day and it updates with the nutrients I still need?", "flag": "none"}
+{"id": "r_1e1rx80", "demand": true, "problem": "low calorie meal recipes with calorie tracking", "who": "meal prepper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that can do this and track my calories at the same time?", "flag": "none"}
+{"id": "r_1ik70ny", "demand": true, "problem": "organic food quality comparison scanner", "who": "health-conscious shopper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that allows you to scan organic food to determine which is truly healthiest?", "flag": "none"}
+{"id": "r_1la0463", "demand": true, "problem": "photo-based food weight estimation", "who": "traveler tracking food intake", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "is there an app that I can take a picture of a piece of cooked meat and it tells me how many grams it weighs?", "flag": "none"}
+{"id": "r_1p60o8v", "demand": true, "problem": "free recipe import app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that is free to import recipes from websites?", "flag": "none"}
+{"id": "r_1973fqi", "demand": true, "problem": "minimalist macro tracking app", "who": "dieter tracking macros and calories", "product": "app", "pain": 2, "pay": "none", "tools": ["myfitnesspal"], "quote": "I am looking for an app that gives me the ability to maintain a diet in a table like format", "flag": "none"}
+{"id": "r_1dbc7jr", "demand": true, "problem": "supplement dosage tracking app", "who": "person taking multiple supplements", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Can anyone recommend an app that allows me to log my supplements, track dosages, and set reminders?", "flag": "none"}
+{"id": "r_1fma4id", "demand": true, "problem": "high calorie high protein meal plans", "who": "adult building muscle", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I guess I’m looking for an app or spreadsheets for ideas and options.", "flag": "none"}
+{"id": "r_1gp2w0q", "demand": true, "problem": "calorie and supplement tracking app", "who": "iOS user tracking nutrition", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app that tracks calories and supplement/vitamins intake!", "flag": "none"}
+{"id": "r_1ilrma1", "demand": true, "problem": "easy meal logging app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app recommendation with easy meal logging options", "flag": "none"}
+{"id": "r_1jf0761", "demand": true, "problem": "tracking-only nutrition app without goals", "who": "eater tracking intake", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I’m looking for an app that just simply gives me the breakdown of what I’m consuming.", "flag": "none"}
+{"id": "r_1pxz9p8", "demand": true, "problem": "food diary without calorie counting", "who": "person prone to obsessive calorie tracking", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "i’m looking for an app that can help me track meals and general food type intake without getting into the calorie tracking.", "flag": "none"}
+{"id": "r_1q6z53p", "demand": true, "problem": "calorie tracker with meal planning", "who": "dieter tracking calories", "product": "app", "pain": 2, "pay": "explicit", "tools": ["MyFitnessPal", "MacroFactor"], "quote": "to aid in meal planning with calorie tracking.", "flag": "none"}
+{"id": "r_1qlbdtk", "demand": true, "problem": "macro-based meal prep recipe generator", "who": "macro tracker meal prepping", "product": "app", "pain": 1, "pay": "none", "tools": ["MacroFactor"], "quote": "Suggest meal prep recipes that actually hit those macros", "flag": "none"}
+{"id": "r_1r5o9ff", "demand": true, "problem": "photo calorie tracker with one-time payment", "who": "macro tracker", "product": "app", "pain": 1, "pay": "explicit", "tools": ["MacroFactor"], "quote": "has a one-time payment fee option (not only monthly subscriptions).", "flag": "none"}
+{"id": "r_1rzvs5o", "demand": true, "problem": "healthy eating motivation app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app/tool to motivate me to eat healthy", "flag": "none"}
+{"id": "r_1rzvxs9", "demand": true, "problem": "healthy eating motivation app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app/ tool to motivate me to eat helathy", "flag": "none"}
+{"id": "r_1sfbluo", "demand": true, "problem": "pantry-based recipe and macro app", "who": "home cook tracking nutrition", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Ability to log everything in my pantry/fridge/freezer/cabinets and get recipe ideas.", "flag": "none"}
+{"id": "r_1akjbg6", "demand": false}
+{"id": "r_1axzgm8", "demand": false}
+{"id": "r_1cnb9p0", "demand": false}
+{"id": "r_1e0awv8", "demand": false}
+{"id": "r_1f42qoy", "demand": false}
+{"id": "r_1g1nr4m", "demand": false}
+{"id": "r_1i01svx", "demand": false}
+{"id": "r_1jipll8", "demand": false}
+{"id": "r_1lu20ik", "demand": false}
+{"id": "r_1mhw5fn", "demand": true, "problem": "meal plan app with grocery list", "who": "adult trying to lose weight after holidays", "product": "app", "pain": 2, "pay": "none", "tools": ["Cal AI", "Preppi AI"], "quote": "I want structure — meals per day, ingredients, groceries, the whole thing.", "flag": "none"}
+{"id": "r_1mt127d", "demand": false}
+{"id": "r_1neuulm", "demand": false}
+{"id": "r_1o8h8ax", "demand": false}
+{"id": "r_1pe60k1", "demand": false}
+{"id": "r_1pvjo0j", "demand": false}
+{"id": "r_1qzui18", "demand": false}
+{"id": "r_1riidgn", "demand": false}
+{"id": "r_1d7x62j", "demand": true, "problem": "meal planning with calorie tracking app", "who": "meal prepper", "product": "app", "pain": 1, "pay": "none", "tools": ["To Do", "LoseIt"], "quote": "Is there an app that kind of combines these things?", "flag": "none"}
+{"id": "r_1nrjng7", "demand": true, "problem": "calorie day builder from food library", "who": "calorie counter", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that allows you to input all of the items you have available to eat and then you can go in and build out your day to the # of calories you want to consume each day.", "flag": "none"}
+{"id": "r_1nrjq4y", "demand": true, "problem": "calorie day builder from food library", "who": "calorie counter", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that allows you to input all of the items you have available to eat and then you can go in and build out your day to the # of calories you want to consume each day.", "flag": "none"}
+{"id": "r_1py351g", "demand": true, "problem": "meal planning with calorie tracking app", "who": "meal prepper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that plans your meals AND calculates calories automatically?", "flag": "none"}
+{"id": "r_1ctd7hc", "demand": true, "problem": "automatic weekly meal plan and grocery list", "who": "home cook", "product": "app", "pain": 1, "pay": "none", "tools": ["Mealime", "Paprika"], "quote": "I am looking for an app/website that will just spit out a weekly meal plan and grocery list", "flag": "none"}
+{"id": "r_1hpohqv", "demand": true, "problem": "editable meal planning app for allergies", "who": "picky eater with allergies", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "I'm looking for an app to help me plan meals to take some of the mental load off.", "flag": "none"}
+{"id": "r_1i6t3d6", "demand": true, "problem": "macro-based weekly meal planner", "who": "calorie and macro tracker", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app, paid or free, that will create my meals for the week based upon my daily calorie and macro goals.", "flag": "none"}
+{"id": "r_1iw63ib", "demand": true, "problem": "meal prep inventory and expiry tracking", "who": "meal prepper with small fridge", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "So I am looking for an app with which I can log what meal prepped foods I already cooked", "flag": "none"}
+{"id": "r_1j46b26", "demand": true, "problem": "pantry par level shopping list app", "who": "monthly grocery shopper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I am looking for an app that will let me set Pars", "flag": "none"}
+{"id": "r_1jcwrvm", "demand": true, "problem": "customizable family meal plan app", "who": "parent of a toddler starting daycare", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I'm looking for an app where the meal plan can be customized so I can plan baby-friendly foods.", "flag": "none"}
+{"id": "r_1krsksv", "demand": true, "problem": "meal calendar with fridge inventory", "who": "android user meal planning", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Calendar to put in what meals will be ate when", "flag": "none"}
+{"id": "r_1ln8jpc", "demand": true, "problem": "meal prep calorie and protein app", "who": "new meal prepper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm really looking for an app that can help me out with calorie intake and carbs", "flag": "none"}
+{"id": "r_1pfu9np", "demand": true, "problem": "fast repeat meal logging app", "who": "meal prepper eating same meals", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Most apps make copy-pasting from yesterday a chore (too many clicks)", "flag": "none"}
+{"id": "r_1v6onit", "demand": true, "problem": "recipe saving and meal planning app", "who": "busy couple meal planning", "product": "app", "pain": 1, "pay": "none", "tools": ["Instagram", "YouTube"], "quote": "I’m looking for an app that I can add any instagram/youtube recipe to and it will store it.", "flag": "none"}
+{"id": "r_18zcjwd", "demand": false}
+{"id": "r_18zhioe", "demand": false}
+{"id": "r_191b5a7", "demand": false}
+{"id": "r_192oo8c", "demand": false}
+{"id": "r_1955nev", "demand": false}
+{"id": "r_1981od7", "demand": false}
+{"id": "r_199dkfz", "demand": false}

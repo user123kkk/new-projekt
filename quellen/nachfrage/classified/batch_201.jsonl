@@ -1,0 +1,100 @@
+{"id": "r_1feu59x", "demand": false}
+{"id": "r_1gptp96", "demand": false}
+{"id": "r_1haedgb", "demand": false}
+{"id": "r_1jfwx33", "demand": false}
+{"id": "r_1jo7td5", "demand": false}
+{"id": "r_1chbic4", "demand": false}
+{"id": "r_1ejuln7", "demand": false}
+{"id": "r_1eq1ofm", "demand": false}
+{"id": "r_1f37e5g", "demand": false}
+{"id": "r_1fcn8pk", "demand": false}
+{"id": "r_1fdbhqe", "demand": false}
+{"id": "r_1fnvtxn", "demand": false}
+{"id": "r_1g5buwz", "demand": false}
+{"id": "r_1gu2ztp", "demand": false}
+{"id": "r_1h6d57y", "demand": false}
+{"id": "r_1hcyq3w", "demand": false}
+{"id": "r_1hfxpz0", "demand": true, "problem": "saas checkout upsell alternative", "who": "SaaS founder", "product": "web tool", "pain": 2, "pay": "none", "tools": ["ThriveCart"], "quote": "Looking for a valid alternative to thrivecart on my saas checkout but struggling to find it.", "flag": "none"}
+{"id": "r_1hicggh", "demand": false}
+{"id": "r_1ho36yv", "demand": false}
+{"id": "r_1htbqhx", "demand": false}
+{"id": "r_1hwbcys", "demand": false}
+{"id": "r_1i0m0wf", "demand": false}
+{"id": "r_1ig88kk", "demand": false}
+{"id": "r_1sa07be", "demand": false}
+{"id": "r_1f4yq4f", "demand": false}
+{"id": "r_1dpi9lk", "demand": false}
+{"id": "r_1rvdbwn", "demand": false}
+{"id": "r_19208uf", "demand": false}
+{"id": "r_198nrnk", "demand": false}
+{"id": "r_1afwpjj", "demand": false}
+{"id": "r_1agjz5d", "demand": false}
+{"id": "r_1agsftv", "demand": true, "problem": "contact center telephony platform replacement", "who": "contact center operator", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["Twilio"], "quote": "Any recommendations on a Twilio contact center alternative?", "flag": "none"}
+{"id": "r_1akkvwf", "demand": false}
+{"id": "r_1argfsc", "demand": false}
+{"id": "r_19fczi3", "demand": false}
+{"id": "r_199tvcw", "demand": true, "problem": "AI chat and notes in one app", "who": "knowledge worker using ChatGPT", "product": "app", "pain": 2, "pay": "none", "tools": ["ChatGPT"], "quote": "My wish there was an app with AI chat and notes right beside the chat, eliminating the need to juggle dozens of tabs.", "flag": "none"}
+{"id": "r_1cvayr7", "demand": true, "problem": "phone procrastination blocking", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I wish there was an app that could stop procrastination by completely shutting down my phone.", "flag": "none"}
+{"id": "r_1lzrtxw", "demand": false}
+{"id": "r_1m5dw03", "demand": false}
+{"id": "r_1mikuog", "demand": true, "problem": "AI-mediated conflict between people", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I wish there was an app where an AI could mediate an argument between two people.", "flag": "none"}
+{"id": "r_1mxuo88", "demand": true, "problem": "freelancer unpaid invoice chasing", "who": "freelancers", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I’ve noticed issues like chasing unpaid invoices or struggling to design portfolios", "flag": "none"}
+{"id": "r_1lk55s0", "demand": false}
+{"id": "r_18wy4vk", "demand": true, "problem": "business phone service replacement", "who": "small business owner", "product": "other", "pain": 2, "pay": "implied", "tools": ["Grasshopper"], "quote": "We've been using Grasshopper for basic telephony services and it's been an absolutely horrendous experience.", "flag": "none"}
+{"id": "r_190ilgy", "demand": true, "problem": "online booking platform for workshops", "who": "embroidery business owner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Airbnb Experiences"], "quote": "Was wondering if anybody knows another alternative to Airbnb Experiences.", "flag": "none"}
+{"id": "r_192qqyt", "demand": false}
+{"id": "r_1955c90", "demand": false}
+{"id": "r_198ho9w", "demand": false}
+{"id": "r_1998ce1", "demand": true, "problem": "shared calendar with tasks", "who": "small business owner", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Calendar"], "quote": "I need to be able to share this with at least 2 other people to ensure we are all seeing the same calendar.", "flag": "none"}
+{"id": "r_19cyudj", "demand": true, "problem": "second business phone number", "who": "network marketer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm a network marketer, and I'm considering finding an alternative to using my personal cell phone.", "flag": "none"}
+{"id": "r_19dayte", "demand": true, "problem": "print on demand store without listing fees", "who": "graphic designer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Printful", "Gelato", "Etsy"], "quote": "Is there an alternative to using Etsy for this endeavor?", "flag": "none"}
+{"id": "r_1acjmvj", "demand": false}
+{"id": "r_1akn3v1", "demand": true, "problem": "small business call center software", "who": "call centre operator", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["Genesys Cloud"], "quote": "Looking for a quick setup call centre software alternative to Genesys that's budget friendly for small businesses.", "flag": "none"}
+{"id": "r_1akvz3x", "demand": true, "problem": "small business accounting and invoicing", "who": "small business owner", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["QuickBooks"], "quote": "We are mostly just using it for tracking expenses and invoicing, though we are phasing invoicing with QB out.", "flag": "none"}
+{"id": "r_1aoi174", "demand": false}
+{"id": "r_1ap2nc1", "demand": true, "problem": "installer job photo documentation", "who": "photo studio owner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I want the installer to take a picture of the artwork, walls pre installation and walls post installation and have that attached to the customer record.", "flag": "none"}
+{"id": "r_18wqsrd", "demand": true, "problem": "employee hours tracking with expenses", "who": "small business owner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I currently write down the hours my employees had worked on a notepad.", "flag": "none"}
+{"id": "r_1amqq5f", "demand": true, "problem": "event team coordination and supply ordering", "who": "country club events staff", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I am looking for an app or platform that helps streamline the process.", "flag": "none"}
+{"id": "r_1b7gmaz", "demand": true, "problem": "staff messaging across large property", "who": "property staff manager", "product": "app", "pain": 2, "pay": "none", "tools": ["Facebook Messenger", "Teams", "Discord"], "quote": "I'm looking for an app for messaging.", "flag": "none"}
+{"id": "r_1jw4tk1", "demand": true, "problem": "automated business video generation", "who": "small business owner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I wish there was a tool to automate video generation to solve my lack of time to do this", "flag": "none"}
+{"id": "r_1k5ie1m", "demand": false}
+{"id": "r_1qfzqng", "demand": false}
+{"id": "r_18yfij4", "demand": false}
+{"id": "r_1am1n3u", "demand": false}
+{"id": "r_1b0kh8d", "demand": false}
+{"id": "r_1b7zdkm", "demand": false}
+{"id": "r_1bpa3j8", "demand": false}
+{"id": "r_1d74snq", "demand": false}
+{"id": "r_1dgez1k", "demand": false}
+{"id": "r_1dh26vc", "demand": false}
+{"id": "r_1di2hpa", "demand": false}
+{"id": "r_1dii972", "demand": false}
+{"id": "r_1diklke", "demand": false}
+{"id": "r_1dv23r7", "demand": false}
+{"id": "r_1dxobtx", "demand": false}
+{"id": "r_1dyuzkj", "demand": false}
+{"id": "r_1dyv3qr", "demand": false}
+{"id": "r_1h128nu", "demand": false}
+{"id": "r_1l5hxdp", "demand": false}
+{"id": "r_1cnr0i8", "demand": false}
+{"id": "r_1ctei5v", "demand": false}
+{"id": "r_1h05rp1", "demand": false}
+{"id": "r_1kizkio", "demand": false}
+{"id": "r_1lfn4ae", "demand": true, "problem": "estimating and follow-up automation for trades", "who": "outdoor living company owner", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["Jobber", "QuickBooks", "Invoice Simple"], "quote": "I feel like I would be overpaying because I'm not using half the software.", "flag": "none"}
+{"id": "r_1orj0x5", "demand": false}
+{"id": "r_1r7epui", "demand": false}
+{"id": "r_1sd8pl2", "demand": false}
+{"id": "r_1u2i54q", "demand": false}
+{"id": "r_1v8esnl", "demand": false}
+{"id": "r_1qpjcjr", "demand": true, "problem": "affordable pool service logging app", "who": "pool service business", "product": "app", "pain": 1, "pay": "none", "tools": ["Excel"], "quote": "is there an app that isn't overpriced?", "flag": "none"}
+{"id": "r_1eulpv5", "demand": false}
+{"id": "r_18xms20", "demand": true, "problem": "AI task calendar scheduling", "who": "unknown", "product": "app", "pain": 2, "pay": "implied", "tools": ["Motion"], "quote": "Is there a good alternative to Motion?", "flag": "none"}
+{"id": "r_18y1kof", "demand": true, "problem": "free text-to-speech reader", "who": "unknown", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Speechify"], "quote": "I am in desperate need of a free alternative to Speechify.", "flag": "none"}
+{"id": "r_19ekolk", "demand": true, "problem": "outliner with code blocks", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Workflowy"], "quote": "I need an app similar but one that allows code blocks.", "flag": "none"}
+{"id": "r_1aggb9w", "demand": false}
+{"id": "r_1ak9qye", "demand": true, "problem": "offline-capable notes app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Capacities"], "quote": "What's the most similar to capacities but that allows offline", "flag": "none"}
+{"id": "r_1asxpxm", "demand": true, "problem": "web article saving and archiving", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["Notion", "Notion Web Clipper"], "quote": "I just need a place where I can save articles from the web for later reading.", "flag": "none"}
+{"id": "r_1avccvb", "demand": true, "problem": "calendar app alternative to Notion", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Notion Calendar"], "quote": "Alternative to Notion calendar", "flag": "none"}
+{"id": "r_1b1vjtb", "demand": true, "problem": "note app alternative to Evernote", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Evernote"], "quote": "Looking for an alternative to Evernote Legacy", "flag": "none"}
+{"id": "r_1b9vhem", "demand": true, "problem": "shared family bill payment tracking", "who": "household manager", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Tasks"], "quote": "But Google Tasks is really basic and buggy, and not sharable with my spouse.", "flag": "none"}
+{"id": "r_1bijwgg", "demand": true, "problem": "ebook library organization by genre", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Kindle"], "quote": "I know that Kindle see the e-books as documents and not books, and they done get automatically organized by genre or series.", "flag": "none"}

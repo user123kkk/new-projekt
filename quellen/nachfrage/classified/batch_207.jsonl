@@ -1,0 +1,100 @@
+{"id": "r_1cd9d2r", "demand": true, "problem": "lookbook shoot planning and printing", "who": "photographer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "looking for an app that I can use to organize a lookbook shoot.", "flag": "none"}
+{"id": "r_1ds3jrc", "demand": true, "problem": "photo cropping without thin-ratio limit", "who": "iphone user", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "limit how thin I can crop a photo", "flag": "none"}
+{"id": "r_1e5zne5", "demand": true, "problem": "immersive digital photo album app", "who": "photo album creator", "product": "app", "pain": 1, "pay": "none", "tools": ["Flipboard"], "quote": "Looking for an app that can handle photos, text and embed video", "flag": "none"}
+{"id": "r_1evvvn1", "demand": true, "problem": "color palette planning for photo shoots", "who": "photographer", "product": "app", "pain": 1, "pay": "explicit", "tools": [], "quote": "I am looking for an app to plan for color palettes for photo shoots.", "flag": "none"}
+{"id": "r_19eu6cs", "demand": false}
+{"id": "r_1dd11j7", "demand": false}
+{"id": "r_1edyh7e", "demand": false}
+{"id": "r_1ezanlk", "demand": true, "problem": "replacement lead tool for bpo business", "who": "bpo business owner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["bpomonkey", "bpoflow"], "quote": "My bpo business has come down drastically after bpomonkey went down.", "flag": "none"}
+{"id": "r_1hsy009", "demand": true, "problem": "affordable mls access for realtors", "who": "realtor", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["MLS", "Supra", "CCAR"], "quote": "My fees for the first half of the year are almost $1k.", "flag": "none"}
+{"id": "r_1ixiogj", "demand": false}
+{"id": "r_1mfhw39", "demand": false}
+{"id": "r_1okkk9q", "demand": true, "problem": "affordable e-signature for real estate", "who": "realtor", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["DocuSign", "SignNow"], "quote": "I am looking for e signature alternative to Docusign as the fees keep increasing and my brokerage does not offer a platform.", "flag": "none"}
+{"id": "r_1c4swm3", "demand": true, "problem": "client tracking with reminders for realtor", "who": "realtor with adhd", "product": "app", "pain": 2, "pay": "none", "tools": ["spreadsheet"], "quote": "I currently have my active clients in a spreadsheet, but I am looking for an app that organizes them and reminds me with notifications.", "flag": "none"}
+{"id": "r_1jnz5wh", "demand": true, "problem": "broker exam prep app", "who": "aspiring real estate broker", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Ideally looking for an app that is on my iPhone and can be downloaded from the App Store.", "flag": "none"}
+{"id": "r_1ms5y9p", "demand": true, "problem": "property photos to listing videos", "who": "realtor", "product": "app", "pain": 1, "pay": "none", "tools": ["AutoReel", "Maggi"], "quote": "I am looking for an app that turns photos into into videos in order to bring my listings to life.", "flag": "none"}
+{"id": "r_1szrlqm", "demand": false}
+{"id": "r_1sep31r", "demand": true, "problem": "call scripts for new real estate agents", "who": "new real estate agent", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I wish there was a tool for this..", "flag": "none"}
+{"id": "r_192akai", "demand": false}
+{"id": "r_19fkj9m", "demand": false}
+{"id": "r_1ad93uf", "demand": false}
+{"id": "r_1aziey1", "demand": false}
+{"id": "r_1b4tott", "demand": false}
+{"id": "r_1bw2nr0", "demand": false}
+{"id": "r_1edekqk", "demand": true, "problem": "step-by-step home purchase guidance", "who": "home buyer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that can guide step by step to purchase a house", "flag": "none"}
+{"id": "r_1h50gy5", "demand": true, "problem": "map of historical rental listings", "who": "marketing company owner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Zillow", "Redfin"], "quote": "Is there an app that will give me a map view of homes that have been listed as rental properties in the past?", "flag": "none"}
+{"id": "r_1ey3lxb", "demand": true, "problem": "ai summary of large inspection pdfs", "who": "home buyer", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "All the AI PDF reader apps I have cap at like 1MB PDF.", "flag": "none"}
+{"id": "r_1m74qnp", "demand": true, "problem": "listing to promo video automation", "who": "realtor", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app that turns your listing into a promo video in 1 click", "flag": "none"}
+{"id": "r_1i8lhuo", "demand": false}
+{"id": "r_1b900cv", "demand": false}
+{"id": "r_1b901ed", "demand": false}
+{"id": "r_1e6ib64", "demand": true, "problem": "reliable tenant background checks", "who": "landlord", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["apartments.com", "TransUnion"], "quote": "I now no longer trust the apartments.com background check.", "flag": "none"}
+{"id": "r_1g1dzei", "demand": false}
+{"id": "r_1icqrig", "demand": false}
+{"id": "r_1icqsnx", "demand": false}
+{"id": "r_1iruj04", "demand": false}
+{"id": "r_1ibqc9v", "demand": true, "problem": "automated annual rent escalation calculation", "who": "mobile home park operator", "product": "app", "pain": 3, "pay": "none", "tools": ["Buildum", "Appfolio", "Rent Manager"], "quote": "Currently my office is calculating these increases per space, every month.", "flag": "none"}
+{"id": "r_1d5vdfr", "demand": false}
+{"id": "r_1irun6d", "demand": false}
+{"id": "r_1ixm7gs", "demand": false}
+{"id": "r_1lsi7c9", "demand": false}
+{"id": "r_1lucygu", "demand": false}
+{"id": "r_1nl6hpu", "demand": false}
+{"id": "r_1ovpqpi", "demand": false}
+{"id": "r_1pk4gt7", "demand": false}
+{"id": "r_1e61g90", "demand": true, "problem": "recurring maintenance task tracking for rental homes", "who": "str property manager", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Ideally, I could create an annual calendar with items like: change HVAC filter, winterize home, clean grill, clean gutters, etc.", "flag": "none"}
+{"id": "r_1flcwzj", "demand": true, "problem": "vendor on-site sign-in and reporting", "who": "contractor", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app that will allow vendors to signin when they are on-site and submit a report.", "flag": "none"}
+{"id": "r_1t72hf6", "demand": true, "problem": "rental admin cost reduction app", "who": "landlord", "product": "app", "pain": 2, "pay": "none", "tools": ["Kos Manager"], "quote": "I have houses to rent and looking for an app that can save me some dollar on hiring an admin.", "flag": "none"}
+{"id": "r_1acpr24", "demand": false}
+{"id": "r_1b3ka8r", "demand": false}
+{"id": "r_1b457ck", "demand": false}
+{"id": "r_1b8zd10", "demand": false}
+{"id": "r_1bewvx6", "demand": true, "problem": "affordable bookkeeping software for student club", "who": "student club treasurer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["QuickBooks", "Excel"], "quote": "try and modernize our bookkeeping", "flag": "none"}
+{"id": "r_1bk616s", "demand": false}
+{"id": "r_1bsgh3x", "demand": true, "problem": "free accounting software for small business", "who": "small business owner", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Akaunting", "Wave", "ZipBooks", "LibreOffice"], "quote": "Is there any good free accounting software out there?", "flag": "none"}
+{"id": "r_1fct43d", "demand": true, "problem": "formal procurement approval workflow", "who": "bookkeeper for memory care facilities", "product": "app", "pain": 2, "pay": "none", "tools": ["Procurify"], "quote": "Have a client that is looking for an app to centralize their purchasing process.", "flag": "none"}
+{"id": "r_1aseh7v", "demand": true, "problem": "low-cost bookkeeping software for micro clients", "who": "bookkeeper", "product": "web tool", "pain": 1, "pay": "none", "tools": ["QBO"], "quote": "What is the least expensive alternative to QBO that would meet their requirements and which doesn't suck?", "flag": "none"}
+{"id": "r_1by2pel", "demand": true, "problem": "lead generation platform for bookkeepers", "who": "bookkeeper", "product": "web tool", "pain": 2, "pay": "none", "tools": ["QBO ProAdvisor", "Xero"], "quote": "Not that QBO ProAdvisor has ever given a single lead.", "flag": "none"}
+{"id": "r_1c496ss", "demand": true, "problem": "cheaper bookkeeping software with check printing", "who": "chiropractic practice owner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["QuickBooks", "Xero", "Wave"], "quote": "Looking for a lower-priced alternative to QBO, but it's hard to figure out which software might fit", "flag": "none"}
+{"id": "r_1clzuma", "demand": true, "problem": "standalone bookkeeping software without subscription", "who": "bookkeeper", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["QuickBooks"], "quote": "QB's complexity, subscription nightmare, and drive to get everyone into the cloud is making bookkeeping and accounting a nightmare activity.", "flag": "none"}
+{"id": "r_1f0bqlo", "demand": true, "problem": "receipt capture matched to transactions", "who": "legal accountant", "product": "app", "pain": 2, "pay": "none", "tools": ["Uncat", "Dext", "QuickBooks Online"], "quote": "I need to track advanced client cost per matter for legal accounting purposes.", "flag": "none"}
+{"id": "r_1g0g3zk", "demand": false}
+{"id": "r_1gs35u9", "demand": true, "problem": "management app comparison for bookkeeping firm", "who": "bookkeeper", "product": "app", "pain": 1, "pay": "none", "tools": ["Keeper", "Financial Cents"], "quote": "My job (boutique bookkeeping firm) is looking to implement a more robust management app.", "flag": "none"}
+{"id": "r_1gy0hdr", "demand": true, "problem": "w9 collection and 1099 e-filing service", "who": "bookkeeper", "product": "web tool", "pain": 3, "pay": "implied", "tools": ["tax1099"], "quote": "We've been using tax1099 for many years and they are simply terrible.", "flag": "none"}
+{"id": "r_1hcxoc4", "demand": false}
+{"id": "r_1hsol8m", "demand": false}
+{"id": "r_1hw9519", "demand": true, "problem": "bank import reliability in quickbooks alternative", "who": "small business owner", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["QuickBooks Online", "PayPal"], "quote": "Some accounts, like paypal import duplicate transactions.", "flag": "none"}
+{"id": "r_1igxkhk", "demand": true, "problem": "1099 filing software that is easy to use", "who": "bookkeeper for concert promoter", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["Formswift"], "quote": "The interface was horrible and it was so easy to make mistakes when inputting W2 info.", "flag": "none"}
+{"id": "r_1j6aywd", "demand": true, "problem": "affordable financial reporting dashboards", "who": "bookkeeper", "product": "web tool", "pain": 1, "pay": "implied", "tools": ["Fathom HQ"], "quote": "What alternative tools do you use for financial reporting that are a higher level than what standard reports has to offer?", "flag": "none"}
+{"id": "r_1j70bf9", "demand": true, "problem": "affordable receipt ocr for bookkeeping", "who": "bookkeeper or freelancer", "product": "app", "pain": 2, "pay": "implied", "tools": ["Dext", "QuickBooks", "Xero"], "quote": "I've been using Dext for a while, but I'm finding the pricing is getting a bit steep for my needs.", "flag": "none"}
+{"id": "r_1j9mb0p", "demand": true, "problem": "quickbooks desktop replacement with data migration", "who": "bookkeeper for small business", "product": "desktop software", "pain": 3, "pay": "implied", "tools": ["QuickBooks Desktop", "QuickBooks Online", "Xero"], "quote": "We are getting priced out with their insane price hikes", "flag": "none"}
+{"id": "r_1jzybjj", "demand": true, "problem": "bill entry automation synced to qbo", "who": "bookkeeper", "product": "automation", "pain": 2, "pay": "implied", "tools": ["BILL", "QuickBooks Online"], "quote": "I am still spending too much time entering in bills and vendor information.", "flag": "none"}
+{"id": "r_1keeja4", "demand": false}
+{"id": "r_1ku04qs", "demand": true, "problem": "mobile-friendly bookkeeping for record label", "who": "record label owner", "product": "app", "pain": 2, "pay": "implied", "tools": ["WaveApps", "SoundExchange"], "quote": "WaveApps started charging customers a monthly fee.", "flag": "none"}
+{"id": "r_1kyst6o", "demand": true, "problem": "fund accounting software for nonprofits", "who": "independent bookkeeper for nonprofits", "product": "desktop software", "pain": 2, "pay": "implied", "tools": ["QuickBooks Online", "QuickBooks Desktop"], "quote": "QB Online just doesn't cut it.", "flag": "none"}
+{"id": "r_1ln14wh", "demand": true, "problem": "affordable payroll software for multiple EINs", "who": "payroll admin for two companies", "product": "desktop software", "pain": 2, "pay": "implied", "tools": ["QuickBooks Desktop", "QuickBooks Online", "Patriot Payroll", "SurePayroll"], "quote": "Quickbooks Desktop keeps increasing their prices.", "flag": "none"}
+{"id": "r_1mtimoy", "demand": false}
+{"id": "r_1p3slm9", "demand": true, "problem": "affordable accounting software replacing quickbooks enterprise", "who": "company bookkeeper", "product": "desktop software", "pain": 2, "pay": "implied", "tools": ["QuickBooks Enterprise"], "quote": "However, their pricing has gone through the roof.", "flag": "none"}
+{"id": "r_1eqe6lj", "demand": true, "problem": "receipt scanning spending analytics", "who": "individual consumer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that will scan receipts and give me stats of what I'm spending money on?", "flag": "none"}
+{"id": "r_1ijzqx4", "demand": true, "problem": "receipt scanning to csv for expense reports", "who": "small company accountant", "product": "app", "pain": 3, "pay": "explicit", "tools": [], "quote": "Each month I spend literal DAYS organizing, scanning and inputting their expenses into a spreadsheet", "flag": "none"}
+{"id": "r_1ld3n9c", "demand": false}
+{"id": "r_19230te", "demand": true, "problem": "tax filing software for mac", "who": "small s corp owner", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["TurboTax", "Parallels"], "quote": "It only runs on Windows and so I use Parallels to run Windows 11 on my Mac.", "flag": "none"}
+{"id": "r_1954hco", "demand": false}
+{"id": "r_19933sz", "demand": true, "problem": "faster adjusting journal entries", "who": "accountant", "product": "app", "pain": 1, "pay": "none", "tools": ["ten key ATB"], "quote": "Would anyone recommend a better similar alternative to tk atb?", "flag": "none"}
+{"id": "r_1b4ow9l", "demand": true, "problem": "e-filing prior-year tax returns", "who": "individual taxpayer", "product": "web tool", "pain": 2, "pay": "none", "tools": ["FreeTaxUSA"], "quote": "Is there anyway other alternative to mailing them and waiting months?", "flag": "none"}
+{"id": "r_1bki6fi", "demand": true, "problem": "w-4 withholding estimate for variable faculty pay", "who": "teacher", "product": "web tool", "pain": 2, "pay": "none", "tools": ["IRS W-4 estimator"], "quote": "Is there any alternative calculator that I can use for annual salary estimations rather than monthly?", "flag": "none"}
+{"id": "r_1c04cvu", "demand": false}
+{"id": "r_1ef4jlh", "demand": true, "problem": "tax calculation check app", "who": "taxpayer", "product": "app", "pain": 1, "pay": "none", "tools": ["TurboTax"], "quote": "I would like to validate their filing by doing the calculations for 2021, but with the assistance of an application similar to TurboTax.", "flag": "none"}
+{"id": "r_18wsmkb", "demand": false}
+{"id": "r_18xl7hk", "demand": false}
+{"id": "r_18xxqqc", "demand": false}
+{"id": "r_18y18z8", "demand": false}
+{"id": "r_18ypga6", "demand": false}
+{"id": "r_1901e0p", "demand": false}
+{"id": "r_19axegz", "demand": false}
+{"id": "r_19bo9yo", "demand": false}
+{"id": "r_19brfwy", "demand": false}
+{"id": "r_18w6p2f", "demand": true, "problem": "budget overview for irregular paydays", "who": "household budget manager", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that can use my bank account information to help me have a better overview of my finances?", "flag": "none"}
+{"id": "r_18y3rcl", "demand": true, "problem": "expense tracking without bank sync for busy parent", "who": "new mother", "product": "app", "pain": 2, "pay": "none", "tools": ["Excel"], "quote": "no matter how hard I try I still fail to continue doing it consistently.", "flag": "none"}
+{"id": "r_190zsxv", "demand": true, "problem": "automated small daily credit card payments", "who": "consumer with credit card debt", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "It would be so much easier to manage my huge credit card debt if $10 would automatically be withdrawn from my checking account everyday", "flag": "interest/financing (credit card debt payments)"}
+{"id": "r_193usw4", "demand": true, "problem": "split and personal bill budgeting for couples", "who": "couple sharing expenses", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that can make this differentiation?", "flag": "none"}

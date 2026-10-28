@@ -67,12 +67,13 @@ def reddit():
             if key in done:
                 continue
             # The archive matches loose words, not the exact phrase; cap pages so broad pairs cannot dominate.
-            after, new = CFG["since"], 0
+            after, new, failed = CFG["since"], 0, False
             for _ in range(CFG.get("reddit_max_pages", 2)):
                 q = urllib.parse.urlencode({"subreddit": sub, "query": phrase, "after": after, "limit": 50,
                                             "sort": "asc", "fields": fields})
                 d = get(f"https://arctic-shift.photon-reddit.com/api/posts/search?{q}")
                 time.sleep(CFG.get("reddit_sleep", 1.5))
+                failed = d is None
                 if not d or not d["data"]:
                     break
                 for p in d["data"]:
@@ -83,7 +84,9 @@ def reddit():
                 if len(d["data"]) < 50:
                     break
                 after = d["data"][-1]["created_utc"] + 1
-            print(f"reddit {sub} | {phrase}: +{new}", flush=True)
+            print(f"reddit {sub} | {phrase}: +{new}" + (" (failed, retry next run)" if failed else ""), flush=True)
+            if failed:
+                continue
             with done_path.open("a", encoding="utf-8") as f:
                 f.write(key + "\n")
 

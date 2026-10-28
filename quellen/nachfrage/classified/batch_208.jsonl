@@ -1,0 +1,100 @@
+{"id": "r_18vt8kj", "demand": true, "problem": "expense tracking with receipt storage", "who": "individual consumer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I am looking for an app I and input all my transactions and categorize them while also having the ability to save a copy of the receipt to it.", "flag": "none"}
+{"id": "r_18xedd8", "demand": true, "problem": "multi-currency shared budget app", "who": "eu couple", "product": "app", "pain": 1, "pay": "none", "tools": ["Mint", "Empower", "spreadsheet"], "quote": "looking for free or one-time payment personal finance app for two users outside US with multiple currencies and accounts.", "flag": "none"}
+{"id": "r_18yb3qo", "demand": true, "problem": "couples split budget app", "who": "couple with personal loans", "product": "app", "pain": 2, "pay": "none", "tools": ["YNAB"], "quote": "put together the remaining on mutual spendings and savings", "flag": "none"}
+{"id": "r_1994sw1", "demand": true, "problem": "envelope budgeting with rollover for european banks", "who": "individual in greece", "product": "app", "pain": 2, "pay": "none", "tools": ["Wallet by BudgetBakers"], "quote": "I cannot move the remaining to the next month, unless I do it manually every month.", "flag": "none"}
+{"id": "r_19ddra9", "demand": true, "problem": "simple daily bank balance viewer", "who": "excel budgeter", "product": "app", "pain": 1, "pay": "none", "tools": ["Excel"], "quote": "Looking for an app that just shows me my different balances each day.", "flag": "none"}
+{"id": "r_1adl7as", "demand": true, "problem": "credit card balance aggregation without bureau data", "who": "consumer", "product": "app", "pain": 2, "pay": "none", "tools": ["Mint", "Credit Karma", "Fidelity"], "quote": "I tried Credit Karma, but it pulls stuff from your bureau.", "flag": "none"}
+{"id": "r_1ais7x1", "demand": true, "problem": "long-term project budget forecasting", "who": "homeowner couple", "product": "app", "pain": 1, "pay": "none", "tools": ["Excel", "Google Sheets"], "quote": "We want to be able to create budgets for each of the projects, run what-if scenarios", "flag": "none"}
+{"id": "r_1am5hp7", "demand": true, "problem": "shared weekly spending budget for couples", "who": "married couple", "product": "app", "pain": 1, "pay": "none", "tools": ["Excel"], "quote": "Looking for an app that my wife and I can use to share our weekly budgets.", "flag": "none"}
+{"id": "r_1au9zlk", "demand": true, "problem": "year over year spending comparison across accounts", "who": "individual", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Pocket Guard", "Empower", "Fidelity"], "quote": "I also want to be able to track my spending in different categories month to month but also year to year", "flag": "none"}
+{"id": "r_1ayaed3", "demand": true, "problem": "tracking multiple credit card balances and due dates", "who": "consumer in credit card debt", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "it is pretty difficult to keep track of all of them along with their balances, minimum payments, due dates, and interest rates.", "flag": "none"}
+{"id": "r_1b4vh2w", "demand": true, "problem": "budgeting app to eliminate credit card debt", "who": "couple in early 50s", "product": "app", "pain": 3, "pay": "none", "tools": ["YNAB", "Excel"], "quote": "looking for an app to get my head around budgeting and eliminate cc debt.", "flag": "none"}
+{"id": "r_1b5kpi9", "demand": true, "problem": "sinking fund tracking app", "who": "individual saver", "product": "app", "pain": 1, "pay": "none", "tools": ["Excel"], "quote": "just one that allows me to set up categories and at a quick glance see how much I have saved in this fund or that fund.", "flag": "none"}
+{"id": "r_1b9vvzn", "demand": true, "problem": "loan payoff strategy visualization", "who": "household with multiple loans", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "how those payments would impact our budget.", "flag": "none"}
+{"id": "r_198da6f", "demand": false}
+{"id": "r_1ac85o5", "demand": false}
+{"id": "r_1afq3fo", "demand": false}
+{"id": "r_1ak0ch4", "demand": false}
+{"id": "r_1baoxt3", "demand": false}
+{"id": "r_1bav1gl", "demand": false}
+{"id": "r_1bowl23", "demand": false}
+{"id": "r_1bs0ehl", "demand": false}
+{"id": "r_1c4vzzm", "demand": false}
+{"id": "r_1c8b1h7", "demand": false}
+{"id": "r_1c94bm5", "demand": false}
+{"id": "r_1cdjsqp", "demand": false}
+{"id": "r_1cg9otd", "demand": false}
+{"id": "r_1cjhpd4", "demand": false}
+{"id": "r_1cqewll", "demand": false}
+{"id": "r_18z7nk8", "demand": true, "problem": "local restaurant deal discovery", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that shows you restaurant deals or specials near me?", "flag": "none"}
+{"id": "r_1aywc87", "demand": true, "problem": "grocery price comparison across stores", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Wondering if there is an app that can compare costs of items from different grocery stores?", "flag": "none"}
+{"id": "r_1caxboa", "demand": true, "problem": "meal planning with ingredient cost budgeting", "who": "consumer", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Surely there's a way they can link to the cost of ingredients", "flag": "none"}
+{"id": "r_1chpxvx", "demand": true, "problem": "grocery price comparison across stores", "who": "consumer", "product": "app", "pain": 2, "pay": "none", "tools": ["Notepad app"], "quote": "I was hoping there is one app where I can track all prices for all stores in my area.", "flag": "none"}
+{"id": "r_1giucm2", "demand": true, "problem": "price drop alerts for specific products", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": ["Giftful"], "quote": "The app would then alert me to a sale of that item.", "flag": "none"}
+{"id": "r_1i4x1pr", "demand": true, "problem": "in-store coupon finder app", "who": "college student", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm mainly looking for app that will find you coupons for in-store purchases.", "flag": "none"}
+{"id": "r_1jc0b0h", "demand": true, "problem": "restaurant deal alerts", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that alerts you to new deals and coupons for restaurants and fast food places?", "flag": "none"}
+{"id": "r_1ajwinl", "demand": true, "problem": "price change alerts for saved items", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "that send alerts on items you like that will send alerts when the price changes", "flag": "none"}
+{"id": "r_1av9nqh", "demand": true, "problem": "manual expense tracking without bank linking", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Your favorite manual budgeting app?", "flag": "none"}
+{"id": "r_1bcmbyi", "demand": true, "problem": "free beginner personal finance app", "who": "beginner budgeter", "product": "app", "pain": 1, "pay": "none", "tools": ["YNAB"], "quote": "Looking for an app to help me face my money.", "flag": "none"}
+{"id": "r_1bhr6ju", "demand": true, "problem": "gas price lookup app without rebates", "who": "driver", "product": "app", "pain": 1, "pay": "none", "tools": ["GasBuddy"], "quote": "I'm just looking for an app, or even website, that ONLY shows gas prices.", "flag": "none"}
+{"id": "r_1fbwssa", "demand": true, "problem": "shopping list with specific brand selection", "who": "household grocery shopper", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I do the majority of the grocery shopping just because I have specific brands I prefer.", "flag": "none"}
+{"id": "r_1fzhe53", "demand": true, "problem": "repeat grocery reorder with price comparison", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": ["Costco", "BJ's", "Amazon"], "quote": "allows me to reorder frequently purchased items easily.", "flag": "none"}
+{"id": "r_1kj1ouy", "demand": true, "problem": "grocery price comparison app", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": ["Basket", "Flipp"], "quote": "i'm looking for an app similar to basket.", "flag": "none"}
+{"id": "r_1ltzgx3", "demand": true, "problem": "free manual expense tracker without bank link", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": ["Excel"], "quote": "I don't want something that links to my bank.", "flag": "none"}
+{"id": "r_1lzbiqf", "demand": true, "problem": "income vs expense percentage tracking", "who": "individual", "product": "app", "pain": 1, "pay": "none", "tools": ["spreadsheet"], "quote": "None seem to list my expenses vs income as a percentage.", "flag": "none"}
+{"id": "r_1ob3hkg", "demand": true, "problem": "grocery list price comparison across stores", "who": "consumer", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I feel like I spend hours each week just comparing!!", "flag": "none"}
+{"id": "r_1ri7tt8", "demand": true, "problem": "free at-home workout tracking with plan", "who": "beginner exerciser", "product": "app", "pain": 1, "pay": "none", "tools": ["YouTube"], "quote": "I want something more streamlined and that tracks my progress/sets up a long term workout plan.", "flag": "none"}
+{"id": "r_1ba25p8", "demand": true, "problem": "auto-categorize spending across credit cards and checking", "who": "consumer", "product": "app", "pain": 2, "pay": "none", "tools": ["Rocket Money"], "quote": "I dread having to do this manually", "flag": "none"}
+{"id": "r_1cd4o7e", "demand": true, "problem": "cash flow forecasting in zero-based budget app", "who": "budgeter outside US", "product": "app", "pain": 2, "pay": "explicit", "tools": ["YNAB", "Excel"], "quote": "Currently using YNAB but getting frustrated because I have to use excel to see my cash flow and tweak the budget accordingly.", "flag": "none"}
+{"id": "r_1f1r6ai", "demand": false}
+{"id": "r_1fhr9sn", "demand": false}
+{"id": "r_1gyeinx", "demand": true, "problem": "bill tracking connected to utility providers", "who": "consumer", "product": "app", "pain": 2, "pay": "none", "tools": ["Mint", "Monarch", "Empower"], "quote": "Does anyone have an alternative to Mint app that is able to track bills and connect to different utility providers for real time upcoming bill?", "flag": "none"}
+{"id": "r_1hg1p6z", "demand": true, "problem": "budget app linking to belgian banks", "who": "consumer in belgium", "product": "app", "pain": 1, "pay": "none", "tools": ["Rocket Money"], "quote": "Unfortunately, it's not available for banks in my country (Belgium).", "flag": "none"}
+{"id": "r_1hw46rg", "demand": true, "problem": "free budgeting app with bank sync", "who": "budgeter switching to lower-pay job", "product": "web tool", "pain": 2, "pay": "none", "tools": ["YNAB", "Google Sheets"], "quote": "I like how YNAB pulled data from my bank account automatically.", "flag": "none"}
+{"id": "r_1iis7rz", "demand": true, "problem": "zero-based budgeting app with bank connection and envelopes", "who": "budgeter", "product": "app", "pain": 2, "pay": "explicit", "tools": ["Every Dollar", "Fidelity", "Actualbudget", "Mint", "Empower", "Excel"], "quote": "Zero based budget, where every dollar is accounted for.", "flag": "none"}
+{"id": "r_1k1lpj8", "demand": true, "problem": "free tracker for online shopping spending", "who": "budgeter", "product": "app", "pain": 1, "pay": "none", "tools": ["YNAB"], "quote": "any free alternative to YNAB for keeping track of online shopping spendings?", "flag": "none"}
+{"id": "r_1kxixrz", "demand": false}
+{"id": "r_1kxkvsp", "demand": false}
+{"id": "r_1l2fd5j", "demand": false}
+{"id": "r_1pid2ed", "demand": false}
+{"id": "r_1r4x6k5", "demand": false}
+{"id": "r_1uydyuh", "demand": false}
+{"id": "r_1nd3k06", "demand": false}
+{"id": "r_193uw4z", "demand": true, "problem": "split and personal bill budgeting for couples", "who": "couple sharing expenses", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that can budget like this?", "flag": "none"}
+{"id": "r_1969rce", "demand": true, "problem": "simple budget deduction from credit card spend", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": ["credit card"], "quote": "I just want to be able to input a budget amount and have the app link to my credit card", "flag": "none"}
+{"id": "r_1au6lsx", "demand": true, "problem": "auto-adjusting category budgets from card charges", "who": "budgeter", "product": "app", "pain": 1, "pay": "none", "tools": ["YNAB"], "quote": "that would auto adjust my spend category to show $150 remaining", "flag": "none"}
+{"id": "r_1c423ln", "demand": true, "problem": "couple budget view of credit card transactions", "who": "couple", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I put every transaction on my credit cards and so does my husband.", "flag": "none"}
+{"id": "r_1ce3jnx", "demand": true, "problem": "tracking alimony deposits in budget", "who": "individual budgeter", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I would like something to track it", "flag": "none"}
+{"id": "r_1egkk9w", "demand": true, "problem": "cash flow calendar for bills and paydays", "who": "individual", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "is there an app that can show a graph of when I am at the greens and when I am at the reds.", "flag": "none"}
+{"id": "r_1fqs6qg", "demand": true, "problem": "cheapest grocery price across stores from list", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Like you add your favorite groceries on the app, and the app tells you where it's the cheapest", "flag": "none"}
+{"id": "r_1ftv5us", "demand": true, "problem": "budget app with average category forecasting", "who": "budgeter", "product": "app", "pain": 2, "pay": "implied", "tools": ["Monarch", "RocketMoney"], "quote": "the ability to see the average expenditure for a category over the last 6 months and budget the average.", "flag": "none"}
+{"id": "r_1990d7v", "demand": true, "problem": "credit card charges plotted against budget lines", "who": "budgeter", "product": "app", "pain": 1, "pay": "none", "tools": ["Mint", "NerdWallet"], "quote": "that pulls my credit card charges and plots that against my budget line items.", "flag": "none"}
+{"id": "r_199fxzd", "demand": true, "problem": "subscription and bill tracking app", "who": "consumer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Im looking for an app i can use to help budget by telling me what subscriptions i have", "flag": "none"}
+{"id": "r_1bjdftd", "demand": true, "problem": "mobile ledger with recurring expenses", "who": "individual", "product": "app", "pain": 1, "pay": "none", "tools": ["Simple Checkbook Ledger"], "quote": "I would like one that allows me to make a list of recurring expenses, so I don't have to add them over and over again", "flag": "none"}
+{"id": "r_1cxrlt6", "demand": true, "problem": "envelope budgeting app with bank link in australia", "who": "consumer in australia", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app that is available in Australia and can be linked to my bank accounts.", "flag": "none"}
+{"id": "r_1dcjgpz", "demand": true, "problem": "bank-linked spending charts with transaction edits", "who": "consumer", "product": "app", "pain": 2, "pay": "none", "tools": ["Cashew", "Spendee"], "quote": "And I can't delete those?", "flag": "none"}
+{"id": "r_1ds5fgf", "demand": true, "problem": "bi-weekly budgeting with bank linking", "who": "consumer", "product": "app", "pain": 2, "pay": "none", "tools": ["Rocket Money"], "quote": "and I can link my bank accounts", "flag": "none"}
+{"id": "r_1dzecdj", "demand": true, "problem": "free recurring expense reminder app", "who": "new budgeter", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "that can track my recurring and upcoming expenses and send me reminders on paydays.", "flag": "none"}
+{"id": "r_1e0yxqx", "demand": true, "problem": "spendable balance after upcoming bills", "who": "consumer", "product": "app", "pain": 2, "pay": "implied", "tools": ["PocketGuard"], "quote": "I want an app that connects to all my accounts and as I spend or get paid it is syncing", "flag": "none"}
+{"id": "r_1e9v8sz", "demand": true, "problem": "envelope-style money separation for teens", "who": "teen", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "i'm not looking for an app to manage my credit cards or anything like that, just an app i can use to separate my money.", "flag": "none"}
+{"id": "r_1ecna6a", "demand": true, "problem": "combined balance view across bank accounts", "who": "consumer", "product": "app", "pain": 2, "pay": "none", "tools": ["SoFi", "Empower"], "quote": "I am looking for an app that can display total balances across all accounts like empower", "flag": "none"}
+{"id": "r_1emi7mj", "demand": true, "problem": "combined personal and business finance overview", "who": "sole proprietor", "product": "app", "pain": 2, "pay": "none", "tools": ["QuickBooks"], "quote": "I really just need to see combined expenses and budgets for all of my business and personal expenses together somewhere.", "flag": "none"}
+{"id": "r_1ews79r", "demand": true, "problem": "shared expense categorization for couples", "who": "couple", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "We would like to each input our own expenses and categorize them together as opposed to each their own", "flag": "none"}
+{"id": "r_1kz1n73", "demand": true, "problem": "time-based call diversion with greetings", "who": "small business owner", "product": "app", "pain": 1, "pay": "none", "tools": ["iPhone"], "quote": "Is there an app that can help with this as I know its not a feature of mobile phones.", "flag": "none"}
+{"id": "r_193i2ah", "demand": true, "problem": "driver mileage tracking shared with manager", "who": "small business owner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app that can be installed on my delivery drivers phone which tracks the miles that they drive", "flag": "none"}
+{"id": "r_18y9b7r", "demand": false}
+{"id": "r_18zxdbl", "demand": false}
+{"id": "r_1958qpy", "demand": false}
+{"id": "r_195uyjp", "demand": false}
+{"id": "r_198bs2y", "demand": false}
+{"id": "r_1acztzj", "demand": false}
+{"id": "r_1bejs5u", "demand": true, "problem": "allocating shared card expenses between partners", "who": "couple sharing an amex", "product": "app", "pain": 2, "pay": "none", "tools": ["AMEX"], "quote": "allocate debit lines to each account/ sometimes splitting a debit line 50/50", "flag": "none"}
+{"id": "r_18yid7t", "demand": false}
+{"id": "r_18z1owb", "demand": false}
+{"id": "r_190ea0e", "demand": false}
+{"id": "r_1ay8rwi", "demand": false}
+{"id": "r_1azzs9g", "demand": false}
+{"id": "r_1c1paxt", "demand": false}
+{"id": "r_1ex15i4", "demand": false}
+{"id": "r_1ex16f4", "demand": true, "problem": "unlimited e-signature for employee pay plans", "who": "hr professional", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["Docusign"], "quote": "they told us we exceeded our limit on envelopes", "flag": "none"}
+{"id": "r_1gl7fej", "demand": false}

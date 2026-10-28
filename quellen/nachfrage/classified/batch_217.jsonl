@@ -1,0 +1,100 @@
+{"id": "r_1b4wc1p", "demand": true, "problem": "table management in Obsidian", "who": "obsidian user", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Obsidian", "Notion", "dbfolder", "DataLoom"], "quote": "Compared to notion I can't find any plugin to be able to manage tables easily and quickly like in notion", "flag": "none"}
+{"id": "r_1b5qgbj", "demand": true, "problem": "automated monthly calendar in notes", "who": "obsidian user", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Obsidian", "Periodic Notes plugin"], "quote": "The calendar is the part I would like to automate because I have to create it manually every time I open up a new monthly note.", "flag": "none"}
+{"id": "r_1bgank9", "demand": true, "problem": "Typora integration with Obsidian", "who": "obsidian user", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["Typora", "Obsidian"], "quote": "Is there a way to use it as an alternative to the native Obsidian editor", "flag": "none"}
+{"id": "r_1bof4pk", "demand": false}
+{"id": "r_1bwa5ax", "demand": true, "problem": "task and project management app with scheduling", "who": "knowledge worker", "product": "app", "pain": 2, "pay": "none", "tools": ["Obsidian", "Notion", "Things 3", "iCloud", "Syncthing"], "quote": "Is there some alternative to obsidian for task and project management?", "flag": "none"}
+{"id": "r_1c75xij", "demand": false}
+{"id": "r_1l8rfmh", "demand": true, "problem": "unifying fragmented notes across apps", "who": "student", "product": "app", "pain": 2, "pay": "none", "tools": ["Apple Quick Notes", "Goodnotes", "Joplin", "Obsidian"], "quote": "Are there alternatives or is there a way I can defragment my scattered Notes.", "flag": "none"}
+{"id": "r_1e4j28c", "demand": true, "problem": "GTD outliner task app with backlinks", "who": "adhd user", "product": "app", "pain": 2, "pay": "none", "tools": ["Obsidian", "Workflowy", "Notion", "Todoist", "TickTick"], "quote": "I'm looking for an app that has:", "flag": "none"}
+{"id": "r_1f2t4nc", "demand": true, "problem": "checklists inside tables in notes app", "who": "note-taker", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that allows me to use markdowns or atleast checklists in tables???", "flag": "none"}
+{"id": "r_1foedur", "demand": true, "problem": "gamified life goal tracking app", "who": "beginner note-taker", "product": "app", "pain": 1, "pay": "none", "tools": ["Obsidian", "Notion", "Amplenote"], "quote": "I want to essentially make my life into a videogame", "flag": "none"}
+{"id": "r_18xaqlk", "demand": true, "problem": "slow multi-vendor price list lookups", "who": "retail store operator", "product": "desktop software", "pain": 3, "pay": "none", "tools": ["Excel", "Access"], "quote": "My issue is 365 Excel has become very slow and time consuming when I use these files, sometimes I have to save the file and wait nearly a minute for the formulas to update.", "flag": "none"}
+{"id": "r_1912yyd", "demand": false}
+{"id": "r_191lpdi", "demand": false}
+{"id": "r_195dz4n", "demand": false}
+{"id": "r_19aaejc", "demand": false}
+{"id": "r_1acg57c", "demand": false}
+{"id": "r_1b9qwyd", "demand": false}
+{"id": "r_1cqwd0r", "demand": true, "problem": "simple spreadsheet app for budgeting", "who": "general user", "product": "app", "pain": 1, "pay": "none", "tools": ["Typora", "AiWriter", "Notion", "Obsidian", "Excel"], "quote": "But is there an app that's good for easy excel-like-thinks?", "flag": "none"}
+{"id": "r_1ebo40f", "demand": true, "problem": "prioritization matrix template", "who": "general user", "product": "template", "pain": 1, "pay": "none", "tools": ["Excel"], "quote": "I tried looking for an app that utilizes the same concept but figured excel is my best bet to make and reuse a template.", "flag": "none"}
+{"id": "r_1abfa2g", "demand": false}
+{"id": "r_1c0qqu4", "demand": true, "problem": "web data import into Sheets from casino site", "who": "spreadsheet user", "product": "automation", "pain": 1, "pay": "none", "tools": ["Google Sheets", "importxml", "MOLE"], "quote": "importxml doesen't work, I found there are many add-on but I dont know which one to install, I tried MOLE but it seems doesnt work.", "flag": "gambling"}
+{"id": "r_1cclirq", "demand": false}
+{"id": "r_1d4dkgk", "demand": false}
+{"id": "r_1fd6r8r", "demand": true, "problem": "mobile-friendly geo map chart", "who": "spreadsheet user", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Google Sheets"], "quote": "Is there a way to get this to work, or an alternative to use to accomplish this.", "flag": "none"}
+{"id": "r_1foh6qy", "demand": true, "problem": "mobile app for working on spreadsheets", "who": "office worker", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Sheets"], "quote": "Is there an app that pulls from Google but actually allows you to work on mobile?", "flag": "none"}
+{"id": "r_1fw9yme", "demand": false}
+{"id": "r_1gmqrcc", "demand": true, "problem": "dashboards from Google Sheets data", "who": "spreadsheet user", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Looker Studio", "Google Sheets"], "quote": "What's the best alternative to Looker Studio for building dashboards from Google Sheets?", "flag": "none"}
+{"id": "r_1hcy9bq", "demand": false}
+{"id": "r_1hfruoa", "demand": false}
+{"id": "r_1d7a0o9", "demand": true, "problem": "live status display from Google Sheets", "who": "nonprofit volunteer coordinator", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Forms", "Google Sheets"], "quote": "Is there an app that can read the .csv data from the Sheets file, and feed that information into a custom status screen in real-time?", "flag": "none"}
+{"id": "r_1dk9q8r", "demand": true, "problem": "weekly time tracking with progress bars", "who": "individual user", "product": "app", "pain": 1, "pay": "none", "tools": ["Google Sheets"], "quote": "I'm looking for an app that I can log in my time spent on each activity into daily, and it will show me in a progress-bar style how close I am to hitting my target number of hours.", "flag": "none"}
+{"id": "r_1hhba2f", "demand": true, "problem": "barcode scan with lookup and export to sheets", "who": "retail or inventory user", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I’m looking for an app that can scan, lookup field information and plop it into the sheet.", "flag": "none"}
+{"id": "r_1b1n3zo", "demand": false}
+{"id": "r_1cyuj73", "demand": true, "problem": "auto-mark travel events as busy in calendar", "who": "traveler", "product": "automation", "pain": 2, "pay": "none", "tools": ["Zapier", "TripIt", "Gmail", "Google Calendar"], "quote": "or are there alternative tools or scripts that might handle this better?", "flag": "none"}
+{"id": "r_1dmjcxj", "demand": true, "problem": "auto-save email attachments to job folders", "who": "freelance audio worker", "product": "automation", "pain": 2, "pay": "none", "tools": ["Zapier"], "quote": "I'm looking for a cheaper alternative to Zapier to auto save email attachments (specifically sound files) to cloud storage.", "flag": "none"}
+{"id": "r_1hu9apw", "demand": true, "problem": "connect ChatGPT subscription to automations", "who": "individual user", "product": "automation", "pain": 2, "pay": "none", "tools": ["ChatGPT Plus", "Zapier", "OpenAI API"], "quote": "Is there a way to connect ChatGPT Plus directly to Zapier without using an OpenAI API key?", "flag": "none"}
+{"id": "r_1jyu4b1", "demand": false}
+{"id": "r_1lodkbj", "demand": true, "problem": "reliable automation tool with human support", "who": "startup founder", "product": "automation", "pain": 3, "pay": "none", "tools": ["Zapier"], "quote": "What is a good alternative to Zapier that has support?", "flag": "none"}
+{"id": "r_1m0er8o", "demand": true, "problem": "fast-updating online calendar with URL import", "who": "individual user", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Calendar", "Zapier", "Apple Calendar"], "quote": "I'm looking for an alternative to Google Calendar because it's too slow at updating the calendar from URL, so Zapier takes hours to retrieve the data.", "flag": "none"}
+{"id": "r_1w0opbq", "demand": false}
+{"id": "r_1p7gcx9", "demand": true, "problem": "client context for Zapier automations", "who": "automation service provider", "product": "automation", "pain": 2, "pay": "none", "tools": ["Zapier", "Notion"], "quote": "they wish there was a tool that could plug into their Zapier flows", "flag": "none"}
+{"id": "r_1asja9s", "demand": true, "problem": "no-code platform with calendar functionality", "who": "startup ux designer", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Bubble", "Bravo Studio", "Figma"], "quote": "Any other no-code platform that would make more sense, considering inclusion of calendar functionality?", "flag": "none"}
+{"id": "r_1b3w0rg", "demand": false}
+{"id": "r_1c5jp1f", "demand": true, "problem": "affordable online forms for healthcare office", "who": "non-profit healthcare office staff", "product": "web tool", "pain": 3, "pay": "implied", "tools": ["Jotform", "Feathery", "Formaloo", "Typeform"], "quote": "I'm looking for an alternative to that, as they are not able to provide the services we need without a massive $10K price tag.", "flag": "none"}
+{"id": "r_1c7z939", "demand": true, "problem": "no-code internal app with spreadsheet import and roles", "who": "internal app builder", "product": "web tool", "pain": 2, "pay": "none", "tools": ["NocoBase", "Docker"], "quote": "but there is a limit on how many rows that is able to be imported from the spreadsheet.", "flag": "none"}
+{"id": "r_1cb0die", "demand": true, "problem": "website builder with SEO and simultaneous team editing", "who": "web design company owner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Wix Studio", "Webflow", "WordPress", "Figma"], "quote": "Is there an alternative you would recommend which is optimized for SEO and responsiveness, and allows simultaneous editing by multiple users?", "flag": "none"}
+{"id": "r_1cej1v9", "demand": true, "problem": "AI job application prioritizer", "who": "job seeker developer", "product": "app", "pain": 2, "pay": "none", "tools": ["Retool", "OpenAI API", "GPT-4"], "quote": "What I need is fairly straightforward: a tool that reads my job listings, analyzes my skills and experience, and recommends the most suitable jobs to apply for first", "flag": "none"}
+{"id": "r_1ctndmu", "demand": true, "problem": "CRM replacement software", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Pigeon CRM"], "quote": "Looking for an alternative to Pigeon CRM (or to build one)", "flag": "none"}
+{"id": "r_1dcjwdy", "demand": false}
+{"id": "r_1e27sqm", "demand": true, "problem": "stable no-code development environment", "who": "no-code builder", "product": "web tool", "pain": 2, "pay": "none", "tools": ["WeWeb"], "quote": "It crashes when creating components, generating them, and fetching from the database, risking the loss of components and work.", "flag": "none"}
+{"id": "r_1e7hnac", "demand": true, "problem": "two live order forms with synced stock", "who": "small business owner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Jotform", "Airtable"], "quote": "as far as I can tell there's no way to do this with Jotform.", "flag": "none"}
+{"id": "r_1e9zfjg", "demand": true, "problem": "free open-source React IDE alternative", "who": "react developer", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Codux"], "quote": "I want to know if there is any free and open source alternative to codux.", "flag": "none"}
+{"id": "r_1ezkfaf", "demand": false}
+{"id": "r_1f3jplt", "demand": false}
+{"id": "r_1fhf1ro", "demand": false}
+{"id": "r_1fjs8a3", "demand": true, "problem": "no-code builder with exportable code", "who": "beginner builder", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Bubble"], "quote": "I want more control over the project and the ability to fully own the code, with the option to host it on my own servers later.", "flag": "none"}
+{"id": "r_1ntjzyh", "demand": true, "problem": "daily email digest of follow-ups", "who": "business professional", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Looking for an app/platform that sends daily email reminders for schedules & follow-ups", "flag": "none"}
+{"id": "r_1o64rxe", "demand": true, "problem": "automated daily planning from voice or text", "who": "individual struggling with productivity", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Ideally something with a planning feature that helps lay out the day based on my input (voice or text).", "flag": "none"}
+{"id": "r_18yfsgw", "demand": false}
+{"id": "r_192bghv", "demand": false}
+{"id": "r_192bhjm", "demand": false}
+{"id": "r_192eg2s", "demand": false}
+{"id": "r_193m27u", "demand": false}
+{"id": "r_19cwxh7", "demand": false}
+{"id": "r_19dg8pk", "demand": false}
+{"id": "r_19e0x53", "demand": true, "problem": "self-hosted vision model in Germany", "who": "developer", "product": "other", "pain": 2, "pay": "none", "tools": ["GPT-4V", "LLaVA", "BakLLaVA", "Tesseract"], "quote": "I am exploring AI solutions for vision tasks and trying to find a cost-effective alternative to GPT-4-vision that I can host in Germany and query just like I query the OpenAI API.", "flag": "none"}
+{"id": "r_1afwkvb", "demand": true, "problem": "local data analysis assistant", "who": "researcher analyzing surveys", "product": "app", "pain": 1, "pay": "none", "tools": ["ChatGPT Code Interpreter", "Open Interpreter", "Code Llama"], "quote": "Is there a local alternative to ChatGPT's Code Interpreter/ Data Analyst?", "flag": "none"}
+{"id": "r_1akrlzw", "demand": false}
+{"id": "r_1alsuqp", "demand": false}
+{"id": "r_1amn2q8", "demand": false}
+{"id": "r_1anuuxy", "demand": true, "problem": "text completion editor for local LLMs", "who": "writer using local LLMs", "product": "app", "pain": 1, "pay": "none", "tools": ["LM Studio"], "quote": "Like I want to be able to just write and then have it autocomplete and I can go back and edit etc", "flag": "none"}
+{"id": "r_1aq1qkd", "demand": false}
+{"id": "r_1aq24ps", "demand": true, "problem": "LLM inference benchmarking tools", "who": "ML engineer", "product": "other", "pain": 1, "pay": "none", "tools": ["vLLM", "Ollama"], "quote": "Does anyone have recommendations on tools or frameworks that can accurately measure these performance aspects during deployment?", "flag": "none"}
+{"id": "r_1arq6lf", "demand": true, "problem": "desktop chat app with RAG and custom endpoints", "who": "AI enthusiast", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["GPT4All", "OpenRouter"], "quote": "GPT4ALL does everything I need but it's limited to only GPT-3.5 Turbo and GPT-4.", "flag": "none"}
+{"id": "r_1aujfiz", "demand": true, "problem": "self-hosted LLM request monitoring", "who": "developer with sensitive data", "product": "web tool", "pain": 2, "pay": "none", "tools": ["LangSmith", "Langfuse"], "quote": "I'm looking for a free alternative to LangSmith.", "flag": "none"}
+{"id": "r_1put96m", "demand": false}
+{"id": "r_1tf35n5", "demand": false}
+{"id": "r_191eo1b", "demand": true, "problem": "text-to-speech for full ebooks", "who": "reader", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that can TTS a whole pdf or epub?", "flag": "none"}
+{"id": "r_1c5yjr2", "demand": true, "problem": "mobile client for OpenAI-compatible LLM endpoints", "who": "llama.cpp user", "product": "app", "pain": 1, "pay": "none", "tools": ["llama.cpp"], "quote": "I'm looking for an app I can use for inference on any LLM stuff that has meets openAI API specs.", "flag": "none"}
+{"id": "r_1enau81", "demand": true, "problem": "mobile front-end for home LLM server", "who": "local LLM user", "product": "app", "pain": 1, "pay": "none", "tools": ["llama.cpp"], "quote": "Looking for an app I can run on my android phone to access llama.cpp server running on my local mac.", "flag": "none"}
+{"id": "r_1flj2sh", "demand": true, "problem": "unlimited grammar correction for long manuscript", "who": "author", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "so do you know any tool to do that is unlimited and can manage lot of text?", "flag": "none"}
+{"id": "r_1gk65j3", "demand": true, "problem": "in-depth web research app", "who": "researcher", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Bing Copilot"], "quote": "I'm looking for an app (ideally hosted on a server, not a desktop) that can dig deeper into web content.", "flag": "none"}
+{"id": "r_1gmx4i0", "demand": true, "problem": "iOS chat app with custom endpoints", "who": "local model user", "product": "app", "pain": 2, "pay": "none", "tools": ["Pal Chat", "Enchanted"], "quote": "I thought there would be more options out there aside from enchanted and pal chat", "flag": "none"}
+{"id": "r_18vz3d5", "demand": false}
+{"id": "r_193g7mw", "demand": false}
+{"id": "r_194hod1", "demand": true, "problem": "AI-generated law outlines", "who": "law student", "product": "app", "pain": 2, "pay": "none", "tools": ["ChatGPT", "BARBRI"], "quote": "Any alternative tool?", "flag": "none"}
+{"id": "r_194qm7l", "demand": true, "problem": "free customizable AI assistant with saved business context", "who": "small business owner", "product": "app", "pain": 2, "pay": "none", "tools": ["ChatGPT", "GPTs"], "quote": "repeating the same information all the time is becoming tiresome", "flag": "none"}
+{"id": "r_198c3zs", "demand": true, "problem": "free continuous AI image generation", "who": "hobbyist artist", "product": "web tool", "pain": 1, "pay": "none", "tools": ["GPT-4", "ChatGPT"], "quote": "Any free alternative to the GPT-4 style image generation?", "flag": "none"}
+{"id": "r_19am0hz", "demand": true, "problem": "free continuous AI image generation", "who": "hobbyist artist", "product": "web tool", "pain": 1, "pay": "none", "tools": ["GPT-4", "ChatGPT"], "quote": "I just want a continuous AI art generator.", "flag": "none"}
+{"id": "r_1afdbm8", "demand": true, "problem": "free replacement for ChatGPT Plus features", "who": "language learner", "product": "app", "pain": 2, "pay": "none", "tools": ["ChatGPT Plus", "DALL-E 3", "Bing", "Leonardo"], "quote": "I really wish there will be a free alternative for that.", "flag": "none"}
+{"id": "r_1aggyaw", "demand": true, "problem": "Canadian ChatGPT alternative", "who": "general user", "product": "app", "pain": 2, "pay": "none", "tools": ["ChatGPT"], "quote": "Is there a Canadian available alternative to ChatGPT?", "flag": "none"}
+{"id": "r_1ahwcac", "demand": false}
+{"id": "r_1ahybis", "demand": false}
+{"id": "r_1akb7d5", "demand": true, "problem": "affordable GPT-4 access with PDF chat", "who": "student", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["Omnigpt", "ChatGPT"], "quote": "I am looking for an alternative to chatgpt that is at best inexpensive.", "flag": "none"}
+{"id": "r_1an2ynz", "demand": false}
+{"id": "r_1ap7wa1", "demand": false}
+{"id": "r_1arjgyx", "demand": true, "problem": "cheaper embeddable GPT chatbot without branding", "who": "business owner", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["CustomGPT"], "quote": "Anyway, do you know of any alternatives that charge less to remove their branding?", "flag": "none"}
+{"id": "r_1arp5hz", "demand": true, "problem": "all-in-one multi-model AI subscription", "who": "knowledge worker", "product": "app", "pain": 2, "pay": "none", "tools": ["ChatGPT Plus", "Claude", "Perplexity", "Poe", "MagAI", "Bearly.ai"], "quote": "Any other recommendations on an all-in-one solution that would give the best bang for the buck?", "flag": "none"}
+{"id": "r_1av9f30", "demand": false}
+{"id": "r_1jmkr02", "demand": false}

@@ -1,0 +1,100 @@
+{"id": "r_1g3d4ue", "demand": false}
+{"id": "r_1gcs6ct", "demand": false}
+{"id": "r_1ggg4av", "demand": false}
+{"id": "r_1gplpd1", "demand": true, "problem": "ad-free music player app alternative", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["DDMusic"], "quote": "Alternative to DDMusic without the ads?", "flag": "music (music player)"}
+{"id": "r_1grfq38", "demand": false}
+{"id": "r_1gs9688", "demand": false}
+{"id": "r_1gu4rdt", "demand": true, "problem": "access android data folder without root", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Any new alternative to access android/data folder?", "flag": "none"}
+{"id": "r_1gx65cb", "demand": true, "problem": "raw 48mp photo capture app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Android alternative to \" 48mp Proraw\" photos", "flag": "none"}
+{"id": "r_1h1nevv", "demand": true, "problem": "kernel tuning manager app alternative", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Franco's Kernel Manager"], "quote": "Is there a free alternative to Franco's Kernel Manager?", "flag": "none"}
+{"id": "r_1h3whi9", "demand": false}
+{"id": "r_1h7id0m", "demand": true, "problem": "google-free android operating system", "who": "unknown", "product": "other", "pain": 1, "pay": "none", "tools": ["Google Android"], "quote": "Any alternative to google for Android systems?", "flag": "none"}
+{"id": "r_1hg5zxk", "demand": false}
+{"id": "r_1huur67", "demand": false}
+{"id": "r_1hzfjb6", "demand": true, "problem": "sync thunderbird calendar to android", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Google Calendar", "Thunderbird"], "quote": "Wanted Alternative To Google calendar can sync (Laptop) Thunderbird calendar with my", "flag": "none"}
+{"id": "r_1dchto3", "demand": true, "problem": "custom android rom port request", "who": "unknown", "product": "other", "pain": 1, "pay": "none", "tools": ["One UI 6.1"], "quote": "Can Somebody Make a port for one ui 6.1 for the s10 series", "flag": "none"}
+{"id": "r_197ljhk", "demand": true, "problem": "suspend whatsapp notifications on demand", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["WhatsApp"], "quote": "Is there an app that could swallow/shut WhatsApp and sort of turn it off?", "flag": "none"}
+{"id": "r_1993nja", "demand": true, "problem": "app that runs shortcut on open", "who": "unknown", "product": "automation", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that when opened can run a shortcut or activity/action of some type?", "flag": "none"}
+{"id": "r_1anf9jg", "demand": true, "problem": "auto ringtone volume by ambient noise", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that automatically sets the ringtone level depending on the ambience?", "flag": "none"}
+{"id": "r_1aywia6", "demand": true, "problem": "per-app do not disturb scheduling", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that allows you to set do not disturb for certain notifications for a set period?", "flag": "none"}
+{"id": "r_1bm5fvv", "demand": false}
+{"id": "r_1bno4vh", "demand": true, "problem": "youtube feed limited to chosen channels", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["YouTube"], "quote": "Is there an app that lets me watch specific YouTube channels?", "flag": "none"}
+{"id": "r_1c0bted", "demand": true, "problem": "phone activity log for unauthorized use", "who": "phone owner worried about access", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "(Emergency) is there an app that shows what was used and how or any possibility while someone had your phone.", "flag": "none"}
+{"id": "r_1cnb4c1", "demand": true, "problem": "per-app audio input routing", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that lets me change my audio input or any other given app?", "flag": "none"}
+{"id": "r_1db014d", "demand": true, "problem": "list hidden android apps", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "is there an app that shows every hidden apps", "flag": "none"}
+{"id": "r_1doeo8q", "demand": true, "problem": "low battery reminder alerts", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that lets you set reminders for when the battery is too low?", "flag": "none"}
+{"id": "r_1epzucy", "demand": true, "problem": "product sale price alerts", "who": "shopper", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that tells you when the products you want are on sale?", "flag": "none"}
+{"id": "r_1f9oi9u", "demand": true, "problem": "pinned chats as floating bubbles on android", "who": "former iphone user", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that makes pinned chats be bubbles on the top?", "flag": "none"}
+{"id": "r_1fvgj01", "demand": true, "problem": "run old apk files", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that runs old apks?", "flag": "none"}
+{"id": "r_1achld4", "demand": true, "problem": "bandwidth saturation tool", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app to saturate/waste bandwidth", "flag": "none"}
+{"id": "r_1al046j", "demand": true, "problem": "step and distance counter with reset", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app that has a Step Counter, Mileage / KM counter, and has a reset option", "flag": "none"}
+{"id": "r_1bdnkfo", "demand": true, "problem": "on-demand sound clip playback widget", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app or widget for my phone that plays the Imperial March whenever I need it to.", "flag": "music (playing a track on demand)"}
+{"id": "r_1chsba1", "demand": true, "problem": "automatic wallpaper rotation", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app that can auto change wallpaper.", "flag": "none"}
+{"id": "r_1d9k06i", "demand": true, "problem": "automatic phone call notes", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Looking for an app that automatically takes notes of my phone calls", "flag": "none"}
+{"id": "r_1deouia", "demand": true, "problem": "low-data note taking app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app for taking notes but does not use much data", "flag": "none"}
+{"id": "r_1dj3c87", "demand": true, "problem": "charge start threshold control", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app that allows me to set battery % when phone starts recharging", "flag": "none"}
+{"id": "r_1e621mv", "demand": true, "problem": "sensor usage history monitor", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an App to Monitor Sensor Usage Over Time", "flag": "none"}
+{"id": "r_1f9gz6w", "demand": false}
+{"id": "r_1g6obku", "demand": true, "problem": "combine elements from multiple photos", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app where I can edit photos and add elements from other photos", "flag": "none"}
+{"id": "r_1h6xv9i", "demand": true, "problem": "medication intake log with notes", "who": "person taking medication", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I'm looking for an app available on Android that I can record when I take a medication AND write notes about it.", "flag": "none"}
+{"id": "r_1h7uumy", "demand": true, "problem": "developer short-video feed", "who": "programmer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an App where i get only Programing/development related short video.", "flag": "none"}
+{"id": "r_1hd71fa", "demand": true, "problem": "live screen writing overlay", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an APP that lets you write on your smartphone screen live ( without taking screenshot )", "flag": "none"}
+{"id": "r_1hevf74", "demand": true, "problem": "offline file sharing android to windows", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Windows"], "quote": "Looking for an app that lets me share files between android and windows without need for internet.", "flag": "none"}
+{"id": "r_1ho7gcm", "demand": true, "problem": "app lock for set time windows", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app which can help me lock apps for particular time.", "flag": "none"}
+{"id": "r_1ifiegd", "demand": true, "problem": "app blocker and time limiter", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app blocker and or time limiter", "flag": "none"}
+{"id": "r_1ip9snv", "demand": false}
+{"id": "r_1ity8du", "demand": true, "problem": "screen recording and streaming app like obs", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["OBS"], "quote": "Looking for an app like obs for android", "flag": "none"}
+{"id": "r_1j2iarq", "demand": true, "problem": "physics live wallpaper", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app with gyro/physics live wallpaper", "flag": "none"}
+{"id": "r_1kksvg2", "demand": true, "problem": "multi-speaker audio sync", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app to use multiple speakers together", "flag": "none"}
+{"id": "r_1kta2fw", "demand": true, "problem": "live call translation", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Looking for an app that translates live calls instantly.", "flag": "none"}
+{"id": "r_1ktdfo5", "demand": true, "problem": "call relay between team phones", "who": "team members with several phones", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Looking for an app to make calls from my main phone’s SIM on other team phones nearby to save on voice charges", "flag": "none"}
+{"id": "r_1ccfqrb", "demand": true, "problem": "copy text from restricted websites", "who": "unknown", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["BlackboxAI"], "quote": "I used to use BlackboxAI extension to copy text from websites that usually don't let me copy from", "flag": "none"}
+{"id": "r_1djdufj", "demand": false}
+{"id": "r_1dsn1k7", "demand": false}
+{"id": "r_1e3y0oq", "demand": false}
+{"id": "r_1esq6ut", "demand": true, "problem": "sidebar tab manager grouped by domain", "who": "unknown", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Switch Workstation Tab Manager"], "quote": "it hasn't been updated since 1.5 years and some of the functions don't seem to work anymore.", "flag": "none"}
+{"id": "r_1eteg83", "demand": true, "problem": "open multiple selected links in browser", "who": "unknown", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["Linkclump", "Open Multiple Links", "Open Selected Links"], "quote": "Anyone know of a MV3-compatible alternative to Linkclump (extension that allows selection and opening of multiple links simultaneously)?", "flag": "none"}
+{"id": "r_1f62fgi", "demand": true, "problem": "extension payments with paypal payout", "who": "extension developer", "product": "other", "pain": 2, "pay": "none", "tools": ["ExtensionPay", "LemonSqueezy"], "quote": "Is there an alternative to extensionpay that accepts payout to PayPal?", "flag": "none"}
+{"id": "r_1fl69mn", "demand": false}
+{"id": "r_1fng95s", "demand": true, "problem": "set request headers per host", "who": "unknown", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["ModHeader"], "quote": "Does anyone know a good extension to simply set Requests Headers for specific Hosts?", "flag": "none"}
+{"id": "r_1g1qxsr", "demand": false}
+{"id": "r_1itdaxa", "demand": false}
+{"id": "r_1j31s02", "demand": true, "problem": "pomodoro cycle timer extension", "who": "unknown", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["Marinara Pomodoro"], "quote": "I looked at a few Pomodoro alternatives in the Chrome store, but couldn't find anything simple that supports standard cycles.", "flag": "none"}
+{"id": "r_1jfz8lb", "demand": false}
+{"id": "r_1jm0j48", "demand": false}
+{"id": "r_1k1g6mr", "demand": true, "problem": "extension subscription payments without stripe", "who": "extension developer", "product": "other", "pain": 2, "pay": "none", "tools": ["ExtensionPay", "Stripe"], "quote": "So my question is there any alternative similar to ExtensionPay and Stripe?", "flag": "none"}
+{"id": "r_1wroyyc", "demand": true, "problem": "bot account detection on x feed", "who": "x user", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["xpose"], "quote": "Can somebody make an anti-bot extension for X (Twitter)?", "flag": "none"}
+{"id": "r_18wlsya", "demand": false}
+{"id": "r_18wnk96", "demand": false}
+{"id": "r_18wvh4h", "demand": false}
+{"id": "r_190y7uq", "demand": false}
+{"id": "r_191on29", "demand": false}
+{"id": "r_191yr3q", "demand": false}
+{"id": "r_197rp8m", "demand": true, "problem": "per-game profile settings for asus hardware", "who": "gamer with asus hardware", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Armory Crate"], "quote": "is there any third-party apps alternative to the asus armory crate software app?", "flag": "none"}
+{"id": "r_19bavd3", "demand": true, "problem": "simple multi-account email inbox client", "who": "unknown", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Windows Mail", "Thunderbird", "Wino Mail"], "quote": "would love to know any free alternatives that just shows you your inbox and you can switch between inboxes with one click.", "flag": "none"}
+{"id": "r_19c9rhg", "demand": false}
+{"id": "r_19d58qu", "demand": false}
+{"id": "r_19dfu5v", "demand": false}
+{"id": "r_19e3pxl", "demand": false}
+{"id": "r_1aclw74", "demand": false}
+{"id": "r_19958ks", "demand": false}
+{"id": "r_1cxdpgz", "demand": false}
+{"id": "r_199liul", "demand": true, "problem": "merge multiple android launchers", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that syncs all launchers into 1?", "flag": "none"}
+{"id": "r_1ag3d0c", "demand": true, "problem": "auto-close game after set time", "who": "gamer with shared world", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that closes an application or shuts down your pc after a certain amount of time?", "flag": "none"}
+{"id": "r_1atu432", "demand": true, "problem": "one-click pc display output switching", "who": "pc gamer using tv", "product": "desktop software", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that lets my switch and enable/disable the output to my TV with just one or two clicks?", "flag": "none"}
+{"id": "r_1azueg1", "demand": true, "problem": "network speed overlay during games", "who": "gamer with limited internet", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that overlays network speed at the moment?", "flag": "none"}
+{"id": "r_1c73rxf", "demand": true, "problem": "per-app keyboard assignment", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "none", "tools": [], "quote": "can make Keyboard#1 run only for App#1", "flag": "none"}
+{"id": "r_18wz732", "demand": true, "problem": "renderware exporter plugins for 3d models", "who": "retro-style game dev", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["RenderWare", "archive.org"], "quote": "im wondering if there's a way to get the plugins or an alternative to export files in the files which renderware uses.", "flag": "none"}
+{"id": "r_19da56h", "demand": false}
+{"id": "r_1b24ul2", "demand": false}
+{"id": "r_1b48wcc", "demand": false}
+{"id": "r_1b93wwz", "demand": false}
+{"id": "r_1b9qvip", "demand": true, "problem": "palette generation with api", "who": "game dev building arpg site", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Coolors"], "quote": "Palette Generation API? ( Looking for an alternative to Coolors )", "flag": "none"}
+{"id": "r_1bc3qw4", "demand": false}
+{"id": "r_1bdz0oz", "demand": true, "problem": "pixel art editor alternative", "who": "game artist", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Aseprite"], "quote": "I very often run into bugs with aseprite, the worst one being my sprites disappear, which sets me back hours.", "flag": "none"}
+{"id": "r_1bxgazr", "demand": false}
+{"id": "r_1by3439", "demand": true, "problem": "free 3d texturing software", "who": "broke game developer", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Substance Painter", "Quixel Mixer"], "quote": "I want a free alternative to something like Substance Painter.", "flag": "none"}
+{"id": "r_1fb9vph", "demand": false}
+{"id": "r_1fb9wem", "demand": false}
+{"id": "r_1hg5wo8", "demand": true, "problem": "lightweight kanban and mindmap project app", "who": "game developer", "product": "app", "pain": 2, "pay": "none", "tools": ["Notion", "Obsidian"], "quote": "looking for an app which is lightweight, has a great kanban system and a mindmap system", "flag": "none"}
+{"id": "r_1adgqk5", "demand": true, "problem": "free slide grouping app", "who": "game developer with 150+ slides", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Google Slides", "PowerPoint"], "quote": "Is there a free app that behaves like powerpoint?", "flag": "none"}

@@ -1,0 +1,100 @@
+{"id": "r_19b1ux6", "demand": false}
+{"id": "r_19fmnlg", "demand": false}
+{"id": "r_1adv41k", "demand": false}
+{"id": "r_1ahkbdl", "demand": false}
+{"id": "r_1am49rz", "demand": false}
+{"id": "r_1amc53g", "demand": false}
+{"id": "r_1amun58", "demand": false}
+{"id": "r_1aoggpo", "demand": false}
+{"id": "r_1aogn71", "demand": false}
+{"id": "r_1aq1p2s", "demand": false}
+{"id": "r_18y0g9x", "demand": true, "problem": "cooking timeline scheduling app", "who": "home cook running late with dinner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "So I am looking for an app that allows me to put in what I want to make for day X", "flag": "none"}
+{"id": "r_1aqg9c5", "demand": true, "problem": "personalized meal prep recipe app", "who": "beginner cook meal prepping vegetarian", "product": "app", "pain": 1, "pay": "none", "tools": ["Hello Fresh"], "quote": "Basically is there an app that I can customize to give me at least one recipe per week to meal prep?", "flag": "none"}
+{"id": "r_1az4seh", "demand": true, "problem": "recipe recommendation by skill and equipment", "who": "college student learning to cook", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "is there an app that let's you choose what equipment and skillset you have, what ingredients you like and dislike and recommends recipes accordingly?", "flag": "none"}
+{"id": "r_1bgb9wr", "demand": true, "problem": "shared meal cooking group app", "who": "busy households sharing weekly cooking", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "is there an app that would facilitate such a grouping?", "flag": "none"}
+{"id": "r_1bxm03j", "demand": true, "problem": "recipe nutrition calculator app", "who": "home cook organizing recipes", "product": "app", "pain": 1, "pay": "none", "tools": ["MasterCook", "ChatGPT"], "quote": "is there an app that calculates nutrition info?", "flag": "none"}
+{"id": "r_1cwdvek", "demand": true, "problem": "meal plan suggestions from own recipes", "who": "home cook planning family meals", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I want to add say 50 recipes that I cook and like and let the app alternate between them without me thinking about it.", "flag": "none"}
+{"id": "r_1g1ir3z", "demand": true, "problem": "voice dictation to formatted recipe", "who": "home cook who forgets recipes", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Does anyone know if there's an app where you can just speak your recipe and it turns it into a nicely formatted recipe card/note?", "flag": "none"}
+{"id": "r_199w8gk", "demand": true, "problem": "shared simple recipe app for two", "who": "picky eater cooking with parent", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I’m looking for an app that we could both use that has these things:", "flag": "none"}
+{"id": "r_1alvkvo", "demand": true, "problem": "recipe saving app from social media", "who": "home cook with saved recipes", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Safari"], "quote": "I'm willing to pay a one time fee for the app but nothing that requires a subscription.", "flag": "none"}
+{"id": "r_1anprpj", "demand": true, "problem": "meal suggestion app with dietary conditions", "who": "family cook with health conditions", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Looking for an app/website that can give suggestions on what to cook.", "flag": "none"}
+{"id": "r_1b802tg", "demand": true, "problem": "leftover ingredient recipe suggestions", "who": "home cook reducing food waste", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I'm trying to better organize my cooking schedule for the week to minimize the amount of wasted food I end up with", "flag": "none"}
+{"id": "r_1cjgj4h", "demand": true, "problem": "recipe ingredient aggregation for meal prep", "who": "meal prepper", "product": "app", "pain": 2, "pay": "none", "tools": ["iOS Reminders"], "quote": "I’m looking for something a bit more specialized that I can’t seem to find.", "flag": "none"}
+{"id": "r_1dhwmrr", "demand": true, "problem": "simple beginner recipe app", "who": "beginner cook", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "i’m looking for an app that has some simple recipes for someone that tries to get more into cooking.", "flag": "none"}
+{"id": "r_1djycpk", "demand": true, "problem": "recipe generation from pantry ingredients", "who": "home cook with fridge and pantry", "product": "app", "pain": 1, "pay": "none", "tools": ["Pinterest"], "quote": "I am looking for an app or something that can help you create recipes based with what you have in your fridge and pantry.", "flag": "none"}
+{"id": "r_1drmz1j", "demand": true, "problem": "free daily recipe search app", "who": "home cook tired of Pinterest", "product": "app", "pain": 1, "pay": "none", "tools": ["Pinterest"], "quote": "I also don’t want something with a subscription or purchase of the app.", "flag": "none"}
+{"id": "r_1ei6xc3", "demand": true, "problem": "save instagram recipe videos app", "who": "home cook saving recipes", "product": "app", "pain": 1, "pay": "none", "tools": ["Instagram"], "quote": "I am looking for an app which can safe or where I can upload videos / reels from Instagram.", "flag": "none"}
+{"id": "r_1elyl5e", "demand": true, "problem": "rank homemade meals app", "who": "home cook", "product": "app", "pain": 1, "pay": "none", "tools": ["Beli"], "quote": "I’m looking for an app like Beli but to rank the meals I make.", "flag": "none"}
+{"id": "r_1er6838", "demand": true, "problem": "meal plan minimizing ingredient waste", "who": "home cook planning weekly meals", "product": "web tool", "pain": 2, "pay": "none", "tools": [], "quote": "I am looking for an app, newsletter, website or similar with weekly meal plans and shopping lists where the recipes are combined together", "flag": "none"}
+{"id": "r_1gd65d3", "demand": true, "problem": "prep list generated from recipes", "who": "home cook prepping meals", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I’d love an app that I can put my recipes in and then select a few and it tells me I need 6 chopped onions", "flag": "none"}
+{"id": "r_1ho0p4j", "demand": true, "problem": "shared family meal planning app", "who": "family of four planning meals", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app I can have everyone in my family of 4 download where I can plan meals and make shopping lists", "flag": "none"}
+{"id": "r_1hvy7o4", "demand": true, "problem": "smart weekly grocery checklist app", "who": "home cook doing weekly shopping", "product": "app", "pain": 1, "pay": "none", "tools": ["Word"], "quote": "I'm looking for an app that I can set up with a bunch of ingredients that I use weekly in my kitchen, tick them off and then end up with a shopping list.", "flag": "none"}
+{"id": "r_1hyh750", "demand": true, "problem": "shared recipe and pantry app for couples", "who": "couple cooking together", "product": "app", "pain": 2, "pay": "none", "tools": ["Crouton", "Pestle", "Copy Me That", "Paprika 3", "Apple Reminders"], "quote": "Share a recipe database with my spouse.", "flag": "none"}
+{"id": "r_1i5mdrf", "demand": true, "problem": "recipe import app with one-time fee", "who": "home cook with saved tiktok recipes", "product": "app", "pain": 1, "pay": "explicit", "tools": ["TikTok"], "quote": "I'm happy to pay a one time fee (does not have to be cheap!) but I absolutely hate subscriptions.", "flag": "none"}
+{"id": "r_18wvzhr", "demand": false}
+{"id": "r_18zf47b", "demand": false}
+{"id": "r_191fvak", "demand": false}
+{"id": "r_193jqml", "demand": false}
+{"id": "r_19958q8", "demand": false}
+{"id": "r_1aeqvp0", "demand": false}
+{"id": "r_1auqfmg", "demand": false}
+{"id": "r_1m1fnta", "demand": false}
+{"id": "r_1e7j0j6", "demand": true, "problem": "tile visualization app for photos", "who": "homeowner planning bathroom remodel", "product": "app", "pain": 1, "pay": "none", "tools": ["Home Depot app"], "quote": "is there an app that will virtually put the tile on the wall if you give it a photo?", "flag": "none"}
+{"id": "r_1fz8jx3", "demand": true, "problem": "door model identification app", "who": "homeowner replacing a door", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that matches doors or any way of finding what the model number is?", "flag": "none"}
+{"id": "r_1gtedym", "demand": true, "problem": "countertop material visualizer app", "who": "homeowner planning kitchen remodel", "product": "app", "pain": 2, "pay": "none", "tools": ["Photoshop"], "quote": "Is there an app that allows you to upload a selection of marble or tile and see how it would look in your existing kitchen’s counters and backsplash?", "flag": "none"}
+{"id": "r_1c6j7s6", "demand": true, "problem": "house exterior mockup app", "who": "homeowner planning exterior changes", "product": "app", "pain": 1, "pay": "none", "tools": ["Fiverr"], "quote": "I am looking for an app where I can upload a pic of the current house and play around with it to help visualize these changes.", "flag": "none"}
+{"id": "r_1fi4eop", "demand": true, "problem": "paint color preview on photo app", "who": "homeowner painting front door", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I’m looking for an app where I can try on different paint colors for a front door.", "flag": "none"}
+{"id": "r_1minzvs", "demand": true, "problem": "household inventory database app", "who": "household with multiple members", "product": "app", "pain": 2, "pay": "none", "tools": ["Inventory Now"], "quote": "I would like to be able to catalog things like cords or tools in a database that I would be able to search up on my phone AND computer", "flag": "none"}
+{"id": "r_18zex2u", "demand": false}
+{"id": "r_191hobl", "demand": false}
+{"id": "r_191xq1p", "demand": false}
+{"id": "r_1922ksd", "demand": false}
+{"id": "r_1939hhi", "demand": false}
+{"id": "r_194wwn7", "demand": false}
+{"id": "r_1960jon", "demand": false}
+{"id": "r_196uu4j", "demand": false}
+{"id": "r_1989bx1", "demand": false}
+{"id": "r_1996kzv", "demand": false}
+{"id": "r_19a8t0p", "demand": false}
+{"id": "r_19ahdrj", "demand": false}
+{"id": "r_19cny3p", "demand": false}
+{"id": "r_1acis2g", "demand": false}
+{"id": "r_1adflk4", "demand": false}
+{"id": "r_1m1hmdl", "demand": false}
+{"id": "r_19e6qlq", "demand": false}
+{"id": "r_1ah7d1w", "demand": false}
+{"id": "r_1alhq8q", "demand": false}
+{"id": "r_1annn3t", "demand": false}
+{"id": "r_1b0uvpw", "demand": false}
+{"id": "r_1b6yjxg", "demand": false}
+{"id": "r_1bece95", "demand": false}
+{"id": "r_1bfm18n", "demand": false}
+{"id": "r_1bgimim", "demand": false}
+{"id": "r_1bmrqcy", "demand": false}
+{"id": "r_1boyiua", "demand": false}
+{"id": "r_1brlmfu", "demand": false}
+{"id": "r_1bsikja", "demand": false}
+{"id": "r_1bss8ca", "demand": false}
+{"id": "r_1buw6b5", "demand": false}
+{"id": "r_1awl9bf", "demand": true, "problem": "plant diagnosis app", "who": "gardener with plant problems", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that is better than others as far as diagnosing plant issues?", "flag": "none"}
+{"id": "r_1b07r1v", "demand": true, "problem": "square foot garden layout planner", "who": "home gardener", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that will automatically plan out where I should put my plants within a square foot garden?", "flag": "none"}
+{"id": "r_1d2yuu2", "demand": true, "problem": "plant identification app", "who": "home gardener", "product": "app", "pain": 1, "pay": "none", "tools": ["Google Lens"], "quote": "Is there an app that's reliable for identifying random seedlings or saplings or vinelings or literally just blades of grass I think look neat?", "flag": "none"}
+{"id": "r_1fic1mf", "demand": true, "problem": "plant identification app", "who": "home gardener", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Also, Is there an app that would be good for this?", "flag": "none"}
+{"id": "r_1j6mj01", "demand": true, "problem": "seasonal garden care reminder app", "who": "gardener with varied garden", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that does this or makes things much easier?", "flag": "none"}
+{"id": "r_1jdcrpr", "demand": true, "problem": "sunlight duration measurement app", "who": "gardener planning plant placement", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that measures the duration of daylight.", "flag": "none"}
+{"id": "r_196mvzj", "demand": true, "problem": "garden tracking app with plant database", "who": "home gardener with soil and hydroponic plants", "product": "app", "pain": 2, "pay": "none", "tools": ["From Seed to Spoon", "Garden Daddy"], "quote": "I’m looking for an app to help me track gardening.", "flag": "none"}
+{"id": "r_1aoho70", "demand": true, "problem": "plant inventory catalog app", "who": "gardener with hundreds of plants", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "looking for an app to compile them all", "flag": "none"}
+{"id": "r_1bp9l7x", "demand": true, "problem": "plant identification and care app", "who": "home gardener", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app that can help me with plant identification/care.", "flag": "none"}
+{"id": "r_1crpw6b", "demand": true, "problem": "plant identification by characteristics database", "who": "botany hobbyist in Pennsylvania", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Penn State extension"], "quote": "I am looking for a website/database that will allow me to enter characteristics of a plant", "flag": "none"}
+{"id": "r_1f53pd7", "demand": true, "problem": "pest and disease diagnosis app", "who": "home gardener", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app that can identify pest and diseases and can provide treatment.", "flag": "none"}
+{"id": "r_1hrgc5n", "demand": true, "problem": "gardening journal with automated dates", "who": "home gardener", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "but I’m looking for an app that would automatically track dates like seed planted, germinated, harvest, etc.", "flag": "none"}
+{"id": "r_1ov6756", "demand": true, "problem": "offline one-time-purchase garden planner", "who": "home gardener planning garden", "product": "app", "pain": 1, "pay": "explicit", "tools": ["Planta"], "quote": "I just want a simple, 'buy-it-once' tool that works offline", "flag": "none"}
+{"id": "r_1qdss00", "demand": true, "problem": "free garden planning app", "who": "home gardener in zone 8b", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app ( free if possible) to plan my garden this year!", "flag": "none"}
+{"id": "r_1929kq2", "demand": false}
+{"id": "r_1969pr2", "demand": false}
+{"id": "r_1abb45r", "demand": false}
+{"id": "r_1abce95", "demand": false}
+{"id": "r_1af8fb3", "demand": false}
+{"id": "r_1aiiigw", "demand": false}
+{"id": "r_1ak3cmn", "demand": false}
+{"id": "r_1akpfk3", "demand": false}

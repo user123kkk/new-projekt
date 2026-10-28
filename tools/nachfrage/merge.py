@@ -9,12 +9,15 @@ import glob
 import html
 import json
 import os
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 N = ROOT / "quellen" / "nachfrage"
 # Reviewed by hand: age-verification spoofer, shadow-library search (ghish / taking others' rights).
 EXCLUDE_IDS = {"r_1r14927", "r_1ge8xou", "r_1itz1ft"}
+# Title-only "alternative to X?" states no need (CLASSIFY.md); classifiers judged these inconsistently.
+BARE_ALTERNATIVE = re.compile(r"^\W*(\w+\W+){0,3}alternatives?\s+(to|for)\b", re.I)
 
 
 def lines(path):
@@ -22,7 +25,7 @@ def lines(path):
 
 
 def main():
-    stats = {"demand": 0, "flagged": 0, "bad_quote": 0, "excluded": 0, "dup_quote": 0}
+    stats = {"demand": 0, "flagged": 0, "bad_quote": 0, "bare_alternative": 0, "excluded": 0, "dup_quote": 0}
     out, seen = [], set()
     for f in sorted(glob.glob(str(N / "classified" / "batch_*.jsonl"))):
         src = {p["id"]: p for p in lines(N / "batches" / os.path.basename(f))}
@@ -37,6 +40,8 @@ def main():
                 stats["flagged"] += 1
             elif quote.lower() not in hay:
                 stats["bad_quote"] += 1
+            elif len(p["text"].strip()) < 40 and BARE_ALTERNATIVE.search(p["title"]):
+                stats["bare_alternative"] += 1
             elif o["id"] in EXCLUDE_IDS:
                 stats["excluded"] += 1
             elif quote.lower() in seen:

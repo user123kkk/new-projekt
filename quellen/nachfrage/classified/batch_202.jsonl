@@ -1,0 +1,100 @@
+{"id": "r_1bvxsyp", "demand": true, "problem": "android scratchpad note app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Anybody know of an Android alternative to", "flag": "none"}
+{"id": "r_1bvy2xy", "demand": true, "problem": "encrypted journal app with calendar view", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["Notion", "Day One"], "quote": "I'm moving away from notion due to lack of E2E encryption.", "flag": "none"}
+{"id": "r_1c9eseg", "demand": true, "problem": "periodic task tracking app", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["Regularly"], "quote": "Something that does periodic task tracking at flexible set intervals.", "flag": "none"}
+{"id": "r_1jgf4n4", "demand": false}
+{"id": "r_1wsi7iu", "demand": false}
+{"id": "r_190pl02", "demand": true, "problem": "negative habit counter", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Are there any apps where I can simply press a button and it logs how many times a behaviour/habit is carried out in a day/week", "flag": "none"}
+{"id": "r_190z7ng", "demand": true, "problem": "bulk reschedule tasks around interruptions", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that can move many selected tasks later on that day all at once an hour back", "flag": "none"}
+{"id": "r_194uudr", "demand": true, "problem": "phone unlock purpose tracking", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Im looking for an app that shows a pop up every time i unlock the device to select what im planning on using the device for.", "flag": "none"}
+{"id": "r_199phef", "demand": true, "problem": "multi-day blocks linked to task lists", "who": "self-paced learner", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I need to be able to block out several days and see it visually on my calendar.", "flag": "none"}
+{"id": "r_1ae2c8j", "demand": true, "problem": "interactive all-subject study app", "who": "self-learner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that covers -all- the subjects, and in a more interactive way?", "flag": "none"}
+{"id": "r_1ajilmt", "demand": true, "problem": "work and personal contact separation", "who": "employee with per diem phone", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that you can sequester contacts, or a phone with that feature built in?", "flag": "none"}
+{"id": "r_18w5ral", "demand": true, "problem": "mind map app with image branches", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I am looking for an app that allows me to open and close each branch and attach pictures to any branch I want.", "flag": "none"}
+{"id": "r_18xvu8c", "demand": true, "problem": "shared family habit checklist", "who": "parent", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "And one that resets every week as well?", "flag": "none"}
+{"id": "r_18yphfl", "demand": true, "problem": "free screen time management", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app that helps manage screen time, and costs little to nothing", "flag": "none"}
+{"id": "r_190mpoj", "demand": true, "problem": "categorized visual list collection app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Notion"], "quote": "I'm looking for an app that I can use to generally collect ideas, primarily revolving around items or events in various categories.", "flag": "none"}
+{"id": "r_190ytia", "demand": true, "problem": "auto-scheduling project hours around calendar", "who": "productivity user", "product": "app", "pain": 2, "pay": "none", "tools": ["Sunsama", "Skedpal"], "quote": "I'm looking for an app that will schedule out those 10 hours automatically, around the meetings and tasks already in my calendar", "flag": "none"}
+{"id": "r_191u53n", "demand": true, "problem": "gym visit goal tracking widget", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app where I can track my gym visit progress.", "flag": "none"}
+{"id": "r_192etr0", "demand": true, "problem": "quick activity time tracking", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I tried to do this in a calendar, but it's a pain, especially if there are activities which take less than an hour.", "flag": "none"}
+{"id": "r_1935zkb", "demand": true, "problem": "rotating shift routine scheduling", "who": "shift worker and parent", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Constantly deleting and rebuilding the routines has caused for missed appointments, missed todos, and massive lack of sleep.", "flag": "none"}
+{"id": "r_195qawh", "demand": true, "problem": "screen time tracking with graphs", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I dont need to lock any apps or do anything other than tracking.", "flag": "none"}
+{"id": "r_197xjai", "demand": true, "problem": "scheduled phone lock for evening scrolling", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I have a complicated schedule so each day is different", "flag": "none"}
+{"id": "r_19dxp7h", "demand": true, "problem": "video transcription for client emails", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app or program that transcribes video automatically", "flag": "none"}
+{"id": "r_19fbxpe", "demand": true, "problem": "activity log month widget", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Apple Calendar"], "quote": "i want the app to show me the days i have been logging activity, without me having to open the individual days", "flag": "none"}
+{"id": "r_1abowb9", "demand": true, "problem": "shared app-usage leaderboard with friends", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Forest"], "quote": "I'm looking for an app that tracks other apps time of usage.", "flag": "none"}
+{"id": "r_1adthd8", "demand": true, "problem": "interactive flowchart for presentations", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app/software to create interactive flowcharts", "flag": "none"}
+{"id": "r_1aeo4b4", "demand": true, "problem": "habit data correlation insights", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Surely an app could find connections I’d never think to look for on my own.", "flag": "none"}
+{"id": "r_1af8htj", "demand": true, "problem": "unbypassable app blocker", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Screen Time"], "quote": "Looking for an app that blocks apps", "flag": "none"}
+{"id": "r_1ovv8c1", "demand": true, "problem": "automatic routine learning and repetition", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I wish there was a tool that could learn my routines and repeat them automatically", "flag": "none"}
+{"id": "r_193almn", "demand": false}
+{"id": "r_1b7wi7z", "demand": false}
+{"id": "r_1b98vz2", "demand": false}
+{"id": "r_1bt0w4n", "demand": false}
+{"id": "r_1dc9yja", "demand": false}
+{"id": "r_1ddw7zx", "demand": true, "problem": "habit time tracking with weekly targets", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["Timecap"], "quote": "Do you guys know any alternative apps that I can use moving forward?", "flag": "none"}
+{"id": "r_1dqpmmk", "demand": false}
+{"id": "r_1drt0rg", "demand": false}
+{"id": "r_1e2qb86", "demand": false}
+{"id": "r_1efra9b", "demand": false}
+{"id": "r_1ffr5p7", "demand": false}
+{"id": "r_1fvkv2y", "demand": false}
+{"id": "r_1gk2t6q", "demand": false}
+{"id": "r_1jhy4wp", "demand": true, "problem": "local workout buddy matching", "who": "adult male fitness beginner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I wish there was an App for people who just want someone nearby to be a workout buddy.", "flag": "none"}
+{"id": "r_1sbdlc6", "demand": false}
+{"id": "r_18x3mtq", "demand": true, "problem": "mood and habit correlation tracking", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I am looking for an app where you can document all those different stats and overlay them in different patterns.", "flag": "none"}
+{"id": "r_197umfq", "demand": true, "problem": "points-based habit tracking", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app where I can create different activities", "flag": "none"}
+{"id": "r_18zd23v", "demand": false}
+{"id": "r_19as4hc", "demand": false}
+{"id": "r_19ck4s8", "demand": false}
+{"id": "r_19czh6w", "demand": false}
+{"id": "r_19fmywl", "demand": false}
+{"id": "r_1bc2t2u", "demand": true, "problem": "subscription tracking and overpayment alerts", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I'm struggling to keep up with all of my subscriptions.", "flag": "none"}
+{"id": "r_1l8e3o6", "demand": false}
+{"id": "r_1le14ae", "demand": false}
+{"id": "r_1o01xfa", "demand": true, "problem": "remembering tasks for adults with ADHD", "who": "adult with ADHD", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I wish there was an app that would take the mental load of having to remember everything", "flag": "none"}
+{"id": "r_1o7iudi", "demand": true, "problem": "daily activity recall", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I wish there was an app that would help me remember what i did entire day", "flag": "none"}
+{"id": "r_1pmqzz6", "demand": false}
+{"id": "r_1qyavm0", "demand": false}
+{"id": "r_1rlj9k0", "demand": false}
+{"id": "r_1ruxo4s", "demand": false}
+{"id": "r_1ae7t2b", "demand": true, "problem": "bank-linked credit card payment reminders", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Now is there an app that can integrate with my bank andet me know:", "flag": "none"}
+{"id": "r_1b9sdab", "demand": true, "problem": "daily reminders for random tasks", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that I can use to set daily reminders for random things I need to do?", "flag": "none"}
+{"id": "r_190hplj", "demand": true, "problem": "custom interval reminders", "who": "college student with ADHD", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I struggled a lot last semester with household and academic tasks.", "flag": "none"}
+{"id": "r_1946ex8", "demand": true, "problem": "daily planner with carry-over tasks", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Google Calendar", "Lists"], "quote": "looking for something that organizes day by day and that I can look back on", "flag": "none"}
+{"id": "r_198htb2", "demand": true, "problem": "habit reminders with progress view", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app that will prompt me to do certain activities every day/at certain times of day", "flag": "none"}
+{"id": "r_19ffmhy", "demand": true, "problem": "repeating daily and weekly task lists", "who": "parent of teen with ADHD", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "For example, I would love to be able to put his self care to dos in a repeating list to check off each day", "flag": "none"}
+{"id": "r_1ag4ri5", "demand": true, "problem": "morning routine and medication reminders", "who": "adult awaiting ADHD diagnosis", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I also want this app to have a task reminder that can remind me many times per day as I need to take medications and so on throughout the day.", "flag": "none"}
+{"id": "r_1aldgw9", "demand": true, "problem": "mobile app for task focus", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I'm interested in a mobile app that would help me maintain focus on the task I currently have to do.", "flag": "none"}
+{"id": "r_1aq3a28", "demand": true, "problem": "body doubling for content marketing work", "who": "content marketer", "product": "app", "pain": 1, "pay": "none", "tools": ["Flown", "Deepwrk.io"], "quote": "I'm primarily trying to use the group to get more done in the way of content marketing as that is my biggest challenge right now", "flag": "none"}
+{"id": "r_1b03cbn", "demand": true, "problem": "habit tracker with reward milestones", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Would love it if there was something you could use to incentivize yourself to do the tasks / habits you want to change.", "flag": "none"}
+{"id": "r_1b069kj", "demand": true, "problem": "habit tracker with reward milestones", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Would love it if there was something you could use to incentivize yourself to do the tasks / habits you want to change.", "flag": "none"}
+{"id": "r_1b2bjts", "demand": true, "problem": "notification shade quick timers", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I'm looking for an app that let's me set timers from the notification shade itself", "flag": "none"}
+{"id": "r_1b7khe3", "demand": true, "problem": "all-in-one notes task and time blocking", "who": "workaholic", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I want something that can do it all for me, store my random thoughts/notes and make tasks and has time blocking features that are flexible", "flag": "none"}
+{"id": "r_1bdw3wt", "demand": true, "problem": "multiple daily mindfulness check-in reminders", "who": "adult with ADHD and anxiety", "product": "app", "pain": 2, "pay": "none", "tools": ["Insight Timer"], "quote": "I'm hoping to set something every hour or two.", "flag": "none"}
+{"id": "r_1bhb2u3", "demand": true, "problem": "automatic work hours tracking", "who": "remote worker with flexible hours", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "It's hard for me to keep track of when I was actually working.", "flag": "none"}
+{"id": "r_1akc92c", "demand": true, "problem": "custom term quiz app", "who": "student", "product": "app", "pain": 2, "pay": "none", "tools": ["dictionary.com"], "quote": "I'm looking for an app, which can provide me with multiple-choice quizzes, based on a list, which is made up of terms and definitions that I feed it.", "flag": "none"}
+{"id": "r_1aq6lpo", "demand": true, "problem": "free Quizlet-style study modes", "who": "student", "product": "app", "pain": 1, "pay": "none", "tools": ["Quizlet", "Anki"], "quote": "I'm looking for an app like quizlet.", "flag": "none"}
+{"id": "r_1blv8pb", "demand": true, "problem": "AI highlighting of long books", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Readwise Reader"], "quote": "I'm looking for an app that will use AI to highlight an epub or PDF document.", "flag": "none"}
+{"id": "r_1g47jck", "demand": true, "problem": "cross-platform mind mapping with pen input", "who": "student", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "The ability to insert images would also be a must.", "flag": "none"}
+{"id": "r_1h2knj0", "demand": true, "problem": "browser-based multiple choice test builder", "who": "unknown", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "I am desperately looking for an app, where I could create multiple choice tests.", "flag": "none"}
+{"id": "r_1kbarow", "demand": true, "problem": "study-gated app blocker", "who": "law student with ADHD", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I want something that waits till i tick it off and then lets me on.", "flag": "none"}
+{"id": "r_1uqjn43", "demand": true, "problem": "gamified weekly goal progress tracker", "who": "student", "product": "app", "pain": 1, "pay": "none", "tools": ["Duolingo"], "quote": "I'm looking for an app where I can set missions/goals for a week or a period of time, and see my progress.", "flag": "none"}
+{"id": "r_194bhuo", "demand": true, "problem": "Android flashcard app alternative to Anki", "who": "student", "product": "app", "pain": 1, "pay": "none", "tools": ["Anki"], "quote": "Is there any good alternative to anki?", "flag": "none"}
+{"id": "r_1abrg6e", "demand": false}
+{"id": "r_1ce1s9m", "demand": true, "problem": "outlining app with reliable multi-level lists", "who": "student", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Microsoft Word"], "quote": "I am so tired of wasting countless hours messing with Word because it keeps messing up my outlines for my classes.", "flag": "none"}
+{"id": "r_1cq1ix5", "demand": true, "problem": "free alternative to Adobe software", "who": "unknown", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Adobe"], "quote": "Is there any FREE alternative to adobe with similar features?", "flag": "none"}
+{"id": "r_1cuoyax", "demand": false}
+{"id": "r_1etg8sg", "demand": true, "problem": "virtual co-study room with friends", "who": "student", "product": "web tool", "pain": 2, "pay": "none", "tools": ["StudyVerse", "StudyTogether", "csw.live", "lifeat"], "quote": "Please suggest a platform that is an alternative to StudyVerse.", "flag": "none"}
+{"id": "r_1fm0nji", "demand": false}
+{"id": "r_1fx0t8d", "demand": true, "problem": "flashcard app alternative to Quizlet", "who": "nursing student", "product": "app", "pain": 2, "pay": "none", "tools": ["Quizlet", "Anki"], "quote": "I would love to somehow transfer my stuff from my Quizlet to something else.", "flag": "none"}
+{"id": "r_1gj6xhf", "demand": false}
+{"id": "r_1hk0aq1", "demand": false}
+{"id": "r_1bg4fzq", "demand": true, "problem": "online art critique community", "who": "digital artist", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I need a study buddy but for drawing and digital art", "flag": "none"}
+{"id": "r_1925o08", "demand": true, "problem": "study game alternative to flashcards", "who": "student", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Study Game alternative to flash cards?", "flag": "none"}
+{"id": "r_1amntls", "demand": false}
+{"id": "r_1fu6nwu", "demand": false}
+{"id": "r_1efx00g", "demand": true, "problem": "scientific paper recommendation app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that will recommend scientific paper/article/journal to read?", "flag": "none"}
+{"id": "r_197rkbs", "demand": true, "problem": "to-do list synced with calendar for homework", "who": "college student", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Calendar"], "quote": "When I add an assignment to my to do list, it would automatically show up on my calendar.", "flag": "none"}
+{"id": "r_1ba7vtx", "demand": true, "problem": "step by step statistics problem solver", "who": "online college student", "product": "web tool", "pain": 2, "pay": "explicit", "tools": [], "quote": "I’m happy to spend money if the program is worth it.", "flag": "none"}
+{"id": "r_1ci7xw2", "demand": true, "problem": "spaced repetition study schedule planner", "who": "student", "product": "app", "pain": 1, "pay": "none", "tools": ["Anki"], "quote": "I'm looking for an app that will design a schedule for me to learn and repeat material in intervals.", "flag": "none"}
+{"id": "r_1d4dx30", "demand": true, "problem": "note taking with color coding", "who": "student", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Hopefully including being able to color code different focus points.", "flag": "none"}

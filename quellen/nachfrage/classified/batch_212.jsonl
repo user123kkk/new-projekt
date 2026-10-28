@@ -1,0 +1,100 @@
+{"id": "r_1j8wyge", "demand": false}
+{"id": "r_1ja17v6", "demand": false}
+{"id": "r_1k9qlz8", "demand": false}
+{"id": "r_190ktec", "demand": false}
+{"id": "r_1agyjog", "demand": false}
+{"id": "r_1b280xy", "demand": true, "problem": "practice management platform alternative to alma", "who": "therapist", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Alma", "Headway"], "quote": "For those who advocate for the abstinence of Alma/Headway, what is your recommended alternative?", "flag": "none"}
+{"id": "r_1bbt855", "demand": true, "problem": "therapy practice management software alternative", "who": "therapist", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["Simple Practice"], "quote": "And at the minimum, is there a good alternative to Simple Practice you can list below?", "flag": "none"}
+{"id": "r_1bukbcs", "demand": false}
+{"id": "r_1bvem27", "demand": false}
+{"id": "r_1c4tqur", "demand": true, "problem": "therapy practice management software alternative", "who": "therapist", "product": "web tool", "pain": 2, "pay": "implied", "tools": ["Simple Practice", "Sessions Health"], "quote": "Simple Practice is so very pricey.", "flag": "none"}
+{"id": "r_1gs6qxv", "demand": true, "problem": "therapist schedule and payment tracking", "who": "therapist", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Is there an app that helps?", "flag": "none"}
+{"id": "r_1derhdv", "demand": true, "problem": "session note app organized by client", "who": "therapist", "product": "app", "pain": 2, "pay": "none", "tools": ["EHR"], "quote": "I'm looking for an app where I can write my session notes and possibly organize per client or assign a name?", "flag": "none"}
+{"id": "r_1et6k7k", "demand": true, "problem": "affordable licensure exam study app", "who": "counselor intern", "product": "app", "pain": 1, "pay": "none", "tools": ["counselingexam.com"], "quote": "I’m looking for an app that doesn’t cost $$$ for on the go studying.", "flag": "none"}
+{"id": "r_1j9vmfs", "demand": true, "problem": "offline audiobook app", "who": "frequent traveler", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "i am traveling every day without internet access", "flag": "none"}
+{"id": "r_1ncj6wp", "demand": true, "problem": "kids mindfulness app for home use", "who": "child therapist", "product": "app", "pain": 1, "pay": "none", "tools": ["Good Luck Yogi"], "quote": "I’m looking for an app or activities that kids can use independently between sessions", "flag": "none"}
+{"id": "r_1p47uh0", "demand": true, "problem": "affordable licensure exam study app", "who": "counselor intern", "product": "app", "pain": 2, "pay": "none", "tools": ["counselingexam.com"], "quote": "I am looking for an app to do on the spot studying for the NCMHCE.", "flag": "none"}
+{"id": "r_19cq35a", "demand": false}
+{"id": "r_19eubba", "demand": false}
+{"id": "r_1alamvm", "demand": true, "problem": "search results quality for kids content", "who": "parent", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Google"], "quote": "the search results I have experiences are extremely low quality and full of promoted stuff", "flag": "none"}
+{"id": "r_1c8d33s", "demand": false}
+{"id": "r_1h1ik8s", "demand": true, "problem": "finding playdate families app", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I really wish there was an app or service where we could share a bit about ourselves and our availability to meet other families.", "flag": "none"}
+{"id": "r_1h1imlu", "demand": true, "problem": "finding playdate families app", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I really wish there was an app or service where we could share a bit about ourselves and our availability to meet other families.", "flag": "none"}
+{"id": "r_193jop0", "demand": true, "problem": "location alert app for family members", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": ["Life360"], "quote": "I'm looking for an app that notify other users when any of the above happens.", "flag": "none"}
+{"id": "r_1983iha", "demand": true, "problem": "video call storytime app", "who": "parent", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app for storytime using video calls", "flag": "none"}
+{"id": "r_19fbky1", "demand": true, "problem": "meal planning and shopping list app", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Does something like this exist? Recommendations?", "flag": "none"}
+{"id": "r_1aepkgz", "demand": true, "problem": "nanny childcare tracking app", "who": "nanny", "product": "app", "pain": 2, "pay": "none", "tools": ["WhatsApp", "iMessage"], "quote": "I’m looking for time tracking, milestone tracking, photo sharing, notes, calendar sharing, expense management", "flag": "none"}
+{"id": "r_1bm21c0", "demand": true, "problem": "video montage from many clips", "who": "parent", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "What program can I use to upload hundreds of videos and have it create a movie with random clips it selects via AI?", "flag": "none"}
+{"id": "r_1bxj2ya", "demand": true, "problem": "kids playground finder app", "who": "parent", "product": "app", "pain": 1, "pay": "none", "tools": ["Google"], "quote": "I'm looking for an app or site or something to find parks and playgrounds, indoor or out for my kids.", "flag": "none"}
+{"id": "r_1bymb2l", "demand": true, "problem": "meal plan with grocery list app", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I’m essentially looking for an app that:", "flag": "none"}
+{"id": "r_1cfwjlv", "demand": true, "problem": "chore reward screen time app", "who": "parent", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I’m looking for an app that turns chores into “screen time”.", "flag": "none"}
+{"id": "r_1biemfz", "demand": false}
+{"id": "r_1c87w7y", "demand": false}
+{"id": "r_1do1z30", "demand": false}
+{"id": "r_1e3ivbf", "demand": false}
+{"id": "r_1eiqxla", "demand": false}
+{"id": "r_1ekoo3a", "demand": false}
+{"id": "r_1lf0ubl", "demand": true, "problem": "neighborhood mom connection app", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": ["Peanut"], "quote": "I WISH there was an app for meeting moms that live in my neighborhood!!", "flag": "none"}
+{"id": "r_1dlg1qf", "demand": true, "problem": "kid video calls with grandparents", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": ["Messenger Kids"], "quote": "Is there an app that I can use for him to video call my mom?", "flag": "none"}
+{"id": "r_1f2xdua", "demand": true, "problem": "free baby milestone photo app", "who": "parent", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I’m looking for an app to take monthly photos of the new baby but all the ones I’m checking so far have paid subscriptions.", "flag": "none"}
+{"id": "r_1i1z9jx", "demand": true, "problem": "chore tracking app with rewards", "who": "stay-at-home parent with adhd", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I just need a chores one, or one I can set up to do just chores?", "flag": "none"}
+{"id": "r_1jtu6eb", "demand": true, "problem": "speech delay learning app for toddlers", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": ["Speech Blubs", "ABCmouse", "Khan Academy"], "quote": "we are looking for an app that better suits him", "flag": "none"}
+{"id": "r_18ytx06", "demand": false}
+{"id": "r_19c5fl7", "demand": false}
+{"id": "r_1addt8c", "demand": false}
+{"id": "r_1adr6e9", "demand": false}
+{"id": "r_1aksmwu", "demand": false}
+{"id": "r_1cbj43e", "demand": false}
+{"id": "r_1du5lr7", "demand": true, "problem": "memory reminder of shared posts", "who": "parent", "product": "app", "pain": 1, "pay": "none", "tools": ["Facebook Memories"], "quote": "Is there an alternative to facebook's memories that can remind us of the thing", "flag": "none"}
+{"id": "r_1k1qcpy", "demand": false}
+{"id": "r_1k3758o", "demand": false}
+{"id": "r_1aeffe7", "demand": true, "problem": "remote drawing app for video calls", "who": "grandparent artist", "product": "app", "pain": 2, "pay": "none", "tools": ["Caribu"], "quote": "I'm looking for an app that has more features that would allow them to draw together", "flag": "none"}
+{"id": "r_1bk23cj", "demand": true, "problem": "shared family photo album app", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": ["iPhone", "Facebook"], "quote": "I am looking for an app or solution where we can share our photos to a shared album that everyone can add images/videos and view them.", "flag": "none"}
+{"id": "r_1cmuons", "demand": false}
+{"id": "r_1ddl4vr", "demand": true, "problem": "summer language app for chromebook", "who": "parent", "product": "app", "pain": 1, "pay": "none", "tools": ["Duolingo ABC", "Mosalingua"], "quote": "I was looking for an app (Duolingo ABC, Mosalingua, and one with a rabbit???)", "flag": "none"}
+{"id": "r_1eynkhq", "demand": true, "problem": "infant development tracker app", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": ["Kinedu", "Pathways"], "quote": "I’m looking for an app that might help me keep a better eye on his progress and that can suggest appropriate activities.", "flag": "none"}
+{"id": "r_1i5mq3e", "demand": true, "problem": "reminder app for elderly parents", "who": "adult child of older parents", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Calendar"], "quote": "I’m searching for a free or affordable app (or software) that works with multiple iPhones", "flag": "none"}
+{"id": "r_193cr8r", "demand": false}
+{"id": "r_1b22wib", "demand": false}
+{"id": "r_1coslem", "demand": true, "problem": "secular online curriculum platform", "who": "homeschool parent", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Power Homeschool", "Miacademy"], "quote": "I’m looking for an alternative to Power Homeschool to supplement our learning.", "flag": "none"}
+{"id": "r_1d2y332", "demand": true, "problem": "reading game for french learners", "who": "adult learner", "product": "app", "pain": 1, "pay": "none", "tools": ["Jumpstart", "Pimsleur"], "quote": "What are the alternatives that you guys are using with your kids nowadays?", "flag": "none"}
+{"id": "r_1e6p0m6", "demand": false}
+{"id": "r_1e84mwm", "demand": false}
+{"id": "r_1eavjh3", "demand": false}
+{"id": "r_1eiknwu", "demand": false}
+{"id": "r_1qfponj", "demand": true, "problem": "phonics app without games", "who": "homeschool parent", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "is there an app that is ONLY this that isn’t too gamey?", "flag": "none"}
+{"id": "r_1d7a3ob", "demand": true, "problem": "flashcard app for addition and subtraction", "who": "parent", "product": "app", "pain": 2, "pay": "none", "tools": ["iPad"], "quote": "I am looking for an app for iPads where they have flashcards for addition and subtraction.", "flag": "none"}
+{"id": "r_1fehbbc", "demand": true, "problem": "multi-child language learning app", "who": "homeschool parent", "product": "app", "pain": 2, "pay": "none", "tools": ["Duolingo", "Babbel", "Rosetta Stone"], "quote": "I'm looking for an app like DuoLingo or Babble but with multiple kids the memberships aren't worth it.", "flag": "none"}
+{"id": "r_1klrq7b", "demand": true, "problem": "audiobook reader app without video", "who": "parent", "product": "app", "pain": 1, "pay": "none", "tools": ["YouTube"], "quote": "looking for an app that plays/reads audio books aloud", "flag": "none"}
+{"id": "r_1nauqmh", "demand": true, "problem": "spelling and grammar practice app", "who": "homeschool parent", "product": "app", "pain": 2, "pay": "none", "tools": ["Night Zookeeper", "Logic of English", "Duolingo"], "quote": "I’m looking for an app that will improve spelling and grammar without being another sit down lesson.", "flag": "none"}
+{"id": "r_191fgmk", "demand": false}
+{"id": "r_192wygx", "demand": true, "problem": "cheaper language app alternative", "who": "language learner", "product": "app", "pain": 2, "pay": "none", "tools": ["Bilinguapp"], "quote": "Is there a cheaper alternative to Bilinguapp?", "flag": "none"}
+{"id": "r_194bgvj", "demand": true, "problem": "flashcard app alternative to anki", "who": "language learner", "product": "app", "pain": 1, "pay": "none", "tools": ["Anki"], "quote": "Is there any alternative to anki?", "flag": "none"}
+{"id": "r_194rujc", "demand": false}
+{"id": "r_199ckbo", "demand": true, "problem": "language course app alternative to pimsleur", "who": "language learner", "product": "app", "pain": 2, "pay": "none", "tools": ["Pimsleur", "Mango", "Speakly"], "quote": "it’s too painfully boring to sit through the same lesson twice", "flag": "none"}
+{"id": "r_1acnkxt", "demand": false}
+{"id": "r_1ar1hcp", "demand": false}
+{"id": "r_1ardvl4", "demand": false}
+{"id": "r_1b21mx2", "demand": true, "problem": "language app payment alternative to lingq", "who": "language learner in india", "product": "app", "pain": 2, "pay": "none", "tools": ["LingQ", "PayPal"], "quote": "Do you know any other viable alternative to Lingq?", "flag": "none"}
+{"id": "r_1b8rgh4", "demand": false}
+{"id": "r_1bnf4lp", "demand": false}
+{"id": "r_1c7avzp", "demand": true, "problem": "subtitle tool alternative to language reactor", "who": "language learner", "product": "plugin/extension", "pain": 2, "pay": "implied", "tools": ["Language Reactor"], "quote": "However, the tool hasn't been working for the past week or so, and none of their developers are responsive on the forum.", "flag": "none"}
+{"id": "r_1cl9z38", "demand": true, "problem": "one-to-one tutoring with many teachers", "who": "language learner", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Baselang"], "quote": "The problem with Baselang is they only have two teachers from Spain right now.", "flag": "none"}
+{"id": "r_1cnwn70", "demand": false}
+{"id": "r_1d301qk", "demand": true, "problem": "language exchange app alternative to tandem", "who": "language learner", "product": "app", "pain": 2, "pay": "none", "tools": ["Tandem"], "quote": "now that there are too many advertisements and scammers there", "flag": "none"}
+{"id": "r_1dfmwvd", "demand": true, "problem": "mobile reading app for french", "who": "language learner", "product": "app", "pain": 1, "pay": "none", "tools": ["LingQ"], "quote": "What is the best alternative to Lingq on mobile?", "flag": "none"}
+{"id": "r_1dir3z1", "demand": false}
+{"id": "r_1l6621e", "demand": true, "problem": "multi-language simultaneous learning app", "who": "language learner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I wish there was an app like this", "flag": "none"}
+{"id": "r_1avslio", "demand": true, "problem": "yoruba audio translation app", "who": "partner of yoruba speaker", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that will translate yoruba audio into english?", "flag": "none"}
+{"id": "r_18yash3", "demand": true, "problem": "live teacher online classroom app", "who": "language learner", "product": "app", "pain": 2, "pay": "none", "tools": ["Busuu", "Duolingo", "Babbel", "italki", "Preply"], "quote": "so I'm looking for an app that has that online classroom feeling", "flag": "none"}
+{"id": "r_190vwo1", "demand": true, "problem": "offline translation app with examples", "who": "arabic speaker", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Translate", "Reverso"], "quote": "Google Translate is completely bad, also alot of words are no where to be found in it's database", "flag": "none"}
+{"id": "r_199uwqd", "demand": true, "problem": "speaking-first language learning app", "who": "language learner", "product": "app", "pain": 2, "pay": "none", "tools": ["Duolingo"], "quote": "I am desperately looking for an app or program that teaches speaking without focusing on the writing first.", "flag": "none"}
+{"id": "r_19dbkzb", "demand": true, "problem": "basic phrases app for many languages", "who": "geoguessr player", "product": "app", "pain": 1, "pay": "none", "tools": ["GeoGuessr"], "quote": "I was looking for an app that has basic phrases and alphabet for different languages compiled.", "flag": "none"}
+{"id": "r_1aitsq5", "demand": true, "problem": "lock screen vocabulary app", "who": "language learner", "product": "app", "pain": 1, "pay": "none", "tools": ["WordBit"], "quote": "I'm looking for an app that opens a card in my target language (Japanese) with a word or phrase every time I turn my phone on", "flag": "none"}
+{"id": "r_1b1fs7v", "demand": true, "problem": "passive listening language content app", "who": "language learner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I am looking for an app or podcast that can provide many hours of content for passive listening to further language learning.", "flag": "none"}
+{"id": "r_1b5a4xe", "demand": true, "problem": "flashcard app with automatic translation", "who": "language learner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Does anybody know of an app where you can", "flag": "none"}
+{"id": "r_1b8iw33", "demand": true, "problem": "auto subtitle extension for youtube", "who": "language learner", "product": "plugin/extension", "pain": 2, "pay": "none", "tools": ["Language Reactor"], "quote": "I am looking for an app or extension that can generate subtitles on the fly for YouTube.", "flag": "none"}
+{"id": "r_1bbrv3v", "demand": true, "problem": "audio flashcard app for french", "who": "language learner", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I’m looking for an app that creates audio flashcards to help me learn French", "flag": "none"}
+{"id": "r_1bc5lgs", "demand": true, "problem": "travel phrase app", "who": "traveler", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Translate"], "quote": "I'm looking for an app that I can specifically focus on a language for travel.", "flag": "none"}
+{"id": "r_1bcfg2e", "demand": true, "problem": "audio flashcard app with recording", "who": "language learner", "product": "app", "pain": 2, "pay": "none", "tools": ["Quizlet", "Quizizz"], "quote": "I’m looking for an app that creates audio flashcards to help me learn my target language(TA).", "flag": "none"}
+{"id": "r_1bcs03j", "demand": true, "problem": "vocabulary recognition app", "who": "language learner", "product": "app", "pain": 1, "pay": "none", "tools": ["Duolingo"], "quote": "I am looking for an app/tool for this, and wondering what the options are.", "flag": "none"}

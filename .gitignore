@@ -6,3 +6,5 @@ __pycache__/
 quellen/nachfrage/raw/
 quellen/nachfrage/batches/
 quellen/nachfrage/demand_compact.tsv
+quellen/nachfrage/demand_new.tsv
+quellen/nachfrage/cluster_list.tsv

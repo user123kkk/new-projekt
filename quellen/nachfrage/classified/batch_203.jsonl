@@ -1,0 +1,100 @@
+{"id": "r_1ff2nyl", "demand": true, "problem": "free calendar and to-do combo", "who": "college student", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I am looking for an app or website that has a built in calendar and to do list so that I can stay super organized", "flag": "none"}
+{"id": "r_1i4c97g", "demand": true, "problem": "gamified assignment motivation", "who": "college student", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "I find gamifying tasks to make getting through things easier so I'm looking for an app that can do that for assignments and projects", "flag": "none"}
+{"id": "r_1kj5v2f", "demand": true, "problem": "semester-by-semester degree planning", "who": "college student", "product": "web tool", "pain": 2, "pay": "none", "tools": ["degree audit"], "quote": "I just want somewhere I can plan out the rest of my degree and see it in a more clear way.", "flag": "none"}
+{"id": "r_1adhuo2", "demand": true, "problem": "lab paper and protocol organization", "who": "undergraduate research assistant", "product": "app", "pain": 1, "pay": "none", "tools": ["Excel", "Google Calendar"], "quote": "I want to stay as organized as possible b/c I think this will help with scheduling experiments and coordinating with the other undergrads.", "flag": "none"}
+{"id": "r_1ar2s44", "demand": false}
+{"id": "r_1c24fj8", "demand": false}
+{"id": "r_1enhvr7", "demand": true, "problem": "recorded presentations with free tool", "who": "graduate student", "product": "app", "pain": 1, "pay": "none", "tools": ["PowerPoint"], "quote": "is there a free alternative to PowerPoint that allows recording of your presentation to be viewed by tutors independently", "flag": "none"}
+{"id": "r_1fe3rj7", "demand": false}
+{"id": "r_1hyvl3l", "demand": true, "problem": "reference manager with text to speech", "who": "graduate student", "product": "app", "pain": 2, "pay": "none", "tools": ["Mendeley", "Natural Reader"], "quote": "Looking for an app that combines features of Mendeley and Natural Reader or another reference management software and high quality text to speech.", "flag": "none"}
+{"id": "r_1n0o7vl", "demand": true, "problem": "extracting notes from PDF papers", "who": "graduate student", "product": "app", "pain": 2, "pay": "none", "tools": ["ChatGPT", "Word"], "quote": "Is there an app that can help with this (i.e. do it for me?)?", "flag": "none"}
+{"id": "r_1ajk5an", "demand": true, "problem": "AI highlighting and TTS for papers", "who": "graduate student", "product": "app", "pain": 1, "pay": "none", "tools": ["Snipd", "Natural Reader", "Voice Dream", "Readwise", "Obsidian"], "quote": "Looking for an app that combines AI TTS and the ability to highlight stuff with a quick click.", "flag": "none"}
+{"id": "r_1nh6y1q", "demand": true, "problem": "lecture recording with synced notes", "who": "graduate student", "product": "app", "pain": 1, "pay": "none", "tools": ["Notability"], "quote": "I know of notability, but have heard there may be better apps out there.", "flag": "none"}
+{"id": "r_1928wm9", "demand": false}
+{"id": "r_193pnfe", "demand": false}
+{"id": "r_193w8id", "demand": true, "problem": "private online classroom game code", "who": "teacher in training", "product": "web tool", "pain": 1, "pay": "none", "tools": ["skribbl.io"], "quote": "Do you have any alternatives or maybe even completely different ideas?", "flag": "none"}
+{"id": "r_1c409fr", "demand": true, "problem": "photo filing by class folder", "who": "teacher", "product": "app", "pain": 2, "pay": "none", "tools": ["iPad"], "quote": "It takes so long to go back and organize.", "flag": "none"}
+{"id": "r_1afrph3", "demand": true, "problem": "iPad checklist and skill mastery tracking", "who": "teacher", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Track mastery/skill.", "flag": "none"}
+{"id": "r_1asfzss", "demand": true, "problem": "anonymous student sentence sharing", "who": "writing and grammar teacher", "product": "app", "pain": 1, "pay": "none", "tools": ["Socrative"], "quote": "preferably something that can be projected on the board.", "flag": "none"}
+{"id": "r_1bmss4w", "demand": true, "problem": "flashcard creation and printing", "who": "teacher", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "I would also like to be able to print them.", "flag": "none"}
+{"id": "r_1fkpdw5", "demand": true, "problem": "visual phonological awareness app", "who": "teacher of deaf student", "product": "app", "pain": 2, "pay": "none", "tools": ["Heggerty"], "quote": "I'd love an app with visuals and words for manipulating words similar to Heggerty.", "flag": "none"}
+{"id": "r_1gb80x7", "demand": true, "problem": "slide whiteboard with inline video and writing", "who": "teacher", "product": "app", "pain": 2, "pay": "none", "tools": ["Google Slides", "Classroom Screen", "GoodNotes", "Canva", "Keynote"], "quote": "Is there an app that will play a video from the site like Google Slides, allow me to write on it immediately, and without lag like Goodnotes?", "flag": "none"}
+{"id": "r_1imi1iq", "demand": true, "problem": "collaborative boards without student logins", "who": "online post-secondary teacher", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Padlet", "Jamboard"], "quote": "I'm looking for an app that does not require any logging in/making an account with my students.", "flag": "none"}
+{"id": "r_1klbo88", "demand": true, "problem": "noise level alert for classroom", "who": "special education teacher", "product": "app", "pain": 2, "pay": "none", "tools": ["iPad"], "quote": "Looking for an app or feature on an IPAD for use in a SPED room, that will flash something like Quieter Please or maybe red when a preset decibel level is hit.", "flag": "none"}
+{"id": "r_1t29a2i", "demand": false}
+{"id": "r_1c195yk", "demand": true, "problem": "payment platform alternative to PayPal", "who": "freelancer in Egypt", "product": "web tool", "pain": 2, "pay": "none", "tools": ["PayPal", "Payoneer"], "quote": "anybody here knows a better alternative to paypal with sites that support them?", "flag": "none"}
+{"id": "r_1f4ioqh", "demand": true, "problem": "subscription billing alternative to Stripe", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Stripe"], "quote": "Monthly subscription alternative to Stripe", "flag": "none"}
+{"id": "r_1g4vtgr", "demand": true, "problem": "free scheduling tool alternative to Calendly", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Calendly"], "quote": "Free alternative to calendly ?", "flag": "none"}
+{"id": "r_1go45sv", "demand": false}
+{"id": "r_1ickyt4", "demand": true, "problem": "alternative to MarkUp", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["MarkUp"], "quote": "Alternative to MarkUp", "flag": "none"}
+{"id": "r_1leicao", "demand": true, "problem": "client lead finding alternative to Google Alerts", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Google Alerts"], "quote": "Google Alerts alternative to find clients", "flag": "none"}
+{"id": "r_1ln9o0o", "demand": true, "problem": "freelancer payout alternative to Payoneer", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Payoneer", "Upwork"], "quote": "Need Alternative to Payoneer for Upwork", "flag": "none"}
+{"id": "r_1m9rs5y", "demand": true, "problem": "free funnel builder alternative", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["ClickFunnels", "GetResponse"], "quote": "best 100% free alternative to ClickFunnels or GetResponse?", "flag": "none"}
+{"id": "r_1mn296q", "demand": false}
+{"id": "r_1npqjso", "demand": true, "problem": "client feedback tool replacing emails and screenshots", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "Is there a better alternative to emails + screenshots?", "flag": "none"}
+{"id": "r_1qfcqf1", "demand": true, "problem": "freelance marketplace alternative to Upwork and Fiverr", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Contra", "Upwork", "Fiverr"], "quote": "Anyone tried Contra as an alternative to Upwork / Fiverr?", "flag": "none"}
+{"id": "r_1qhwp15", "demand": false}
+{"id": "r_1sdnc4j", "demand": true, "problem": "international payment receiving alternative to Payoneer", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Payoneer"], "quote": "best alternative to Payoneer for receiving payments from international clients?", "flag": "none"}
+{"id": "r_1u82q19", "demand": true, "problem": "free access to Claude models", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Claude", "Antigravity"], "quote": "Any free alternative to use Claude sonnet/opus other than Antigravity??", "flag": "none"}
+{"id": "r_1udeo7m", "demand": false}
+{"id": "r_1uskhl1", "demand": true, "problem": "automated retainer payments", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Stripe"], "quote": "Alternative to Stripe for automated monthly retainer payments?", "flag": "none"}
+{"id": "r_1v0zr2t", "demand": false}
+{"id": "r_1v9mj4b", "demand": true, "problem": "freelance marketplace alternative to Upwork", "who": "freelancer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Upwork"], "quote": "What is the he best alternative to upwork?", "flag": "none"}
+{"id": "r_1hfligg", "demand": true, "problem": "customizable client onboarding workflow", "who": "freelancer", "product": "app", "pain": 2, "pay": "none", "tools": [], "quote": "Looking for an app that lets me customize my client onboarding workflow", "flag": "none"}
+{"id": "r_1mbivw0", "demand": true, "problem": "US phone number with unlimited calls", "who": "freelancer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Looking for an app which provides a US dialing number with unlimited calls", "flag": "none"}
+{"id": "r_1s0ihcs", "demand": false}
+{"id": "r_1mlwt50", "demand": false}
+{"id": "r_1acccny", "demand": false}
+{"id": "r_18zivio", "demand": true, "problem": "job board alternative to Indeed and LinkedIn", "who": "designer job seeker", "product": "web tool", "pain": 1, "pay": "none", "tools": ["FlexJobs", "Indeed", "LinkedIn"], "quote": "I'm looking for an alternative to the now very sad Indeed and LinkedIn.", "flag": "none"}
+{"id": "r_194dzux", "demand": true, "problem": "desktop photo editor alternative to PhotoLeap", "who": "graphic designer", "product": "desktop software", "pain": 1, "pay": "explicit", "tools": ["PhotoLeap"], "quote": "Is there a good alternative to PhotoLeap that works on a PC or web browser?", "flag": "none"}
+{"id": "r_1956m7u", "demand": true, "problem": "free image editing alternative to Photoshop", "who": "small business owner", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Photoshop"], "quote": "So does anyone have a free of cheaper alternative?", "flag": "none"}
+{"id": "r_1aiu7sb", "demand": true, "problem": "affordable alternative to Adobe CC", "who": "freelance designer", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Affinity", "Adobe CC", "After Effects"], "quote": "Also is there an alternative to After Effects?", "flag": "none"}
+{"id": "r_1ajp63e", "demand": false}
+{"id": "r_1ao82ln", "demand": false}
+{"id": "r_1b1s08r", "demand": false}
+{"id": "r_1bnm7xf", "demand": false}
+{"id": "r_1br5ou6", "demand": false}
+{"id": "r_1bzxwa6", "demand": true, "problem": "simple file sync between Mac machines", "who": "designer", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Creative Cloud"], "quote": "Anyone have insight on a simple replacement for CC Synced Files?", "flag": "none"}
+{"id": "r_1c7yizy", "demand": false}
+{"id": "r_1eertz6", "demand": false}
+{"id": "r_1g55lax", "demand": false}
+{"id": "r_1hy1ore", "demand": false}
+{"id": "r_1jae01r", "demand": true, "problem": "AI-driven SVG editing from prompts", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Is there an app that takes my SVG and modifies the SVG with an AI via my user prompt?", "flag": "none"}
+{"id": "r_19169wl", "demand": true, "problem": "pattern drawing and PDF export for shirts", "who": "apparel designer", "product": "app", "pain": 1, "pay": "none", "tools": [], "quote": "Would love to be able to import photos, draw on the them, draw in general, and save as pdfs", "flag": "none"}
+{"id": "r_1c482vo", "demand": true, "problem": "batch background and clothing change for photos", "who": "funeral industry service sheet designer", "product": "app", "pain": 2, "pay": "none", "tools": ["Photoshop"], "quote": "I work in the funeral industry and have been changing backgrounds for the service sheet manually for years.", "flag": "images of living beings as core product"}
+{"id": "r_1d0nl1r", "demand": true, "problem": "free mobile graphic design for social posts", "who": "young writer", "product": "app", "pain": 1, "pay": "none", "tools": ["Canva"], "quote": "I don’t want to spend money on this.", "flag": "none"}
+{"id": "r_1f6y75p", "demand": true, "problem": "simple cityscape design app", "who": "unknown", "product": "app", "pain": 1, "pay": "none", "tools": ["Blender"], "quote": "i would prefer something simpler than blender or something but whatever works i guess.", "flag": "none"}
+{"id": "r_1fywp46", "demand": true, "problem": "image organizing by colour and theme", "who": "unknown", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": [], "quote": "but it allows the user to download pictures and organise them by colour, theme or #.", "flag": "none"}
+{"id": "r_1g5kw5o", "demand": true, "problem": "palette generation from brand colors", "who": "graphic designer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Affinity", "Adobe Illustrator"], "quote": "I'm looking for an app, either web or desktop, that can take my colors and generate a palette like this image?", "flag": "none"}
+{"id": "r_1g7eja3", "demand": true, "problem": "branded chart design from data", "who": "newsletter writer", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Google Sheets"], "quote": "Do you know any tools (or AI) that can take that data, give me 2-3 solid design options, and make it easy to throw my branding on?", "flag": "none"}
+{"id": "r_1h989px", "demand": true, "problem": "handwriting extraction into font", "who": "family member", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "I’m looking for an app or website that will analyze handwriting from old letters written by my grandpa", "flag": "none"}
+{"id": "r_1i1csyo", "demand": true, "problem": "automatic background removal and vectorizing", "who": "graphic designer", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Adobe Express", "Vector Magic"], "quote": "I'm looking for an app that can pick up an image, remove the background, and vectorize it without any manual intervention.", "flag": "none"}
+{"id": "r_1ap1w9t", "demand": false}
+{"id": "r_1arktn2", "demand": false}
+{"id": "r_1b8jkc4", "demand": false}
+{"id": "r_1bfkfb3", "demand": false}
+{"id": "r_1cb0d4c", "demand": true, "problem": "alternative to Webflow and Wix Studio", "who": "web designer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Webflow", "Wix Studio"], "quote": "Alternative to Webflow and Wix Studio", "flag": "none"}
+{"id": "r_1cgcvqx", "demand": true, "problem": "one-time purchase website builder for Mac", "who": "website owner", "product": "desktop software", "pain": 2, "pay": "implied", "tools": ["RapidWeaver"], "quote": "I don't want to be forced into a subscription service to do occasional updates on my websites.", "flag": "none"}
+{"id": "r_1dhi6yx", "demand": false}
+{"id": "r_1etqxs7", "demand": false}
+{"id": "r_1fiy7ad", "demand": true, "problem": "free resume viewer for website", "who": "web developer", "product": "plugin/extension", "pain": 1, "pay": "none", "tools": ["PSPDFKit"], "quote": "Need a free alternative to pspdfkit for viewing resumes on my website.", "flag": "none"}
+{"id": "r_1g74ytj", "demand": true, "problem": "client-friendly CMS alternative to WordPress", "who": "web design studio", "product": "web tool", "pain": 2, "pay": "none", "tools": ["WordPress"], "quote": "is there any alternative we can use that isn’t too complex for the end client?", "flag": "none"}
+{"id": "r_1gtfg0o", "demand": false}
+{"id": "r_1he9cfl", "demand": true, "problem": "visual editor with live HTML and CSS sync", "who": "designer and developer", "product": "desktop software", "pain": 1, "pay": "none", "tools": ["Figma", "Framer", "Webflow"], "quote": "Why haven't there been any general vector editors like Figma with live bidirectional HTML + CSS previews?", "flag": "none"}
+{"id": "r_1hmjm6c", "demand": true, "problem": "forum software for shared hosting", "who": "community founder", "product": "web tool", "pain": 1, "pay": "none", "tools": [], "quote": "The forum needed to operate well on a shared hosting (PHP) through, as I am running it through a shared hosting environment", "flag": "none"}
+{"id": "r_1i18k62", "demand": false}
+{"id": "r_1ig1wm5", "demand": false}
+{"id": "r_1k6gusl", "demand": true, "problem": "affordable code editor for personal website", "who": "personal website builder", "product": "desktop software", "pain": 2, "pay": "none", "tools": ["Dreamweaver", "Phoenix Code", "Pulsar", "NetBeans", "Coffeecup HTML Editor"], "quote": "Dreamweaver is just too expensive to use for casual use.", "flag": "none"}
+{"id": "r_1moagam", "demand": true, "problem": "AI design tools alternative to Figma", "who": "UI/UX designer", "product": "web tool", "pain": 1, "pay": "none", "tools": ["Figma"], "quote": "What are the AI tools do you use as a UI/UX designer?", "flag": "none"}
+{"id": "r_1rcdigy", "demand": true, "problem": "single app for day tracking with calendar and email", "who": "unknown", "product": "app", "pain": 2, "pay": "none", "tools": ["Gmail", "Google Calendar"], "quote": "I'm looking for an app that tracks my entire day and syncs with Gmail and Calendar.", "flag": "none"}
+{"id": "r_18vljwc", "demand": true, "problem": "stock data library for serverless frontend", "who": "web developer", "product": "other", "pain": 1, "pay": "none", "tools": ["yahoo-finance2"], "quote": "I thought yahoo-finance would work in a server route, however when I run the build command it fails because yf uses node specific libraries.", "flag": "none"}
+{"id": "r_191f7nf", "demand": false}
+{"id": "r_195r9d3", "demand": false}
+{"id": "r_197qeue", "demand": true, "problem": "email image hosting for Outlook", "who": "web developer", "product": "web tool", "pain": 2, "pay": "none", "tools": ["Outlook", "OneDrive"], "quote": "My problem is that I have nowhere to host the images.", "flag": "none"}
+{"id": "r_1988y5n", "demand": false}
+{"id": "r_199ruv6", "demand": false}
+{"id": "r_19bg456", "demand": false}
+{"id": "r_19c96u8", "demand": false}
+{"id": "r_19d9ra3", "demand": true, "problem": "component library for plain HTML", "who": "web developer", "product": "other", "pain": 1, "pay": "none", "tools": ["daisyUI"], "quote": "Can you recommend a component library that works on plain html?", "flag": "none"}
+{"id": "r_1acimcp", "demand": false}
+{"id": "r_1aclczb", "demand": false}
