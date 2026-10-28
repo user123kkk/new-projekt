@@ -126,7 +126,27 @@ Selection rules used:
 
 K7 is open for every candidate. It decides more than any other criterion ([[32-conversion-problem-or-traffic-problem]]) and depends on the owner (section 7).
 
-## 7. Next step: evidence before building (K8)
-1. Owner inputs (decide K7): language market, which group the owner can reach, skills, time and budget.
-2. For the chosen lead: collect 1-2 star app-store and OMR reviews of the incumbents and their prices (K8, [[05-study-what-works-particl]]).
+## 7. Owner inputs (2026-10-28)
+- Market: German-speaking (DACH).
+- Own access to a target group: none. Reach must come from content, search and small ads (K7).
+- Skills: the owner does not code; Claude builds, the owner tests.
+- Budget for the first test: up to 100 EUR.
+
+Consequence: P1 is the lead. It is German-market, has the most German evidence, and has a natural free entry point (a fee-list Excel template that people already search for and use, see the Excel quotes in NACHFRAGE 4.1). That fits [[35-make-them-feel-they-found-it]] and a 100 EUR budget. P2 stays second.
+
+## 8. Next step: evidence before building (K8)
+1. Done: owner inputs (section 7).
+2. For P1: collect 1-2 star app-store and OMR reviews of the incumbents and their prices (K8, [[05-study-what-works-particl]]).
 3. Test demand before code: a one-page offer with the one sentence, price and a sign-up, shown to the group through the reachable channel. Count sign-ups. No sign-ups, nothing gets built.
+
+### K8 result for P1 (2026-10-28)
+Source: [quellen/nachfrage/web/p1-vereinskasse.md](quellen/nachfrage/web/p1-vereinskasse.md). Quotes there were extracted through a summarising fetch tool; only PDF quotes are proven exact, the rest are marked.
+- Market: 628,992 registered Vereine in Germany (ZiviZ, March 2026); about 63% of civil-society organisations have 100 members or fewer.
+- Price for a 100-member club today: about 120-360 EUR per year (ClubDesk S 120 EUR/year, Vereinsguru S 14 EUR/month, easyVerein Small 19.38 EUR/month, campai 30 EUR/month).
+- **Main risk:** ClubDesk Free covers up to 50 members at 0 EUR, with SEPA and bank-file import. For the smallest clubs the job is already free.
+- Complaints are price for very small clubs, setup effort for volunteers, returned debits and fee billing, weak finance modules. Nobody asks for "who has not paid" on its own. This weakens P1 as a stand-alone product.
+- Workaround: Excel plus bank CSV plus VLOOKUP. The free-template space is held by a content site, not a tool.
+- Reachable channel with 100 EUR: search content (fee-list Excel template, "Mitgliedsbeitrag nicht gezahlt" reminder template) and answers in JuraForum Vereinsrecht.
+- Assessment: P1 survives only for clubs of roughly 50-100 members that find 120 EUR/year plus setup too much, at about 29-59 EUR/year. That price is an inference, not measured willingness to pay. K6 drops from medium to weak.
+
+Next: the same K8 check for P2, so the choice between P1 and P2 rests on the same kind of evidence.
