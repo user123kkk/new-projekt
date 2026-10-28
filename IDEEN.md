@@ -150,3 +150,32 @@ Source: [quellen/nachfrage/web/p1-vereinskasse.md](quellen/nachfrage/web/p1-vere
 - Assessment: P1 survives only for clubs of roughly 50-100 members that find 120 EUR/year plus setup too much, at about 29-59 EUR/year. That price is an inference, not measured willingness to pay. K6 drops from medium to weak.
 
 Next: the same K8 check for P2, so the choice between P1 and P2 rests on the same kind of evidence.
+
+### K8 result for P2 (2026-10-28)
+Source: [quellen/nachfrage/web/p2-fotobericht.md](quellen/nachfrage/web/p2-fotobericht.md). Apart from ZDH, Destatis, WKO and statute pages, quotes are fetch summaries or search snippets and are marked as such.
+- Market: 1,038,126 Handwerksrolle entries in Germany (ZDH, end of 2025); 56.6% of firms have under 5 people, roughly 300,000 firms (own arithmetic).
+- Incumbents are suites: Craftnote 14.90-49.90 EUR per user per month (customer report needs the 29.90 tier, annual lock-in, three months' notice), Hero about 59-69 EUR, ToolTime 79 EUR, PlanRadar 26 EUR for one user, Docu Tools from 54 EUR, CompanyCam 63 USD. Free: Onstruc (iOS, 24 ratings), Fieldwire Basic, Dalux Field Basic. None targets the Abnahme report for small German trade firms.
+- Complaints: price and weight for small firms, photo sync and speed, support, annual lock-in, PDF templates sold as extras. Nobody asks for "just photos to PDF" in those words (inference, as with P1).
+- Workaround: phone gallery, WhatsApp, free Word/Excel Abnahmeprotokoll templates (Streit uses its template as lead magnet).
+- Legal reason the job matters: dated Zustandsfeststellung under § 650g BGB; the Abnahme date starts the limitation period (§ 634a BGB, five years for a Bauwerk; VOB/B § 13 four years).
+- Price inference: free tier, then about 5-9 EUR per month or 49-79 EUR per year per company, cancellable monthly.
+- Main risk: WhatsApp is free and installed; a suite can add the feature. Customer photos need consent.
+
+### Decision: P2 is the lead (2026-10-28)
+| | P1 club fee tracker | P2 photo report |
+|---|---|---|
+| Direct free competitor for the core segment | yes, ClubDesk Free up to 50 members | no German Abnahme-focused one (Onstruc thin) |
+| Buyer | volunteer treasurer, club budget | business owner, business expense |
+| Price room vs incumbents | 29-59 EUR/year vs 120+ | 49-79 EUR/year vs 180-950+ per user |
+| Reason beyond comfort (K2) | annoyance, time | legal: § 650g BGB Zustandsfeststellung, start of warranty period |
+| Instant benefit (K5) | after Excel + bank import | first report on the first job |
+| GRUNDSATZ | pass | pass: photos of work and buildings only (rule 9, real need); no people in demo material; no music (rule 8) |
+
+P2 wins on K2, K6 and buyer. P1 stays as fallback. Both still lack direct evidence that people pay for the single job; only the test below can supply that.
+
+## 9. Demand test for P2 (before any code)
+1. **Free entry point:** a page with a free "Abnahmeprotokoll mit Fotodokumentation" template (PDF/Word), searchable in German. This is the channel with the best fit for no following and 100 EUR ([[35-make-them-feel-they-found-it]], [[14-sell-water-to-the-thirsty]]).
+2. **Offer on the same page:** one sentence, one price, one action ([[34-one-message-one-offer-one-action]]): "Fotos auf der Baustelle machen, fertiges Abnahmeprotokoll als PDF an den Kunden." Price shown honestly with monthly cancellation (rules 3, 4). Action: "Vormerken" with e-mail (no payment yet, stated plainly so nothing is concealed, rules 1, 6).
+3. **Traffic:** search content first (0 EUR); then up to 100 EUR in search ads on "Abnahmeprotokoll Vorlage" type terms.
+4. **Measure:** template downloads, sign-ups, sign-up rate per visitor. Decision threshold set before launch by the owner.
+5. **Required before publishing:** German Impressum and privacy notice (legal duty for a commercial page), a domain, hosting. These need the owner's real name and address.
