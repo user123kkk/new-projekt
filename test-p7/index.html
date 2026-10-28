@@ -28,6 +28,9 @@
   footer { padding:20px 0 40px; font-size:.95rem; }
   footer a { margin-right:16px; }
   a { color:var(--accent); }
+  .hp { position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden; }
+  form label.consent { display:flex; gap:10px; align-items:flex-start; font-weight:400; margin-bottom:12px; }
+  .consent input { margin-top:5px; width:20px; height:20px; flex:none; }
 </style>
 </head>
 <body>
@@ -83,10 +86,11 @@
 
 <section id="vormerken">
   <h2>Vormerken</h2>
-  <!-- TODO: Formular-Anbieter hier eintragen (action und method setzen). Bis dahin sendet das Formular nirgendwohin. -->
-  <form action="#" method="post">
+  <form action="/api/vormerken" method="post">
     <label for="mail">E-Mail-Adresse</label>
     <input id="mail" name="email" type="email" autocomplete="email" required>
+    <div class="hp" aria-hidden="true"><label for="website">Bitte leer lassen</label><input id="website" name="website" type="text" tabindex="-1" autocomplete="off"></div>
+    <label class="consent" for="consent"><input id="consent" name="consent" type="checkbox" required><span>Ich bin einverstanden, dass meine E-Mail-Adresse nur dafür genutzt wird, mich einmal beim Start zu informieren. Ich kann sie jederzeit per E-Mail an adrabic.de@gmail.com löschen lassen. Details in der <a href="datenschutz.html">Datenschutzerklärung</a>.</span></label>
     <button class="btn" type="submit">Vormerken</button>
   </form>
   <p class="small" style="margin-top:12px">Wir nutzen Ihre E-Mail-Adresse nur, um Sie beim Start zu informieren. Sie können sich jederzeit austragen. Mehr dazu in der Datenschutzerklärung.</p>
@@ -95,7 +99,7 @@
 </main>
 
 <footer>
-  <a href="impressum.html">Impressum</a><a href="#">[DATENSCHUTZ]</a>
+  <a href="impressum.html">Impressum</a><a href="datenschutz.html">Datenschutz</a>
 </footer>
 </body>
 </html>

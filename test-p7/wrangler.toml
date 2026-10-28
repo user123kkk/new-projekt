@@ -1,0 +1,17 @@
+# Cloudflare Pages configuration for test-p7.
+# Not deployed yet. The owner fills in the KV id below.
+
+name = "test-p7"
+compatibility_date = "2026-10-01"
+
+# Static files are served from this folder itself (no build step).
+pages_build_output_dir = "."
+
+# KV namespace for the sign-ups. The function reads it as env.VORMERKUNGEN.
+# 1. Create it in the Cloudflare dashboard (Storage & Databases > KV > Create),
+#    e.g. named "p7-vormerkungen".
+# 2. Paste its id below. Alternatively bind it in the Pages project settings
+#    (Settings > Bindings > KV namespace, variable name VORMERKUNGEN).
+[[kv_namespaces]]
+binding = "VORMERKUNGEN"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
