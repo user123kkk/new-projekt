@@ -352,3 +352,6 @@ Case-insensitive search over the "Visuals" lines of `bild.md` (lines naming only
 - storefront: `storefront`
 
 Keyword counts can over- or under-count (for example "glow" inside a description of an unrelated object). They show family and order of magnitude, not exact counts. The person list is not keyword-based: it was read cell by cell from the grep output of person, figure, head, silhouette, crowd, hand and handshake descriptions.
+
+## Owner decisions taken
+- **Colour and design (2026-10-28):** the owner does not require black. The source look (near-black, white, one dot; 36/37 videos) stays the base for clarity, but our videos get **one own accent colour** for the focus dot and key words, so they are recognisable as ours and do not copy the source creator's identity. Background: dark (near-black or dark blue-grey). Accent: one colour, used sparingly. Exact values are set in the first video and then kept for all.
