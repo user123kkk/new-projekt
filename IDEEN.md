@@ -179,3 +179,10 @@ P2 wins on K2, K6 and buyer. P1 stays as fallback. Both still lack direct eviden
 3. **Traffic:** search content first (0 EUR); then up to 100 EUR in search ads on "Abnahmeprotokoll Vorlage" type terms.
 4. **Measure:** template downloads, sign-ups, sign-up rate per visitor. Decision threshold set before launch by the owner.
 5. **Required before publishing:** German Impressum and privacy notice (legal duty for a commercial page), a domain, hosting. These need the owner's real name and address.
+
+## 10. Selection rule agreed with the owner (2026-10-28)
+The question is not "where is the gap" but **where people already spend money, and where faceless short videos get attention cheaply**. A crowded category is acceptable ([[04-there-is-no-winning-product]], K6) if both hold:
+1. Proven spending: people already pay for products in the category (subscriptions, one-time purchases).
+2. Cheap attention: the benefit can be shown in a few seconds with text, shapes, voice and screen recordings, without music and without people (GRUNDSATZ rules 8-10), so the videos themselves carry the reach (K7, [[35-make-them-feel-they-found-it]]).
+
+Owner decisions so far: calorie tracking excluded by the owner. Candidate under review: German reading for beginners (P5, research running).
