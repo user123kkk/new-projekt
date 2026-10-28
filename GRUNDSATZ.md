@@ -30,7 +30,7 @@ Each sentence of a station is rated on its own:
 
 ### Content
 8. **Music:** none in any own content, neither marketing nor app. Voice, sounds and silence are allowed.
-9. **Images of living beings:** default is none. Use shapes, text, icons and abstract graphics. Photos or video of living beings only where there is a real need. No drawings or animations of living beings.
+9. **Images of living beings:** default is none. Use shapes, text, icons and abstract graphics. Photos or video of living beings only where there is a real need. No drawings or animations of living beings. This includes faceless pictogram figures (stick figures, circle-head icons) — owner decision 2026-10-28. A character behind the brand exists only as voice and personality, never as a drawn or animated figure.
 10. **Women:** no depiction in marketing or the app.
 11. **Religious obligations** are not treated as a market gap.
 

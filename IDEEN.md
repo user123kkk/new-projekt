@@ -209,3 +209,10 @@ Chosen by the owner after comparing P5 and P7 ([p5](quellen/nachfrage/web/p5-deu
 Owner concern about P7: a job-application pass is a one-time purchase; a customer who gets the job does not come back. Revenue then needs a constant stream of new buyers (for 1,000 EUR/month about 100 new buyers every month at 9.90 EUR). A product people need again and again compounds instead (100 subscribers at 6.90 EUR bring the same amount every month, new ones add on top).
 **K9:** the group needs the product repeatedly (weekly or monthly), so revenue can recur without rule-3 problems (clear terms, easy cancellation).
 P7 fails K9. Idea choice is reopened after stations 38-51 are processed.
+
+## 13. Owner decisions (2026-10-28)
+- **Voice:** "Knurps" (ElevenLabs, saved under "Meine Stimmen") replaces Balduin for all future videos.
+- **Character:** the owner wants a character behind the idea. Per GRUNDSATZ rule 9 the character is voice, name, wording and personality only; no drawn, animated or pictogram figure. To be designed after the idea is chosen, so it fits the group.
+- **Contradictions, decided by Claude on the owner's request:**
+  - 41 vs 30: no conflict in practice; different scopes. The opening of a video decides whether it is watched (30, hook first). Inside an offer statement, state the limitation first and the benefit last, with full terms (41).
+  - 40 vs 14: content targets people who already know the problem (problem aware, solution aware, product aware). The "unaware" stage is used only to name a real, existing problem in plain words, never to invent a need (14, GRUNDSATZ rule 7).
