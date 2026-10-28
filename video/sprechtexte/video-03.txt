@@ -1,6 +1,12 @@
-Drei Fehler im Anschreiben, die du in einer Minute findest.
-Eins: der Firmenname. Wer Texte kopiert, lässt leicht den Namen der letzten Firma stehen.
-Zwei: Stelle und Ansprechperson. Passen sie zur Anzeige, Wort für Wort?
-Drei: Sätze, die bei jeder Firma passen würden. Streich sie oder mach sie konkreter.
+Drei Anschreiben-Fehler, in einer Minute gefunden.
+Eins: der Firmenname.
+Beim Kopieren bleibt leicht der alte Name.
+Die Firma bemerkt das sofort.
+Zwei: Stelle und Ansprechperson.
+Passen sie zur Anzeige, Wort für Wort?
+Drei: Sätze, die überall passen würden.
+Streich sie oder mach sie konkreter.
+Das dauert nur eine Minute.
 Danach erst senden.
-Wir bauen ein Tool, das aus Stellenanzeige und deinen Angaben ein passendes Anschreiben schreibt. Es ist noch nicht fertig. Wer es vormerken will: Link im Profil.
+Wir bauen ein Anschreiben-Tool. Noch nicht fertig.
+Vormerken ist kostenlos. Link im Profil.

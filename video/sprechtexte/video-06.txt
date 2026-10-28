@@ -1,7 +1,12 @@
-Gleicher Bewerber, zwei Sätze. Der zweite passt zur Anzeige.
-Die ausgedachte Anzeige verlangt Staplerschein und Schichtbereitschaft.
-Vorher: Hiermit bewerbe ich mich auf die ausgeschriebene Stelle.
-Dahinter stehen drei Angaben: Staplerschein, zwei Jahre Lager, Wechselschicht.
-Nachher: Seit zwei Jahren arbeite ich im Lager mit gültigem Staplerschein, im Wechselschichtsystem.
-Jeder Satz kommt aus etwas, das wirklich stimmt.
-Wir bauen ein Tool, das aus Stellenanzeige und deinen Angaben ein passendes Anschreiben schreibt. Es ist noch nicht fertig. Wer es vormerken will: Link im Profil.
+Gleicher Bewerber, zwei Sätze. Der zweite passt.
+Ausgedachte Anzeige: Staplerschein und Schichtbereitschaft.
+Vorher: Hiermit bewerbe ich mich
+auf die ausgeschriebene Stelle.
+Dahinter stehen drei Angaben:
+Staplerschein, zwei Jahre Lager, Wechselschicht.
+Nachher: Seit zwei Jahren arbeite ich
+im Lager mit gültigem Staplerschein, im Wechselschichtsystem.
+Jeder Satz kommt aus etwas, das stimmt.
+Das Beispiel ist ausgedacht.
+Wir bauen ein Anschreiben-Tool. Noch nicht fertig.
+Vormerken ist kostenlos. Link im Profil.

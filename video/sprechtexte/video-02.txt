@@ -1,6 +1,12 @@
-Dieser Satz steht in zu vielen Anschreiben: Hiermit bewerbe ich mich auf die ausgeschriebene Stelle.
-Das weiß die Firma schon. Der Satz belegt die erste Zeile und sagt nichts.
-Fang lieber mit dem an, was zur Anzeige passt: deine Erfahrung, dein Abschluss, dein Ergebnis.
-Streich Floskeln wie teamfähig und belastbar, wenn kein Beispiel dahintersteht.
+Dieser Satz steht in zu vielen Anschreiben.
+Er beginnt: Hiermit bewerbe ich mich
+auf die ausgeschriebene Stelle.
+Das weiß die Firma schon.
+Er füllt Zeile eins und sagt nichts.
+Beginn mit dem, was zur Anzeige passt.
+Deine Erfahrung, dein Abschluss, dein Ergebnis.
+Streich Floskeln wie teamfähig und belastbar.
+Wenn kein Beispiel dahintersteht.
 Kurze Sätze. Ein Gedanke pro Satz.
-Wir bauen ein Tool, das aus Stellenanzeige und deinen Angaben ein passendes Anschreiben schreibt. Es ist noch nicht fertig. Wer es vormerken will: Link im Profil.
+Wir bauen ein Anschreiben-Tool. Noch nicht fertig.
+Vormerken ist kostenlos. Link im Profil.

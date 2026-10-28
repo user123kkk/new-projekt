@@ -1,7 +1,12 @@
-Du weißt nicht, was ins Anschreiben gehört? Beantworte vier Fragen.
-Eins: Was verlangt die Anzeige? Such dir eine wichtige Anforderung.
-Zwei: Wo habe ich das schon gemacht? Ein konkretes Beispiel.
-Drei: Was kam dabei heraus? Wenn du es zählen kannst, nenn die Zahl, aber nur eine echte.
-Vier: Warum gerade diese Firma? Ein Grund reicht, der wirklich zu ihr passt.
+Was gehört ins Anschreiben? Vier Fragen genügen.
+Eins: Was verlangt die Anzeige?
+Such dir eine wichtige Anforderung.
+Zwei: Wo habe ich das schon gemacht?
+Nimm ein konkretes Beispiel.
+Drei: Was kam dabei heraus?
+Nenn die Zahl, aber nur eine echte.
+Vier: Warum gerade diese Firma?
+Ein Grund reicht, der wirklich passt.
 Vier Antworten sind schon vier Absätze.
-Wir bauen ein Tool, das aus Stellenanzeige und deinen Angaben ein passendes Anschreiben schreibt. Es ist noch nicht fertig. Wer es vormerken will: Link im Profil.
+Wir bauen ein Anschreiben-Tool. Noch nicht fertig.
+Vormerken ist kostenlos. Link im Profil.
