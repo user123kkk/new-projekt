@@ -1,6 +1,6 @@
 # Idea search
 
-Status: round 1 (2026-10-27). Basis: [[INDEX]], [GRUNDSATZ.md](GRUNDSATZ.md).
+Status: round 2 (2026-10-28), based on [NACHFRAGE.md](NACHFRAGE.md). Round 1 (2026-10-27) is kept below section 6. Basis: [[INDEX]], [GRUNDSATZ.md](GRUNDSATZ.md).
 
 ## 1. What the sources give and what they do not
 The 37 stations teach **how to sell**, not **what to build**. They contain no market data. Only a few stations say anything about choosing an idea. Those are turned into selection criteria below. Every idea therefore needs outside evidence of demand before anything is built.
@@ -66,3 +66,67 @@ A leads because of K7: there is an existing reach model in which the product is 
 - Language market: German, English or both.
 - Existing reach (accounts, network).
 - Budget.
+
+---
+
+## 6. Round 2: products derived from the demand search
+
+Round 1 had no market data. [NACHFRAGE.md](NACHFRAGE.md) now gives 2,437 demand posts in 132 clusters plus 264 web findings. The five strongest clusters there are broad fields, not products. Each is cut here to **one job** (K4), because every one of them fails K4 or K6 as a full suite.
+
+Selection rules used:
+- Paying users who are angry at an incumbent count more than hypothetical "I'd pay" (K1, Indie Hackers counter-evidence).
+- One job, one group, one sentence (K4, K3, [[34-one-message-one-offer-one-action]]).
+- The first result must come in minutes, from the user's own existing data (K5, [[29-sell-the-instant-benefit]]).
+- We do not try to beat a suite. We do the one job the suite does badly, at an honest price (K6, [[04-there-is-no-winning-product]]).
+- GRUNDSATZ is a design constraint, not a selling point (rule 11).
+
+### P1. Club fee tracker ("Vereinskasse") for small German clubs
+- **Job:** the treasurer imports the member Excel file and the bank statement (CSV). The tool shows who has paid the annual fee and who has not, and sends polite reminders.
+- **One sentence:** "See in one minute which members have not paid, and remind them."
+- **Evidence (NACHFRAGE 4.1):** price tripled at WISO MeinVerein; boards run everything in Excel ("Der bisherige VOrstand hat alles mit einem Exel Dokument gemacht"); reviewers name fee settings as hard; one forum asks for Excel import. The web evidence is German-only and from reachable sites only (bias).
+- **K5:** strong. Excel + bank CSV in, open list out. No migration of the whole club.
+- **K6:** the suites (easyVerein, ClubDesk, Vereinsplaner, WISO) do this inside many features. Edge: only this job, cheaper, nothing to learn.
+- **G:** reminders yes, no default interest or penalty fees (rule 2). No member photos (rules 9, 10). Clear price and cancellation (rule 3). Member data stays private (rule 6).
+- **Unknowns:** how many clubs pay per year (market size), and K7.
+
+### P2. Photo report for tradespeople
+- **Job:** on site, take before and after photos of the work. The app makes a dated PDF report with the company name and sends it to the customer.
+- **One sentence:** "Photos in, finished report to the customer out."
+- **Evidence (NACHFRAGE 4.5):** "Taking before-after photos and organizing them and sending them to the client takes up so much time." (score 57); cluster grew to 20 posts from 10 subreddits; German OMR reviews show price anger at Plancraft, Tooltime, Hero.
+- **K5:** strong. First report in the first job.
+- **K6:** CompanyCam does this in the US (named once). In German-speaking markets the suites bundle it. Edge: one job, low price.
+- **G:** photos show buildings and work, not people; the app must not encourage photographing people (rule 9: real need only). No music in any demo (rule 8).
+- **Unknowns:** whether tradespeople pay for a single-job app; K7.
+
+### P3. Receipt-to-entries for small-firm bookkeepers
+- **Job:** a bookkeeper's client photographs receipts; the tool turns them into rows for a spreadsheet or a QuickBooks/Xero import.
+- **Evidence (NACHFRAGE 4.14):** "Each month I spend literal DAYS organizing, scanning and inputting their expenses into a spreadsheet"; 12 of 25 posts already pay for a tool; r/Bookkeeping is one visible community.
+- **K6:** weak. Dext and Hubdoc do exactly this. Edge would be price only.
+- **Market:** US. Owner language and market fit unknown.
+
+### P4. Payment reminders for freelancers
+- **Job:** the freelancer adds open invoices; the tool sends polite, timed reminders until paid.
+- **Evidence (NACHFRAGE 4.2):** strongest pain (money lost), 4 posts at pain 3. But 0 of 20 posts pay implied, and the Indie Hackers title "Not one would pay to fix it" is direct counter-evidence for this exact field.
+- **K6:** every invoicing app has reminders. Weak.
+
+### Not carried forward
+- Booking for solo providers (NACHFRAGE 4.4): needs one trade chosen and competes with marketplaces (Booksy). Kept as a watch item.
+- Small landlords (4.3): Reddit evidence too thin after round 2.
+- Language learning, Shopify tools: see NACHFRAGE 4.15, 4.13.
+
+### Ranking
+| | Job (K4) | K1 | K2 | K3 | K5 | K6 | K7 | G |
+|---|---|---|---|---|---|---|---|---|
+| P1 Club fee tracker | yes | strong, web only | medium | yes | strong | medium (one job vs suites) | open | pass |
+| P2 Photo report | yes | medium | medium | yes | strong | medium | open | pass |
+| P3 Receipt-to-entries | yes | strong | medium | yes | strong | weak | medium (r/Bookkeeping) | pass |
+| P4 Payment reminders | yes | medium, counter-evidence | strong | split | medium | weak | open | pass |
+
+**Lead: P1, then P2.** Both are one job with an instant result from the user's own files, both target a group that already pays and complains about price, and both fit GRUNDSATZ without changes. P1 has the most independent sources. P3 has the best payment signal but a direct incumbent doing the same job. P4 is held back by the counter-evidence.
+
+K7 is open for every candidate. It decides more than any other criterion ([[32-conversion-problem-or-traffic-problem]]) and depends on the owner (section 7).
+
+## 7. Next step: evidence before building (K8)
+1. Owner inputs (decide K7): language market, which group the owner can reach, skills, time and budget.
+2. For the chosen lead: collect 1-2 star app-store and OMR reviews of the incumbents and their prices (K8, [[05-study-what-works-particl]]).
+3. Test demand before code: a one-page offer with the one sentence, price and a sign-up, shown to the group through the reachable channel. Count sign-ups. No sign-ups, nothing gets built.
