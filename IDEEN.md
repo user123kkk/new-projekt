@@ -188,3 +188,19 @@ The question is not "where is the gap" but **where people already spend money, a
 Owner decisions so far: calorie tracking excluded by the owner. Candidate under review: German reading for beginners (P5, research running).
 
 Owner note on P7 (2026-10-28): users may insert their own application photo; we draw or generate nothing. Open question for later, to be settled by the owner (not by us): whether offering a photo slot that women would use carries responsibility. Not required by law (photo is optional in DACH applications). Decide after the idea is chosen.
+
+## 11. Decision: P7 job application writing (2026-10-28)
+Chosen by the owner after comparing P5 and P7 ([p5](quellen/nachfrage/web/p5-deutsch-lesen.md), [p7](quellen/nachfrage/web/p7-bewerbung.md)). P2 and P1 are parked.
+
+**One job (K4):** paste a job ad and your facts, get a German Anschreiben and a matching Lebenslauf text for exactly this ad. Nothing is invented: every sentence comes from facts the user entered (rule 1).
+**One sentence:** "Stellenanzeige rein, passende Bewerbung raus. Einmal zahlen, kein Abo."
+**Group (K3):** German-speaking job seekers who apply in writing: job changers, graduates, apprentices, unemployed.
+**Edge (K6):** honest one-time price with no renewal (rule 3), against trial-to-subscription competitors; natural German instead of translated-sounding AI text.
+**Price proposal (owner to decide):** a pass for a fixed period, for example 30 days, one payment, no automatic renewal. Market reference: lebenslauf.de 16.99 EUR one month "Kein Abo", BewerbungGPT 7.99 EUR for five letters, Zety 23.70 EUR per 4 weeks after trial.
+**Main risk:** ChatGPT is free. Our answer must be visible in seconds: German quality, a finished layout, and no invented content.
+
+### Demand test (before any code)
+1. Sign-up page on adrabic.com (subdomain or path), German: the one sentence, the price, the honest note that the tool is not built yet, "Vormerken" with e-mail. Requires Impressum and privacy notice with the owner's real data before publishing.
+2. 10 faceless short videos (text, shapes, screen-style mockups, voice; no music, no people): job-ad-to-letter examples, common mistakes in Anschreiben, the subscription-trap warning (true and checkable, no naming and shaming beyond verifiable facts).
+3. Measure for 3 weeks: views, saves, comments, sign-ups. Threshold set by the owner before launch (proposal: 100 sign-ups).
+4. Threshold met: build a web app (Claude builds, owner tests), payment by card via Stripe (rule 14).
