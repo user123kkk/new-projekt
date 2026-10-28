@@ -16,6 +16,7 @@ Note: Rated conditional where 'perception over reality' is read as permission to
 - [[18-halo-effect]] – "your product is defined by perception, not reality"
 - [[20-branding-is-the-1p-model-perception]] – "The only P branding is about is perception."
 - [[31-best-product-with-bad-branding-loses]] – "It is the feeling that your overall presence creates."
+- [[46-selling-versus-storytelling]] – "It makes your brand something people care for, not just buy from."
 
 ## Related concepts
 - [[brand-consistency]]

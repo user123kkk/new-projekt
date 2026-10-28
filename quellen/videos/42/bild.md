@@ -1,0 +1,48 @@
+# 42 – visual capture
+## On-screen text (in order)
+- [1, 0 s] heading "selling the product / vs. / selling human desire" ("vs." on a teal tag); caption "a cutting board"
+- [2, 3 s] heading; caption "owned" (in quotation marks, italic); inside the clip a burned-in red-tag subtitle "OWNED IN MY LIFE"
+- [3, 6 s] heading; caption "this video"; inside the clip "You're eating plastic?!" with three face emojis
+- [4, 9 s] heading; no bottom caption; inside the clip "You're eating plastic?!"
+- [5, 12 s] heading; caption "in your families food" (quotation marks, italic); inside the clip "You're eating plastic?!"
+- [6, 15 s] heading; caption "to ourselves" (quotation marks, italic)
+- [7, 18 s] heading; caption "is selling"; inside the clip three tiny lines of text, [unclear]
+- [8, 21 s] heading; caption "(music playing)" (italic); inside the clip tiny lines, read as "Height", "Weight", "Size: Medium" with values [unclear]
+- [9, 24 s] heading; caption "While"
+- [10, 27 s] heading; caption "not good" (quotation marks, italic)
+- [11, 30 s] heading; caption "this is good" (quotation marks, italic)
+- [12, 33 s] heading; caption "that actually looks good" (quotation marks, italic)
+- [13, 36 s] heading only
+- [14, 39 s] "they"
+- [15, 42 s] "your product"
+- [16, 45 s] "sell" above a dotted vertical line, "product" below it, with a red strike-through over "pro" (animation mid-state)
+- [17, 48 s] TikTok logo and wordmark, empty search bar
+- [18, 51 s] end card: "TikTok", search field "@ profaura_"
+## Visuals
+- [1] Phone-format clip in a frame: wooden end-grain cutting boards of three sizes standing in a holder on a kitchen counter, no person.
+- [2] Same clip, camera has moved; kitchen with stove at the right.
+- [3] Second clip: a bearded man in a grey polo shirt and a cap, cutting a red plastic cutting board with a knife.
+- [4] Same man, bent over the board.
+- [5] Same man holding up a scrap of the board towards the camera, white flakes on the red board.
+- [6] Same man at a white board with a pink scrap and flakes.
+- [7] Third clip: a man in a white sleeveless shirt, lifting the shirt at the chest, abdomen visible.
+- [8] Same man standing in a white sleeveless shirt, tiny text at his left.
+- [9] Fourth clip: a curly-haired man in a white sleeveless shirt, sliding in from the right edge of the screen.
+- [10] Same man in full figure in a white sleeveless shirt, brown trousers, belt, tattoos, in a living room.
+- [11] Same man, close-up, hand on chest.
+- [12] Same man in half figure; two small inset photos of other men in white sleeveless shirts appear at the lower left and right.
+- [13] Black, heading only.
+- [14] Black, caption only.
+- [15] Black, caption only.
+- [16] Dotted line between two words; red line through "pro" of "product".
+- [17] Dark navy end card, logo only with empty search bar.
+- [18] End card with search field.
+## Other
+- Watermark "TikTok" logo with "@ profaura_" in cells 1-16. It sits left of the clip in cells 1-2, lower right in cells 3-16.
+- Cells 17-18 are an end card: TikTok logo, wordmark, search field "@ profaura_".
+- Creator handle on screen: "@ profaura_". The four embedded clips come from other creators; no handles or names visible.
+- People shown: four different men in cells 3-12 (one bearded man with cap, one man lifting his shirt, one man in a white tank top, one curly-haired tattooed man) and two small inset photos of men in cell 12. All real people on video.
+- Music: the clip in cell 8 carries the burned-in subtitle "(music playing)", so that clip has music. Beyond this, I cannot hear audio.
+- Caption convention: plain captions under the clip are the narrator; captions in quotation marks and italics are the speech of the embedded clips (cells 2, 5, 6, 10, 11, 12).
+- The view counts named in the audio (900, 29 million, 500, 7 million) are not shown on screen in any sampled cell.
+- Cell time = start of the 3-second slot; content matches audio about 1.5 s later (cell 10 "not good" appears at about 28.5 s; the transcript has it at 28.92 s).

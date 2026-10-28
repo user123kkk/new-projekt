@@ -18,6 +18,8 @@ Note: This page is an assessment aid, not a term from the sources. It includes 2
 - [[35-make-them-feel-they-found-it]] – "Make them feel like they found it."
 - [[36-confirmation-bias-say-what-people-already-think]] – "to easily manipulate your customers"
 - [[37-sell-the-problem-first]] – "This is how you will make people feel dumb saying no to your product."
+- [[43-the-enemy-effect-builds-loyalty]] – "every cult brand is using this trick to make customers loyal to them"
+- [[48-the-so-you-can-method]] – "make people feel dumb saying no to your product"
 
 ## Related concepts
 - [[priming]]

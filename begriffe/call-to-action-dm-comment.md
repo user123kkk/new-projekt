@@ -18,6 +18,7 @@ Note: The keyword 'attention' in these calls is not the concept attention.
 - [[25-emotional-content-is-remembered]] – "Comment the word attention if you want to learn how you make your content connect emotionally."
 - [[27-the-more-people-think-the-less-they-trust]] – "Comment the word attention to learn how to design for clarity."
 - [[30-content-fails-in-the-first-seconds]] – "Comment the word attention if you want to learn why content fails and why it works."
+- [[48-the-so-you-can-method]] – "drop the best one in the comments"
 
 ## Related concepts
 - [[free-trial]]

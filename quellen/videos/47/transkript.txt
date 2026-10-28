@@ -1,0 +1,6 @@
+[00:00.00 - 00:02.76] Psychology says that people don't read, they scan.
+[00:03.30 - 00:05.34] Most people read in the F and Z shape patterns.
+[00:05.76 - 00:09.58] Your eyes go from 1 to 2 to 3 to 4 and finally to 5.
+[00:10.02 - 00:13.06] The words in your text don't have to be spelled correctly to be understood.
+[00:13.64 - 00:15.98] Therefore, while building a website, make it scannable.
+[00:16.20 - 00:18.28] And while building an ad, make it scannable too.

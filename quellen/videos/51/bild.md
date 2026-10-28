@@ -1,0 +1,54 @@
+# 51 – visual capture
+Frames: 24 (one per 3 s, 0 s to 69 s). Format: landscape (frames 1024x576). Style: white outline icons on black, no photos. Person icons are faceless pictograms.
+## On-screen text (in order)
+- [1, 0 s] $49 (price pill on a product card)
+- [2, 3 s] (no text)
+- [3, 6 s] (no text)
+- [4, 9 s] (no text)
+- [5, 12 s] (no text)
+- [6, 15 s] (no text)
+- [7, 18 s] works | +5% (greyed, appearing) | 100% | 105% | $49 on both cards
+- [8, 21 s] $49
+- [9, 24 s] 12,480 / people already buy | $49
+- [10, 27 s] 12,480 / people already buy | $49
+- [11, 30 s] $49
+- [12, 33 s] $$$ | 7 days | $49
+- [13, 36 s] $$$ | 7 days | (one star out of five, sad face) | $49
+- [14, 39 s] 1 day (check mark) | +5% | you | $49 | the $$$ and one-star boxes greyed out
+- [15, 42 s] 1 day | +5% | you | $49
+- [16, 45 s] +5% | you | $49
+- [17, 48 s] +5% | you | $49
+- [18, 51 s] +5% | you | $49
+- [19, 54 s] +5% | you | $49 | two of five stars
+- [20, 57 s] +5% | you | $49 | five stars
+- [21, 60 s] new market | existing market | +5% | you | $49
+- [22, 63 s] +5% | you | $49
+- [23, 66 s] +5% | you | $49
+- [24, 69 s] (end card, no caption)
+## Visuals
+- [1] Product card: outline box icon, two text lines, price pill $49.
+- [2] 3 x 6 grid of person pictograms, each with a dashed speech bubble containing a small shop/stall icon.
+- [3] Same grid, dimmed to grey.
+- [4] Same grid, every bubble now holds a light bulb crossed by a diagonal line.
+- [5] Target-like circle with tick marks and a glowing centre dot.
+- [6] Dashed light bulb crossed by a solid diagonal line.
+- [7] Two product cards: left with a "works" tag at 100%, right a copy with a "+5%" tag at 105%.
+- [8] Shop card with striped awning, $49; a cloud of white dots drifts toward it.
+- [9-10] Same plus "12,480 people already buy". In [10] a dashed head-profile outline crossed by a diagonal line appears at the top (meaning inferred: no new invention; the shape is hard to read).
+- [11] Dots and shop card; five speech bubbles with "!" among the dots (complaints).
+- [12-13] Three boxes appear: price tag "$$$", truck "7 days", one star with a sad face.
+- [14-15] Box "1 day" with a check mark is highlighted; a second card "you" with "+5%" appears below the shop card (15 adds a check mark).
+- [16] Question mark in a dashed circle with a diagonal strike line at top.
+- [17] White dots become coin icons ($) flowing toward the lower card "you".
+- [18] Lower card dimmed with a dashed check mark.
+- [19] Magnifier over the "you" card; a dim shield with a check mark; two filled stars of five.
+- [20] Shield with check mark at full brightness; five filled stars under the "you" card.
+- [21] Large circle "existing market" containing both cards and the dots; a small dashed circle crossed out, labelled "new market", at its upper left.
+- [22-23] Both cards, shield, five stars, dots; dots drift toward "you".
+- [24] End card.
+## Other
+- Watermark "TikTok" logo with "@ cryothum": top-left in cells 1-2, bottom right in cells 3-23.
+- Cell 24 is an end card: TikTok logo, "TikTok" wordmark, search field "@ cryothum".
+- Numbers on screen ($49, +5%, 100%/105%, "12,480 people already buy", "7 days", "1 day") are not spoken in the audio.
+- Speech ends at 69.32 s. The transcript continues after that with garbled multilingual text up to 95.08 s timestamps; the video file is 73.43 s long, so those timestamps lie partly outside the file (see station).
+- Music: cannot be determined; I cannot hear audio.

@@ -17,6 +17,7 @@ Note: Claims, unverified.
 - [[23-the-customer-is-the-hero-of-the-story]] – "the story they see themselves in, is the one they remember"
 - [[25-emotional-content-is-remembered]] – "Logical content doesn't necessarily create memory."
 - [[34-one-message-one-offer-one-action]] – "If you want people to remember you, keep it simple."
+- [[41-say-the-negative-first]] – "people remember the last thing you say most"
 
 ## Related concepts
 - [[emotion-selling]]

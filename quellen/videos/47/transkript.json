@@ -1,0 +1,36 @@
+{
+ "sprache": "en",
+ "p": 0.9995383024215698,
+ "segmente": [
+  {
+   "start": 0.0,
+   "end": 2.7600000000000002,
+   "text": "Psychology says that people don't read, they scan."
+  },
+  {
+   "start": 3.3000000000000003,
+   "end": 5.34,
+   "text": "Most people read in the F and Z shape patterns."
+  },
+  {
+   "start": 5.76,
+   "end": 9.58,
+   "text": "Your eyes go from 1 to 2 to 3 to 4 and finally to 5."
+  },
+  {
+   "start": 10.02,
+   "end": 13.06,
+   "text": "The words in your text don't have to be spelled correctly to be understood."
+  },
+  {
+   "start": 13.64,
+   "end": 15.98,
+   "text": "Therefore, while building a website, make it scannable."
+  },
+  {
+   "start": 16.2,
+   "end": 18.28,
+   "text": "And while building an ad, make it scannable too."
+  }
+ ]
+}

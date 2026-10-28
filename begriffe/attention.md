@@ -14,6 +14,8 @@ Note: 24 and 30 differ on order (understanding first vs attention first). The co
 - [[07-marketing-and-branding-are-yin-and-yang]] – "marketing gets attention"
 - [[24-attention-comes-from-clarity-not-frequency]] – "It is gained because the brain understands immediately why it should care."
 - [[30-content-fails-in-the-first-seconds]] – "You gain attention first in order to build understanding later on."
+- [[39-people-scan-they-dont-read]] – "people don't read, they scan"
+- [[47-people-dont-read-they-scan]] – duplicate of 39 (same script, dark remake): "people don't read, they scan"
 
 ## Related concepts
 - [[clarity]]

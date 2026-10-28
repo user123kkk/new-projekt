@@ -1,0 +1,59 @@
+# 50 – visual capture
+Frames: 26 (one per 3 s, 0 s to 75 s). Format: landscape (frames 1024x576). Style: white outline icons and glow on black, no photos. Person icons are faceless pictograms (circle head, rounded body).
+## On-screen text (in order)
+- [1, 0 s] (no text)
+- [2, 3 s] HOW IS IT MADE? (with four "?" markers on a blueprint-style dollar coin)
+- [3, 6 s] THE GOAL / $159,400
+- [4, 9 s] $1,000,000
+- [5, 12 s] $0
+- [6, 15 s] (nearly black, faint outlines fading; no readable text)
+- [7, 18 s] PRICE | VALUE
+- [8, 21 s] (no text)
+- [9, 24 s] (no text; single short horizontal line)
+- [10, 27 s] A REASON
+- [11, 30 s] REASON
+- [12, 33 s] CONVENIENCE | TIME SAVED | CERTAINTY (the third label faded in, partly unreadable at this frame)
+- [13, 36 s] CONVENIENCE | TIME SAVED | PROBLEM SOLVED | CERTAINTY | REASON (centre); right side: $49 / SOLUTION
+- [14, 39 s] COMPLEX | SIMPLE
+- [15, 42 s] COMPLEX | SIMPLE | EFFORT 0% (both sides)
+- [16, 45 s] COMPLEX | SIMPLE | VALUE 0% (both sides)
+- [17, 48 s] OUTCOME | BUYER | COMPLEX VALUE 15% | SIMPLE VALUE 100%
+- [18, 51 s] HUMAN BEHAVIOR
+- [19, 54 s] (black, near empty)
+- [20, 57 s] WANTS | FRUSTRATIONS | YOU
+- [21, 60 s] WANTS | FRUSTRATIONS | WILLING TO PAY
+- [22, 63 s] WEALTH
+- [23, 66 s] (no text)
+- [24, 69 s] (no text)
+- [25, 72 s] YOU
+- [26, 75 s] (end card, no caption)
+## Visuals
+- [1] Person pictogram at left, glowing dollar coin at right, horizontal speed lines, dashed ground line (person chasing the coin).
+- [2] Blueprint-style outline dollar coin with dimension lines and "?" markers.
+- [3] Nine person pictograms in a row, dashed lines from each to the number $159,400.
+- [4] Iceberg outline above a wavy waterline with "$1,000,000" on the visible tip; dashed outline of the hidden part below water.
+- [5] Rounded rectangle (phone- or terminal-like) with a "$0" display at top and a button at the bottom.
+- [6] Fading version of [5] with lock-like and coin-like shapes.
+- [7] Balance scale: left pan with a dollar coin labelled PRICE, right pan with a gift box labelled VALUE; the beam tilts down on the VALUE side.
+- [8] Grey wireframe globe above round glasses.
+- [9] Single short horizontal line.
+- [10] Outline building with six lit windows, pill label "A REASON" above it with two glowing rings, a person pictogram on each side.
+- [11] Circle labelled REASON.
+- [12-13] REASON circle linked to icons: lightning bolt (CONVENIENCE), hourglass (TIME SAVED), key (PROBLEM SOLVED), padlock (CERTAINTY). In [13] a white block on a line with "$49" above and "SOLUTION" below at right.
+- [14] Three gears (COMPLEX) vs. a paper clip (SIMPLE).
+- [15-16] Same, with progress bars EFFORT and then VALUE at 0%.
+- [17] Gears with VALUE bar at 15%; paper clip glowing with VALUE bar at 100%, dashed line to a BUYER pictogram, three coins arcing to the buyer, label OUTCOME.
+- [18] About a dozen person pictograms, each with a dashed path to a small circle, inside corner brackets, label HUMAN BEHAVIOR.
+- [20] Two empty circles WANTS and FRUSTRATIONS, a person pictogram labelled YOU below.
+- [21] Three overlapping circles (Venn): WANTS, FRUSTRATIONS, WILLING TO PAY.
+- [22] The word WEALTH, glowing.
+- [23] Many wavy dashed lines with dots and coins flowing left to right; two empty outline squares appearing.
+- [24] Same flow, three outline squares stacked as a pyramid base.
+- [25] Flow lines funnel into a stack of four squares, the top one glowing with a star, labelled YOU.
+- [26] End card.
+## Other
+- Watermark "TikTok" logo with "@ cryothum": top-left in cells 1-2, bottom right in cells 3-25.
+- Cell 26 is an end card: TikTok logo, "TikTok" wordmark, search field "@ cryothum".
+- Numbers on screen ($159,400, $1,000,000, $0, $49, 15%, 100%) are never spoken in the audio.
+- Speech ends at 72.94 s; the transcript has an extra line 72.94 s to 91.06 s (longer than the 78.53 s file).
+- Music: cannot be determined; I cannot hear audio.

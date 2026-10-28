@@ -1,0 +1,61 @@
+{
+ "sprache": "en",
+ "p": 0.9994753003120422,
+ "segmente": [
+  {
+   "start": 0.0,
+   "end": 1.5,
+   "text": "Five words that kill your marketing."
+  },
+  {
+   "start": 2.0,
+   "end": 2.7600000000000002,
+   "text": "Don't say sign up."
+  },
+  {
+   "start": 2.88,
+   "end": 4.18,
+   "text": "Instead, say start now."
+  },
+  {
+   "start": 4.54,
+   "end": 5.38,
+   "text": "Don't say best."
+  },
+  {
+   "start": 5.84,
+   "end": 7.46,
+   "text": "Instead, say top rated."
+  },
+  {
+   "start": 8.040000000000001,
+   "end": 8.96,
+   "text": "Never say only here."
+  },
+  {
+   "start": 9.3,
+   "end": 10.44,
+   "text": "Instead, say exclusive."
+  },
+  {
+   "start": 11.200000000000001,
+   "end": 12.040000000000001,
+   "text": "Don't say sale."
+  },
+  {
+   "start": 12.42,
+   "end": 13.700000000000001,
+   "text": "Instead, say special offer."
+  },
+  {
+   "start": 14.3,
+   "end": 15.46,
+   "text": "And don't say must have."
+  },
+  {
+   "start": 15.780000000000001,
+   "end": 16.66,
+   "text": "Instead, use essential."
+  }
+ ]
+}

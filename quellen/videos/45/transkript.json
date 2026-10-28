@@ -1,0 +1,31 @@
+{
+ "sprache": "en",
+ "p": 0.9991368651390076,
+ "segmente": [
+  {
+   "start": 0.0,
+   "end": 2.74,
+   "text": "Would you rather buy this or would you rather buy this?"
+  },
+  {
+   "start": 9.94,
+   "end": 13.14,
+   "text": "Customers don't care about your product, they care about the outcome."
+  },
+  {
+   "start": 13.66,
+   "end": 17.34,
+   "text": "They're not buying a mattress, they're buying a good night's sleep and better mornings."
+  },
+  {
+   "start": 17.740000000000002,
+   "end": 20.86,
+   "text": "You're not selling your product, you're selling what your product makes possible."
+  },
+  {
+   "start": 21.44,
+   "end": 25.1,
+   "text": "Position your brand to sell the outcome, and you'll never have to sell the product again."
+  }
+ ]
+}

@@ -21,6 +21,9 @@ Note: Named without data; examples involving alcohol (26, 28) are not reusable.
 - [[19-sell-to-everyone-sell-to-no-one]] – "Samsung fans will never own an Apple product."
 - [[28-same-wine-different-price-experience]] – "Option 1 costs \$7 and you can buy it at Walmart."
 - [[34-one-message-one-offer-one-action]] – "Think about Apple."
+- [[43-the-enemy-effect-builds-loyalty]] – "Nike's enemy is laziness."
+- [[46-selling-versus-storytelling]] – "Nike doesn't just sell shoes."
+- [[49-five-words-to-swap-in-marketing]] – image only, not spoken: sign "BLOCKBUSTER" on a burning store
 
 ## Related concepts
 - [[product-vs-branding]]

@@ -17,6 +17,8 @@ Note: Contradicted by 16 (complexity for curiosity) and partly by 08.
 - [[24-attention-comes-from-clarity-not-frequency]] – "Clarity is what creates relevance."
 - [[27-the-more-people-think-the-less-they-trust]] – "This is why the clearest message always wins."
 - [[34-one-message-one-offer-one-action]] – "Because the more options, the more confusion."
+- [[39-people-scan-they-dont-read]] – "make it scannable"
+- [[47-people-dont-read-they-scan]] – duplicate of 39 (same script, dark remake): "Therefore, while building a website, make it scannable."
 
 ## Related concepts
 - [[certainty-over-risk]]

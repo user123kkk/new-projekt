@@ -14,6 +14,7 @@ Note: Distinct from pain-of-paying.
 - [[14-sell-water-to-the-thirsty]] – "go where the problem is already painful enough and where people need a solution for it"
 - [[21-people-want-to-stop-losing]] – "the pain of standing still is the most underused trigger in marketing"
 - [[37-sell-the-problem-first]] – "Make them really feel the pain."
+- [[43-the-enemy-effect-builds-loyalty]] – "Then, make it your enemy."
 
 ## Related concepts
 - [[problem-first-selling]]

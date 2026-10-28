@@ -16,6 +16,10 @@ Note: Conditional wherever emotions are produced by untrue content.
 - [[12-emotions-are-caught-sell-the-feeling-first]] – "sell the feeling first and the product second"
 - [[25-emotional-content-is-remembered]] – "If people don't feel something, they won't remember anything."
 - [[33-people-buy-the-product-they-like-best]] – "Make people like you best and that's when your product automatically becomes the best product for them."
+- [[42-sell-the-human-desire-behind-the-product]] – "people don't want the product"
+- [[45-sell-the-outcome-not-the-product]] – "they're buying a good night's sleep and better mornings"
+- [[46-selling-versus-storytelling]] – "Storytelling competes on meaning and emotion."
+- [[48-the-so-you-can-method]] – "a home alarm system so you can feel safe at night"
 
 ## Related concepts
 - [[emotion-then-logic]]

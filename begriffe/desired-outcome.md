@@ -14,6 +14,10 @@ Note: Station 29 (instant benefit) is kept under immediate-reward-bias because i
 - [[02-sell-the-after-not-the-what]] – "They want the better version of themselves."
 - [[11-you-sell-emotions-not-the-product]] – "The emotion of getting closer to the desired outcome."
 - [[33-people-buy-the-product-they-like-best]] – "People only care about your product if they understand the outcome."
+- [[42-sell-the-human-desire-behind-the-product]] – "Sell the human desire behind it."
+- [[45-sell-the-outcome-not-the-product]] – "they care about the outcome"
+- [[48-the-so-you-can-method]] – "you stop selling the product and start selling what your customer actually needs"
+- [[50-understand-why-money-moves]] – "how valuable the outcome is to the person paying for it"
 
 ## Related concepts
 - [[emotion-selling]]

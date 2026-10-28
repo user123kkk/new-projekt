@@ -1,0 +1,36 @@
+{
+ "sprache": "en",
+ "p": 0.9966380596160889,
+ "segmente": [
+  {
+   "start": 0.0,
+   "end": 3.96,
+   "text": "A marketing secret you must never ignore is that people don't read, they scan."
+  },
+  {
+   "start": 4.42,
+   "end": 6.86,
+   "text": "Most people read in the F and Z shaped patterns."
+  },
+  {
+   "start": 7.32,
+   "end": 11.1,
+   "text": "Your eyes go from 1 to 2 to 3 to 4 and finally to 5."
+  },
+  {
+   "start": 11.5,
+   "end": 14.6,
+   "text": "The words in your text don't have to be spelled correctly to be understood."
+  },
+  {
+   "start": 15.16,
+   "end": 17.46,
+   "text": "Therefore, while building a website, make it scannable."
+  },
+  {
+   "start": 17.76,
+   "end": 19.86,
+   "text": "And while making an ad, make it scannable too."
+  }
+ ]
+}

@@ -12,6 +12,7 @@ Kind: psychological mechanism
 - [[15-three-questions-every-customer-asks]] – "can I trust it"
 - [[19-sell-to-everyone-sell-to-no-one]] – "This will build trust and increase your sales."
 - [[27-the-more-people-think-the-less-they-trust]] – "The more people have to think, the less they trust you."
+- [[51-you-dont-need-to-invent-to-become-rich]] – "People still need to discover and trust your business."
 
 ## Related concepts
 - [[certainty-over-risk]]

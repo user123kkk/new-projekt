@@ -12,6 +12,7 @@ Note: Fabricated urgency or scarcity is excluded by GRUNDSATZ (ghish, najsh).
 
 ## Used in
 - [[11-you-sell-emotions-not-the-product]] – "so that they fear missing out"
+- [[38-framing-bundle-pricing-scarcity]] – "The fear of missing out motivates people to act fast."
 
 ## Related concepts
 - [[loss-aversion]]

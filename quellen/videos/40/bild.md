@@ -1,0 +1,50 @@
+# 40 – visual capture
+## On-screen text (in order)
+- [1, 0 s] "that makes you" (caption on white background)
+- [2, 3 s] "your audience"
+- [3, 6 s] "Eugence schwartz" (sic, lower-case s) under a photo
+- [4, 9 s] "Eugence schwartz"; list "Unaware", "Problem aw[are]" and two more lines still hidden behind sliding teal bars
+- [5, 12 s] "Eugence schwartz"; list "Unaware", "Problem aware", "Solution aware", "Product aware"; caption starting with a single letter "e"
+- [6, 15 s] "for example"
+- [7, 18 s] "unaware"; "you having a stomach / ache but not known"
+- [8, 21 s] "why" (caption above); YouTube logo "YouTube"; empty search bar
+- [9, 24 s] "in the video"
+- [10, 27 s] "so" (small caption) and "problem aware" (large)
+- [11, 30 s] "Google" (caption); Google logo; search bar "Search Google or type a URL"
+- [12, 33 s] "and in that video"
+- [13, 36 s] "solution aware" (small caption) and "solution aware" (large)
+- [14, 39 s] "gut health"; Google logo; search bar "Foods that improve gut healt" (cut off while typing)
+- [15, 42 s] "as you can see"; left column "Unaware", "Problem aware", "Solution aware", "Product aware" each with an arrow; right column: first search bar animating in, others empty
+- [16, 45 s] "of content"; right column search bars: "Why do i have a stomach ache?", "How can i imrpove gut health?", "Foods that improve gut health?", "Where to buy organic berries?"
+- [17, 48 s] "your audience is in" (black text on white background)
+- [18, 51 s] TikTok logo and wordmark only
+- [19, 54 s] end card: TikTok logo, "TikTok", search field "@ profaura_"
+## Visuals
+- [1] White background, two blurred light grey rectangular objects (top right and centre left), not identifiable [unclear].
+- [2] Black background, caption only.
+- [3] Black-and-white photo of a real man, seated in an office chair, smiling, shirt and patterned tie, hand at chin; name caption below, a short vertical line.
+- [4] Same photo; the four list lines are built by teal bars that slide away.
+- [5] Same photo and finished list; a horizontal line with a short vertical tick below the list.
+- [6] Black, caption only.
+- [7] Large "unaware" with a dotted teal vertical line down to the caption.
+- [8] YouTube logo (red play button) with a white pill-shaped search bar.
+- [9] White rectangle with a black play triangle (video placeholder).
+- [10] Large "problem aware" on black.
+- [11] Google logo (blue, red, yellow, green) with search bar.
+- [12] Blank white rectangle (video placeholder without play button).
+- [13] Large "solution aware".
+- [14] Google logo with search bar; text typed.
+- [15] Four-row table: stage names at left, arrows, white search pills at right.
+- [16] Same table with four filled search pills.
+- [17] White screen with black caption.
+- [18] Dark navy end card, logo only.
+- [19] End card with search field.
+## Other
+- Watermark "TikTok" logo with "@ profaura_" in cells 1-17. White on white in cells 1 and 17: barely legible.
+- Cells 18-19 are an end card: TikTok logo, wordmark, search field "@ profaura_".
+- Creator handle on screen: "@ profaura_".
+- People shown: one real person (photo of the man named "Eugence schwartz"). No other people.
+- Third-party brand logos: YouTube, Google, TikTok.
+- The last sentence of the audio ("so you can make content that converts them into paying clients", about 51-53 s) is spoken over cells 18-19 (end card): no on-screen text for it.
+- Music: cannot be judged (I cannot hear audio).
+- Cell time = start of the 3-second slot; content matches audio about 1.5 s later.
